@@ -53,11 +53,7 @@ body {
     display: inline;
     margin-right: 20px;
 }
-.result .word {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 80px;
-}
+
 .result button {
     background-color: transparent;
     color: #ae9cff;
@@ -85,4 +81,13 @@ body {
 .error {
     margin-top: 80px;
     text-align: center;
+}
+
+.xample {
+    display: block;
+    border-left: 2px solid #FF0000;
+}
+
+.french-sentence {
+    color: #90A7BF;
 }
