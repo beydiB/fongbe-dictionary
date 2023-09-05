@@ -66,5 +66,3 @@ fetch("fongbeA.json")
       }
     });
   });
-
-document.addEventListener(''); // You might want to specify an event here
