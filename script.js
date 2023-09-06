@@ -1,68 +1,83 @@
-// Define audioElement here at the top
+// Define audioElement and sound here at the top
 const audioElement = document.getElementById("sound");
 
-// Load the JSON data (assuming 'fongbe.json' is in the same directory)
-fetch("fongbeA.json")
-  .then((response) => response.json())
-  .then((data) => {
-    const result = document.getElementById("result");
-    const sound = document.getElementById("play");
-    const btn = document.getElementById("search-btn");
-    const input = document.getElementById("inp-word");
+// Function to play audio
+const playSound = () => {
+  console.log("clicked");
+  // audioElement.load(); // Reload the audio element
+  // audioElement.play(); // Play the audio
+};
 
-    const playSound = () => {
-      console.log('clicked');
-      audioElement.load(); // Reload the audio element
-      audioElement.play(); // Play the audio
-    };
+// Function to display word definitions and examples
+const displayWordInfo = (wordEntry) => {
+  let html = "";
 
-    // Function to handle the search
-    const handleSearch = () => {
-      const word = input.value.trim().toLowerCase();
+  wordEntry.definitions.forEach((element) => {
+    html += `<div class="word-meaning">`;
 
-      // Find the word entry in the data array
+    // Display the definition and audio button if available
+    html += `<h3>${element.definition}</h3>`;
+    if (element.audio) {
+      html += `<button id="play"><i class="fa-solid fa-volume-low"></i></button>`;
+    }
+
+    html += `</div>`;
+
+    // Display examples if available
+    if (element.examples) {
+      element.examples.forEach((example, i) => {
+        html += `<div class="word-example">
+          <p class="fongbe-sentence">${example}</p>
+          <p class="french-sentence">${element.examplesFR[i]}</p>
+        </div>`;
+      });
+    }
+  });
+
+  document.querySelector(".result").innerHTML = html;
+  console.log(html);
+};
+
+// Function to handle the search
+const handleSearch = () => {
+  const input = document.getElementById("inp-word");
+  const word = input.value.trim().toLowerCase();
+
+  // Load the JSON data (assuming 'fongbe.json' is in the same directory)
+  fetch("fongbeA.json")
+    .then((response) => response.json())
+    .then((data) => {
       const wordEntry = data[word];
       console.log(wordEntry);
 
       if (wordEntry) {
-        // If the word is found, display its definitions
-        const definitions = wordEntry.definitions[0].definition;
-        document.querySelector('h3').textContent = definitions;
-
-        const audioSource = wordEntry.definitions[0].audio;
-        if (audioSource) {
-          audioElement.src = 'assets/'+ audioSource;
-          document.querySelector('#play').style.display = 'inline'
-
-        } else{
-          document.querySelector('#play').style.display = 'none'
-        }
+        displayWordInfo(wordEntry);
       } else {
-        // If the word is not found, display a message
-        document.querySelector('h3').textContent = "Word not found in the dictionary.";
-      }
-
-      if (wordEntry.definitions[0].examples[0]) {
-        document.querySelector('.fongbe-sentence').textContent = wordEntry.definitions[0].examples[0];
-        document.querySelector('.french-sentence').textContent = wordEntry.definitions[0].examplesFR[0];
-        document.querySelector('.word-example').style.display = 'block'
-      }
-      else {
-        document.querySelector('.word-example').style.display = 'none'
+        document.querySelector("h3").textContent =
+          "Word not found in the dictionary.";
       }
 
       document.getElementById("result").style.display = "block";
-    };
-
-    // Event listener for the "Search" button click
-    btn.addEventListener("click", handleSearch);
-
-    sound.addEventListener("click", playSound);
-
-    // Event listener for the "Enter" key press in the input field
-    input.addEventListener("keypress", (event) => {
-      if (event.key === "Enter") {
-        handleSearch();
-      }
     });
-  });
+};
+
+// Event listener for the "Search" button click
+const btn = document.getElementById("search-btn");
+btn.addEventListener("click", handleSearch);
+
+// Event listener for the "Enter" key press in the input field
+const input = document.getElementById("inp-word");
+input.addEventListener("keypress", (event) => {
+  if (event.key === "Enter") {
+    handleSearch();
+  }
+});
+
+// Event listener for the "Play Sound" button click
+
+document.body.addEventListener("click", (event) => {
+  console.log(event.target)
+  if (event.target.id === "play") {
+    playSound();
+  }
+});

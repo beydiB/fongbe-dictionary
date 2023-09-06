@@ -601,7 +601,7 @@
   "achat": { "definitions": [{ "definition": "nùxíxɔ́", "examples": [] }] },
   "acheter": {
     "definitions": [
-      { "definition": "xɔ̀", "audio": "xɔ̀.mp3", "examples": ["Un jlo na xɔ kokwe."] , "examplesFR": ["Je vais acheter des bananes."]},
+      { "definition": "xɔ̀", "audio": "xɔ̀.mp3", "examples": ["Un jlo na xɔ kokwe.","Kpodo akwε enε ɔ kpo ɔ, e nɔ xɔ nuɖuɖu mitɔn kpo awu mitɔn lε kpo."] , "examplesFR": ["Je vais acheter des bananes.","Avec cet argent, il achète notre nourriture et nos habits ?"]},
       { "definition": "xɔ̀ nŭ", "examples": [] },
       { "definition": "xwlé axì", "examples": [] }
     ]
