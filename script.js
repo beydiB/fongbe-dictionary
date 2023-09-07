@@ -2,10 +2,10 @@
 const audioElement = document.getElementById("sound");
 
 // Function to play audio
-const playSound = () => {
-  console.log("clicked");
-  // audioElement.load(); // Reload the audio element
-  // audioElement.play(); // Play the audio
+const playSound = (audioSource) => {
+  audioElement.src = 'assets/' + audioSource;
+  audioElement.load(); // Reload the audio element
+  audioElement.play(); // Play the audio
 };
 
 // Function to display word definitions and examples
@@ -18,7 +18,7 @@ const displayWordInfo = (wordEntry) => {
     // Display the definition and audio button if available
     html += `<h3>${element.definition}</h3>`;
     if (element.audio) {
-      html += `<button id="play"><i class="fa-solid fa-volume-low"></i></button>`;
+      html += `<button><i id="play" data-audio=${element.audio} class="fa-solid fa-volume-low"></i></button>`;
     }
 
     html += `</div>`;
@@ -75,9 +75,9 @@ input.addEventListener("keypress", (event) => {
 
 // Event listener for the "Play Sound" button click
 
-document.body.addEventListener("click", (event) => {
-  console.log(event.target)
-  if (event.target.id === "play") {
-    playSound();
+document.body.addEventListener("click", (event) =>{
+  if(event.target.id === 'play') {
+    let audioSource = event.target.dataset.audio
+    playSound(audioSource)
   }
-});
+})

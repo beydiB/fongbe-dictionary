@@ -602,8 +602,8 @@
   "acheter": {
     "definitions": [
       { "definition": "xɔ̀", "audio": "xɔ̀.mp3", "examples": ["Un jlo na xɔ kokwe.","Kpodo akwε enε ɔ kpo ɔ, e nɔ xɔ nuɖuɖu mitɔn kpo awu mitɔn lε kpo."] , "examplesFR": ["Je vais acheter des bananes.","Avec cet argent, il achète notre nourriture et nos habits ?"]},
-      { "definition": "xɔ̀ nŭ", "examples": [] },
-      { "definition": "xwlé axì", "examples": [] }
+      { "definition": "xɔ̀ nŭ", "audio":"test.mp3", "examples": ["A xɔ nu kpεɖe à ?"], "examplesFR":["As-tu acheté un peu ?"] },
+      { "definition": "xwlé axì", "examples": ["Xwle axi"], "examplesFR":["Faire les courses au marché."] }
     ]
   },
   "acheter à crédit": {
