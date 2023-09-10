@@ -14317,5 +14317,3753 @@
   },
   "cynocéphale mâle": {
     "definitions": [{ "definition": "hàsú", "examples": [] }]
+  },
+  "dahoméen": {
+    "definitions": [{ "definition": "danxomεnù", "examples": [] }]
+  },
+  "dalle": { "definitions": [{ "definition": "kpè", "examples": [] }] },
+  "dalle construite": {
+    "definitions": [{ "definition": "kpe mimε", "examples": [] }]
+  },
+  "dame": { "definitions": [{ "definition": "nyɔ̀nú ɖaxó", "examples": [] }] },
+  "dame au teint clair": {
+    "definitions": [{ "definition": "navɔ̀", "examples": [] }]
+  },
+  "dame-jeanne": { "definitions": [{ "definition": "ajagò", "examples": [] }] },
+  "damer ‑ action de damer": {
+    "definitions": [{ "definition": "zìnzín", "examples": [] }]
+  },
+  "action de damer la route": {
+    "definitions": [{ "definition": "agbăsa zinzín", "examples": [] }]
+  },
+  "danger": {
+    "definitions": [
+      { "definition": "adàngbómε", "examples": [] },
+      { "definition": "awòvínú", "examples": [] },
+      { "definition": "nukúnmyá", "examples": [] },
+      { "definition": "nyladó", "examples": [] }
+    ]
+  },
+  "au danger": { "definitions": [{ "definition": "zo sonu", "examples": [] }] },
+  "au moment du danger": {
+    "definitions": [{ "definition": "nukúnmyá hwenu", "examples": [] }]
+  },
+  "au temps du danger": {
+    "definitions": [{ "definition": "nukún myáhwenu", "examples": [] }]
+  },
+  "danger de mort": {
+    "definitions": [{ "definition": "kúlí", "examples": [] }]
+  },
+  "être en danger": {
+    "definitions": [{ "definition": "adăn gbò mε", "examples": [] }]
+  },
+  "dangereux": { "definitions": [{ "definition": "nyanya", "examples": [] }] },
+  "être dangereux": {
+    "definitions": [{ "definition": "awòvínɔ̀", "examples": [] }]
+  },
+  "dans": {
+    "definitions": [
+      { "definition": "ɖŏ è mὲ", "examples": [] },
+      { "definition": "ɖŏ mὲ", "examples": [] },
+      { "definition": "nu", "examples": [] }
+    ]
+  },
+  "dans la tête": {
+    "definitions": [{ "definition": "ɖò ta mὲ", "examples": [] }]
+  },
+  "dans un bref délai": {
+    "definitions": [{ "definition": "malinmálín mὲ", "examples": [] }]
+  },
+  "postposition qui a le sens de \"dans\" (lieu et temps)": {
+    "definitions": [{ "definition": "gbè", "examples": [] }]
+  },
+  "danse": {
+    "definitions": [
+      { "definition": "wè", "examples": [] },
+      { "definition": "weɖuɖú", "examples": [] }
+    ]
+  },
+  "bondir et faire un pas de danse": {
+    "definitions": [{ "definition": "tlɔ́ gbò", "examples": [] }]
+  },
+  "danse à deux": {
+    "definitions": [{ "definition": "asádánnyídánnyí", "examples": [] }]
+  },
+  "danse à l'européenne": {
+    "definitions": [{ "definition": "asádánnyídánnyí", "examples": [] }]
+  },
+  "danse de joie du vainqueur": {
+    "definitions": [{ "definition": "ahwannɔwè", "examples": [] }]
+  },
+  "danse en l'honneur du fâ scandée avec les mains": {
+    "definitions": [{ "definition": "fákpέ", "examples": [] }]
+  },
+  "danse saccadée": {
+    "definitions": [{ "definition": "gbotlɔ́tlɔ́", "examples": [] }]
+  },
+  "danser": { "definitions": [{ "definition": "ɖŭ wè", "examples": [] }] },
+  "danser à l'européenne": {
+    "definitions": [{ "definition": "ɖŭ asádánnyídánnyí", "examples": [] }]
+  },
+  "danser de travers": {
+    "definitions": [{ "definition": "xò wè kpò", "examples": [] }]
+  },
+  "danser en parlant d'un grand personnage": {
+    "definitions": [{ "definition": "dŏ afɔ̀ hŭn mὲ", "examples": [] }]
+  },
+  "faire danser l'escargot (jeu des enfants)": {
+    "definitions": [
+      { "definition": "sέ akweté", "examples": [] },
+      { "definition": "ɖù gò", "examples": [] }
+    ]
+  },
+  "faire danser l'escargot sur le revers de la main": {
+    "definitions": [{ "definition": "ɖù gò", "examples": [] }]
+  },
+  "faire danser quelqu'un": {
+    "definitions": [{ "definition": "dŏ wè nú mε", "examples": [] }]
+  },
+  "qui ne sait pas danser": {
+    "definitions": [{ "definition": "gankúmɔ́nɔ̀", "examples": [] }]
+  },
+  "danseur": { "definitions": [{ "definition": "weɖutɔ́", "examples": [] }] },
+  "danxomɛ̀ ‑ le danxomɛ̀ sud": {
+    "definitions": [{ "definition": "xuligbó", "examples": [] }]
+  },
+  "dard ‑ dard d'abeille": {
+    "definitions": [{ "definition": "wìínsɛ́", "examples": [] }]
+  },
+  "dard de la guêpe": {
+    "definitions": [{ "definition": "gbɔ̀nvὲ sέ", "examples": [] }]
+  },
+  "dard de l'abeille": {
+    "definitions": [{ "definition": "wììn sέ", "examples": [] }]
+  },
+  "dard des insectes": {
+    "definitions": [{ "definition": "sέ", "examples": [] }]
+  },
+  "dartre": { "definitions": [{ "definition": "aklasú gùn", "examples": [] }] },
+  "date": { "definitions": [{ "definition": "hwenu", "examples": [] }] },
+  "date de l'alliance": {
+    "definitions": [{ "definition": "akɔjεgbè", "examples": [] }]
+  },
+  "de vieille date": {
+    "definitions": [{ "definition": "xwetítíxwegbàn", "examples": [] }]
+  },
+  "datte": { "definitions": [{ "definition": "sélí", "examples": [] }] },
+  "dattier": { "definitions": [{ "definition": "sélítín", "examples": [] }] },
+  "davantage": {
+    "definitions": [
+      { "definition": "kpéná", "examples": [] },
+      { "definition": "susu", "examples": [] }
+    ]
+  },
+  "faire davantage": {
+    "definitions": [{ "definition": "blŏ ayĭ ɖó", "examples": [] }]
+  },
+  "de": { "definitions": [{ "definition": "sín", "examples": [] }] },
+  "dé ‑ dé à jouer": {
+    "definitions": [{ "definition": "sí", "examples": [] }]
+  },
+  "débandade ‑ à la débandade": {
+    "definitions": [{ "definition": "kpitikpitì", "examples": [] }]
+  },
+  "débarbouiller ‑ se débarbouiller": {
+    "definitions": [{ "definition": "fún nukúnmε", "examples": [] }]
+  },
+  "se débarbouiller (rapidement à la manière des chats)": {
+    "definitions": [{ "definition": "fún nukúnmὲ", "examples": [] }]
+  },
+  "débarcadère": { "definitions": [{ "definition": "klinì", "examples": [] }] },
+  "débarqué": { "definitions": [{ "definition": "jὲ agε̆", "examples": [] }] },
+  "débarquement": {
+    "definitions": [{ "definition": "tejijε", "examples": [] }]
+  },
+  "débarquer": {
+    "definitions": [
+      { "definition": "jὲ tè", "examples": [] },
+      { "definition": "jὲ tè sín hŭn mὲ", "examples": [] }
+    ]
+  },
+  "débarquer de": {
+    "definitions": [{ "definition": "jὲ tè sín", "examples": [] }]
+  },
+  "débarquer des bagages": {
+    "definitions": [{ "definition": "ɖè agbàn sín hŭn mὲ", "examples": [] }]
+  },
+  "débarrassé ‑ être débarrassé": {
+    "definitions": [{ "definition": "jὲ tè", "examples": [] }]
+  },
+  "débarrasser": {
+    "definitions": [{ "definition": "ɖè sín", "examples": [] }]
+  },
+  "débarrasser la table": {
+    "definitions": [{ "definition": "kɔ́n távò", "examples": [] }]
+  },
+  "débarrasser quelqu'un de sa tâche": {
+    "definitions": [{ "definition": "ɖè hwὲn mε", "examples": [] }]
+  },
+  "débarrasser quelqu'un d'une gêne": {
+    "definitions": [{ "definition": "ɖeɖὲ", "examples": [] }]
+  },
+  "se débarrasser de": {
+    "definitions": [
+      { "definition": "sɔ́ ɖ'áyĭ", "examples": [] },
+      { "definition": "sɔ́ ɖŏ áyĭ", "examples": [] }
+    ]
+  },
+  "débattre ‑ débattre le prix": {
+    "definitions": [
+      { "definition": "ɖɔ́ àkwέ", "examples": [] },
+      { "definition": "ɖè axì", "examples": [] }
+    ]
+  },
+  "débattre le prix d'une chose": {
+    "definitions": [{ "definition": "ɖè axi nú nŭ", "examples": [] }]
+  },
+  "se débattre": {
+    "definitions": [
+      { "definition": "ɖŭ zìngbídì", "examples": [] },
+      { "definition": "xò sù", "examples": [] }
+    ]
+  },
+  "se débattre pour se défendre maladroitement": {
+    "definitions": [{ "definition": "xò tɔ̀", "examples": [] }]
+  },
+  "débauche": {
+    "definitions": [
+      { "definition": "agà", "examples": [] },
+      { "definition": "agalilὲ", "examples": [] }
+    ]
+  },
+  "débauchée": { "definitions": [{ "definition": "agalεtɔ́", "examples": [] }] },
+  "débit ‑ débit de boissons": {
+    "definitions": [{ "definition": "ahannuxɔsá", "examples": [] }]
+  },
+  "débitant ‑ débitant qui rogne sur la quantité": {
+    "definitions": [{ "definition": "tέkpátɔ́", "examples": [] }]
+  },
+  "débiter": { "definitions": [{ "definition": "cέ", "examples": [] }] },
+  "débiter des planches en partant d'un madrier": {
+    "definitions": [{ "definition": "zɛ̀ xwlɛ̀", "examples": [] }]
+  },
+  "débiter un tronc d'arbre en planche": {
+    "definitions": [{ "definition": "zὲ atín", "examples": [] }]
+  },
+  "débiteur": { "definitions": [{ "definition": "axɔ́ɖútɔ́", "examples": [] }] },
+  "déboité ‑ être déboité": {
+    "definitions": [{ "definition": "ɖɔ̀", "examples": [] }]
+  },
+  "déboîter ‑ se déboîter en parlant d'une articulation": {
+    "definitions": [{ "definition": "wŭ ɖɔ̀", "examples": [] }]
+  },
+  "débordant": { "definitions": [{ "definition": "gboò", "examples": [] }] },
+  "déborder": {
+    "definitions": [
+      { "definition": "ɖì sìn", "examples": [] },
+      { "definition": "flá", "examples": [] },
+      { "definition": "gbà wù", "examples": [] }
+    ]
+  },
+  "déboucher": { "definitions": [{ "definition": "hùn", "examples": [] }] },
+  "debout": {
+    "definitions": [
+      { "definition": "ginnaà", "examples": [] },
+      { "definition": "tè", "examples": [] }
+    ]
+  },
+  "debout en masse": {
+    "definitions": [{ "definition": "coò", "examples": [] }]
+  },
+  "être debout": { "definitions": [{ "definition": "ɖŏ tè", "examples": [] }] },
+  "ne plus pouvoir tenir debout": {
+    "definitions": [{ "definition": "fέn tέ", "examples": [] }]
+  },
+  "déboutonner": {
+    "definitions": [{ "definition": "ɖè gbŏ", "examples": [] }]
+  },
+  "débraillé": {
+    "definitions": [{ "definition": "yɛliyɛlì", "examples": [] }]
+  },
+  "débris": { "definitions": [{ "definition": "xwɛ̀", "examples": [] }] },
+  "débris de calebasse": {
+    "definitions": [{ "definition": "káxwέ", "examples": [] }]
+  },
+  "débris de métal qui se répandent quand on frappe le fer rouge": {
+    "definitions": [{ "definition": "ganmú", "examples": [] }]
+  },
+  "débris de métaux": {
+    "definitions": [{ "definition": "ayàmú", "examples": [] }]
+  },
+  "débris de poterie": {
+    "definitions": [{ "definition": "zɛ̀n xwɛ̀", "examples": [] }]
+  },
+  "débris fibreux": {
+    "definitions": [{ "definition": "lyăn", "examples": [] }]
+  },
+  "débrouiller ‑ se débrouiller": {
+    "definitions": [{ "definition": "xò jɔ̆bù", "examples": [] }]
+  },
+  "débrousser ‑ débrousser la forêt": {
+    "definitions": [{ "definition": "xò zùn", "examples": [] }]
+  },
+  "débrousser un champ pour pouvoir le labourer ensuite": {
+    "definitions": [{ "definition": "xò gbè", "examples": [] }]
+  },
+  "décadence": { "definitions": [{ "definition": "ayìjíjέ", "examples": [] }] },
+  "décapiter ‑ décapiter quelqu'un": {
+    "definitions": [{ "definition": "gbò ta nú mε", "examples": [] }]
+  },
+  "décapsuleur": {
+    "definitions": [{ "definition": "ahanhunnú", "examples": [] }]
+  },
+  "décédé": { "definitions": [{ "definition": "kúkú", "examples": [] }] },
+  "décembre": { "definitions": [{ "definition": "woòsùn", "examples": [] }] },
+  "décès": { "definitions": [{ "definition": "cyɔ́kúkú", "examples": [] }] },
+  "décharger ‑ décharger un fardeau": {
+    "definitions": [
+      { "definition": "zlɔ̆n", "examples": [] },
+      { "definition": "zlɔ̆n agbàn", "examples": [] }
+    ]
+  },
+  "décharger une arme": {
+    "definitions": [{ "definition": "dà", "examples": [] }]
+  },
+  "décharné": { "definitions": [{ "definition": "kácákácá", "examples": [] }] },
+  "déchausser": {
+    "definitions": [{ "definition": "ɖè afɔkpà", "examples": [] }]
+  },
+  "déchausser les griffes": {
+    "definitions": [{ "definition": "sún fὲn", "examples": [] }]
+  },
+  "déchausser quelqu'un": {
+    "definitions": [{ "definition": "ɖè afɔkpà nú mε", "examples": [] }]
+  },
+  "se déchausser": {
+    "definitions": [{ "definition": "ɖè afɔkpà", "examples": [] }]
+  },
+  "déchet ‑ déchets de palmistes": {
+    "definitions": [{ "definition": "dèlyán", "examples": [] }]
+  },
+  "déchiré": {
+    "definitions": [
+      { "definition": "kíjá", "examples": [] },
+      { "definition": "kíjákíjá", "examples": [] },
+      { "definition": "tíntlέn", "examples": [] },
+      { "definition": "tlέntlέn", "examples": [] }
+    ]
+  },
+  "déchirer": {
+    "definitions": [
+      { "definition": "kíjá", "examples": [] },
+      { "definition": "tlέn", "examples": [] },
+      { "definition": "vŭn", "examples": [] }
+    ]
+  },
+  "action de déchirer": {
+    "definitions": [
+      { "definition": "tíntlέn", "examples": [] },
+      { "definition": "tlέntlέn", "examples": [] }
+    ]
+  },
+  "déchirer (cuir, étoffe...)": {
+    "definitions": [{ "definition": "sùn", "examples": [] }]
+  },
+  "déchirer avec les dents": {
+    "definitions": [{ "definition": "trέn ɖù", "examples": [] }]
+  },
+  "se déchirer sous une pression trop forte": {
+    "definitions": [{ "definition": "là", "examples": [] }]
+  },
+  "décider ‑ décider de": {
+    "definitions": [{ "definition": "ɖɔ̀ gbò", "examples": [] }]
+  },
+  "décision": { "definitions": [{ "definition": "afɔtuntè", "examples": [] }] },
+  "déclarer": { "definitions": [{ "definition": "xwlé", "examples": [] }] },
+  "déclarer la guerre à quelqu'un": {
+    "definitions": [{ "definition": "tɔ́n ahwàn mε", "examples": [] }]
+  },
+  "déclarer ouvertement": {
+    "definitions": [{ "definition": "hùn mε nú mε", "examples": [] }]
+  },
+  "déclarer ouvertement une affaire": {
+    "definitions": [{ "definition": "hùn nú mὲ", "examples": [] }]
+  },
+  "déclencher ‑ déclencher quelque chose contre quelqu'un": {
+    "definitions": [{ "definition": "fέ nùɖé dŏ mε", "examples": [] }]
+  },
+  "se déclencher (sans rien prendre)": {
+    "definitions": [{ "definition": "fέ", "examples": [] }]
+  },
+  "se déclencher et manquer le but": {
+    "definitions": [{ "definition": "fέ gblă", "examples": [] }]
+  },
+  "décliner ‑ action de décliner les titres de gloire de quelqu'un": {
+    "definitions": [{ "definition": "mεmímlán", "examples": [] }]
+  },
+  "déclouer": {
+    "definitions": [{ "definition": "ɖè hùnjέn sín", "examples": [] }]
+  },
+  "décoction ‑ décoction de feuilles avec laquelle on lave le malade la nuit": {
+    "definitions": [{ "definition": "kúɖyɔ́másín", "examples": [] }]
+  },
+  "décoloration ‑ décoloration de la peau": {
+    "definitions": [{ "definition": "gùn", "examples": [] }]
+  },
+  "décoloré": { "definitions": [{ "definition": "gɔ̀", "examples": [] }] },
+  "décomposé": { "definitions": [{ "definition": "húhwέ", "examples": [] }] },
+  "décomposer ‑ se décomposer (en parlant d'un cadavre)": {
+    "definitions": [{ "definition": "kɔ̀n xú", "examples": [] }]
+  },
+  "décomposition ‑ être en décomposition totale": {
+    "definitions": [{ "definition": "hùn fó", "examples": [] }]
+  },
+  "déconcerté": { "definitions": [{ "definition": "jĭ wŭ", "examples": [] }] },
+  "déconsidérer ‑ déconsidérer quelqu'un": {
+    "definitions": [{ "definition": "ɖè mε kpò", "examples": [] }]
+  },
+  "déconvenue ‑ traduit une certaine déconvenue": {
+    "definitions": [{ "definition": "nya !", "examples": [] }]
+  },
+  "décor": { "definitions": [{ "definition": "vivanú", "examples": [] }] },
+  "décoration": { "definitions": [{ "definition": "vivanú", "examples": [] }] },
+  "décorer": { "definitions": [{ "definition": "bà àcɔ nú", "examples": [] }] },
+  "décorer un local": {
+    "definitions": [{ "definition": "và", "examples": [] }]
+  },
+  "décorer un monument": {
+    "definitions": [{ "definition": "và", "examples": [] }]
+  },
+  "décortiquer": {
+    "definitions": [
+      { "definition": "cέ", "examples": [] },
+      { "definition": "ɖè fló ná", "examples": [] },
+      { "definition": "glĭn", "examples": [] }
+    ]
+  },
+  "décortiquer de l'arachide": {
+    "definitions": [{ "definition": "tɔ́n aziín", "examples": [] }]
+  },
+  "décortiquer des graines de citrouille": {
+    "definitions": [{ "definition": "cέ gùsí", "examples": [] }]
+  },
+  "décortiquer du café": {
+    "definitions": [{ "definition": "glĭn kafέ", "examples": [] }]
+  },
+  "décortiquer l'arachide": {
+    "definitions": [{ "definition": "flé aziín", "examples": [] }]
+  },
+  "décortiquer les arachides": {
+    "definitions": [{ "definition": "cέ aziín", "examples": [] }]
+  },
+  "décortiquer les arachides en laissant les coques mélangées aux graines quand on ne les sème pas tout de suite.": {
+    "definitions": [{ "definition": "cέ aziín", "examples": [] }]
+  },
+  "décortiquer les graines de gùsi": {
+    "definitions": [{ "definition": "cέ gùsí", "examples": [] }]
+  },
+  "découper": { "definitions": [{ "definition": "jă", "examples": [] }] },
+  "découper dans l'orange la petite calotte qui permettra de la sucer": {
+    "definitions": [{ "definition": "lă yovózε̆n", "examples": [] }]
+  },
+  "découper la pâte en petits morceaux et la mélanger à la sauce pour la réchauffer avant de la manger": {
+    "definitions": [{ "definition": "flé wɔ̆ ɖù", "examples": [] }]
+  },
+  "découragement": {
+    "definitions": [{ "definition": "awakanmεkú", "examples": [] }]
+  },
+  "décourager": {
+    "definitions": [
+      { "definition": "gbɔ̀jɔ́ kàn mὲ nú mε", "examples": [] },
+      { "definition": "gblĕ xomὲ", "examples": [] },
+      { "definition": "jìjɔ́", "examples": [] },
+      { "definition": "jùjɔ́", "examples": [] }
+    ]
+  },
+  "décourager quelqu'un": {
+    "definitions": [
+      { "definition": "dŏ kpò awakanmὲ nú mε", "examples": [] },
+      { "definition": "kú awà kàn mὲ nú mε", "examples": [] }
+    ]
+  },
+  "découvert ‑ à découvert": {
+    "definitions": [
+      { "definition": "godé", "examples": [] },
+      { "definition": "jὲ", "examples": [] },
+      { "definition": "kololò", "examples": [] },
+      { "definition": "wĕxò", "examples": [] }
+    ]
+  },
+  "endroit à découvert": {
+    "definitions": [{ "definition": "wènú", "examples": [] }]
+  },
+  "être à découvert": {
+    "definitions": [{ "definition": "wĕ", "examples": [] }]
+  },
+  "découvrir": {
+    "definitions": [
+      { "definition": "kɔ́n", "examples": [] },
+      { "definition": "mɔ̀", "examples": [] },
+      { "definition": "sù", "examples": [] },
+      { "definition": "xwlé", "examples": [] }
+    ]
+  },
+  "découvrir le secret des revenants": {
+    "definitions": [{ "definition": "mɔ̀ awò", "examples": [] }]
+  },
+  "découvrir le sens de quelque chose": {
+    "definitions": [{ "definition": "fὲ sɔ́", "examples": [] }]
+  },
+  "découvrir un secret": {
+    "definitions": [{ "definition": "wɔ̆", "examples": [] }]
+  },
+  "se découvrir un peu": {
+    "definitions": [{ "definition": "klé", "examples": [] }]
+  },
+  "décret": { "definitions": [{ "definition": "sέn", "examples": [] }] },
+  "décréter": { "definitions": [{ "definition": "dŏ sέn", "examples": [] }] },
+  "décrire": {
+    "definitions": [{ "definition": "jlε̆ nŭ nú mε", "examples": [] }]
+  },
+  "dédaigner": {
+    "definitions": [
+      { "definition": "ɖè kɔ̀ dŏ", "examples": [] },
+      { "definition": "gbε̆ wăn nú mε", "examples": [] }
+    ]
+  },
+  "dédaigner quelqu'un": {
+    "definitions": [{ "definition": "dŏ vε̆ nú mε", "examples": [] }]
+  },
+  "dédain": { "definitions": [{ "definition": "wàngbìgbɛ́", "examples": [] }] },
+  "marquer le dédain envers quelqu'un en faisant \"kùn »": {
+    "definitions": [{ "definition": "xwè kùn dŏ mɛ", "examples": [] }]
+  },
+  "dedans": { "definitions": [{ "definition": "mὲ", "examples": [] }] },
+  "dédire ‑ se dédire": {
+    "definitions": [{ "definition": "ɖyɔ̆ xó", "examples": [] }]
+  },
+  "dédoubler ‑ se dédoubler pour aller à la \"chasse\" aux humains": {
+    "definitions": [{ "definition": "yì zăn jĭ", "examples": [] }]
+  },
+  "défaillir": { "definitions": [{ "definition": "gbɔ̀jɔ́", "examples": [] }] },
+  "défaire": { "definitions": [{ "definition": "tún", "examples": [] }] },
+  "défaite": {
+    "definitions": [{ "definition": "ahwangbígblé", "examples": [] }]
+  },
+  "défaut": {
+    "definitions": [
+      { "definition": "jijɔ nyanya", "examples": [] },
+      { "definition": "jujɔ nyanya", "examples": [] },
+      { "definition": "sún blĭkì", "examples": [] }
+    ]
+  },
+  "défaut de la denture": {
+    "definitions": [{ "definition": "aɖùkplέkέsέ", "examples": [] }]
+  },
+  "faire défaut": {
+    "definitions": [
+      { "definition": "hăn", "examples": [] },
+      { "definition": "hù dŏ mε", "examples": [] }
+    ]
+  },
+  "défaveur": { "definitions": [{ "definition": "afɔkú", "examples": [] }] },
+  "défendre": { "definitions": [{ "definition": "kɔ́", "examples": [] }] },
+  "défendre quelqu'un": {
+    "definitions": [{ "definition": "jὲ ahwàn mε jĭ", "examples": [] }]
+  },
+  "défense": {
+    "definitions": [
+      { "definition": "gbìgbέ", "examples": [] },
+      { "definition": "kíkɔ́", "examples": [] },
+      { "definition": "nùgbìgbέ", "examples": [] }
+    ]
+  },
+  "défense d'éléphant": {
+    "definitions": [
+      { "definition": "aɖŭ", "examples": [] },
+      { "definition": "ajinakúɖɔ́", "examples": [] }
+    ]
+  },
+  "défenseur": {
+    "definitions": [{ "definition": "ahwanjεmεjitɔ́", "examples": [] }]
+  },
+  "déféquer ‑ aller à la selle": {
+    "definitions": [
+      { "definition": "ɖŏ afɔ̀ ayĭ", "examples": [] },
+      { "definition": "ɖŏ afɔ̀ jĭ", "examples": [] },
+      { "definition": "jὲ adà", "examples": [] },
+      { "definition": "nyὲ mĭ", "examples": [] },
+      { "definition": "xwè adà", "examples": [] },
+      { "definition": "yì adà", "examples": [] },
+      { "definition": "yì afɔ̀ jĭ", "examples": [] },
+      { "definition": "yì dò nu", "examples": [] },
+      { "definition": "yì nŭ gŭdò", "examples": [] }
+    ]
+  },
+  "défier ‑ défier de dire ou de deviner quelque chose": {
+    "definitions": [{ "definition": "kpà dŏ", "examples": [] }]
+  },
+  "se défier": {
+    "definitions": [{ "definition": "kpà àyì dŏ", "examples": [] }]
+  },
+  "définitivement": { "definitions": [{ "definition": "bĭ", "examples": [] }] },
+  "défoncer": { "definitions": [{ "definition": "fó", "examples": [] }] },
+  "qui défonce une maison pour y entrer": {
+    "definitions": [{ "definition": "xwéfótɔ", "examples": [] }]
+  },
+  "déformer": { "definitions": [{ "definition": "gbàndán", "examples": [] }] },
+  "défraîchi": { "definitions": [{ "definition": "gɔ̀", "examples": [] }] },
+  "défricher ‑ défricher une forêt": {
+    "definitions": [{ "definition": "xò zùn", "examples": [] }]
+  },
+  "défunt": {
+    "definitions": [
+      { "definition": "kúlítɔ́", "examples": [] },
+      { "definition": "kúlútɔ́", "examples": [] },
+      { "definition": "kútítɔ́", "examples": [] },
+      { "definition": "kúvítɔ́", "examples": [] },
+      { "definition": "matííntɔ́", "examples": [] }
+    ]
+  },
+  "dégager": {
+    "definitions": [
+      { "definition": "lùn", "examples": [] },
+      { "definition": "tún kàn", "examples": [] },
+      { "definition": "ɖeɖὲ", "examples": [] }
+    ]
+  },
+  "qui dégage une bonne odeur": {
+    "definitions": [{ "definition": "hunhwέn", "examples": [] }]
+  },
+  "se dégager de tout emprise": {
+    "definitions": [{ "definition": "glŏ nŭ", "examples": [] }]
+  },
+  "se dégager d'une obligation": {
+    "definitions": [{ "definition": "tún kàn", "examples": [] }]
+  },
+  "dégager de la chaleur": {
+    "definitions": [{ "definition": "găn yŏzò", "examples": [] }]
+  },
+  "dégager de la vapeur": {
+    "definitions": [{ "definition": "tún azɔ̀", "examples": [] }]
+  },
+  "dégager une odeur": {
+    "definitions": [{ "definition": "hwε̆n kpɔ́n", "examples": [] }]
+  },
+  "dégénéré": { "definitions": [{ "definition": "klú", "examples": [] }] },
+  "dégonflé ‑ être dégonflé": {
+    "definitions": [{ "definition": "jɔhɔ̀n ɖò... mὲ ă", "examples": [] }]
+  },
+  "dégonfler ‑ dégonfler un pneu": {
+    "definitions": [{ "definition": "ɖè jɔhɔ̀n sín adɔví ɔ́ mὲ", "examples": [] }]
+  },
+  "dégourdi": { "definitions": [{ "definition": "bìbí", "examples": [] }] },
+  "être dégourdi": { "definitions": [{ "definition": "bĭ", "examples": [] }] },
+  "dégourdir ‑ se dégourdir les jambes": {
+    "definitions": [{ "definition": "dlε̆n afɔ̀", "examples": [] }]
+  },
+  "dégoût ‑ interjection marquant le dégoût devant quelque chose de répugnant.": {
+    "definitions": [{ "definition": "cí !", "examples": [] }]
+  },
+  "dégoûtant": { "definitions": [{ "definition": "kwíjì", "examples": [] }] },
+  "être dégoûtant": {
+    "definitions": [{ "definition": "gbε̆ hὲn", "examples": [] }]
+  },
+  "dégoûter": { "definitions": [{ "definition": "xwyɔ́", "examples": [] }] },
+  "dégoûter quelqu'un": {
+    "definitions": [{ "definition": "cì mε", "examples": [] }]
+  },
+  "déguerpir": { "definitions": [{ "definition": "hɔ̀n yì", "examples": [] }] },
+  "dehors": {
+    "definitions": [
+      { "definition": "gbɔndemὲ", "examples": [] },
+      { "definition": "gbonu", "examples": [] },
+      { "definition": "gbεndè", "examples": [] },
+      { "definition": "glegbè", "examples": [] },
+      { "definition": "hεnkέn", "examples": [] },
+      { "definition": "kɔxò", "examples": [] },
+      { "definition": "kɔ́xò", "examples": [] }
+    ]
+  },
+  "au-dehors": {
+    "definitions": [
+      { "definition": "gbejí", "examples": [] },
+      { "definition": "hεnkέn", "examples": [] }
+    ]
+  },
+  "ceux qui habitent en dehors du pays": {
+    "definitions": [{ "definition": "togudonú", "examples": [] }]
+  },
+  "déité ‑ déité androgyne": {
+    "definitions": [{ "definition": "xεbyoso", "examples": [] }]
+  },
+  "déité de la famille": {
+    "definitions": [{ "definition": "akɔ vodún", "examples": [] }]
+  },
+  "déité de la forêt": {
+    "definitions": [
+      { "definition": "nùkánme vodún", "examples": [] },
+      { "definition": "zunmὲ vodún", "examples": [] }
+    ]
+  },
+  "déité de la tribu": {
+    "definitions": [{ "definition": "akɔ vodún", "examples": [] }]
+  },
+  "déité du bénin": {
+    "definitions": [{ "definition": "vodún", "examples": [] }]
+  },
+  "déité du clan": {
+    "definitions": [{ "definition": "akɔ vodún", "examples": [] }]
+  },
+  "déité du sol": {
+    "definitions": [{ "definition": "ayì vodún", "examples": [] }]
+  },
+  "déité d'une ville, d’un pays": {
+    "definitions": [{ "definition": "tò vodún", "examples": [] }]
+  },
+  "déité familiale": {
+    "definitions": [{ "definition": "hε̆nnu vodún", "examples": [] }]
+  },
+  "déité jumelle": {
+    "definitions": [{ "definition": "sakpatá", "examples": [] }]
+  },
+  "déité qui réside dans les arbres": {
+    "definitions": [{ "definition": "atínmέvódún", "examples": [] }]
+  },
+  "déités d'en haut": {
+    "definitions": [
+      { "definition": "jĭ", "examples": [] },
+      { "definition": "jì vodún", "examples": [] },
+      { "definition": "lisà", "examples": [] },
+      { "definition": "măwŭ", "examples": [] }
+    ]
+  },
+  "déjà": { "definitions": [{ "definition": "ko", "examples": [] }] },
+  "déjeuner ‑ le petit déjeuner": {
+    "definitions": [{ "definition": "zănzànnùɖúɖú", "examples": [] }]
+  },
+  "délabré": { "definitions": [{ "definition": "tló", "examples": [] }] },
+  "délai": {
+    "definitions": [
+      { "definition": "azànɖíɖó", "examples": [] },
+      { "definition": "azànɖúɖó", "examples": [] }
+    ]
+  },
+  "action de fixer un délai": {
+    "definitions": [{ "definition": "azànɖíɖó", "examples": [] }]
+  },
+  "délaissement": {
+    "definitions": [{ "definition": "jìjódó", "examples": [] }]
+  },
+  "délaisser": { "definitions": [{ "definition": "jŏ dŏ", "examples": [] }] },
+  "délasser ‑ se délasser": {
+    "definitions": [{ "definition": "gbɔjέ", "examples": [] }]
+  },
+  "délateur": {
+    "definitions": [{ "definition": "rapporteur", "examples": [] }]
+  },
+  "délayage": { "definitions": [{ "definition": "finfàn", "examples": [] }] },
+  "délayer": { "definitions": [{ "definition": "fàn", "examples": [] }] },
+  "délayer ... boire": {
+    "definitions": [{ "definition": "fàn... nù", "examples": [] }]
+  },
+  "délayer de la farine dans de l'eau pour préparer la pâte": {
+    "definitions": [
+      { "definition": "fàn wɔ̆", "examples": [] },
+      { "definition": "dŏ wɔ̆ sìn", "examples": [] }
+    ]
+  },
+  "délayer de la farine pour la mettre dans la sauce": {
+    "definitions": [
+      { "definition": "fàn línfín dó nùsúnnú ɔ́ mὲ", "examples": [] }
+    ]
+  },
+  "délayer de l'pâte de farine de maïs dans de l'eau": {
+    "definitions": [{ "definition": "fàn gi nù", "examples": [] }]
+  },
+  "délayer des pâte de farine de maÏs dans de l'eau pour préparer une boisson": {
+    "definitions": [{ "definition": "fàn sìn", "examples": [] }]
+  },
+  "délégué": { "definitions": [{ "definition": "ɖε̆mεnu", "examples": [] }] },
+  "délibération": {
+    "definitions": [{ "definition": "wlɛnwínɖíɖé", "examples": [] }]
+  },
+  "délibérer ‑ ceux qui délibèrent sur le destin du pays": {
+    "definitions": [{ "definition": "toxóɖɔ́tɔ́", "examples": [] }]
+  },
+  "délicat": {
+    "definitions": [
+      { "definition": "glíglí", "examples": [] },
+      { "definition": "lílílí", "examples": [] },
+      { "definition": "lyólyó", "examples": [] }
+    ]
+  },
+  "faire des gestes délicats à l'égard de": {
+    "definitions": [{ "definition": "wà kò dŏ", "examples": [] }]
+  },
+  "délicatement": {
+    "definitions": [{ "definition": "lílílí", "examples": [] }]
+  },
+  "délicatesse": { "definitions": [{ "definition": "yɛ̀yí", "examples": [] }] },
+  "délicieux ‑ être délicieux": {
+    "definitions": [{ "definition": "wlĭ ɖε̆", "examples": [] }]
+  },
+  "délier": {
+    "definitions": [
+      { "definition": "tún", "examples": [] },
+      { "definition": "tún kàn", "examples": [] }
+    ]
+  },
+  "se délier": { "definitions": [{ "definition": "tún kàn", "examples": [] }] },
+  "déliquescent ‑ être déliquescent": {
+    "definitions": [{ "definition": "nyĭ", "examples": [] }]
+  },
+  "délire": { "definitions": [{ "definition": "gblòfínfán", "examples": [] }] },
+  "délirer": { "definitions": [{ "definition": "fàn gblŏ", "examples": [] }] },
+  "délit": { "definitions": [{ "definition": "hwὲ", "examples": [] }] },
+  "délivrance": {
+    "definitions": [{ "definition": "hwìnhwlέn", "examples": [] }]
+  },
+  "délivrer": {
+    "definitions": [
+      { "definition": "hwlĕn găn", "examples": [] },
+      { "definition": "hwlε̆n", "examples": [] },
+      { "definition": "hwlε̆n găn", "examples": [] },
+      { "definition": "jŏ nyì tè", "examples": [] }
+    ]
+  },
+  "délivrer quelqu'un de sa tâche": {
+    "definitions": [{ "definition": "ɖè hwὲn mε", "examples": [] }]
+  },
+  "délivrer quelqu'un d'un danger": {
+    "definitions": [{ "definition": "ɖeɖὲ", "examples": [] }]
+  },
+  "dé­livrer quelqu'un d'une charge": {
+    "definitions": [{ "definition": "ɖè kɔ̀ mε", "examples": [] }]
+  },
+  "déluré ‑ qualifie un enfant déluré": {
+    "definitions": [{ "definition": "azingblέntέn", "examples": [] }]
+  },
+  "demain": {
+    "definitions": [
+      { "definition": "sɔ̀", "examples": [] },
+      { "definition": "sɔ e jàwé ɔ́", "examples": [] }
+    ]
+  },
+  "à partir de demain": {
+    "definitions": [{ "definition": "sín sɔ̀ ɔ́", "examples": [] }]
+  },
+  "demain matin": {
+    "definitions": [{ "definition": "sɔ̀ zănzăn", "examples": [] }]
+  },
+  "demain soir": {
+    "definitions": [{ "definition": "sɔ gbadanu", "examples": [] }]
+  },
+  "demande": {
+    "definitions": [
+      { "definition": "byɔ̀byɔ́", "examples": [] },
+      { "definition": "kinkanbyɔ́", "examples": [] },
+      { "definition": "nùbyɔ́byɔ́", "examples": [] },
+      { "definition": "nùbyɔ̀byɔ", "examples": [] }
+    ]
+  },
+  "demande de la main d'une femme à la famille": {
+    "definitions": [{ "definition": "gbeyíhàn", "examples": [] }]
+  },
+  "demande de pardon": {
+    "definitions": [{ "definition": "alɔnyilɔmὲ", "examples": [] }]
+  },
+  "demande de renseignements": {
+    "definitions": [
+      { "definition": "alasídídó", "examples": [] },
+      { "definition": "alasídúdó", "examples": [] }
+    ]
+  },
+  "demande en mariage": {
+    "definitions": [{ "definition": "asibyɔ́byɔ́", "examples": [] }]
+  },
+  "demander": {
+    "definitions": [
+      { "definition": "bwébwé", "examples": [] },
+      { "definition": "byɔ̆ xɔ́ntɔ̀n mε", "examples": [] },
+      { "definition": "kàn bɔ̆", "examples": [] }
+    ]
+  },
+  "action de demander": {
+    "definitions": [{ "definition": "sɔ́ byɔ̆", "examples": [] }]
+  },
+  "action de demander une fille en mariage": {
+    "definitions": [{ "definition": "vìbyɔ́byɔ́", "examples": [] }]
+  },
+  "celui qui demande à manger": {
+    "definitions": [{ "definition": "nùbyɔ́ɖútɔ́", "examples": [] }]
+  },
+  "demander à épouser une femme": {
+    "definitions": [{ "definition": "byɔ́ asì", "examples": [] }]
+  },
+  "demander à fréquenter une fille": {
+    "definitions": [{ "definition": "byɔ̆ xɔ́ntɔ̀n mε", "examples": [] }]
+  },
+  "demander d'avance la main d'une fille": {
+    "definitions": [{ "definition": "byɔ́ asì ɖŏ tè", "examples": [] }]
+  },
+  "demander du secours à": {
+    "definitions": [{ "definition": "xò ɖὲ dŏ mε gɔ̆n", "examples": [] }]
+  },
+  "demander du secours à quelqu'un": {
+    "definitions": [{ "definition": "xò ɖɛ̀ dŏ mɛ gɔ̆n", "examples": [] }]
+  },
+  "demander grâce": {
+    "definitions": [{ "definition": "dŏ kεnklέὲn", "examples": [] }]
+  },
+  "demander la permission à quelqu'un": {
+    "definitions": [{ "definition": "byɔ ɖŏ mε nŭ", "examples": [] }]
+  },
+  "demander l'amitié à une fille": {
+    "definitions": [{ "definition": "byɔ̆ vĭ", "examples": [] }]
+  },
+  "demander pardon": {
+    "definitions": [
+      { "definition": "dŏ kεnklέn", "examples": [] },
+      { "definition": "dŏ vὲvὲ nú mε", "examples": [] }
+    ]
+  },
+  "demander pour quelqu'un": {
+    "definitions": [{ "definition": "byɔ̆", "examples": [] }]
+  },
+  "demander quelque chose à quelqu'un": {
+    "definitions": [{ "definition": "kàn nùɖé byɔ̆ mε", "examples": [] }]
+  },
+  "demander quelque chose mendier": {
+    "definitions": [{ "definition": "byɔ̆ nŭ", "examples": [] }]
+  },
+  "demander un renseignement à quelqu'un": {
+    "definitions": [{ "definition": "bà nŭ dò", "examples": [] }]
+  },
+  "demander une fille en mariage": {
+    "definitions": [{ "definition": "byɔ̆ nŭ", "examples": [] }]
+  },
+  "demander une permission": {
+    "definitions": [{ "definition": "byɔ̆ gbè", "examples": [] }]
+  },
+  "demanderà entrer en relation avec une fille": {
+    "definitions": [{ "definition": "byɔ̆ gbè mε", "examples": [] }]
+  },
+  "demander ‑ se demander": {
+    "definitions": [{ "definition": "lìn kpɔ́n", "examples": [] }]
+  },
+  "se demander": {
+    "definitions": [{ "definition": "lìn tamε kpɔ́n", "examples": [] }]
+  },
+  "demandeur": { "definitions": [{ "definition": "nùbyɔ̀tɔ́", "examples": [] }] },
+  "démangeaison": {
+    "definitions": [
+      { "definition": "nùhíhímε", "examples": [] },
+      { "definition": "sεtwintwin", "examples": [] }
+    ]
+  },
+  "la démangeaison de parler": {
+    "definitions": [{ "definition": "nuɖɔɖɔ", "examples": [] }]
+  },
+  "démanger": {
+    "definitions": [
+      { "definition": "ɖù", "examples": [] },
+      { "definition": "hìhí", "examples": [] },
+      { "definition": "hìhí wŭ", "examples": [] }
+    ]
+  },
+  "démarrer ‑ démarrer (en parlant d'un véhicule)": {
+    "definitions": [{ "definition": "sún", "examples": [] }]
+  },
+  "démêler": { "definitions": [{ "definition": "vŭn", "examples": [] }] },
+  "démêloir": { "definitions": [{ "definition": "ɖatúnnú", "examples": [] }] },
+  "déménager": {
+    "definitions": [{ "definition": "bε̆ agbàn", "examples": [] }]
+  },
+  "démener ‑ le fait de se démener": {
+    "definitions": [{ "definition": "kotokítí", "examples": [] }]
+  },
+  "se démener": { "definitions": [{ "definition": "xò kàn", "examples": [] }] },
+  "démesuré": {
+    "definitions": [{ "definition": "agidigbájá", "examples": [] }]
+  },
+  "démettre ‑ se démettre la hanche": {
+    "definitions": [{ "definition": "fέn tέ", "examples": [] }]
+  },
+  "demeure": {
+    "definitions": [
+      { "definition": "gɔ̆n", "examples": [] },
+      { "definition": "xwé", "examples": [] }
+    ]
+  },
+  "demeurer": {
+    "definitions": [
+      { "definition": "cí", "examples": [] },
+      { "definition": "nɔ̀", "examples": [] }
+    ]
+  },
+  "demeurer avec": {
+    "definitions": [{ "definition": "mlε̆ dŏ", "examples": [] }]
+  },
+  "demi": { "definitions": [{ "definition": "adaɖé", "examples": [] }] },
+  "à demi": { "definitions": [{ "definition": "ɖiblà", "examples": [] }] },
+  "demi-noyau pour faire le chapelet divinatoire": {
+    "definitions": [{ "definition": "akplὲ", "examples": [] }]
+  },
+  "faire demi-tour": {
+    "definitions": [{ "definition": "lε̆ kɔ̀", "examples": [] }]
+  },
+  "démodé": { "definitions": [{ "definition": "cícá", "examples": [] }] },
+  "demoiselle": {
+    "definitions": [
+      { "definition": "adlókpé", "examples": [] },
+      { "definition": "ahwlì", "examples": [] }
+    ]
+  },
+  "démoli": { "definitions": [{ "definition": "gbìgbá", "examples": [] }] },
+  "démolir": {
+    "definitions": [
+      { "definition": "fó", "examples": [] },
+      { "definition": "gbà", "examples": [] },
+      { "definition": "gblĕ", "examples": [] },
+      { "definition": "hὲn kíja", "examples": [] }
+    ]
+  },
+  "action de démolir une maison": {
+    "definitions": [{ "definition": "xɔgbigba", "examples": [] }]
+  },
+  "démolir une case": {
+    "definitions": [{ "definition": "gbà xɔ̀", "examples": [] }]
+  },
+  "démolir une maison": {
+    "definitions": [{ "definition": "gbà xwé", "examples": [] }]
+  },
+  "démolition": { "definitions": [{ "definition": "gbìgbá", "examples": [] }] },
+  "démon": { "definitions": [{ "definition": "awŏvì", "examples": [] }] },
+  "démonstratif ‑ forme syncopée pour lé à la fin de la proposition relative": {
+    "definitions": [{ "definition": "é", "examples": [] }]
+  },
+  "démonter ‑ démonter quelque chose en diverses parties": {
+    "definitions": [{ "definition": "ɖè ɖŏ vokán vokán", "examples": [] }]
+  },
+  "démontrer": { "definitions": [{ "definition": "xlɛ́", "examples": [] }] },
+  "dénaturé": { "definitions": [{ "definition": "lɔ̀jɔ́", "examples": [] }] },
+  "dénoncer": { "definitions": [{ "definition": "ɖè gbà", "examples": [] }] },
+  "dénonciateur": {
+    "definitions": [{ "definition": "adingbannɔ̀", "examples": [] }]
+  },
+  "dénonciation": {
+    "definitions": [{ "definition": "adingbàn", "examples": [] }]
+  },
+  "dénouer": {
+    "definitions": [
+      { "definition": "tún", "examples": [] },
+      { "definition": "tún kàn", "examples": [] }
+    ]
+  },
+  "dénouer les cheveux (en signe de deuil)": {
+    "definitions": [{ "definition": "tún ɖà", "examples": [] }]
+  },
+  "dénouer les cheveux et les laisser en désordre en signe de deuil": {
+    "definitions": [{ "definition": "tún ɖà", "examples": [] }]
+  },
+  "dénouer les cheveux pour les tresser à nouveau": {
+    "definitions": [{ "definition": "tún ɖà", "examples": [] }]
+  },
+  "dent": { "definitions": [{ "definition": "aɖŭ", "examples": [] }] },
+  "avoir les premières dents": {
+    "definitions": [
+      { "definition": "gbò nyɔ̀", "examples": [] },
+      { "definition": "tɔ́n àɖŭ", "examples": [] },
+      { "definition": "wŭ àɖŭ", "examples": [] }
+    ]
+  },
+  "cure-dents": {
+    "definitions": [
+      { "definition": "aɖuxwáɖúxwá", "examples": [] },
+      { "definition": "alò", "examples": [] },
+      { "definition": "ɖuxwέɖúxwέ", "examples": [] },
+      { "definition": "zeɖù", "examples": [] }
+    ]
+  },
+  "dent de devant": {
+    "definitions": [{ "definition": "nukɔnɖú", "examples": [] }]
+  },
+  "dent d'un pignon": {
+    "definitions": [{ "definition": "aɖŭ", "examples": [] }]
+  },
+  "dents poussant les unes sur les autres": {
+    "definitions": [{ "definition": "aɖù kplakasὲ", "examples": [] }]
+  },
+  "dentiste": {
+    "definitions": [
+      { "definition": "aɖùɖènúmεtɔ́", "examples": [] },
+      { "definition": "aɖùɖètɔ́", "examples": [] },
+      { "definition": "aɖùkpɔ́ntɔ́", "examples": [] },
+      { "definition": "aɖùsúntɔ́", "examples": [] }
+    ]
+  },
+  "dentition ‑ dentition débutant par la mâchoire": {
+    "definitions": [{ "definition": "aɖùwùsángà", "examples": [] }]
+  },
+  "dentition débutant par la mâchoire supérieure": {
+    "definitions": [
+      { "definition": "aɖù kplakasὲ", "examples": [] },
+      { "definition": "aɖùwú sín agà", "examples": [] }
+    ]
+  },
+  "la première dentition": {
+    "definitions": [{ "definition": "aɖùtíntɔ́n", "examples": [] }]
+  },
+  "département": { "definitions": [{ "definition": "kpɔ̀n", "examples": [] }] },
+  "dépasser": {
+    "definitions": [
+      { "definition": "dĭn", "examples": [] },
+      { "definition": "fɔ̀n", "examples": [] },
+      { "definition": "jὲ nukɔ̀n", "examples": [] },
+      { "definition": "zɛ̀ wŭ", "examples": [] },
+      { "definition": "zɛ̀ wŭ", "examples": [] }
+    ]
+  },
+  "dépasser en compétence ou en taille": {
+    "definitions": [{ "definition": "fɔ̀n ta tè", "examples": [] }]
+  },
+  "dépasser la limite (pour les bonnes choses)": {
+    "definitions": [{ "definition": "tàn", "examples": [] }]
+  },
+  "dépasser la mesure": {
+    "definitions": [
+      { "definition": "flá", "examples": [] },
+      { "definition": "gbĕ lŭ", "examples": [] },
+      { "definition": "gbĕlŭ", "examples": [] },
+      { "definition": "gbε̆", "examples": [] },
+      { "definition": "gègé lŭ", "examples": [] },
+      { "definition": "zὲ jlε̆ wŭ", "examples": [] },
+      { "definition": "flá ayĭ", "examples": [] },
+      { "definition": "dĭn... wŭ", "examples": [] }
+    ]
+  },
+  "dépasser un endroit": {
+    "definitions": [{ "definition": "fɔ̀n wŭ", "examples": [] }]
+  },
+  "dépêcher": { "definitions": [{ "definition": "sέ dŏ", "examples": [] }] },
+  "le fait de se dépêcher quand on marche ou quand on travaille": {
+    "definitions": [{ "definition": "wezunkínkán", "examples": [] }]
+  },
+  "se dépêcher": {
+    "definitions": [
+      { "definition": "náwùn", "examples": [] },
+      { "definition": "yă wŭ blŏ", "examples": [] },
+      { "definition": "zĕ afɔ̀", "examples": [] }
+    ]
+  },
+  "se dépêcher en marchant ou en courant": {
+    "definitions": [{ "definition": "fyá", "examples": [] }]
+  },
+  "dépendance ‑ celui qui est sous la dépendance d'un autre": {
+    "definitions": [{ "definition": "mεɖomεkannu", "examples": [] }]
+  },
+  "dépense": {
+    "definitions": [
+      { "definition": "àkwέzínzán", "examples": [] },
+      { "definition": "ayòɖuɖu", "examples": [] }
+    ]
+  },
+  "dépenses": {
+    "definitions": [
+      { "definition": "akwɛ́zínzán", "examples": [] },
+      { "definition": "nùzínzán", "examples": [] },
+      { "definition": "zìnzán", "examples": [] }
+    ]
+  },
+  "dépense à tort et à travers": {
+    "definitions": [{ "definition": "ayò", "examples": [] }]
+  },
+  "faire des dépenses inconsidérées": {
+    "definitions": [{ "definition": "ɖù ayò", "examples": [] }]
+  },
+  "dépenser": {
+    "definitions": [
+      { "definition": "zăn", "examples": [] },
+      { "definition": "zăn àkwέ", "examples": [] }
+    ]
+  },
+  "celui qui dépense l'argent": {
+    "definitions": [{ "definition": "àkwέzántɔ́", "examples": [] }]
+  },
+  "dépenser de l'argent": {
+    "definitions": [{ "definition": "ɖù akwέ", "examples": [] }]
+  },
+  "faire dépenser": {
+    "definitions": [{ "definition": "hù àkwέ nú mε", "examples": [] }]
+  },
+  "qui dépense généreusement dans l'intérêt d'autrui": {
+    "definitions": [{ "definition": "àkwέzánnnúmεtɔ́", "examples": [] }]
+  },
+  "se dépenser": {
+    "definitions": [{ "definition": "sà hlɔ̀nhlɔ́n", "examples": [] }]
+  },
+  "dépenses ‑ faire de grosses dépenses": {
+    "definitions": [{ "definition": "wà àkwέnú ɖàxó", "examples": [] }]
+  },
+  "dépensier": {
+    "definitions": [
+      { "definition": "àkwέzánnyidotɔ́", "examples": [] },
+      { "definition": "àkwέzántɔ́", "examples": [] }
+    ]
+  },
+  "dépit": { "definitions": [{ "definition": "xomɛsìn", "examples": [] }] },
+  "en dépit de": { "definitions": [{ "definition": "có", "examples": [] }] },
+  "déplacé": { "definitions": [{ "definition": "majεgan", "examples": [] }] },
+  "déplacement ‑ déplacement précautionneux vers une proie": {
+    "definitions": [{ "definition": "dεnyinyi", "examples": [] }]
+  },
+  "exprime l'idée de déplacement": {
+    "definitions": [{ "definition": "sà", "examples": [] }]
+  },
+  "déplacer": {
+    "definitions": [
+      { "definition": "sísέ", "examples": [] },
+      { "definition": "sὲ", "examples": [] }
+    ]
+  },
+  "se déplacer": {
+    "definitions": [
+      { "definition": "sὲ", "examples": [] },
+      { "definition": "sὲ sín", "examples": [] },
+      { "definition": "sὲ tὲn", "examples": [] }
+    ]
+  },
+  "se déplacer en poussant": {
+    "definitions": [{ "definition": "sὲ dŏ", "examples": [] }]
+  },
+  "se déplacer en s'éloignant": {
+    "definitions": [{ "definition": "sὲ yì", "examples": [] }]
+  },
+  "déplaire": {
+    "definitions": [
+      { "definition": "nylá nukún mὲ", "examples": [] },
+      { "definition": "vɛ̆ wŭ", "examples": [] },
+      { "definition": "xwyɔ́", "examples": [] }
+    ]
+  },
+  "déplaire à quelqu'un": {
+    "definitions": [{ "definition": "nŭ vε̆ mε wŭ", "examples": [] }]
+  },
+  "déplier": { "definitions": [{ "definition": "vlɔ̆n", "examples": [] }] },
+  "déplier une natte": {
+    "definitions": [{ "definition": "ɖŏ zàn", "examples": [] }]
+  },
+  "déployer": { "definitions": [{ "definition": "vlɔ̆n", "examples": [] }] },
+  "déposer": {
+    "definitions": [
+      { "definition": "ɖŏ", "examples": [] },
+      { "definition": "sɔ́ ɖ'áyĭ", "examples": [] },
+      { "definition": "sɔ́ ɖŏ ayĭ", "examples": [] }
+    ]
+  },
+  "déposer (toujours en parlant d'un liquide)": {
+    "definitions": [{ "definition": "zìn", "examples": [] }]
+  },
+  "déposer à terre": {
+    "definitions": [{ "definition": "zlɔ̆n", "examples": [] }]
+  },
+  "déposer des boissons dans une variété de case pour la cérémonie du lendemain": {
+    "definitions": [{ "definition": "dŏ ahàn xɔ̀", "examples": [] }]
+  },
+  "déposition": {
+    "definitions": [{ "definition": "kúnnúɖíɖè", "examples": [] }]
+  },
+  "faire une déposition": {
+    "definitions": [{ "definition": "ɖè kúnnù", "examples": [] }]
+  },
+  "dépôt ‑ dépôt d'une boisson dans bouteille": {
+    "definitions": [{ "definition": "gɔ̀", "examples": [] }]
+  },
+  "dépotoir": { "definitions": [{ "definition": "zunkɔ́tá", "examples": [] }] },
+  "dépouillé": { "definitions": [{ "definition": "lunlun", "examples": [] }] },
+  "dépouillement": {
+    "definitions": [{ "definition": "lunlun", "examples": [] }]
+  },
+  "dépouiller": {
+    "definitions": [
+      { "definition": "ɖè anyŭ", "examples": [] },
+      { "definition": "ɖè fló", "examples": [] },
+      { "definition": "ɖèanyŭ", "examples": [] },
+      { "definition": "kɔ́n", "examples": [] }
+    ]
+  },
+  "dépourvu ‑ dépourvu du nécessaire en nourriture": {
+    "definitions": [{ "definition": "xovɛtɔ́nɔ̀", "examples": [] }]
+  },
+  "déprécié": { "definitions": [{ "definition": "cícá", "examples": [] }] },
+  "déprécier": { "definitions": [{ "definition": "cá mε", "examples": [] }] },
+  "action de déprécier": {
+    "definitions": [{ "definition": "cícá", "examples": [] }]
+  },
+  "celui qui déprécie quelqu'un ou quelque chose": {
+    "definitions": [{ "definition": "slamεɖɔtɔ́", "examples": [] }]
+  },
+  "déprécier une chose": {
+    "definitions": [{ "definition": "cá nŭ", "examples": [] }]
+  },
+  "déprécier une marchandise pour pouvoir l'acheter moins cher": {
+    "definitions": [{ "definition": "gbìjɔ́", "examples": [] }]
+  },
+  "dépression ‑ dépression marécageuse": {
+    "definitions": [{ "definition": "lamá", "examples": [] }]
+  },
+  "depuis": { "definitions": [{ "definition": "sín", "examples": [] }] },
+  "depuis ce jour-là": {
+    "definitions": [
+      { "definition": "sín gbe nέ gbé ɔ́", "examples": [] },
+      { "definition": "sín gbe nε gbe ɔ́", "examples": [] },
+      { "definition": "sín hwenέnú ɔ́", "examples": [] },
+      { "definition": "sín hwenέnu ɖokpóo", "examples": [] }
+    ]
+  },
+  "depuis hier": {
+    "definitions": [{ "definition": "sín sɔ̀ ɔ́", "examples": [] }]
+  },
+  "depuis le commencement": {
+    "definitions": [{ "definition": "ɖò bìbέ mέ ɔ́", "examples": [] }]
+  },
+  "depuis le début": {
+    "definitions": [{ "definition": "sín dò ɔ", "examples": [] }]
+  },
+  "depuis longtemps": {
+    "definitions": [
+      { "definition": "sín tεgbε ɔ́", "examples": [] },
+      { "definition": "xóxó", "examples": [] }
+    ]
+  },
+  "depuis lors": {
+    "definitions": [{ "definition": "sín hwenέnú ɔ́", "examples": [] }]
+  },
+  "depuis ma jeunesse": {
+    "definitions": [{ "definition": "sín winnyawínnyá cé mɛ̀", "examples": [] }]
+  },
+  "depuis si longtemps": {
+    "definitions": [{ "definition": "gbógbó nέ ɔ́ jέn ɖíè", "examples": [] }]
+  },
+  "depuis toujours": {
+    "definitions": [{ "definition": "sín tεgbε ɔ́", "examples": [] }]
+  },
+  "déraciner": {
+    "definitions": [
+      { "definition": "hɔ̀n", "examples": [] },
+      { "definition": "hɔ̀n ɖɔ̀", "examples": [] },
+      { "definition": "kùn ɖɔ̀", "examples": [] }
+    ]
+  },
+  "déraisonner": {
+    "definitions": [{ "definition": "ɖɔ̀ gbòló", "examples": [] }]
+  },
+  "dérangement": {
+    "definitions": [
+      { "definition": "tagbà", "examples": [] },
+      { "definition": "yadidó", "examples": [] },
+      { "definition": "yadónúmɛ", "examples": [] },
+      { "definition": "yadudó", "examples": [] }
+    ]
+  },
+  "dérangement inutile": {
+    "definitions": [{ "definition": "tagbadónúmε", "examples": [] }]
+  },
+  "déranger": {
+    "definitions": [
+      { "definition": "dŏ tagbà nú mε", "examples": [] },
+      { "definition": "dŏ yà nú mε", "examples": [] },
+      { "definition": "fùn", "examples": [] }
+    ]
+  },
+  "déranger quelqu'un": {
+    "definitions": [{ "definition": "fùn mε", "examples": [] }]
+  },
+  "le fait de déranger": {
+    "definitions": [{ "definition": "tagbadudó", "examples": [] }]
+  },
+  "déraper": { "definitions": [{ "definition": "ɖìɖí", "examples": [] }] },
+  "derechef": {
+    "definitions": [{ "definition": "azɔ̀n ɖébŭ", "examples": [] }]
+  },
+  "dérision": { "definitions": [{ "definition": "fífó", "examples": [] }] },
+  "dermatose": { "definitions": [{ "definition": "anyŭzɔ̀n", "examples": [] }] },
+  "dernier": {
+    "definitions": [
+      { "definition": "gùdó tɔ̀n", "examples": [] },
+      { "definition": "tó", "examples": [] },
+      { "definition": "vivɔ", "examples": [] },
+      { "definition": "vuvɔ", "examples": [] }
+    ]
+  },
+  "dernier enfant (péjoratif)": {
+    "definitions": [{ "definition": "jàxwlέ", "examples": [] }]
+  },
+  "dernière raclure de pâte": {
+    "definitions": [{ "definition": "wojáxwlɛ́", "examples": [] }]
+  },
+  "être le dernier": {
+    "definitions": [{ "definition": "gbɔ̀n tó", "examples": [] }]
+  },
+  "le dernier enfant": {
+    "definitions": [
+      { "definition": "kpodé", "examples": [] },
+      { "definition": "kpodwé", "examples": [] }
+    ]
+  },
+  "le dernier jour du monde": {
+    "definitions": [{ "definition": "gbε vivɔ zángbè", "examples": [] }]
+  },
+  "dernièrement": {
+    "definitions": [{ "definition": "azănmὲfí", "examples": [] }]
+  },
+  "dérobée ‑ à la dérobée": {
+    "definitions": [{ "definition": "klánklán", "examples": [] }]
+  },
+  "dérober": { "definitions": [{ "definition": "fìn", "examples": [] }] },
+  "se dérober de façon mystérieuse": {
+    "definitions": [{ "definition": "dŏ zĭn", "examples": [] }]
+  },
+  "dérouler": { "definitions": [{ "definition": "vlɔ̆n", "examples": [] }] },
+  "derrière": {
+    "definitions": [
+      { "definition": "gŭdò", "examples": [] },
+      { "definition": "túnnú", "examples": [] }
+    ]
+  },
+  "derrière la case (toilettes)": {
+    "definitions": [{ "definition": "xɔ̀ gŭdò", "examples": [] }]
+  },
+  "derrière la chose (toilettes)": {
+    "definitions": [{ "definition": "nŭ gŭdò", "examples": [] }]
+  },
+  "derrière la maison": {
+    "definitions": [{ "definition": "xwé gŭdo", "examples": [] }]
+  },
+  "derrière la tête": {
+    "definitions": [{ "definition": "zogudó", "examples": [] }]
+  },
+  "derrière le cou": {
+    "definitions": [{ "definition": "kogɔnu", "examples": [] }]
+  },
+  "derrière lui": {
+    "definitions": [{ "definition": "gùdó tɔ̀n", "examples": [] }]
+  },
+  "derrière moi": {
+    "definitions": [{ "definition": "gùdó cè", "examples": [] }]
+  },
+  "être derrière quelqu'un": {
+    "definitions": [{ "definition": "ɖò mε gŭdò", "examples": [] }]
+  },
+  "le derrière": { "definitions": [{ "definition": "gŭdò", "examples": [] }] },
+  "dès ‑ dès que": { "definitions": [{ "definition": "ée", "examples": [] }] },
+  "désaccord ‑ celui qui est toujours en désaccord avec quelqu'un": {
+    "definitions": [{ "definition": "fεnfɔnúmεtɔ́", "examples": [] }]
+  },
+  "être en désaccord": {
+    "definitions": [{ "definition": "wùlú", "examples": [] }]
+  },
+  "désagréable": { "definitions": [{ "definition": "vìvέ", "examples": [] }] },
+  "faire des choses très désagréables à quelqu'un": {
+    "definitions": [{ "definition": "cì kà mε wŭ", "examples": [] }]
+  },
+  "désagrément": {
+    "definitions": [{ "definition": "nùvìvέ", "examples": [] }]
+  },
+  "désaltérer ‑ se désaltérer": {
+    "definitions": [{ "definition": "nù sìn", "examples": [] }]
+  },
+  "désapprendre": { "definitions": [{ "definition": "wɔ̀n", "examples": [] }] },
+  "désapprobation ‑ marquer la désapprobation envers quelqu'un": {
+    "definitions": [{ "definition": "xwè kùn dŏ mε", "examples": [] }]
+  },
+  "marquer la désapprobation par un certain bruit de la mâchoire": {
+    "definitions": [{ "definition": "xwè nyɔ̀", "examples": [] }]
+  },
+  "descendance": {
+    "definitions": [
+      { "definition": "aɖimεví", "examples": [] },
+      { "definition": "aɖiví", "examples": [] },
+      { "definition": "kúnkàn", "examples": [] }
+    ]
+  },
+  "descendance de la cinquième génération": {
+    "definitions": [{ "definition": "viì", "examples": [] }]
+  },
+  "la descendance": {
+    "definitions": [{ "definition": "vìvúvivu", "examples": [] }]
+  },
+  "descendant ‑ descendants d'agasu": {
+    "definitions": [{ "definition": "agasúví alada sádó", "examples": [] }]
+  },
+  "les descendants": {
+    "definitions": [{ "definition": "vìvúvivu", "examples": [] }]
+  },
+  "descendre": {
+    "definitions": [
+      { "definition": "jὲ tè", "examples": [] },
+      { "definition": "wă dò", "examples": [] },
+      { "definition": "yì dò", "examples": [] },
+      { "definition": "yì dò", "examples": [] }
+    ]
+  },
+  "descendre de": {
+    "definitions": [
+      { "definition": "jὲ tè sín", "examples": [] },
+      { "definition": "slɔ́ sín", "examples": [] }
+    ]
+  },
+  "descendre de hamac": {
+    "definitions": [{ "definition": "jὲ tè sín kpɔ̀n mὲ", "examples": [] }]
+  },
+  "descendre d'un véhicule": {
+    "definitions": [{ "definition": "jὲ tè sín hŭn mὲ", "examples": [] }]
+  },
+  "faire descendre (d'un arbre, d'un véhicule)": {
+    "definitions": [
+      { "definition": "ɖè nŭ nyì tè", "examples": [] },
+      { "definition": "ɖè nyì tè", "examples": [] }
+    ]
+  },
+  "faire descendre quelqu'un": {
+    "definitions": [{ "definition": "ɖè mε nyì tè", "examples": [] }]
+  },
+  "descente": {
+    "definitions": [
+      { "definition": "agblɔnyinyà", "examples": [] },
+      { "definition": "dodò", "examples": [] }
+    ]
+  },
+  "dans le bas de la descente": {
+    "definitions": [{ "definition": "dodo mὲ", "examples": [] }]
+  },
+  "descente de véhicule": {
+    "definitions": [{ "definition": "tejijε", "examples": [] }]
+  },
+  "descente d'un arbre": {
+    "definitions": [{ "definition": "tejijε", "examples": [] }]
+  },
+  "descente d'un escalier": {
+    "definitions": [{ "definition": "tejijε", "examples": [] }]
+  },
+  "descente d'une échelle": {
+    "definitions": [{ "definition": "tejijε", "examples": [] }]
+  },
+  "descente d'une hauteur": {
+    "definitions": [{ "definition": "tejijε", "examples": [] }]
+  },
+  "désemparé ‑ être désemparé": {
+    "definitions": [{ "definition": "flú", "examples": [] }]
+  },
+  "désenflé": { "definitions": [{ "definition": "lunlun", "examples": [] }] },
+  "désenfler": { "definitions": [{ "definition": "gbìgbá", "examples": [] }] },
+  "désenflure": { "definitions": [{ "definition": "lunlun", "examples": [] }] },
+  "déséquilibré": {
+    "definitions": [{ "definition": "nùwánùmɔ̀nɔ́", "examples": [] }]
+  },
+  "être déséquilibré": {
+    "definitions": [{ "definition": "flí ta", "examples": [] }]
+  },
+  "désert": {
+    "definitions": [
+      { "definition": "gbĕxò", "examples": [] },
+      { "definition": "gbèxólólómὲ", "examples": [] },
+      { "definition": "gbexólóló", "examples": [] }
+    ]
+  },
+  "dans le désert": {
+    "definitions": [
+      { "definition": "gbè xólóló mɛ̀", "examples": [] },
+      { "definition": "gbèxólólómε", "examples": [] }
+    ]
+  },
+  "désespérance": {
+    "definitions": [{ "definition": "nùmáɖónukún", "examples": [] }]
+  },
+  "désespéré ‑ un désespéré": {
+    "definitions": [{ "definition": "nùmáɖónukúntɔ́", "examples": [] }]
+  },
+  "désespoir": {
+    "definitions": [{ "definition": "nùmáɖónukún", "examples": [] }]
+  },
+  "déshabiller ‑ se déshabiller": {
+    "definitions": [{ "definition": "ɖe avɔ̀", "examples": [] }]
+  },
+  "désherbage ‑ désherbage au coupe coupe lorsque l'herbe est à une hauteur de 20 à 60 cm": {
+    "definitions": [{ "definition": "nùgblàgblá", "examples": [] }]
+  },
+  "désherber": {
+    "definitions": [{ "definition": "xò nùkán", "examples": [] }]
+  },
+  "déshonorer": { "definitions": [{ "definition": "xò kɔ́", "examples": [] }] },
+  "déshonorer ‑ déshonorer quelqu'un": {
+    "definitions": [
+      { "definition": "dŏ hε̆n mε", "examples": [] },
+      { "definition": "kɔ́n wì nú mɛ", "examples": [] }
+    ]
+  },
+  "désignation": { "definitions": [{ "definition": "gesí", "examples": [] }] },
+  "désignation d'un chef": {
+    "definitions": [{ "definition": "gànsɔ́mε", "examples": [] }]
+  },
+  "désigner": {
+    "definitions": [
+      { "definition": "ɖè", "examples": [] },
+      { "definition": "dŏ gesí", "examples": [] }
+    ]
+  },
+  "désir": {
+    "definitions": [
+      { "definition": "jìjló", "examples": [] },
+      { "definition": "jlŏ", "examples": [] },
+      { "definition": "jlojló", "examples": [] },
+      { "definition": "nùjíjló", "examples": [] },
+      { "definition": "nujìjló", "examples": [] },
+      { "definition": "nùjlòjló", "examples": [] },
+      { "definition": "nùjlómε", "examples": [] },
+      { "definition": "nùjlómεnú", "examples": [] }
+    ]
+  },
+  "désir démesuré": {
+    "definitions": [{ "definition": "nùjlómεdíngàn", "examples": [] }]
+  },
+  "désir immodéré de nourriture": {
+    "definitions": [{ "definition": "nukúnkὲn", "examples": [] }]
+  },
+  "désir immodéré de richesse": {
+    "definitions": [{ "definition": "nukúnkὲn", "examples": [] }]
+  },
+  "désir immodéré d'honneur": {
+    "definitions": [{ "definition": "nukúnkὲn", "examples": [] }]
+  },
+  "désirable ‑ être désirable pour quelqu'un": {
+    "definitions": [{ "definition": "jlŏ mε", "examples": [] }]
+  },
+  "désirer": { "definitions": [{ "definition": "jlŏ", "examples": [] }] },
+  "désirer fortement": {
+    "definitions": [{ "definition": "gbò vε̆ mε", "examples": [] }]
+  },
+  "désireux": { "definitions": [{ "definition": "nùjlòtɔ́", "examples": [] }] },
+  "désobéir ‑ désobéir à quelqu'un": {
+    "definitions": [{ "definition": "jὲ agɔ̀ dŏ mε", "examples": [] }]
+  },
+  "désobéir en matière grave": {
+    "definitions": [{ "definition": "ɖù sù", "examples": [] }]
+  },
+  "désobéissance": {
+    "definitions": [{ "definition": "tónúmásè", "examples": [] }]
+  },
+  "désobéissant": {
+    "definitions": [{ "definition": "tónúmásétɔ́", "examples": [] }]
+  },
+  "être désobéissant": {
+    "definitions": [{ "definition": "tlí tó", "examples": [] }]
+  },
+  "désoeuvré ‑ être désoeuvré": {
+    "definitions": [{ "definition": "sà lelè", "examples": [] }]
+  },
+  "désoeuvrement ‑ dans le désoeuvrement": {
+    "definitions": [{ "definition": "vò", "examples": [] }]
+  },
+  "désordonné": {
+    "definitions": [{ "definition": "kplεyεkplεyὲ", "examples": [] }]
+  },
+  "de façon désordonnée": {
+    "definitions": [{ "definition": "vazavazà", "examples": [] }]
+  },
+  "être désordonné": {
+    "definitions": [{ "definition": "hànnyá", "examples": [] }]
+  },
+  "désordre": {
+    "definitions": [
+      { "definition": "akunna", "examples": [] },
+      { "definition": "avajà", "examples": [] },
+      { "definition": "ayakatayajà", "examples": [] },
+      { "definition": "hunnyahunnyà", "examples": [] }
+    ]
+  },
+  "en désordre": {
+    "definitions": [
+      { "definition": "ayakatayajà", "examples": [] },
+      { "definition": "gudugudù", "examples": [] },
+      { "definition": "hannyaà", "examples": [] },
+      { "definition": "hannyahannyà", "examples": [] },
+      { "definition": "jεgiì", "examples": [] },
+      { "definition": "jεgijεgì", "examples": [] },
+      { "definition": "jεjεjὲ", "examples": [] }
+    ]
+  },
+  "désordre ‑ en désordre (pour cheveux et poils)": {
+    "definitions": [{ "definition": "kliyaà", "examples": [] }]
+  },
+  "être en désordre": {
+    "definitions": [
+      { "definition": "gbàdá", "examples": [] },
+      { "definition": "gùdá", "examples": [] }
+    ]
+  },
+  "être en grand désordre": {
+    "definitions": [{ "definition": "blŭ ɖà", "examples": [] }]
+  },
+  "désormais": {
+    "definitions": [
+      { "definition": "cáwún", "examples": [] },
+      { "definition": "cáwún cáwún", "examples": [] },
+      { "definition": "sín éhɔ́nmέ à", "examples": [] }
+    ]
+  },
+  "desséché": {
+    "definitions": [
+      { "definition": "gòxúxú", "examples": [] },
+      { "definition": "mimε", "examples": [] },
+      { "definition": "xúxú", "examples": [] },
+      { "definition": "yajaà", "examples": [] }
+    ]
+  },
+  "être desséché": { "definitions": [{ "definition": "fyɔ́", "examples": [] }] },
+  "tout desséché": {
+    "definitions": [
+      { "definition": "cákwécákwé", "examples": [] },
+      { "definition": "klácóklácó", "examples": [] }
+    ]
+  },
+  "dessécher": { "definitions": [{ "definition": "mὲ", "examples": [] }] },
+  "se dessécher": {
+    "definitions": [
+      { "definition": "mὲ", "examples": [] },
+      { "definition": "xú", "examples": [] }
+    ]
+  },
+  "se dessécher au feu": {
+    "definitions": [{ "definition": "xú myɔ̀", "examples": [] }]
+  },
+  "dessein": { "definitions": [{ "definition": "jìjló", "examples": [] }] },
+  "desserré": { "definitions": [{ "definition": "túntún", "examples": [] }] },
+  "desserrer": { "definitions": [{ "definition": "túntún", "examples": [] }] },
+  "se desserrer": {
+    "definitions": [{ "definition": "túntún", "examples": [] }]
+  },
+  "desservir": {
+    "definitions": [{ "definition": "kɔ́n távò", "examples": [] }]
+  },
+  "desservir la table": {
+    "definitions": [{ "definition": "kɔ́n távò", "examples": [] }]
+  },
+  "dessin": {
+    "definitions": [
+      { "definition": "acà", "examples": [] },
+      { "definition": "ɖiɖe", "examples": [] }
+    ]
+  },
+  "dessiner": { "definitions": [{ "definition": "ɖè", "examples": [] }] },
+  "action de dessiner": {
+    "definitions": [{ "definition": "ɖiɖe", "examples": [] }]
+  },
+  "dessiner quelque chose": {
+    "definitions": [{ "definition": "ɖè nŭ", "examples": [] }]
+  },
+  "dessiner quelqu'un": {
+    "definitions": [{ "definition": "ɖè mε", "examples": [] }]
+  },
+  "dessous": {
+    "definitions": [
+      { "definition": "glɔ̆", "examples": [] },
+      { "definition": "gwlέ", "examples": [] }
+    ]
+  },
+  "au-dessous": { "definitions": [{ "definition": "glɔ̆", "examples": [] }] },
+  "dessous du pied": {
+    "definitions": [{ "definition": "afɔkpákpá", "examples": [] }]
+  },
+  "le dessous": { "definitions": [{ "definition": "dò", "examples": [] }] },
+  "le dessous de": { "definitions": [{ "definition": "glɔ̆", "examples": [] }] },
+  "le dessous de la langue": {
+    "definitions": [{ "definition": "ɖὲglɔ́", "examples": [] }]
+  },
+  "dessus": {
+    "definitions": [
+      { "definition": "d’é nú", "examples": [] },
+      { "definition": "dŏ é nú", "examples": [] }
+    ]
+  },
+  "au-dessus de": { "definitions": [{ "definition": "jĭ", "examples": [] }] },
+  "dessus de la tête": {
+    "definitions": [{ "definition": "ahɔnlomὲ", "examples": [] }]
+  },
+  "dessus du plafond": {
+    "definitions": [{ "definition": "azají", "examples": [] }]
+  },
+  "le dessus": { "definitions": [{ "definition": "jĭ", "examples": [] }] },
+  "le dessus de la haie ou de la palissade": {
+    "definitions": [{ "definition": "kpátá", "examples": [] }]
+  },
+  "le dessus de la langue": {
+    "definitions": [{ "definition": "ɖὲtá", "examples": [] }]
+  },
+  "le dessus de la paupière": {
+    "definitions": [{ "definition": "nukúnkájí", "examples": [] }]
+  },
+  "le dessus de l'épaule": {
+    "definitions": [
+      { "definition": "abɔ̀jí", "examples": [] },
+      { "definition": "abɔ̀tá", "examples": [] }
+    ]
+  },
+  "le dessus de l'oeil": {
+    "definitions": [{ "definition": "wunta", "examples": [] }]
+  },
+  "le dessus du pied": {
+    "definitions": [{ "definition": "afɔkpákpájí", "examples": [] }]
+  },
+  "destin": { "definitions": [{ "definition": "hendówá", "examples": [] }] },
+  "destinée": {
+    "definitions": [
+      { "definition": "byɔ̀wá", "examples": [] },
+      { "definition": "s ε ́", "examples": [] }
+    ]
+  },
+  "destiner ‑ destiner une personne à une autre": {
+    "definitions": [{ "definition": "sɔ́ mε ɖŏ tè nú mε", "examples": [] }]
+  },
+  "destruction": {
+    "definitions": [{ "definition": "gbìgbá", "examples": [] }]
+  },
+  "désunion": { "definitions": [{ "definition": "klánklán", "examples": [] }] },
+  "détaché ‑ détaché de ses liens": {
+    "definitions": [{ "definition": "túntún", "examples": [] }]
+  },
+  "détaché du collier pour une perle": {
+    "definitions": [{ "definition": "xlohŭn", "examples": [] }]
+  },
+  "détaché du régime pour le fruit du palmier": {
+    "definitions": [{ "definition": "xlohŭn", "examples": [] }]
+  },
+  "détacher ‑ détacher les noix d'un régime de palmier": {
+    "definitions": [{ "definition": "sún dĕ", "examples": [] }]
+  },
+  "le fait de se détacher pour rester à part": {
+    "definitions": [{ "definition": "vojijε", "examples": [] }]
+  },
+  "se détacher (malgré les précautions prises)": {
+    "definitions": [{ "definition": "flέ", "examples": [] }]
+  },
+  "se détacher et tomber dans": {
+    "definitions": [{ "definition": "flέ kpɔ̀n", "examples": [] }]
+  },
+  "détaillant": {
+    "definitions": [{ "definition": "nùtétésátɔ́", "examples": [] }]
+  },
+  "détaillant qui vend cher un peu de tout": {
+    "definitions": [{ "definition": "tέkpátɔ́", "examples": [] }]
+  },
+  "détailler": { "definitions": [{ "definition": "cέ", "examples": [] }] },
+  "déteindre": { "definitions": [{ "definition": "jŏ", "examples": [] }] },
+  "déteint": { "definitions": [{ "definition": "saxlè", "examples": [] }] },
+  "détendre": { "definitions": [{ "definition": "gbɔ̀jɔ́", "examples": [] }] },
+  "détendre un ressort": {
+    "definitions": [{ "definition": "fέ dà", "examples": [] }]
+  },
+  "détendu ‑ être détendu": {
+    "definitions": [
+      { "definition": "bɔ̀", "examples": [] },
+      { "definition": "gbɔ̀jɔ́", "examples": [] }
+    ]
+  },
+  "être détendu (pour le ressort)": {
+    "definitions": [{ "definition": "cɔ̀", "examples": [] }]
+  },
+  "détenir": { "definitions": [{ "definition": "hὲn", "examples": [] }] },
+  "détente": {
+    "definitions": [
+      { "definition": "afɔdlέn", "examples": [] },
+      { "definition": "túnεkàn", "examples": [] }
+    ]
+  },
+  "détente d'une arme": {
+    "definitions": [{ "definition": "koklósá", "examples": [] }]
+  },
+  "détenteur ‑ détenteur de": {
+    "definitions": [{ "definition": "nɔ̀", "examples": [] }]
+  },
+  "déterminant ‑ déterminant en fin des propositions relatives.": {
+    "definitions": [{ "definition": "ɔ", "examples": [] }]
+  },
+  "déterrer": {
+    "definitions": [
+      { "definition": "hɔ̀n sín dò mὲ", "examples": [] },
+      { "definition": "kùn", "examples": [] },
+      { "definition": "kùn aziín", "examples": [] }
+    ]
+  },
+  "déterrer des ignames": {
+    "definitions": [
+      { "definition": "kùn té", "examples": [] },
+      { "definition": "kùn tè", "examples": [] }
+    ]
+  },
+  "déterrer du manioc": {
+    "definitions": [{ "definition": "hɔ̀n fεnnyέ", "examples": [] }]
+  },
+  "déterrer l'arachide lorsque la terre est dure": {
+    "definitions": [{ "definition": "kùn aziín", "examples": [] }]
+  },
+  "détestable": {
+    "definitions": [{ "definition": "nylànylá", "examples": [] }]
+  },
+  "détester": {
+    "definitions": [{ "definition": "gbɛ̆ wăn nú mɛ", "examples": [] }]
+  },
+  "détester quelqu'un": {
+    "definitions": [{ "definition": "gbε̆ wăn nú mε", "examples": [] }]
+  },
+  "détonation": { "definitions": [{ "definition": "túgbè", "examples": [] }] },
+  "détourner": { "definitions": [{ "definition": "gbàdá", "examples": [] }] },
+  "celui qui détourne tout à son profit": {
+    "definitions": [{ "definition": "nùwlóɖútɔ́", "examples": [] }]
+  },
+  "détourner la tête de quelqu'un": {
+    "definitions": [{ "definition": "ɖè kɔ̀ sín mε wŭ", "examples": [] }]
+  },
+  "détourner les yeux": {
+    "definitions": [
+      { "definition": "ɖè nukún", "examples": [] },
+      { "definition": "ɖè nukún sín wŭ", "examples": [] }
+    ]
+  },
+  "détourner quelque chose": {
+    "definitions": [{ "definition": "wlŏ nŭ ɖù", "examples": [] }]
+  },
+  "détourner quelque chose pour se faire de l'argent": {
+    "definitions": [{ "definition": "wlŏ nŭ sà", "examples": [] }]
+  },
+  "détourner une partie de la nourriture distribuée": {
+    "definitions": [{ "definition": "wlɔ̆", "examples": [] }]
+  },
+  "se détourner de": {
+    "definitions": [
+      { "definition": "ɖè kɔ̀ dŏ", "examples": [] },
+      { "definition": "ɖè ta sín", "examples": [] },
+      { "definition": "lε̆ kɔ̀ dŏ", "examples": [] }
+    ]
+  },
+  "se détourner de quelqu'un": {
+    "definitions": [{ "definition": "lilέ nukúnmὲ dŏ mε̆", "examples": [] }]
+  },
+  "se détourner dédaigneusement de quelqu'un": {
+    "definitions": [{ "definition": "ɖè kɔ̀ dŏ mε", "examples": [] }]
+  },
+  "détraqué ‑ être détraqué": {
+    "definitions": [{ "definition": "flí ta", "examples": [] }]
+  },
+  "détresse": {
+    "definitions": [{ "definition": "adàngbómε", "examples": [] }]
+  },
+  "détruire": {
+    "definitions": [
+      { "definition": "fó", "examples": [] },
+      { "definition": "gblĕ", "examples": [] },
+      { "definition": "hὲn gblĕ", "examples": [] },
+      { "definition": "hὲn kíja", "examples": [] }
+    ]
+  },
+  "détruire en éparpillant": {
+    "definitions": [{ "definition": "kíjá", "examples": [] }]
+  },
+  "détruire une famille": {
+    "definitions": [{ "definition": "sú kún dŏ", "examples": [] }]
+  },
+  "dette": { "definitions": [{ "definition": "axɔ́", "examples": [] }] },
+  "avoir une dette envers quelqu'un": {
+    "definitions": [{ "definition": "ɖù axɔ́ dŏ mε", "examples": [] }]
+  },
+  "faire des dettes": {
+    "definitions": [{ "definition": "ɖù axɔ́", "examples": [] }]
+  },
+  "deuil": { "definitions": [{ "definition": "lŭtù", "examples": [] }] },
+  "deuil de conjoint": {
+    "definitions": [{ "definition": "blεwò", "examples": [] }]
+  },
+  "deux": {
+    "definitions": [
+      { "definition": "owè", "examples": [] },
+      { "definition": "wè", "examples": [] }
+    ]
+  },
+  "deux à deux": {
+    "definitions": [
+      { "definition": "we wè", "examples": [] },
+      { "definition": "wè wè", "examples": [] },
+      { "definition": "webɔ̀ webɔ̀", "examples": [] }
+    ]
+  },
+  "deux cents": { "definitions": [{ "definition": "afɔɖé", "examples": [] }] },
+  "deux cents cauris ou cinq centimes": {
+    "definitions": [{ "definition": "akwέ afɔɖé", "examples": [] }]
+  },
+  "deux cents francs": {
+    "definitions": [{ "definition": "kpɔ́wùn tántɔ̀n", "examples": [] }]
+  },
+  "deux fois": { "definitions": [{ "definition": "azɔn wè", "examples": [] }] },
+  "deux francs cinquante": {
+    "definitions": [{ "definition": "cili wè", "examples": [] }]
+  },
+  "deux intimes": {
+    "definitions": [{ "definition": "xɔ́ntɔnxɔ́ntɔ̀n", "examples": [] }]
+  },
+  "deux mille": { "definitions": [{ "definition": "afɔwŏ", "examples": [] }] },
+  "en rang deux par deux": {
+    "definitions": [{ "definition": "webɔ̀ webɔ̀", "examples": [] }]
+  },
+  "les deux ensemble": {
+    "definitions": [{ "definition": "webɔ̀ webɔ̀", "examples": [] }]
+  },
+  "deuxième": {
+    "definitions": [
+      { "definition": "linsinmὲ", "examples": [] },
+      { "definition": "wegɔ́", "examples": [] }
+    ]
+  },
+  "deuxième cérémonie de sortie de l'enclos du vaudoun": {
+    "definitions": [{ "definition": "ahwan là", "examples": [] }]
+  },
+  "deuxième fille d'initié au vaudoun sò": {
+    "definitions": [{ "definition": "sosixwe", "examples": [] }]
+  },
+  "deuxième fils d'initié au vaudoun sò": {
+    "definitions": [{ "definition": "sosa", "examples": [] }]
+  },
+  "deuxième jumeau": {
+    "definitions": [{ "definition": "zinsú", "examples": [] }]
+  },
+  "deuxième jumelle": {
+    "definitions": [{ "definition": "dɔlù", "examples": [] }]
+  },
+  "le deuxième": {
+    "definitions": [{ "definition": "wegɔ́ ɔ́", "examples": [] }]
+  },
+  "dévaliser": { "definitions": [{ "definition": "fìn", "examples": [] }] },
+  "dévaliser quelqu'un": {
+    "definitions": [{ "definition": "fɔ̀ mε", "examples": [] }]
+  },
+  "devancer": { "definitions": [{ "definition": "jὲ nukɔ̀n", "examples": [] }] },
+  "devant ‑ devant de la jambe": {
+    "definitions": [
+      { "definition": "zàkɛ́tɛ́", "examples": [] },
+      { "definition": "zangandán", "examples": [] }
+    ]
+  },
+  "devant en a­vant au premier rang": {
+    "definitions": [{ "definition": "ɖò nukɔ̀n", "examples": [] }]
+  },
+  "devant en face": {
+    "definitions": [{ "definition": "kpàn nukɔ̀n", "examples": [] }]
+  },
+  "devant et derrière": {
+    "definitions": [{ "definition": "gŭdo nukɔ̀n", "examples": [] }]
+  },
+  "devant la maison": {
+    "definitions": [{ "definition": "hɔntò", "examples": [] }]
+  },
+  "le devant": { "definitions": [{ "definition": "nukɔ̀n", "examples": [] }] },
+  "le devant du front": {
+    "definitions": [{ "definition": "nukɔngεngέn", "examples": [] }]
+  },
+  "devanture ‑ à la devanture de la maison.": {
+    "definitions": [{ "definition": "agbŏnù", "examples": [] }]
+  },
+  "dévaster ‑ dévaster une famille": {
+    "definitions": [{ "definition": "sú kún dŏ", "examples": [] }]
+  },
+  "développement": {
+    "definitions": [{ "definition": "nukɔnyiyi", "examples": [] }]
+  },
+  "développer": {
+    "definitions": [
+      { "definition": "ɖì bè", "examples": [] },
+      { "definition": "dlε̆n", "examples": [] },
+      { "definition": "tún", "examples": [] },
+      { "definition": "vlɔ̆n", "examples": [] },
+      { "definition": "vlɔ̆n kàn", "examples": [] }
+    ]
+  },
+  "se développer": { "definitions": [{ "definition": "bè", "examples": [] }] },
+  "devenir": {
+    "definitions": [
+      { "definition": "hùzú", "examples": [] },
+      { "definition": "zùn", "examples": [] }
+    ]
+  },
+  "devenir adolescente": {
+    "definitions": [{ "definition": "wìnnyá", "examples": [] }]
+  },
+  "devenir ami": {
+    "definitions": [
+      { "definition": "hùzú xɔ́ntɔ̀n", "examples": [] },
+      { "definition": "zùn xɔ́ntɔ̀n xá mɛ", "examples": [] }
+    ]
+  },
+  "devenir aride en parlant d'un terre": {
+    "definitions": [{ "definition": "sá", "examples": [] }]
+  },
+  "devenir caduc": { "definitions": [{ "definition": "vɔ̀", "examples": [] }] },
+  "devenir chef": {
+    "definitions": [{ "definition": "yì găn jĭ", "examples": [] }]
+  },
+  "devenir clair": {
+    "definitions": [{ "definition": "hɔ̆n nukúnmὲ", "examples": [] }]
+  },
+  "devenir coutumier": {
+    "definitions": [{ "definition": "mă", "examples": [] }]
+  },
+  "devenir enceinte": {
+    "definitions": [
+      { "definition": "kέn jὲ mε wŭ", "examples": [] },
+      { "definition": "mɔ̀ xò", "examples": [] }
+    ]
+  },
+  "devenir enragé": {
+    "definitions": [{ "definition": "jὲ mà", "examples": [] }]
+  },
+  "devenir familier": {
+    "definitions": [{ "definition": "mă", "examples": [] }]
+  },
+  "devenir fou": {
+    "definitions": [
+      { "definition": "bε̆ lὲn", "examples": [] },
+      { "definition": "hùn lὲn", "examples": [] }
+    ]
+  },
+  "devenir ‑ devenir fou": {
+    "definitions": [
+      { "definition": "jὲ mà", "examples": [] },
+      { "definition": "wlĭ ta ɖù", "examples": [] }
+    ]
+  },
+  "devenir insupportable": {
+    "definitions": [{ "definition": "jὲ aglăjà", "examples": [] }]
+  },
+  "devenir inutile": {
+    "definitions": [{ "definition": "zùn nŭ yàyá", "examples": [] }]
+  },
+  "devenir invisible": {
+    "definitions": [{ "definition": "dŏ zĭn", "examples": [] }]
+  },
+  "devenir l'ennemi de quelqu'un": {
+    "definitions": [{ "definition": "dŏ kὲn mε", "examples": [] }]
+  },
+  "devenir libre": {
+    "definitions": [{ "definition": "jὲ kɔvɔ́", "examples": [] }]
+  },
+  "devenir liquide": {
+    "definitions": [{ "definition": "zùn sìn", "examples": [] }]
+  },
+  "devenir riche": {
+    "definitions": [{ "definition": "jὲ dɔkùn", "examples": [] }]
+  },
+  "devenir roi du dahomey": {
+    "definitions": [{ "definition": "xɔ̀ danxomὲ", "examples": [] }]
+  },
+  "devenir stérile": {
+    "definitions": [{ "definition": "zùn ajì", "examples": [] }]
+  },
+  "devenir touffu en parlant des arbres et des plantes": {
+    "definitions": [{ "definition": "vùn", "examples": [] }]
+  },
+  "devenir touffu et envahissant": {
+    "definitions": [{ "definition": "vùn", "examples": [] }]
+  },
+  "devenir vaudoun": {
+    "definitions": [{ "definition": "zùn vodún", "examples": [] }]
+  },
+  "devenir vieux": {
+    "definitions": [{ "definition": "dŏ xó", "examples": [] }]
+  },
+  "devenu blanc après avoir été coloré": {
+    "definitions": [{ "definition": "wŏ", "examples": [] }]
+  },
+  "dévergondé": { "definitions": [{ "definition": "avlè", "examples": [] }] },
+  "dévier": { "definitions": [{ "definition": "fέ", "examples": [] }] },
+  "devin": { "definitions": [{ "definition": "akannɔ̀", "examples": [] }] },
+  "": {
+    "definitions": [
+      { "definition": "amaxotɔ́", "examples": [] },
+      { "definition": "bokɔ́ɖáxó", "examples": [] },
+      { "definition": "fákántɔ́", "examples": [] },
+      { "definition": "mwεkantɔ́", "examples": [] },
+      { "definition": "nùkántɔ́", "examples": [] },
+      { "definition": "tɔkantɔ́", "examples": [] }
+    ]
+  },
+  "devin interprète du Fá": {
+    "definitions": [{ "definition": "bàbă", "examples": [] }]
+  },
+  "devin menteur": {
+    "definitions": [{ "definition": "bokɔ́nɔ̀ awogbogbo", "examples": [] }]
+  },
+  "devin qui consulte les morts": {
+    "definitions": [{ "definition": "asɔxotɔ́", "examples": [] }]
+  },
+  "l’un des noms honorifiques du Fá": {
+    "definitions": [{ "definition": "fa ayìdègún", "examples": [] }]
+  },
+  "deviner": { "definitions": [{ "definition": "wɔ̆", "examples": [] }] },
+  "devinette": { "definitions": [{ "definition": "nŭbasɔ́", "examples": [] }] },
+  "dévisager ‑ dévisager quelqu'un": {
+    "definitions": [{ "definition": "kpɔ́n mε tlítlí", "examples": [] }]
+  },
+  "dévoilé ‑ être dévoilé dans la consultation": {
+    "definitions": [{ "definition": "kú aɖĭ", "examples": [] }]
+  },
+  "être dévoilé dans la consultation (pour un malfaiteur)": {
+    "definitions": [{ "definition": "kú aɖĭ", "examples": [] }]
+  },
+  "être dévoilé dans une consultation d'ordalie": {
+    "definitions": [{ "definition": "kú akàn", "examples": [] }]
+  },
+  "dévoiler": { "definitions": [{ "definition": "xwlé", "examples": [] }] },
+  "dévoiler à l'avance à quelqu'un ce qui sera traité en public": {
+    "definitions": [{ "definition": "gbà kpá nú mε", "examples": [] }]
+  },
+  "dévoiler le secret du vaudoun": {
+    "definitions": [{ "definition": "gbà hùn", "examples": [] }]
+  },
+  "dévoiler un secret": {
+    "definitions": [{ "definition": "gbà xó ɖó", "examples": [] }]
+  },
+  "dévoiler un secret à quelqu'un": {
+    "definitions": [{ "definition": "gbà akpá nú mε", "examples": [] }]
+  },
+  "le dévoiler": { "definitions": [{ "definition": "wɔ̆", "examples": [] }] },
+  "se dévoiler": {
+    "definitions": [{ "definition": "gbà mεɖéé dŏ", "examples": [] }]
+  },
+  "devoir": {
+    "definitions": [
+      { "definition": "azɔ̆", "examples": [] },
+      { "definition": "ɖŏ ná", "examples": [] },
+      { "definition": "ɖŏ nă", "examples": [] },
+      { "definition": "kɔnú", "examples": [] },
+      { "definition": "tín (marque l'insistance avec ɖó ná)", "examples": [] }
+    ]
+  },
+  "devoir a quelqu'un": {
+    "definitions": [{ "definition": "ɖù axɔ́ dŏ mε", "examples": [] }]
+  },
+  "être de son devoir": {
+    "definitions": [{ "definition": "ɖò kɔ̀ mε tɔ̀n jĭ", "examples": [] }]
+  },
+  "dévorer": {
+    "definitions": [
+      { "definition": "làlá", "examples": [] },
+      { "definition": "tlέn ɖù", "examples": [] },
+      { "definition": "trέn ɖù", "examples": [] },
+      { "definition": "wlĭ ɖù", "examples": [] }
+    ]
+  },
+  "dévorer de la viande": {
+    "definitions": [{ "definition": "trέn làn ɖù", "examples": [] }]
+  },
+  "dévouement": {
+    "definitions": [
+      { "definition": "kanxixò", "examples": [] },
+      { "definition": "kanxuxò", "examples": [] },
+      { "definition": "mεkanxixo", "examples": [] }
+    ]
+  },
+  "dévouer ‑ celui qui se dévoue pour le pays": {
+    "definitions": [{ "definition": "tozɔ̀wàtɔ́", "examples": [] }]
+  },
+  "se dévouer": { "definitions": [{ "definition": "xò kàn", "examples": [] }] },
+  "dévoyé": { "definitions": [{ "definition": "zɛ̀gbĕ", "examples": [] }] },
+  "dextérité": { "definitions": [{ "definition": "acà", "examples": [] }] },
+  "diabète": { "definitions": [{ "definition": "aɖɔvìví", "examples": [] }] },
+  "diable": { "definitions": [{ "definition": "awŏvì", "examples": [] }] },
+  "diacre": {
+    "definitions": [{ "definition": "ɖὲvíɖέnɔ̀ kpogὲ", "examples": [] }]
+  },
+  "diarrhée": {
+    "definitions": [
+      { "definition": "mìsláslá", "examples": [] },
+      { "definition": "xomɛsíslá", "examples": [] },
+      { "definition": "xomɛsláslá", "examples": [] }
+    ]
+  },
+  "avoir la diarrhée": {
+    "definitions": [{ "definition": "slá xomɛ̀", "examples": [] }]
+  },
+  "dicton": { "definitions": [{ "definition": "xókwín", "examples": [] }] },
+  "diète": { "definitions": [{ "definition": "nubiblá", "examples": [] }] },
+  "dieu": {
+    "definitions": [
+      { "definition": "alɔnusέ", "examples": [] },
+      { "definition": "dadá sέgbó", "examples": [] },
+      { "definition": "gbὲ", "examples": [] },
+      { "definition": "măwŭ", "examples": [] },
+      { "definition": "sέ", "examples": [] },
+      { "definition": "sέgbó", "examples": [] }
+    ]
+  },
+  "dieu créateur": {
+    "definitions": [{ "definition": "sέmεɖó", "examples": [] }]
+  },
+  "dieu le père tout puissant": {
+    "definitions": [{ "definition": "măwù tɔ́ nŭbìwùkpétɔ́", "examples": [] }]
+  },
+  "dieu maître de tout": {
+    "definitions": [{ "definition": "măwŭ gànhúnútɔ́", "examples": [] }]
+  },
+  "le dieu créateur": {
+    "definitions": [{ "definition": "dadá sέgbó", "examples": [] }]
+  },
+  "le dieu de la foudre": {
+    "definitions": [{ "definition": "jìxɔ́sú", "examples": [] }]
+  },
+  "le dieu du tonnerre": {
+    "definitions": [{ "definition": "agbò lὲnsú", "examples": [] }]
+  },
+  "le dieu qui a découpé une partie de la terre pour créer l'homme": {
+    "definitions": [{ "definition": "sέmεkɔ́kántɔ́", "examples": [] }]
+  },
+  "diffamateur": {
+    "definitions": [{ "definition": "adingbannɔ̀", "examples": [] }]
+  },
+  "diffamation": {
+    "definitions": [
+      { "definition": "adingbàn", "examples": [] },
+      { "definition": "xókpádómɛnu", "examples": [] },
+      { "definition": "xókpíkpá", "examples": [] }
+    ]
+  },
+  "diffamer ‑ diffamer quelqu'un": {
+    "definitions": [{ "definition": "fùn mε", "examples": [] }]
+  },
+  "différemment": {
+    "definitions": [{ "definition": "alɔkpà ɖĕvo", "examples": [] }]
+  },
+  "différent": { "definitions": [{ "definition": "vovò", "examples": [] }] },
+  "de façon différente": {
+    "definitions": [{ "definition": "alɔkpa vò", "examples": [] }]
+  },
+  "être différent": {
+    "definitions": [{ "definition": "gbɔ̀n vò", "examples": [] }]
+  },
+  "différer": { "definitions": [{ "definition": "lìlέ ɖŏ", "examples": [] }] },
+  "difficile": {
+    "definitions": [
+      { "definition": "agε̆dεgὲ", "examples": [] },
+      { "definition": "gεdεdὲ", "examples": [] },
+      { "definition": "gὲdὲgέdέ", "examples": [] },
+      { "definition": "gεdεὲ", "examples": [] }
+    ]
+  },
+  "être difficile": {
+    "definitions": [
+      { "definition": "gὲdέ", "examples": [] },
+      { "definition": "hìzí", "examples": [] },
+      { "definition": "kpὲn", "examples": [] },
+      { "definition": "vɛ̆ wŭ", "examples": [] },
+      { "definition": "vε̆", "examples": [] },
+      { "definition": "xú", "examples": [] }
+    ]
+  },
+  "qualifie une terre difficile à pratiquer en temps de pluie": {
+    "definitions": [{ "definition": "vantankpánnyá", "examples": [] }]
+  },
+  "difficilement": {
+    "definitions": [{ "definition": "kpódó wuvɛ́ kpó", "examples": [] }]
+  },
+  "difficulté": {
+    "definitions": [
+      { "definition": "afyɔ̀n", "examples": [] },
+      { "definition": "nùvìvέ", "examples": [] },
+      { "definition": "nùvέwŭ", "examples": [] },
+      { "definition": "wùvɛ́", "examples": [] },
+      { "definition": "wùvìvɛ́", "examples": [] }
+    ]
+  },
+  "avec difficulté": {
+    "definitions": [{ "definition": "kpódó wuvɛ́ kpó", "examples": [] }]
+  },
+  "avoir des difficultés": {
+    "definitions": [{ "definition": "gbò mε", "examples": [] }]
+  },
+  "avoir des difficultés d'élocution": {
+    "definitions": [{ "definition": "tέ ɖε̆", "examples": [] }]
+  },
+  "les difficultés": {
+    "definitions": [{ "definition": "nùxámε", "examples": [] }]
+  },
+  "les difficultés de la vie": {
+    "definitions": [{ "definition": "gbεwuvέ", "examples": [] }]
+  },
+  "difforme": { "definitions": [{ "definition": "wɔ̆nnɔ̀", "examples": [] }] },
+  "difformité ‑ avoir quelque difformité": {
+    "definitions": [{ "definition": "gblĕ wɔ̆n", "examples": [] }]
+  },
+  "difformité congénita­le": {
+    "definitions": [{ "definition": "wɔ̆n", "examples": [] }]
+  },
+  "digne": {
+    "definitions": [
+      { "definition": "susunɔ̀", "examples": [] },
+      { "definition": "tɔsúnú", "examples": [] }
+    ]
+  },
+  "digne d’hommage": {
+    "definitions": [{ "definition": "avalúnɔ̀", "examples": [] }]
+  },
+  "ɖigne de confiance": {
+    "definitions": [{ "definition": "ɖèjìd’éwú", "examples": [] }]
+  },
+  "être digne de": {
+    "definitions": [{ "definition": "jὲ xá mε", "examples": [] }]
+  },
+  "dilapider": {
+    "definitions": [
+      { "definition": "zăn nŭ nyidò", "examples": [] },
+      { "definition": "zăn nyidò", "examples": [] }
+    ]
+  },
+  "dilapider les biens d'une maison": {
+    "definitions": [{ "definition": "vɔ̆ xwé", "examples": [] }]
+  },
+  "diligence": { "definitions": [{ "definition": "wùyɛ̀yɛ́", "examples": [] }] },
+  "diligent": { "definitions": [{ "definition": "bìbí", "examples": [] }] },
+  "dim ‑ jeu consistant à chercher un objet caché": {
+    "definitions": [{ "definition": "báɖέέ", "examples": [] }]
+  },
+  "jeu de l'escargot": {
+    "definitions": [{ "definition": "akotósísέ", "examples": [] }]
+  },
+  "dimanche ‑ dimanche de houe": {
+    "definitions": [{ "definition": "alìntín", "examples": [] }]
+  },
+  "le dimanche": {
+    "definitions": [{ "definition": "aklúnɔ́zángbè", "examples": [] }]
+  },
+  "dîme": { "definitions": [{ "definition": "kuzŭ", "examples": [] }] },
+  "dimension": { "definitions": [{ "definition": "adà", "examples": [] }] },
+  "dimension très réduite d'une chose": {
+    "definitions": [{ "definition": "kóɖókóɖó", "examples": [] }]
+  },
+  "être d'une grande dimension": {
+    "definitions": [{ "definition": "gblŏ adà", "examples": [] }]
+  },
+  "diminué ‑ diminué frauduleusement": {
+    "definitions": [{ "definition": "cícέ", "examples": [] }]
+  },
+  "diminuer": {
+    "definitions": [
+      { "definition": "ɖè kpò", "examples": [] },
+      { "definition": "ɖè kpò", "examples": [] },
+      { "definition": "kpɔ́n té", "examples": [] }
+    ]
+  },
+  "action de diminuer": {
+    "definitions": [{ "definition": "ɖiɖekpò", "examples": [] }]
+  },
+  "diminuer de grosseur": {
+    "definitions": [{ "definition": "lùn", "examples": [] }]
+  },
+  "diminuer d'intensité": {
+    "definitions": [{ "definition": "xò dɔjɔ̀", "examples": [] }]
+  },
+  "diminuer le feu": {
+    "definitions": [{ "definition": "ɖè myɔ̀ kpò", "examples": [] }]
+  },
+  "diminuer le prix": {
+    "definitions": [{ "definition": "ɖè axì kpò", "examples": [] }]
+  },
+  "diminution ‑ diminution de prix": {
+    "definitions": [{ "definition": "ɖiɖekpò", "examples": [] }]
+  },
+  "dinde": { "definitions": [{ "definition": "tlŏtlŏ", "examples": [] }] },
+  "dindon": {
+    "definitions": [
+      { "definition": "tlŏtlŏ", "examples": [] },
+      { "definition": "tlŏtlŏ asú", "examples": [] }
+    ]
+  },
+  "dindonneau": {
+    "definitions": [{ "definition": "tlotlóví", "examples": [] }]
+  },
+  "dîner ‑ dîner où l'on a invité amis et voisins": {
+    "definitions": [{ "definition": "jògbĕ", "examples": [] }]
+  },
+  "dingo": { "definitions": [{ "definition": "nùlúnɔ̀", "examples": [] }] },
+  "dire": {
+    "definitions": [
+      { "definition": "ɖɔ̀", "examples": [] },
+      { "definition": "ɖɔ̀ jí", "examples": [] }
+    ]
+  },
+  "à vrai dire": {
+    "definitions": [{ "definition": "é nyɔ́ wá ɔ́", "examples": [] }]
+  },
+  "action de dire": {
+    "definitions": [{ "definition": "ɖiɖɔ", "examples": [] }]
+  },
+  "dire à quelqu'un": {
+    "definitions": [{ "definition": "ɖɔ̀ nú mε", "examples": [] }]
+  },
+  "dire ce que l'autre n'a pas dit": {
+    "definitions": [{ "definition": "ɖŏ adingbàn dŏ mε nu", "examples": [] }]
+  },
+  "dire ce qu'on devrait taire": {
+    "definitions": [{ "definition": "ɖɔ̀ xó gbɔ̀", "examples": [] }]
+  },
+  "dire des futilités": {
+    "definitions": [
+      { "definition": "ɖɔ̀ gblŏ", "examples": [] },
+      { "definition": "fàn gblŏ", "examples": [] }
+    ]
+  },
+  "dire des louanges d'un vaudoun pour obtenir quelque chose de lui": {
+    "definitions": [{ "definition": "xò ɖɛ̀ nú vodún", "examples": [] }]
+  },
+  "dire des paroles déplacées": {
+    "definitions": [
+      { "definition": "ɖɔ̀ nŭ nyidò", "examples": [] },
+      { "definition": "ɖɔ̀ xó nyidò", "examples": [] }
+    ]
+  },
+  "dire des paroles incohérentes": {
+    "definitions": [
+      { "definition": "ɖɔ̀ gblŏ", "examples": [] },
+      { "definition": "fàn gblŏ", "examples": [] }
+    ]
+  },
+  "dire des paroles oiseuses": {
+    "definitions": [{ "definition": "ɖɔ̀ gblŏ", "examples": [] }]
+  },
+  "dire des sottises": {
+    "definitions": [
+      { "definition": "ɖɔ̀ gbòló", "examples": [] },
+      { "definition": "ɖɔ̀ lὲló", "examples": [] }
+    ]
+  },
+  "dire du mal": {
+    "definitions": [{ "definition": "kὲ nu nyanya", "examples": [] }]
+  },
+  "dire du mal de lui": {
+    "definitions": [{ "definition": "ɖè dŏ mε", "examples": [] }]
+  },
+  "dire du mal de quelqu'un": {
+    "definitions": [
+      { "definition": "ɖɔ̀ nŭ dìdá dŏ mε wŭ", "examples": [] },
+      { "definition": "ɖɔ̀ nŭ nyanya dŏ mε wŭ", "examples": [] },
+      { "definition": "mεfunfun", "examples": [] }
+    ]
+  },
+  "dire du mal des gens": {
+    "definitions": [{ "definition": "ɖɔ̀ dànŭ nú mε", "examples": [] }]
+  },
+  "dire en secret à quelqu'un": {
+    "definitions": [{ "definition": "ɖè kpá mε", "examples": [] }]
+  },
+  "dire la parole rituelle pour que le bô soit efficace": {
+    "definitions": [{ "definition": "sà gbè", "examples": [] }]
+  },
+  "dire la prière de supplication appelée bolu": {
+    "definitions": [{ "definition": "nyì bɔlŭ", "examples": [] }]
+  },
+  "dire la vérité": {
+    "definitions": [{ "definition": "ɖɔ̀ nùgbó", "examples": [] }]
+  },
+  "dire sa faute": {
+    "definitions": [{ "definition": "ɖɔ̀ hwὲ", "examples": [] }]
+  },
+  "dire ses péchés": {
+    "definitions": [{ "definition": "ɖɔ̀ hwὲ", "examples": [] }]
+  },
+  "dire un bon mot pour la première fois": {
+    "definitions": [{ "definition": "dŏ nùbyáxà", "examples": [] }]
+  },
+  "dire un bon mot qui s'est transmis à la postérité": {
+    "definitions": [{ "definition": "dŏ nùbyáxà", "examples": [] }]
+  },
+  "dire un conte": {
+    "definitions": [{ "definition": "ɖɔ̀ hwenuxó", "examples": [] }]
+  },
+  "dire un mot pour un autre": {
+    "definitions": [{ "definition": "flán ɖε̆", "examples": [] }]
+  },
+  "dire un proverbe": {
+    "definitions": [{ "definition": "dŏ lŏ", "examples": [] }]
+  },
+  "dire ‑ dire une formule magique": {
+    "definitions": [{ "definition": "sà gbè", "examples": [] }]
+  },
+  "dire une incantation contre quelqu'un": {
+    "definitions": [{ "definition": "ylɔ̆ nùnyĭ nú mɛ", "examples": [] }]
+  },
+  "dire une incantation maléfique (appeler le nom d'une chose qu'on ne doit pas prononcer)": {
+    "definitions": [{ "definition": "ylɔ̆ nŭnyĭ", "examples": [] }]
+  },
+  "dire une parabole": {
+    "definitions": [{ "definition": "dŏ lŏ", "examples": [] }]
+  },
+  "dire une parole": {
+    "definitions": [{ "definition": "kὲ nu ɖokpó", "examples": [] }]
+  },
+  "dire ‑ dire une sentence": {
+    "definitions": [{ "definition": "dŏ nùbyáxà", "examples": [] }]
+  },
+  "dit-on": { "definitions": [{ "definition": "enyíì", "examples": [] }] },
+  "jeter un sort à quelqu'un": {
+    "definitions": [{ "definition": "ylɔ̆ nùnyĭ nú mε", "examples": [] }]
+  },
+  "direct ‑ être direct": {
+    "definitions": [{ "definition": "jlɔ̆", "examples": [] }]
+  },
+  "directement": { "definitions": [{ "definition": "gúwún", "examples": [] }] },
+  "directeur": { "definitions": [{ "definition": "găn", "examples": [] }] },
+  "directeur d'école": {
+    "definitions": [{ "definition": "wèmàxɔ́mɛ́gán", "examples": [] }]
+  },
+  "directeur des pompes funèbres (dànkpégân). pour remplacer, la nuit, le nom d'afintln": {
+    "definitions": [{ "definition": "dɔ̀nnúgán", "examples": [] }]
+  },
+  "diriger ‑ diriger quelqu'un": {
+    "definitions": [{ "definition": "kplá mε gbɔ̀n alixò", "examples": [] }]
+  },
+  "se diriger vers": {
+    "definitions": [
+      { "definition": "dŏ kɔ̀", "examples": [] },
+      { "definition": "jlɔ̆ dŏ", "examples": [] },
+      { "definition": "kpàn tà", "examples": [] }
+    ]
+  },
+  "discerner": {
+    "definitions": [{ "definition": "tuwùn ɖŏ vò", "examples": [] }]
+  },
+  "disciple": {
+    "definitions": [
+      { "definition": "ahwanvú", "examples": [] },
+      { "definition": "azɔ̀kplɔ́nví", "examples": [] },
+      { "definition": "nùkplɔ́ntɔ́", "examples": [] },
+      { "definition": "nùkplɔ́nví", "examples": [] }
+    ]
+  },
+  "discordant ‑ être discordant": {
+    "definitions": [{ "definition": "fàn", "examples": [] }]
+  },
+  "discorde": { "definitions": [{ "definition": "kὲn", "examples": [] }] },
+  "action de semer la discorde dans une contrée": {
+    "definitions": [{ "definition": "togbibga", "examples": [] }]
+  },
+  "celui qui met la discorde dans les familles": {
+    "definitions": [{ "definition": "gbaxwégbáxwé", "examples": [] }]
+  },
+  "discourir ‑ discourir interminablement": {
+    "definitions": [{ "definition": "lɛ̀ xóglé", "examples": [] }]
+  },
+  "discours": {
+    "definitions": [
+      { "definition": "xóɖíɖɔ́", "examples": [] },
+      { "definition": "xóɖúɖɔ́", "examples": [] }
+    ]
+  },
+  "discours interminable (comme un sillon que l'on trace)": {
+    "definitions": [{ "definition": "xóglélílɛ́", "examples": [] }]
+  },
+  "discret ‑ être discret": {
+    "definitions": [{ "definition": "nyɔ̆ xó hὲn xomὲ", "examples": [] }]
+  },
+  "discrètement": {
+    "definitions": [
+      { "definition": "cábέcábέ", "examples": [] },
+      { "definition": "cέbέcέbέ", "examples": [] },
+      { "definition": "klέwún", "examples": [] },
+      { "definition": "klέwún klέwún", "examples": [] },
+      { "definition": "lílílí", "examples": [] },
+      { "definition": "lwέέ", "examples": [] },
+      { "definition": "lέέ", "examples": [] },
+      { "definition": "wayɛ", "examples": [] }
+    ]
+  },
+  "discussion": {
+    "definitions": [
+      { "definition": "jlὲ", "examples": [] },
+      { "definition": "xófínflán", "examples": [] },
+      { "definition": "xóflánflán", "examples": [] }
+    ]
+  },
+  "discussion chaude et continuelle": {
+    "definitions": [{ "definition": "adɔndundɔn", "examples": [] }]
+  },
+  "discuter": { "definitions": [{ "definition": "dɔ̀n nŭ", "examples": [] }] },
+  "discuter le prix d'un travail": {
+    "definitions": [{ "definition": "ɖè azɔxí", "examples": [] }]
+  },
+  "discuter le prix d'une tâche": {
+    "definitions": [{ "definition": "ɖè azɔxí", "examples": [] }]
+  },
+  "discuter le prix pour obtenir un rabais": {
+    "definitions": [{ "definition": "ɖè axì", "examples": [] }]
+  },
+  "disette": { "definitions": [{ "definition": "hìhán", "examples": [] }] },
+  "disgrâce": { "definitions": [{ "definition": "afɔkú", "examples": [] }] },
+  "disgracieux": {
+    "definitions": [{ "definition": "nylă kàn", "examples": [] }]
+  },
+  "être disgracieux": {
+    "definitions": [{ "definition": "nylă kàn", "examples": [] }]
+  },
+  "dislocation": {
+    "definitions": [{ "definition": "wùɖìɖɔ́", "examples": [] }]
+  },
+  "disloquer": { "definitions": [{ "definition": "gblĕ", "examples": [] }] },
+  "se disloquer": {
+    "definitions": [{ "definition": "wŭ ɖɔ̀", "examples": [] }]
+  },
+  "disparaître": {
+    "definitions": [
+      { "definition": "blĭ", "examples": [] },
+      { "definition": "bŭ", "examples": [] },
+      { "definition": "dŏ zĭn", "examples": [] },
+      { "definition": "sí", "examples": [] }
+    ]
+  },
+  "action de disparaître mystérieusement": {
+    "definitions": [{ "definition": "fifo", "examples": [] }]
+  },
+  "disparaître aux regards": {
+    "definitions": [{ "definition": "xwɛ̀", "examples": [] }]
+  },
+  "disparaître en parlant d'une bosse": {
+    "definitions": [{ "definition": "mìmí", "examples": [] }]
+  },
+  "disparaître mystérieusement": {
+    "definitions": [{ "definition": "dŏ zĭn", "examples": [] }]
+  },
+  "dispendieux": {
+    "definitions": [{ "definition": "vε̆ axì", "examples": [] }]
+  },
+  "dispensaire": {
+    "definitions": [{ "definition": "dotóxwé", "examples": [] }]
+  },
+  "dispersé ‑ être dispersé": {
+    "definitions": [{ "definition": "dɔ̀n", "examples": [] }]
+  },
+  "disperser": {
+    "definitions": [
+      { "definition": "fúnfún", "examples": [] },
+      { "definition": "gbà dŏ", "examples": [] }
+    ]
+  },
+  "se disperser": {
+    "definitions": [
+      { "definition": "gbà dŏ", "examples": [] },
+      { "definition": "kὲn", "examples": [] }
+    ]
+  },
+  "se disperser en désordre": {
+    "definitions": [{ "definition": "gbà dεnɖὲn", "examples": [] }]
+  },
+  "se disperser rapidement": {
+    "definitions": [{ "definition": "kíjá", "examples": [] }]
+  },
+  "disponible": { "definitions": [{ "definition": "xolólo", "examples": [] }] },
+  "dispos": { "definitions": [{ "definition": "yɛyɛ́", "examples": [] }] },
+  "être dispos": { "definitions": [{ "definition": "wŭ yă", "examples": [] }] },
+  "disposer": {
+    "definitions": [
+      { "definition": "blŏ ɖŏ", "examples": [] },
+      { "definition": "ɖŏ", "examples": [] }
+    ]
+  },
+  "disposer ‑ disposer au-dessus de": {
+    "definitions": [{ "definition": "tɔ̀", "examples": [] }]
+  },
+  "disposition ‑ disposition habituelle à s'intéresser aux autres": {
+    "definitions": [{ "definition": "yakénúmɛ", "examples": [] }]
+  },
+  "disposition habituelle pour accueillir la parole": {
+    "definitions": [{ "definition": "yĭsè", "examples": [] }]
+  },
+  "disposition morale": {
+    "definitions": [{ "definition": "ayì", "examples": [] }]
+  },
+  "dispute": { "definitions": [{ "definition": "adɔ̀n", "examples": [] }] },
+  "disputer": { "definitions": [{ "definition": "dɔ̀n adɔ̀n", "examples": [] }] },
+  "le fait de se disputer quelque chose ou quelqu'un": {
+    "definitions": [{ "definition": "nùhwlὲnhwlέn", "examples": [] }]
+  },
+  "se disputer": {
+    "definitions": [
+      { "definition": "ɖɔ̀ jlὲ", "examples": [] },
+      { "definition": "ɖɔ̀ jlε̆", "examples": [] },
+      { "definition": "ɖɔ̀ jlε̆ xá mε", "examples": [] }
+    ]
+  },
+  "se disputer quelque chose": {
+    "definitions": [{ "definition": "hwlε̆n", "examples": [] }]
+  },
+  "dissimulateur": {
+    "definitions": [
+      { "definition": "awlinmεdàn", "examples": [] },
+      { "definition": "ayìhizihízí", "examples": [] },
+      { "definition": "blὲgó", "examples": [] }
+    ]
+  },
+  "dissimulation": {
+    "definitions": [
+      { "definition": "awlinmεnú", "examples": [] },
+      { "definition": "nùhízíhízí", "examples": [] },
+      { "definition": "nùhwìhwlá", "examples": [] },
+      { "definition": "nùhwlàhwlá", "examples": [] }
+    ]
+  },
+  "dissimuler ‑ se dissimuler": {
+    "definitions": [{ "definition": "bὲ", "examples": [] }]
+  },
+  "dissiper ‑ se dissiper": {
+    "definitions": [{ "definition": "kὲn", "examples": [] }]
+  },
+  "distance ‑ indique une grande distance": {
+    "definitions": [{ "definition": "vanavíní", "examples": [] }]
+  },
+  "distant": { "definitions": [{ "definition": "céɖéé", "examples": [] }] },
+  "distendu ‑ être distendu": {
+    "definitions": [{ "definition": "ɖɔ̀", "examples": [] }]
+  },
+  "distillation ‑ ce qui reste du vin de palme après distillation": {
+    "definitions": [{ "definition": "atangɔ", "examples": [] }]
+  },
+  "distiller": { "definitions": [{ "definition": "fúnfún", "examples": [] }] },
+  "distinctement": {
+    "definitions": [
+      { "definition": "klolò", "examples": [] },
+      { "definition": "kloloò", "examples": [] }
+    ]
+  },
+  "distinctement et avec maîtrise": {
+    "definitions": [{ "definition": "xéɖéxéɖé", "examples": [] }]
+  },
+  "distribuer ‑ celui qui distribue la nourriture": {
+    "definitions": [{ "definition": "nùɖúɖúɖímátɔ́", "examples": [] }]
+  },
+  "distribuer la tâche": {
+    "definitions": [{ "definition": "kán azɔ̆ nú mε", "examples": [] }]
+  },
+  "dit": { "definitions": [{ "definition": "ɖiɖɔ", "examples": [] }] },
+  "diurétique": {
+    "definitions": [{ "definition": "aɖɔ̀másín", "examples": [] }]
+  },
+  "divagation": { "definitions": [{ "definition": "gblŏ", "examples": [] }] },
+  "divaguer": { "definitions": [{ "definition": "fàn gblŏ", "examples": [] }] },
+  "divers": {
+    "definitions": [
+      { "definition": "alɔkpalɔkpà", "examples": [] },
+      { "definition": "tεnmε tεnmὲ", "examples": [] }
+    ]
+  },
+  "divers agents permanents de l'état": {
+    "definitions": [{ "definition": "nùɖénùɖéwátɔ́", "examples": [] }]
+  },
+  "divers spécialistes en tous domaines": {
+    "definitions": [{ "definition": "nùɖénùɖéwátɔ́", "examples": [] }]
+  },
+  "divertissement": {
+    "definitions": [{ "definition": "ayihún", "examples": [] }]
+  },
+  "divination": {
+    "definitions": [{ "definition": "nùkikán", "examples": [] }]
+  },
+  "divinité ‑ divinité de la religion traditionnelle en pays fɔ̀n": {
+    "definitions": [{ "definition": "hùn", "examples": [] }]
+  },
+  "divinité de la terre": {
+    "definitions": [{ "definition": "àyìxɔ́sú", "examples": [] }]
+  },
+  "divinité d'en haut": {
+    "definitions": [{ "definition": "agàvodún", "examples": [] }]
+  },
+  "divinité des armes et de la guerre": {
+    "definitions": [{ "definition": "gŭ", "examples": [] }]
+  },
+  "divinité des xweda": {
+    "definitions": [{ "definition": "dangbé", "examples": [] }]
+  },
+  "divinité protectrice de la cité": {
+    "definitions": [{ "definition": "vodún tojikpàntà", "examples": [] }]
+  },
+  "divinité protectrice.": {
+    "definitions": [{ "definition": "agbŏ", "examples": [] }]
+  },
+  "sorte de divinité yoruba que l'on orne avec des bijoux et des pagnes de femme": {
+    "definitions": [{ "definition": "yalóɖè", "examples": [] }]
+  },
+  "diviser": {
+    "definitions": [
+      { "definition": "mă", "examples": [] },
+      { "definition": "vlɔ̆", "examples": [] }
+    ]
+  },
+  "action de diviser": {
+    "definitions": [{ "definition": "togbibga", "examples": [] }]
+  },
+  "division": { "definitions": [{ "definition": "klánklán", "examples": [] }] },
+  "divorce ‑ divorce demandé par la femme": {
+    "definitions": [{ "definition": "asúgbígbέ", "examples": [] }]
+  },
+  "divorce demandé par le mari": {
+    "definitions": [{ "definition": "asigbibé", "examples": [] }]
+  },
+  "prétexte de divorce de la part de l'épouse": {
+    "definitions": [{ "definition": "asúgbígbέnú", "examples": [] }]
+  },
+  "prétexte de divorce de la part du mari": {
+    "definitions": [{ "definition": "asigbigbέnú", "examples": [] }]
+  },
+  "divorcer": { "definitions": [{ "definition": "gbε̆ asì", "examples": [] }] },
+  "divulguer": {
+    "definitions": [
+      { "definition": "ɖŏ gàn", "examples": [] },
+      { "definition": "gbà xó ɖó tomɛ̀", "examples": [] }
+    ]
+  },
+  "divulguer les secrets de quelqu'un": {
+    "definitions": [{ "definition": "fùn mε", "examples": [] }]
+  },
+  "divulguer une chose": {
+    "definitions": [{ "definition": "gbà xó kpé tomɛ̀", "examples": [] }]
+  },
+  "divulguer une chose que l'on devrait garder secrète": {
+    "definitions": [{ "definition": "gbà xô kpé tomὲ", "examples": [] }]
+  },
+  "divulguer une chose qui devrait rester secrète": {
+    "definitions": [{ "definition": "gbà xó ɖó tomὲ", "examples": [] }]
+  },
+  "dix": { "definitions": [{ "definition": "wŏ", "examples": [] }] },
+  "dix francs": {
+    "definitions": [{ "definition": "ɖɔ̆la wè", "examples": [] }]
+  },
+  "dixième": { "definitions": [{ "definition": "wogɔ́", "examples": [] }] },
+  "le dixième": {
+    "definitions": [{ "definition": "wòvlɔ́ɖó", "examples": [] }]
+  },
+  "djellaba": { "definitions": [{ "definition": "jεlabá", "examples": [] }] },
+  "docteur ‑ docteur de la loi": {
+    "definitions": [{ "definition": "sέndótɔ́", "examples": [] }]
+  },
+  "dodu": { "definitions": [{ "definition": "kpɔnnɔɔ̀", "examples": [] }] },
+  "doigt": { "definitions": [{ "definition": "alɔví", "examples": [] }] },
+  "l'homme à cinq doigts": {
+    "definitions": [{ "definition": "atwέn", "examples": [] }]
+  },
+  "petit doigt": {
+    "definitions": [
+      { "definition": "alɔvíɖòtoé", "examples": [] },
+      { "definition": "alɔvítókέ", "examples": [] },
+      { "definition": "tétéɖéví", "examples": [] }
+    ]
+  },
+  "domaine": { "definitions": [{ "definition": "kàn", "examples": [] }] },
+  "domestique": {
+    "definitions": [
+      { "definition": "deví", "examples": [] },
+      { "definition": "mεɖomεkannu", "examples": [] },
+      { "definition": "mεɖomεkpá", "examples": [] }
+    ]
+  },
+  "domicile": { "definitions": [{ "definition": "xwé", "examples": [] }] },
+  "au domicile": {
+    "definitions": [{ "definition": "xwé gbè", "examples": [] }]
+  },
+  "dominateur": {
+    "definitions": [{ "definition": "acεkpatɔ́", "examples": [] }]
+  },
+  "dominer": {
+    "definitions": [
+      { "definition": "bwébwé", "examples": [] },
+      { "definition": "ɖù gă", "examples": [] },
+      { "definition": "ɖù găn", "examples": [] },
+      { "definition": "ɖù găn nú mε", "examples": [] },
+      { "definition": "kpà àcὲ", "examples": [] },
+      { "definition": "kpà acὲ nú mε", "examples": [] },
+      { "definition": "kpé wŭ", "examples": [] }
+    ]
+  },
+  "celui qui domine les autres": {
+    "definitions": [{ "definition": "mεhúgănmὲ", "examples": [] }]
+  },
+  "dominer quelqu'un": {
+    "definitions": [{ "definition": "ɖù ɖò mε jí", "examples": [] }]
+  },
+  "dommage": { "definitions": [{ "definition": "gùgú", "examples": [] }] },
+  "qui n'a subit aucun dommage": {
+    "definitions": [{ "definition": "nùtímáwà", "examples": [] }]
+  },
+  "don": {
+    "definitions": [
+      { "definition": "fέnú", "examples": [] },
+      { "definition": "nùnámε", "examples": [] },
+      { "definition": "nùnìná", "examples": [] }
+    ]
+  },
+  "don de dieu": {
+    "definitions": [{ "definition": "sέnúnámε", "examples": [] }]
+  },
+  "don en espèce et en nature": {
+    "definitions": [{ "definition": "zojɛ̀xwéjí", "examples": [] }]
+  },
+  "donateur": { "definitions": [{ "definition": "nùnámεtɔ́", "examples": [] }] },
+  "donc": {
+    "definitions": [
+      { "definition": "hŭn", "examples": [] },
+      { "definition": "ká", "examples": [] },
+      { "definition": "lá", "examples": [] }
+    ]
+  },
+  "donc !": { "definitions": [{ "definition": "lóo !", "examples": [] }] },
+  "donner": { "definitions": [{ "definition": "nă", "examples": [] }] },
+  "action de donner": {
+    "definitions": [{ "definition": "nùnámε", "examples": [] }]
+  },
+  "action de donner de l'argent": {
+    "definitions": [{ "definition": "àkwέníná", "examples": [] }]
+  },
+  "action de donner des ordres": {
+    "definitions": [
+      { "definition": "zìnzɔ́n", "examples": [] },
+      { "definition": "zùnzɔ́n", "examples": [] }
+    ]
+  },
+  "action de donner un commandement": {
+    "definitions": [
+      { "definition": "sέndídó", "examples": [] },
+      { "definition": "sέndúdó", "examples": [] }
+    ]
+  },
+  "action de donner un coup de pied": {
+    "definitions": [{ "definition": "afɔsɔ́mε", "examples": [] }]
+  },
+  "action de donner un ordre à quelqu'un": {
+    "definitions": [{ "definition": "gbeɖedómε", "examples": [] }]
+  },
+  "action de passer commande": {
+    "definitions": [{ "definition": "zùnzɔ́n", "examples": [] }]
+  },
+  "donner à boire à quelqu'un": {
+    "definitions": [{ "definition": "nă sìn mε", "examples": [] }]
+  },
+  "donner à boire à quelqu'un en portant le récipient jusqu'à sa bouche": {
+    "definitions": [{ "definition": "kpé nú mε", "examples": [] }]
+  },
+  "donner à manger à quelqu'un (bébé, malade) en lui portant la nourriture à la bouche": {
+    "definitions": [{ "definition": "dŏ nŭ nú mε", "examples": [] }]
+  },
+  "donner à manger au vaudoun en lui sacrifiant des animaux ou en lui offrant d'autres mets qu'il affectionne": {
+    "definitions": [{ "definition": "nă nùɖúɖú vodún", "examples": [] }]
+  },
+  "donner à quelqu’un une partie de son gain": {
+    "definitions": [{ "definition": "gbà gbè nú mε", "examples": [] }]
+  },
+  "donner à quelqu'un un coup de poing dans l'oeil (en lui faisant voir trente six chandelles)": {
+    "definitions": [{ "definition": "flɔ́ nukún nú mε", "examples": [] }]
+  },
+  "donner de l’argent à quelqu’un qui fait une annonce dans une assemblée": {
+    "definitions": [{ "definition": "gbà gbè nú mε", "examples": [] }]
+  },
+  "donner de l’argent pour faire la cérémonie d’un défunt": {
+    "definitions": [{ "definition": "gbò mɔɖɔ̀", "examples": [] }]
+  },
+  "donner de la bouillie à boire à quelqu'un en portant le récipient à sa bouche": {
+    "definitions": [{ "definition": "kpé kókó nú mε", "examples": [] }]
+  },
+  "donner de l'angoisse": {
+    "definitions": [{ "definition": "myá nukún", "examples": [] }]
+  },
+  "donner de l'argent à quelqu'un (argent qu'il avait laissé en dépôt)": {
+    "definitions": [{ "definition": "sɔ́ akwέ nú mε", "examples": [] }]
+  },
+  "donner de l'embarras gastrique": {
+    "definitions": [{ "definition": "jĭ gò nú mε", "examples": [] }]
+  },
+  "donner des conseils à quelqu'un": {
+    "definitions": [{ "definition": "kplɔ́n nŭ mε", "examples": [] }]
+  },
+  "donner des coups à quelque chose": {
+    "definitions": [{ "definition": "cò", "examples": [] }]
+  },
+  "donner des coups de bâton à quelqu'un": {
+    "definitions": [{ "definition": "găn kpò nú mε", "examples": [] }]
+  },
+  "donner des coups de corne": {
+    "definitions": [{ "definition": "sɔ́ zò", "examples": [] }]
+  },
+  "donner des coups de poing": {
+    "definitions": [
+      { "definition": "nyì akodokwín", "examples": [] },
+      { "definition": "nyì kwín", "examples": [] }
+    ]
+  },
+  "donner des exemples": {
+    "definitions": [{ "definition": "jlε̆", "examples": [] }]
+  },
+  "donner des feuilles nouvelles": {
+    "definitions": [
+      { "definition": "gbὲ amà", "examples": [] },
+      { "definition": "zɔ́n amà", "examples": [] }
+    ]
+  },
+  "donner des marques d'amour": {
+    "definitions": [{ "definition": "ɖŏ hè", "examples": [] }]
+  },
+  "donner du ballonnement intestinal": {
+    "definitions": [{ "definition": "jĭ gò nú mε", "examples": [] }]
+  },
+  "donner du poison à quelqu'un": {
+    "definitions": [{ "definition": "dŏ nŭ nŭ mὲ nú mε", "examples": [] }]
+  },
+  "donner du souci": {
+    "definitions": [{ "definition": "myá nukún", "examples": [] }]
+  },
+  "donner en lo­cation": {
+    "definitions": [
+      { "definition": "xayà", "examples": [] },
+      { "definition": "xɛ́yà", "examples": [] }
+    ]
+  },
+  "donner envie": {
+    "definitions": [{ "definition": "dɔ̀n mε", "examples": [] }]
+  },
+  "donner gratuitement quelque chose à quelqu'un": {
+    "definitions": [{ "definition": "jɔ̀ wŭ mε", "examples": [] }]
+  },
+  "donner la cadence avec le gong": {
+    "definitions": [{ "definition": "xò gàn", "examples": [] }]
+  },
+  "donner la dot": {
+    "definitions": [{ "definition": "jŏ agbàn nú mε", "examples": [] }]
+  },
+  "donner la fessée à quelqu'un": {
+    "definitions": [{ "definition": "gbà yonu nú mε", "examples": [] }]
+  },
+  "donner la main à quelqu'un": {
+    "definitions": [{ "definition": "nă alɔ̀ mε", "examples": [] }]
+  },
+  "donner la permission à quelqu'un": {
+    "definitions": [{ "definition": "ɖè gbè nú mε", "examples": [] }]
+  },
+  "donner la réponse sur quelque chose à quelqu'un": {
+    "definitions": [{ "definition": "flɔ́n nŭ nú mε", "examples": [] }]
+  },
+  "donner la vie": {
+    "definitions": [{ "definition": "nă gbὲ", "examples": [] }]
+  },
+  "donner l'accolade à quelqu'un": {
+    "definitions": [{ "definition": "kplá así kɔ̀ nú mε", "examples": [] }]
+  },
+  "donner le sein": {
+    "definitions": [{ "definition": "nă anɔ̆", "examples": [] }]
+  },
+  "donner le signalement de quelqu'un": {
+    "definitions": [{ "definition": "jlε̆ mε", "examples": [] }]
+  },
+  "donner le signalement de quelqu'un à un autre (pour le lui faire connaître)": {
+    "definitions": [{ "definition": "dŏ gisí mε nú mε", "examples": [] }]
+  },
+  "donner les grandes lignes d'une affaire sans entrer dans les détails": {
+    "definitions": [{ "definition": "jà xó", "examples": [] }]
+  },
+  "donner par dessus le marché": {
+    "definitions": [{ "definition": "sɔ́ dŏ ná xú ná", "examples": [] }]
+  },
+  "donner quelqu’un en mariage à quelqu’un": {
+    "definitions": [{ "definition": "sɔ́ mε dà nú mε", "examples": [] }]
+  },
+  "donner quelque chose pour ce que tu me demandes (ex demande de pot de vin une administration)": {
+    "definitions": [{ "definition": "kpà sìn", "examples": [] }]
+  },
+  "donner quelques coups de chicotte à quelqu'un (qui a évité le reste)": {
+    "definitions": [{ "definition": "gblă bă mε", "examples": [] }]
+  },
+  "donner quelqu'un en otage": {
+    "definitions": [{ "definition": "sɔ́ mε ɖŏ tè", "examples": [] }]
+  },
+  "donner sa part à quelqu'un": {
+    "definitions": [{ "definition": "nă kanta mε", "examples": [] }]
+  },
+  "donner son tranchant à un couteau": {
+    "definitions": [{ "definition": "tέn jìví", "examples": [] }]
+  },
+  "donner tort à quelqu'un": {
+    "definitions": [{ "definition": "gblĕ hwὲ dŏ ta nú mε", "examples": [] }]
+  },
+  "donner tous les détails d'une affaire à quelqu'un": {
+    "definitions": [{ "definition": "cyán xó xá mε", "examples": [] }]
+  },
+  "donner un aperçu général": {
+    "definitions": [{ "definition": "flán", "examples": [] }]
+  },
+  "donner un baiser": {
+    "definitions": [
+      { "definition": "kísì", "examples": [] },
+      { "definition": "sì", "examples": [] }
+    ]
+  },
+  "donner un baiser à quelqu'un": {
+    "definitions": [{ "definition": "gbìngbɔ́n klέn nú mε", "examples": [] }]
+  },
+  "donner un banquet": {
+    "definitions": [{ "definition": "tέ távo ɖaxó", "examples": [] }]
+  },
+  "donner un cadeau en argent à un chanteur pour lui montrer qu'on apprécie son chant": {
+    "definitions": [{ "definition": "xɔ̀ hàn nú mε", "examples": [] }]
+  },
+  "donner un capital commercial à une fille": {
+    "definitions": [{ "definition": "ɖŏ agbàn ta nú mε", "examples": [] }]
+  },
+  "donner un coup": { "definitions": [{ "definition": "xú", "examples": [] }] },
+  "donner un coup à quelqu'un avec la main ouverte": {
+    "definitions": [{ "definition": "dŏ alɔ fέn mε", "examples": [] }]
+  },
+  "donner un coup dans les yeux": {
+    "definitions": [{ "definition": "gbà nukún", "examples": [] }]
+  },
+  "donner un coup de bec": {
+    "definitions": [{ "definition": "xú bɛ̆", "examples": [] }]
+  },
+  "donner un coup de couteau (à une personne, à un objet)": {
+    "definitions": [{ "definition": "xú jìvĭ", "examples": [] }]
+  },
+  "donner un coup de pied à quelqu'un": {
+    "definitions": [
+      { "definition": "sɔ́ afɔ dó xo mε", "examples": [] },
+      { "definition": "sɔ́ afɔ̀ mε", "examples": [] }
+    ]
+  },
+  "donner un coup de poing": {
+    "definitions": [{ "definition": "nyì gusú", "examples": [] }]
+  },
+  "donner un coup de poing à quelqu'un": {
+    "definitions": [{ "definition": "dŏ gusú mε", "examples": [] }]
+  },
+  "donner un enfant à un homme": {
+    "definitions": [{ "definition": "jì vĭ nú mε", "examples": [] }]
+  },
+  "donner un grand coup de fouet à quelqu'un": {
+    "definitions": [{ "definition": "lὲ bă nú mε", "examples": [] }]
+  },
+  "donner un nom à quelqu'un": {
+    "definitions": [
+      { "definition": "sùn nyĭ mε", "examples": [] },
+      { "definition": "sùn nyikɔ́ mε", "examples": [] }
+    ]
+  },
+  "donner ‑ donner un remède à quelqu'un": {
+    "definitions": [{ "definition": "dŏ amà mε", "examples": [] }]
+  },
+  "donner un surnom à quelqu'un": {
+    "definitions": [{ "definition": "ɖŏ nyĭ nú mε", "examples": [] }]
+  },
+  "donner une amende à quelqu'un": {
+    "definitions": [{ "definition": "kán àkwέ nú mε", "examples": [] }]
+  },
+  "donner une chiquenaude": {
+    "definitions": [{ "definition": "sέ sέ", "examples": [] }]
+  },
+  "donner une décoration à quelqu'un": {
+    "definitions": [{ "definition": "ɖŏ wŭntùn nŭ", "examples": [] }]
+  },
+  "donner une fessée": {
+    "definitions": [{ "definition": "xò yonu", "examples": [] }]
+  },
+  "donner une gifle": {
+    "definitions": [
+      { "definition": "gbà tómὲ", "examples": [] },
+      { "definition": "xò tómὲ", "examples": [] }
+    ]
+  },
+  "donner une gifle sur la joue": {
+    "definitions": [{ "definition": "dŏ nŭ klέn jĭ nú mε", "examples": [] }]
+  },
+  "donner une permission": {
+    "definitions": [{ "definition": "nă gbè", "examples": [] }]
+  },
+  "imposer un nom à quelqu'un": {
+    "definitions": [{ "definition": "sùn nyìkɔ́ mε", "examples": [] }]
+  },
+  "le fait de donner un nom": {
+    "definitions": [{ "definition": "nyìsúnsún", "examples": [] }]
+  },
+  "le fait de donner un nom à quelqu'un": {
+    "definitions": [{ "definition": "nyìsúnmε", "examples": [] }]
+  },
+  "le fait de donner une fille en mariage": {
+    "definitions": [{ "definition": "vìnàsú", "examples": [] }]
+  },
+  "donner ‑ le fait de se donner de la peine": {
+    "definitions": [{ "definition": "kotokítí", "examples": [] }]
+  },
+  "le fait de se donner de la peine pour le bien des autres": {
+    "definitions": [
+      { "definition": "mεkanxixo", "examples": [] },
+      { "definition": "mεkanxuxo", "examples": [] }
+    ]
+  },
+  "ne pas se donner de la peine": {
+    "definitions": [{ "definition": "xà jì", "examples": [] }]
+  },
+  "se donner rendez-vous": {
+    "definitions": [{ "definition": "dŏ gò", "examples": [] }]
+  },
+  "se donner totalement à quelqu'un": {
+    "definitions": [{ "definition": "jŏ ta nú mε", "examples": [] }]
+  },
+  "se donner un sobriquet": {
+    "definitions": [{ "definition": "jὲ nyĭ", "examples": [] }]
+  },
+  "dorloter ‑ dorloter à l'excès": {
+    "definitions": [{ "definition": "hὲn mε gblé", "examples": [] }]
+  },
+  "dorloter quelqu'un": {
+    "definitions": [{ "definition": "bò", "examples": [] }]
+  },
+  "dormeur": { "definitions": [{ "definition": "amlɔdɔ́tɔ́", "examples": [] }] },
+  "dormir": {
+    "definitions": [
+      { "definition": "dɔ̆ amlɔ̀", "examples": [] },
+      { "definition": "dɔ̆ amlɔ̀", "examples": [] }
+    ]
+  },
+  "avoir envie de dormir": {
+    "definitions": [
+      { "definition": "amlɔgɔ́ sìn mε", "examples": [] },
+      { "definition": "sà amlɔgɔ́", "examples": [] }
+    ]
+  },
+  "dormir ailleurs que chez soi": {
+    "definitions": [{ "definition": "dɔ̆ gbĕ", "examples": [] }]
+  },
+  "ne pas dormir": {
+    "definitions": [{ "definition": "nɔ̀ wunzὲn", "examples": [] }]
+  },
+  "dos": {
+    "definitions": [
+      { "definition": "ɖì bè", "examples": [] },
+      { "definition": "gbegbé", "examples": [] },
+      { "definition": "negbé", "examples": [] }
+    ]
+  },
+  "action de se mettre sur le dos par respect": {
+    "definitions": [{ "definition": "kɔ́ɖíɖé", "examples": [] }]
+  },
+  "au dos": {
+    "definitions": [
+      { "definition": "gbegbé", "examples": [] },
+      { "definition": "nεgbé", "examples": [] }
+    ]
+  },
+  "être mis au dos": {
+    "definitions": [{ "definition": "jὲ nεgbé", "examples": [] }]
+  },
+  "faire le gros dos": {
+    "definitions": [{ "definition": "hlɔ̆n kpó", "examples": [] }]
+  },
+  "dot": {
+    "definitions": [
+      { "definition": "agbàn", "examples": [] },
+      { "definition": "asigbàn", "examples": [] }
+    ]
+  },
+  "dot d'acceptation de main": {
+    "definitions": [{ "definition": "gbeyíhàn", "examples": [] }]
+  },
+  "dot pour demander la main de la fille à la famille": {
+    "definitions": [{ "definition": "asibyɔ́gbàn", "examples": [] }]
+  },
+  "dot pour prendre la femme chez-soi": {
+    "definitions": [{ "definition": "asikplágbàn", "examples": [] }]
+  },
+  "dot sous forme de monnaie": {
+    "definitions": [{ "definition": "asikwέ", "examples": [] }]
+  },
+  "petite dot": {
+    "definitions": [{ "definition": "gbeyigbán", "examples": [] }]
+  },
+  "dote ‑ petite dote": {
+    "definitions": [{ "definition": "agban kpεví", "examples": [] }]
+  },
+  "douane": {
+    "definitions": [
+      { "definition": "dè", "examples": [] },
+      { "definition": "denu", "examples": [] },
+      { "definition": "denuxwé", "examples": [] }
+    ]
+  },
+  "le fait de travailler à la douane": {
+    "definitions": [{ "definition": "degbugbo", "examples": [] }]
+  },
+  "douanier": {
+    "definitions": [
+      { "definition": "degbotɔ́", "examples": [] },
+      { "definition": "denunɔtɔ́", "examples": [] }
+    ]
+  },
+  "être douanier": {
+    "definitions": [{ "definition": "gbò dè", "examples": [] }]
+  },
+  "double": {
+    "definitions": [
+      { "definition": "atɔ̀n ɖò bŭ", "examples": [] },
+      { "definition": "wè ɖò bŭ", "examples": [] },
+      { "definition": "we wè", "examples": [] },
+      { "definition": "wèɖòbŭ", "examples": [] }
+    ]
+  },
+  "le double de quelqu'un": {
+    "definitions": [{ "definition": "yɛ̀", "examples": [] }]
+  },
+  "doucement": {
+    "definitions": [
+      { "definition": "blε̆ɖìsàtɔ́", "examples": [] },
+      { "definition": "blεnɔ̀", "examples": [] },
+      { "definition": "cέncέέn", "examples": [] },
+      { "definition": "dε̆dε̆", "examples": [] },
+      { "definition": "káɖá", "examples": [] },
+      { "definition": "klέwún klέwún", "examples": [] },
+      { "definition": "kò", "examples": [] },
+      { "definition": "kέɖέ", "examples": [] },
+      { "definition": "kέɖέέ", "examples": [] },
+      { "definition": "vlεvlε", "examples": [] }
+    ]
+  },
+  "très doucement": {
+    "definitions": [{ "definition": "dε̆dε̆dε̆dε̆", "examples": [] }]
+  },
+  "douceur": { "definitions": [{ "definition": "nùvìví", "examples": [] }] },
+  "douche": {
+    "definitions": [
+      { "definition": "wùlɛ̀xɔ́sá", "examples": [] },
+      { "definition": "wùlílɛ́", "examples": [] },
+      { "definition": "wùlɛ̀kpá", "examples": [] },
+      { "definition": "xɔgúdó", "examples": [] }
+    ]
+  },
+  "aller à la douche": {
+    "definitions": [{ "definition": "yì kpámὲ", "examples": [] }]
+  },
+  "celui qui prend sa douche": {
+    "definitions": [{ "definition": "wùlɛ̀tɔ́", "examples": [] }]
+  },
+  "endroit réservé à la douche": {
+    "definitions": [{ "definition": "kpà gŭdò", "examples": [] }]
+  },
+  "douillet": { "definitions": [{ "definition": "kέbɔ́", "examples": [] }] },
+  "douillet pour un enfant": {
+    "definitions": [{ "definition": "vεjε", "examples": [] }]
+  },
+  "être douillet": {
+    "definitions": [{ "definition": "ɖɔ̀ vĭ", "examples": [] }]
+  },
+  "faire le douillet": {
+    "definitions": [
+      { "definition": "blŏ vĭ", "examples": [] },
+      { "definition": "blŏ yɛ̀yɛ́", "examples": [] },
+      { "definition": "ɖɔ yɛ̀yɛ́", "examples": [] }
+    ]
+  },
+  "douillet ‑ faire le douillet": {
+    "definitions": [{ "definition": "ɖɔ̀ yὲyέ", "examples": [] }]
+  },
+  "douleur": {
+    "definitions": [
+      { "definition": "flú", "examples": [] },
+      { "definition": "nùvìvέ", "examples": [] },
+      { "definition": "nùvὲnúmε", "examples": [] },
+      { "definition": "vìvέ", "examples": [] },
+      { "definition": "wùvɛ́", "examples": [] },
+      { "definition": "wùvìvɛ́", "examples": [] },
+      { "definition": "yà", "examples": [] }
+    ]
+  },
+  "douleur de l'enfantement": {
+    "definitions": [{ "definition": "vìnú", "examples": [] }]
+  },
+  "douleur lancinante dans le dos": {
+    "definitions": [{ "definition": "xúɖúxúɖú", "examples": [] }]
+  },
+  "douleur morale": {
+    "definitions": [{ "definition": "yajiji", "examples": [] }]
+  },
+  "être dans les douleurs de l'enfantement": {
+    "definitions": [{ "definition": "jὲ flú mὲ", "examples": [] }]
+  },
+  "douloureux": { "definitions": [{ "definition": "vìvέ", "examples": [] }] },
+  "être douloureux": {
+    "definitions": [{ "definition": "vε̆", "examples": [] }]
+  },
+  "doute ‑ exprime un doute qui a été vérifié": {
+    "definitions": [{ "definition": "vὲ dŏ ...wὲ sín", "examples": [] }]
+  },
+  "douter": { "definitions": [{ "definition": "xò nŭ kpɔ́n", "examples": [] }] },
+  "se douter de ce qui est caché": {
+    "definitions": [{ "definition": "wɔ̆ yɛ̀", "examples": [] }]
+  },
+  "se douter de quelque chose": {
+    "definitions": [
+      { "definition": "ayì bà nŭ", "examples": [] },
+      { "definition": "bà", "examples": [] }
+    ]
+  },
+  "se douter du dessein de quelqu'un": {
+    "definitions": [{ "definition": "wɔ̆ yɛ̀", "examples": [] }]
+  },
+  "douve ‑ douve de tonneau": {
+    "definitions": [{ "definition": "gbà xwlέ", "examples": [] }]
+  },
+  "doux": {
+    "definitions": [
+      { "definition": "fífá", "examples": [] },
+      { "definition": "mεfífá", "examples": [] }
+    ]
+  },
+  "être doux": {
+    "definitions": [
+      { "definition": "fá", "examples": [] },
+      { "definition": "fá xomὲ", "examples": [] }
+    ]
+  },
+  "douze": { "definitions": [{ "definition": "wĕwè", "examples": [] }] },
+  "douzième ‑ douzième signe du Fá": {
+    "definitions": [{ "definition": "túkpέn mεjì", "examples": [] }]
+  },
+  "drap": {
+    "definitions": [
+      { "definition": "gbɔ̀fúnvɔ̀", "examples": [] },
+      { "definition": "lὲngbɔ́fúnvɔ̀", "examples": [] }
+    ]
+  },
+  "drap de lit": {
+    "definitions": [{ "definition": "zanjívɔ̀", "examples": [] }]
+  },
+  "drapeau": { "definitions": [{ "definition": "asyá", "examples": [] }] },
+  "porte-drapeau": {
+    "definitions": [{ "definition": "asyáhέntɔ́", "examples": [] }]
+  },
+  "drépanositose": {
+    "definitions": [{ "definition": "xúɖúxúɖwí", "examples": [] }]
+  },
+  "dresser": {
+    "definitions": [
+      { "definition": "dĕ", "examples": [] },
+      { "definition": "slɔ́", "examples": [] }
+    ]
+  },
+  "dresser la tête": {
+    "definitions": [{ "definition": "sɔ́ kɔ̀ té", "examples": [] }]
+  },
+  "dresser le cou": {
+    "definitions": [{ "definition": "sɔ́ kɔ̀ té", "examples": [] }]
+  },
+  "dresser le cou, la tête": {
+    "definitions": [{ "definition": "sɔ́ kɔ̀ tè", "examples": [] }]
+  },
+  "dresser les fermes d'une charpente": {
+    "definitions": [{ "definition": "kɛ́ xɔsɔ́", "examples": [] }]
+  },
+  "dresser une charpente": {
+    "definitions": [
+      { "definition": "kɛ́ xɔsɔ́", "examples": [] },
+      { "definition": "kέ xɔ sɔ́", "examples": [] },
+      { "definition": "sɔ́ xɔsɔ́", "examples": [] }
+    ]
+  },
+  "dresser une palissade": {
+    "definitions": [{ "definition": "dŏ kpá", "examples": [] }]
+  },
+  "évoque la façon de se dresser de toute sa taille en se levant": {
+    "definitions": [{ "definition": "kpakaà", "examples": [] }]
+  },
+  "se dresser": {
+    "definitions": [
+      { "definition": "lĭ", "examples": [] },
+      { "definition": "zĕ gè yì jĭ", "examples": [] }
+    ]
+  },
+  "se dresser contre": {
+    "definitions": [{ "definition": "jlɔ̆ dŏ", "examples": [] }]
+  },
+  "se dresser en face de quelqu'un": {
+    "definitions": [{ "definition": "dlɔ̆n dŏ", "examples": [] }]
+  },
+  "dribbler": { "definitions": [{ "definition": "gbò", "examples": [] }] },
+  "droit": {
+    "definitions": [
+      { "definition": "ayì ɖò wὲn", "examples": [] },
+      { "definition": "ɖiɖi", "examples": [] },
+      { "definition": "ganjí", "examples": [] },
+      { "definition": "hwὲ", "examples": [] },
+      { "definition": "jìjlɔ́", "examples": [] },
+      { "definition": "jlɔ̀jlɔ́", "examples": [] },
+      { "definition": "télélé", "examples": [] },
+      { "definition": "titewungbè", "examples": [] },
+      { "definition": "tlɔlɔ̀", "examples": [] },
+      { "definition": "tlélé", "examples": [] }
+    ]
+  },
+  "droit d'aînesse": {
+    "definitions": [
+      { "definition": "viɖàxó acὲ", "examples": [] },
+      { "definition": "viɖàxó cὲ", "examples": [] }
+    ]
+  },
+  "droit ‑ droit et de grande taille": {
+    "definitions": [{ "definition": "ginnaà", "examples": [] }]
+  },
+  "droit pour un adolescent": {
+    "definitions": [{ "definition": "fánnáfánná", "examples": [] }]
+  },
+  "droit pour un jeune homme ou une jeune fille": {
+    "definitions": [{ "definition": "fínnífínní", "examples": [] }]
+  },
+  "être droit": {
+    "definitions": [
+      { "definition": "ɖò tè", "examples": [] },
+      { "definition": "ɖò wɛ̀n", "examples": [] },
+      { "definition": "jlɔ̆", "examples": [] }
+    ]
+  },
+  "n'être pas droit (par suite d'un accident)": {
+    "definitions": [{ "definition": "gbăn", "examples": [] }]
+  },
+  "qui a quitté le droit chemin": {
+    "definitions": [{ "definition": "zɛ̀gbĕ", "examples": [] }]
+  },
+  "tout droit": {
+    "definitions": [
+      { "definition": "gbaán", "examples": [] },
+      { "definition": "gbánnáná", "examples": [] },
+      { "definition": "gbínníní", "examples": [] }
+    ]
+  },
+  "droit ‑ tout droit": {
+    "definitions": [
+      { "definition": "téélé", "examples": [] },
+      { "definition": "télélé", "examples": [] },
+      { "definition": "xlówún", "examples": [] }
+    ]
+  },
+  "tout droit !": {
+    "definitions": [{ "definition": "góó !", "examples": [] }]
+  },
+  "tout droit devant soi": {
+    "definitions": [{ "definition": "jlɔ̀jlɔ́", "examples": [] }]
+  },
+  "un chemin droit": {
+    "definitions": [{ "definition": "ali tlélé", "examples": [] }]
+  },
+  "droite": {
+    "definitions": [
+      { "definition": "ɖìsí", "examples": [] },
+      { "definition": "ɖùsí", "examples": [] }
+    ]
+  },
+  "à droite": {
+    "definitions": [
+      { "definition": "ɖò ɖìsí", "examples": [] },
+      { "definition": "ɖò ɖìsí xwé", "examples": [] }
+    ]
+  },
+  "être à droite": {
+    "definitions": [{ "definition": "ɖò ɖìsí xwé", "examples": [] }]
+  },
+  "droitier": { "definitions": [{ "definition": "ɖìsínɔ̀", "examples": [] }] },
+  "dromadaire": {
+    "definitions": [{ "definition": "sɔ́kpótɔ́nɔ́", "examples": [] }]
+  },
+  "duper": { "definitions": [{ "definition": "blε̆", "examples": [] }] },
+  "duplicité": { "definitions": [{ "definition": "yɛmɛnú", "examples": [] }] },
+  "dur": {
+    "definitions": [
+      { "definition": "glŏ", "examples": [] },
+      { "definition": "katikatì", "examples": [] },
+      { "definition": "syέnsyέn", "examples": [] }
+    ]
+  },
+  "bien dur": { "definitions": [{ "definition": "lójó", "examples": [] }] },
+  "dur et gros": {
+    "definitions": [{ "definition": "janginjangìn", "examples": [] }]
+  },
+  "être dur": {
+    "definitions": [
+      { "definition": "syέn", "examples": [] },
+      { "definition": "xú", "examples": [] }
+    ]
+  },
+  "être dur (pour les tubercules)": {
+    "definitions": [{ "definition": "jè", "examples": [] }]
+  },
+  "être dur à la détente": {
+    "definitions": [{ "definition": "kú wɔ̀n", "examples": [] }]
+  },
+  "qualifie quelque chose de dur": {
+    "definitions": [{ "definition": "kpákó kpákó", "examples": [] }]
+  },
+  "très dur": {
+    "definitions": [
+      { "definition": "kláklá", "examples": [] },
+      { "definition": "kpánwúnkpánwún", "examples": [] },
+      { "definition": "kpeɖèe", "examples": [] }
+    ]
+  },
+  "très dur (pour le manioc)": {
+    "definitions": [
+      { "definition": "gbodoglíga", "examples": [] },
+      { "definition": "hĕhà", "examples": [] }
+    ]
+  },
+  "très très dur": {
+    "definitions": [{ "definition": "jáwún jáwún", "examples": [] }]
+  },
+  "durant": { "definitions": [{ "definition": "xɔ̀", "examples": [] }] },
+  "durcir": {
+    "definitions": [{ "definition": "blŏ ní syέn", "examples": [] }]
+  },
+  "durcissement ‑ durcissement des feuilles mures": {
+    "definitions": [{ "definition": "klísó", "examples": [] }]
+  },
+  "durée": {
+    "definitions": [
+      { "definition": "hwenu", "examples": [] },
+      { "definition": "jididɔ́", "examples": [] }
+    ]
+  },
+  "durer": {
+    "definitions": [
+      { "definition": "dɔ̆ jì", "examples": [] },
+      { "definition": "dὲ", "examples": [] },
+      { "definition": "xɔ̀", "examples": [] }
+    ]
+  },
+  "durer (en parlant des aliments)": {
+    "definitions": [{ "definition": "tὲ", "examples": [] }]
+  },
+  "durer longtemps": {
+    "definitions": [{ "definition": "dɔ̆ jì", "examples": [] }]
+  },
+  "le fait de durer longtemps": {
+    "definitions": [{ "definition": "jidudɔ́", "examples": [] }]
+  },
+  "dureté": { "definitions": [{ "definition": "xomɛkúkú", "examples": [] }] },
+  "dureté (pour les légumes, les feuilles)": {
+    "definitions": [{ "definition": "kpasó", "examples": [] }]
+  },
+  "idée de dureté": {
+    "definitions": [{ "definition": "glŏ", "examples": [] }]
+  },
+  "dysenterie": {
+    "definitions": [
+      { "definition": "hunnyinyε", "examples": [] },
+      { "definition": "zɛ̀ntí", "examples": [] }
+    ]
+  },
+  "avoir la dysenterie": {
+    "definitions": [{ "definition": "nyὲ hùn", "examples": [] }]
   }
 }
