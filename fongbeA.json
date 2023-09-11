@@ -18065,5 +18065,4281 @@
   },
   "avoir la dysenterie": {
     "definitions": [{ "definition": "nyὲ hùn", "examples": [] }]
+  },
+  "eau": {
+    "definitions": [
+      { "definition": "gùn", "examples": [] },
+      { "definition": "sìn", "examples": [] },
+      { "definition": "sùn", "examples": [] }
+    ]
+  },
+  "eau à boire": {
+    "definitions": [{ "definition": "sinnunu", "examples": [] }]
+  },
+  "eau agitée": {
+    "definitions": [
+      { "definition": "tɔxixo", "examples": [] },
+      { "definition": "tɔxuxo", "examples": [] }
+    ]
+  },
+  "eau baptismale": {
+    "definitions": [{ "definition": "yɛhwesìn", "examples": [] }]
+  },
+  "au bénite": {
+    "definitions": [{ "definition": "yɛhwesìn", "examples": [] }]
+  },
+  "eau bouillante": {
+    "definitions": [{ "definition": "sin hùn agbăn", "examples": [] }]
+  },
+  "eau bouillie": {
+    "definitions": [
+      { "definition": "sinhunagbăn", "examples": [] },
+      { "definition": "sinhwangbăn", "examples": [] }
+    ]
+  },
+  "eau chaude": {
+    "definitions": [
+      { "definition": "sin myɔ̀ ɖò wŭ", "examples": [] },
+      { "definition": "sin zozò", "examples": [] },
+      { "definition": "sin zozò", "examples": [] }
+    ]
+  },
+  "eau claire": {
+    "definitions": [{ "definition": "sin zinzin", "examples": [] }]
+  },
+  "eau courante après la pluie": {
+    "definitions": [{ "definition": "ayĭsùn", "examples": [] }]
+  },
+  "eau de cologne": {
+    "definitions": [{ "definition": "célù", "examples": [] }]
+  },
+  "eau de pluie": {
+    "definitions": [
+      { "definition": "ajajà", "examples": [] },
+      { "definition": "ajajàsìn", "examples": [] },
+      { "definition": "jĭsìn", "examples": [] }
+    ]
+  },
+  "eau de pluie (recueillie à partir d'un toit)": {
+    "definitions": [{ "definition": "gansìn", "examples": [] }]
+  },
+  "eau de ruissellement": {
+    "definitions": [{ "definition": "ayĭsùn", "examples": [] }]
+  },
+  "eau provenant de la fermentation de la farine de maïs pour la préparation de nombreux médicaments traditionnels": {
+    "definitions": [{ "definition": "gisìn", "examples": [] }]
+  },
+  "eau décantée": {
+    "definitions": [{ "definition": "sin zinzin", "examples": [] }]
+  },
+  "eau du vaudoun": {
+    "definitions": [{ "definition": "vodúnsìn", "examples": [] }]
+  },
+  "eau du voyageur": {
+    "definitions": [{ "definition": "alitasìn", "examples": [] }]
+  },
+  "eau d'un étang": {
+    "definitions": [{ "definition": "tansùn", "examples": [] }]
+  },
+  "eau d'un marigot": {
+    "definitions": [{ "definition": "tansùn", "examples": [] }]
+  },
+  "eau filtrée": {
+    "definitions": [{ "definition": "sìn xwíxwí", "examples": [] }]
+  },
+  "eau fraîche": {
+    "definitions": [{ "definition": "sìn fífá", "examples": [] }]
+  },
+  "eau gazeuse": {
+    "definitions": [{ "definition": "wŭkpawun", "examples": [] }]
+  },
+  "eau potable": {
+    "definitions": [
+      { "definition": "sin ɖiɖi", "examples": [] },
+      { "definition": "sin nunu", "examples": [] },
+      { "definition": "sinnunu", "examples": [] }
+    ]
+  },
+  "eau pour les libations": {
+    "definitions": [{ "definition": "ɖεxosìn", "examples": [] }]
+  },
+  "eau salée": { "definitions": [{ "definition": "jεsìn", "examples": [] }] },
+  "eau stagnante": { "definitions": [{ "definition": "tán", "examples": [] }] },
+  "eau tiède": {
+    "definitions": [
+      { "definition": "sin gblɔgblɔ́", "examples": [] },
+      { "definition": "sin gblɔ́glɔ́", "examples": [] }
+    ]
+  },
+  "eau trouble": {
+    "definitions": [{ "definition": "blùblú", "examples": [] }]
+  },
+  "eau vive": {
+    "definitions": [{ "definition": "sin gbεɖè", "examples": [] }]
+  },
+  "eau-de-vie": { "definitions": [{ "definition": "ahàn", "examples": [] }] },
+  "faire eau (embarcation)": {
+    "definitions": [{ "definition": "bà sìn", "examples": [] }]
+  },
+  "l'eau pour se laver les mains avant et après les repas": {
+    "definitions": [
+      { "definition": "asíhwlέnsín", "examples": [] },
+      { "definition": "asíhwlέsìn", "examples": [] }
+    ]
+  },
+  "toute eau surgissant naturellement d'une source": {
+    "definitions": [{ "definition": "tɔjijɔ", "examples": [] }]
+  },
+  "ébahi": { "definitions": [{ "definition": "yɛyinɔ̀", "examples": [] }] },
+  "ébattre ‑ action de s'ébattre dans l'eau": {
+    "definitions": [{ "definition": "tɔxuxo", "examples": [] }]
+  },
+  "s'ébattre dans l'eau": {
+    "definitions": [{ "definition": "lìn tɔ̀", "examples": [] }]
+  },
+  "ébloui ‑ être ébloui": {
+    "definitions": [{ "definition": "gbà nukún", "examples": [] }]
+  },
+  "éblouir": {
+    "definitions": [
+      { "definition": "gbà nukún", "examples": [] },
+      { "definition": "kɔ́n nukún", "examples": [] }
+    ]
+  },
+  "éblouir quelqu'un": {
+    "definitions": [{ "definition": "xò avivì dŏ mε", "examples": [] }]
+  },
+  "éblouissant": {
+    "definitions": [{ "definition": "kínkɔ́n", "examples": [] }]
+  },
+  "d'une clarté éblouissante": {
+    "definitions": [{ "definition": "lánlán", "examples": [] }]
+  },
+  "ébouillanter ‑ ébouillanter (un animal pour le plumer, le gratter)": {
+    "definitions": [{ "definition": "mɔ̆", "examples": [] }]
+  },
+  "éboulement": { "definitions": [{ "definition": "mumu", "examples": [] }] },
+  "ébouriffé": { "definitions": [{ "definition": "kεyεὲ", "examples": [] }] },
+  "ébrancher": {
+    "definitions": [{ "definition": "ɖè ala nú atín", "examples": [] }]
+  },
+  "ébranlé ‑ être ébranlé": {
+    "definitions": [{ "definition": "hùnhún", "examples": [] }]
+  },
+  "ébranlement": {
+    "definitions": [{ "definition": "dìndán", "examples": [] }]
+  },
+  "écaille": {
+    "definitions": [
+      { "definition": "fló", "examples": [] },
+      { "definition": "kpà", "examples": [] },
+      { "definition": "ză", "examples": [] }
+    ]
+  },
+  "écaille de poisson": {
+    "definitions": [{ "definition": "fán", "examples": [] }]
+  },
+  "écailler ‑ écailler du poisson": {
+    "definitions": [{ "definition": "fán hweví", "examples": [] }]
+  },
+  "écarlate": { "definitions": [{ "definition": "vɔvɔ", "examples": [] }] },
+  "écarquiller": { "definitions": [{ "definition": "văn", "examples": [] }] },
+  "écarquiller les yeux": {
+    "definitions": [{ "definition": "văn nukún", "examples": [] }]
+  },
+  "écart ‑ à l'écart": {
+    "definitions": [
+      { "definition": "azɔgà", "examples": [] },
+      { "definition": "cáɖáá", "examples": [] },
+      { "definition": "céɖéé", "examples": [] },
+      { "definition": "kádáá", "examples": [] },
+      { "definition": "vò", "examples": [] },
+      { "definition": "vokán vokán", "examples": [] }
+    ]
+  },
+  "aller se mettre à l'écart": {
+    "definitions": [{ "definition": "sὲ jὲ zɔ̀", "examples": [] }]
+  },
+  "être à l'écart": {
+    "definitions": [{ "definition": "ɖò azɔgà", "examples": [] }]
+  },
+  "écarté": {
+    "definitions": [
+      { "definition": "azɔgà", "examples": [] },
+      { "definition": "lìnlín", "examples": [] }
+    ]
+  },
+  "être écarté": { "definitions": [{ "definition": "kàn", "examples": [] }] },
+  "écarteler": { "definitions": [{ "definition": "kέ", "examples": [] }] },
+  "écarter ‑ écarter des combattants": {
+    "definitions": [{ "definition": "klán", "examples": [] }]
+  },
+  "écarter les gens": {
+    "definitions": [{ "definition": "vlɔ̆ asá", "examples": [] }]
+  },
+  "écarter les jambes": {
+    "definitions": [
+      { "definition": "kὲ asá", "examples": [] },
+      { "definition": "vlɔ̆ asá", "examples": [] }
+    ]
+  },
+  "écarter ses plumes caudales": {
+    "definitions": [{ "definition": "gbà vă", "examples": [] }]
+  },
+  "écarter un malheur pour un sacrifice au Fá": {
+    "definitions": [{ "definition": "ɖè adlà", "examples": [] }]
+  },
+  "s'écarter de": {
+    "definitions": [{ "definition": "sὲ sín", "examples": [] }]
+  },
+  "ecchymose": { "definitions": [{ "definition": "akpà", "examples": [] }] },
+  "échange": {
+    "definitions": [
+      { "definition": "ɖyɔ̀ɖyɔ́", "examples": [] },
+      { "definition": "nùɖyɔ̀ɖyɔ́", "examples": [] }
+    ]
+  },
+  "échange de filles entre deux familles pour des mariaqes": {
+    "definitions": [{ "definition": "ɖyɔ̆nŭ", "examples": [] }]
+  },
+  "échanger": { "definitions": [{ "definition": "ɖyɔ̆", "examples": [] }] },
+  "é­changer des coups de poing": {
+    "definitions": [{ "definition": "nyì akodokwín", "examples": [] }]
+  },
+  "échanger quelque chose avec quelqu'un": {
+    "definitions": [{ "definition": "ɖyɔ̆ nùɖé xá mε", "examples": [] }]
+  },
+  "échanson": {
+    "definitions": [{ "definition": "sinbanúmεtɔ́", "examples": [] }]
+  },
+  "échapper": {
+    "definitions": [
+      { "definition": "sí", "examples": [] },
+      { "definition": "hɔ̀n yì", "examples": [] },
+      { "definition": "zùn", "examples": [] }
+    ]
+  },
+  "s'échapper des mains de quelqu'un": {
+    "definitions": [{ "definition": "sún sín alɔ̀ nú mε", "examples": [] }]
+  },
+  "écharpe": { "definitions": [{ "definition": "sɔ́kplá", "examples": [] }] },
+  "échassier ‑ échassier huppé": {
+    "definitions": [{ "definition": "tɔhlínhăn", "examples": [] }]
+  },
+  "échauffement": { "definitions": [{ "definition": "yŏzò", "examples": [] }] },
+  "échec": { "definitions": [{ "definition": "afɔkú", "examples": [] }] },
+  "échelle": { "definitions": [{ "definition": "àlyá", "examples": [] }] },
+  "échelon": { "definitions": [{ "definition": "afɔ̀", "examples": [] }] },
+  "échevelé": {
+    "definitions": [
+      { "definition": "kayakayà", "examples": [] },
+      { "definition": "kεyεkεyὲ", "examples": [] }
+    ]
+  },
+  "écho": { "definitions": [{ "definition": "yɛflú", "examples": [] }] },
+  "échoppe": { "definitions": [{ "definition": "azɔ̀xɔ́mὲ", "examples": [] }] },
+  "échos": { "definitions": [{ "definition": "xɔxɔ̀", "examples": [] }] },
+  "échouer": {
+    "definitions": [
+      { "definition": "ɖù afɔkú", "examples": [] },
+      { "definition": "xò wuntá", "examples": [] }
+    ]
+  },
+  "échouer dans une entreprise": {
+    "definitions": [{ "definition": "klέn afɔnyanyà", "examples": [] }]
+  },
+  "faire échouer quelqu'un (dans une entreprise)": {
+    "definitions": [{ "definition": "hὲn nŭ gblĕ nú me", "examples": [] }]
+  },
+  "éclair": { "definitions": [{ "definition": "jìkέwùn", "examples": [] }] },
+  "faire des éclairs": {
+    "definitions": [{ "definition": "jĭ kὲ wùn", "examples": [] }]
+  },
+  "éclaircir ‑ s'éclaircir": {
+    "definitions": [{ "definition": "kὲn", "examples": [] }]
+  },
+  "éclairé ‑ être éclairé": {
+    "definitions": [{ "definition": "hùn nukún", "examples": [] }]
+  },
+  "éclairer": {
+    "definitions": [
+      { "definition": "hɔ̆n", "examples": [] },
+      { "definition": "zàwé", "examples": [] },
+      { "definition": "zàwĕ", "examples": [] }
+    ]
+  },
+  "bien éclairer": { "definitions": [{ "definition": "ɖì", "examples": [] }] },
+  "éclaireur": {
+    "definitions": [{ "definition": "agbajígbetɔ́", "examples": [] }]
+  },
+  "éclat": { "definitions": [{ "definition": "ɖiɖì", "examples": [] }] },
+  "avec éclat": {
+    "definitions": [
+      { "definition": "lánlán", "examples": [] },
+      { "definition": "mlamlà", "examples": [] }
+    ]
+  },
+  "éclat de la lune": {
+    "definitions": [{ "definition": "sunhwlé ɖiɖì", "examples": [] }]
+  },
+  "éclatant": {
+    "definitions": [
+      { "definition": "akpé", "examples": [] },
+      { "definition": "ɖiɖì", "examples": [] },
+      { "definition": "kínkɔ́n", "examples": [] },
+      { "definition": "nyaà", "examples": [] }
+    ]
+  },
+  "d'une blancheur é­clatante": {
+    "definitions": [
+      { "definition": "pépé", "examples": [] },
+      { "definition": "pépépé", "examples": [] }
+    ]
+  },
+  "éclatant (pour la couleur rouge)": {
+    "definitions": [{ "definition": "nyagaàn", "examples": [] }]
+  },
+  "éclater": {
+    "definitions": [
+      { "definition": "fέn", "examples": [] },
+      { "definition": "wŭ", "examples": [] },
+      { "definition": "wùkpá", "examples": [] }
+    ]
+  },
+  "éclater (pour un pneu)": {
+    "definitions": [{ "definition": "là", "examples": [] }]
+  },
+  "éclater en ovations": {
+    "definitions": [{ "definition": "dŏ cówòkóhwè", "examples": [] }]
+  },
+  "éclater en sanglots": {
+    "definitions": [
+      { "definition": "bε̆ adăn", "examples": [] },
+      { "definition": "bε̆ avĭ", "examples": [] }
+    ]
+  },
+  "éclater soudain de colère": {
+    "definitions": [{ "definition": "wɔ̆ adăn", "examples": [] }]
+  },
+  "éclipse ‑ éclipse de lune": {
+    "definitions": [{ "definition": "hwewlísùn", "examples": [] }]
+  },
+  "éclipse de soleil": {
+    "definitions": [{ "definition": "sunwlíhwè", "examples": [] }]
+  },
+  "éclopé": {
+    "definitions": [
+      { "definition": "tintɔntɔ́", "examples": [] },
+      { "definition": "tuntɔntɔ́", "examples": [] }
+    ]
+  },
+  "être éclopé": { "definitions": [{ "definition": "tɔ̀n", "examples": [] }] },
+  "éclore": {
+    "definitions": [
+      { "definition": "flé azìn", "examples": [] },
+      { "definition": "flé vĭ", "examples": [] },
+      { "definition": "tɔ́n", "examples": [] }
+    ]
+  },
+  "faire éclore": {
+    "definitions": [{ "definition": "flé azìn", "examples": [] }]
+  },
+  "éclosion ‑ éclosion des petits oiseaux": {
+    "definitions": [{ "definition": "vìfléflé", "examples": [] }]
+  },
+  "éclosion des poussins": {
+    "definitions": [{ "definition": "vìfléflé", "examples": [] }]
+  },
+  "écoeurer": { "definitions": [{ "definition": "xwyɔ́ kɔ̀", "examples": [] }] },
+  "école": {
+    "definitions": [
+      { "definition": "azɔ̆mὲ", "examples": [] },
+      { "definition": "azɔ̀mὲxwé", "examples": [] },
+      { "definition": "wèmàxɔ́", "examples": [] },
+      { "definition": "wèmàxɔ́mɛ̀", "examples": [] },
+      { "definition": "wèxɔ́mɛ̀", "examples": [] }
+    ]
+  },
+  "école de base": {
+    "definitions": [{ "definition": "wèmàxɔ́mὲ dokɔ tɔ̀n", "examples": [] }]
+  },
+  "école de chant": {
+    "definitions": [{ "definition": "hankpá", "examples": [] }]
+  },
+  "école primaire": {
+    "definitions": [{ "definition": "wèmàxɔ́mὲ dokɔ tɔ̀n", "examples": [] }]
+  },
+  "faire l'école buissonnière": {
+    "definitions": [{ "definition": "gɔ̀n azɔ̆mὲ", "examples": [] }]
+  },
+  "écolier": { "definitions": [{ "definition": "azɔ̀mὲví", "examples": [] }] },
+  "économe": {
+    "definitions": [{ "definition": "nùɖúɖúnátɔ́", "examples": [] }]
+  },
+  "économie": {
+    "definitions": [{ "definition": "àkwέkplékplé", "examples": [] }]
+  },
+  "faire des économies": {
+    "definitions": [{ "definition": "kplé akwέ", "examples": [] }]
+  },
+  "économiser": {
+    "definitions": [{ "definition": "kplé akwε", "examples": [] }]
+  },
+  "action d'économiser": {
+    "definitions": [{ "definition": "àkwέkplékplé ́", "examples": [] }]
+  },
+  "écorce": {
+    "definitions": [
+      { "definition": "atínfló", "examples": [] },
+      { "definition": "fló", "examples": [] }
+    ]
+  },
+  "écorce pilée de l'arbre sotín": {
+    "definitions": [
+      { "definition": "sokpákpέ", "examples": [] },
+      { "definition": "sokpέkpέ", "examples": [] }
+    ]
+  },
+  "sorte d’écorce d’arbre qui se courbe quand il fait de soleil et qui s’allonge quand il fait mauvais temps": {
+    "definitions": [{ "definition": "dεngwín", "examples": [] }]
+  },
+  "écorcer": {
+    "definitions": [
+      { "definition": "ɖè fló", "examples": [] },
+      { "definition": "ɖè fló ná", "examples": [] }
+    ]
+  },
+  "écorché": { "definitions": [{ "definition": "kínkɔ́n", "examples": [] }] },
+  "être écorché": {
+    "definitions": [{ "definition": "kínkɔ́n", "examples": [] }]
+  },
+  "écorcher": {
+    "definitions": [
+      { "definition": "ɖè anyŭ", "examples": [] },
+      { "definition": "kɔ́n", "examples": [] },
+      { "definition": "kɔ́n anyŭ", "examples": [] },
+      { "definition": "kɔ́n wŭ", "examples": [] },
+      { "definition": "kínkɔ́n", "examples": [] },
+      { "definition": "kúnkɔ́n", "examples": [] },
+      { "definition": "mɔ̆", "examples": [] },
+      { "definition": "sún glŏ", "examples": [] },
+      { "definition": "zìnzín", "examples": [] }
+    ]
+  },
+  "action d'écorcher": {
+    "definitions": [{ "definition": "kúnkɔ́n", "examples": [] }]
+  },
+  "écorcher un animal": {
+    "definitions": [{ "definition": "ɖè anyŭ", "examples": [] }]
+  },
+  "écorcher une plaie": {
+    "definitions": [{ "definition": "zìnzín akpà", "examples": [] }]
+  },
+  "s'écorcher": { "definitions": [{ "definition": "kúnkɔ́n", "examples": [] }] },
+  "écorchure": { "definitions": [{ "definition": "kínkɔ́n", "examples": [] }] },
+  "écosser": {
+    "definitions": [
+      { "definition": "ɖè fló", "examples": [] },
+      { "definition": "ɖè fló ná", "examples": [] },
+      { "definition": "flé", "examples": [] }
+    ]
+  },
+  "écosser des arachides": {
+    "definitions": [{ "definition": "flé aziín", "examples": [] }]
+  },
+  "écosser des haricots": {
+    "definitions": [{ "definition": "flé ayikún", "examples": [] }]
+  },
+  "écosser l'arachide": {
+    "definitions": [{ "definition": "tɔ́n aziín", "examples": [] }]
+  },
+  "écoulé": { "definitions": [{ "definition": "sisa", "examples": [] }] },
+  "écoulement ‑ écoulement de sang": {
+    "definitions": [{ "definition": "hunsisa", "examples": [] }]
+  },
+  "écouler": { "definitions": [{ "definition": "sà", "examples": [] }] },
+  "écouler ‑ action de s'écouler": {
+    "definitions": [{ "definition": "sisa", "examples": [] }]
+  },
+  "écoute": { "definitions": [{ "definition": "sise", "examples": [] }] },
+  "écoute attentive": {
+    "definitions": [{ "definition": "tówlíxówù", "examples": [] }]
+  },
+  "ê­tre à l'écoute": {
+    "definitions": [{ "definition": "tó ɖò jὲ", "examples": [] }]
+  },
+  "écouter": {
+    "definitions": [
+      { "definition": "ɖŏ tó", "examples": [] },
+      { "definition": "sè", "examples": [] },
+      { "definition": "sè tónú", "examples": [] },
+      { "definition": "sè xó", "examples": [] }
+    ]
+  },
+  "celui qui écoute": {
+    "definitions": [{ "definition": "mεgbesetɔ́", "examples": [] }]
+  },
+  "écouter celui qui appelle": {
+    "definitions": [{ "definition": "sè ylɔ́ mɛ tɔ̀n", "examples": [] }]
+  },
+  "écouter en cachette": {
+    "definitions": [{ "definition": "xɔ́ tó", "examples": [] }]
+  },
+  "écouter et mettre en pratique": {
+    "definitions": [{ "definition": "sè bo blŏ", "examples": [] }]
+  },
+  "écouter sans agir en conséquence": {
+    "definitions": [{ "definition": "sè ma blŏ", "examples": [] }]
+  },
+  "écouter un conseil": {
+    "definitions": [{ "definition": "sè tó nŭ", "examples": [] }]
+  },
+  "écrasé": {
+    "definitions": [
+      { "definition": "fɔ́tɔ́fɔ́tɔ́", "examples": [] },
+      { "definition": "gbìdí", "examples": [] }
+    ]
+  },
+  "écrasé à gros grains": {
+    "definitions": [{ "definition": "glĭn", "examples": [] }]
+  },
+  "écrasé à moitié le maïs": {
+    "definitions": [{ "definition": "glĭn agbadé", "examples": [] }]
+  },
+  "être écrasé": { "definitions": [{ "definition": "vŏ", "examples": [] }] },
+  "écraser": {
+    "definitions": [
+      { "definition": "càn", "examples": [] },
+      { "definition": "gbε̆ dŏ mε", "examples": [] },
+      { "definition": "kpàn", "examples": [] },
+      { "definition": "lì", "examples": [] },
+      { "definition": "vòtó", "examples": [] },
+      { "definition": "zĭn", "examples": [] }
+    ]
+  },
+  "écraser avec la main ou le pied": {
+    "definitions": [{ "definition": "nyìnyέ", "examples": [] }]
+  },
+  "écraser avec les pieds (les noix de palme pour en extraire l'huile)": {
+    "definitions": [{ "definition": "lì ɖŏ afɔ̀ wŭ", "examples": [] }]
+  },
+  "écraser de façon grossière": {
+    "definitions": [{ "definition": "hlĭ", "examples": [] }]
+  },
+  "écraser du piment": {
+    "definitions": [{ "definition": "lì takín", "examples": [] }]
+  },
+  "écraser du piment avec les doigts": {
+    "definitions": [{ "definition": "nyìnyέ takín", "examples": [] }]
+  },
+  "écraser le haricot": {
+    "definitions": [{ "definition": "gbà atá", "examples": [] }]
+  },
+  "écraser les fruits du palmier pour en extraire l'huile rouge": {
+    "definitions": [{ "definition": "xò dĕ", "examples": [] }]
+  },
+  "écraser moralement ou physiquement": {
+    "definitions": [{ "definition": "vìvá", "examples": [] }]
+  },
+  "écraser un à un les boutons avec l'ongle du pouce": {
+    "definitions": [
+      { "definition": "kέn nùsínsέn", "examples": [] },
+      { "definition": "kέn nùsínsέn", "examples": [] }
+    ]
+  },
+  "écraser une chose tombée et qui n'offre pas grande résistance": {
+    "definitions": [{ "definition": "fɔ́tɔ́", "examples": [] }]
+  },
+  "s'écraser": { "definitions": [{ "definition": "fɔ́tɔ́", "examples": [] }] },
+  "écrevisse": { "definitions": [{ "definition": "cacá", "examples": [] }] },
+  "écrire": {
+    "definitions": [
+      { "definition": "wlăn", "examples": [] },
+      { "definition": "wlăn wĕmà", "examples": [] }
+    ]
+  },
+  "action d'écrire": {
+    "definitions": [
+      { "definition": "nù wlànwlán", "examples": [] },
+      { "definition": "wèmà wínwlán", "examples": [] },
+      { "definition": "wìnwlán", "examples": [] },
+      { "definition": "wlànwlán", "examples": [] }
+    ]
+  },
+  "celui qui sait écrire": {
+    "definitions": [
+      { "definition": "wèmàsétɔ", "examples": [] },
+      { "definition": "wèwlàntɔ́", "examples": [] }
+    ]
+  },
+  "écrire un livre": {
+    "definitions": [{ "definition": "wlăn wĕmà", "examples": [] }]
+  },
+  "écrire une lettre": {
+    "definitions": [
+      { "definition": "gìn wèmá", "examples": [] },
+      { "definition": "wlăn wĕmà", "examples": [] }
+    ]
+  },
+  "écrire une lettre à quelqu'un": {
+    "definitions": [{ "definition": "wlăn wĕmà sɛ́ dó mɛ", "examples": [] }]
+  },
+  "écrit": {
+    "definitions": [
+      { "definition": "nù wlàn­wlán", "examples": [] },
+      { "definition": "wèmà wínwlán", "examples": [] }
+    ]
+  },
+  "écriture": {
+    "definitions": [{ "definition": "nùwìnwlán", "examples": [] }]
+  },
+  "écrivain": { "definitions": [{ "definition": "wèwlàntɔ́", "examples": [] }] },
+  "écrivain public": {
+    "definitions": [{ "definition": "akɔwé", "examples": [] }]
+  },
+  "écroulement": { "definitions": [{ "definition": "mumu", "examples": [] }] },
+  "écrouler ‑ s'écrouler": {
+    "definitions": [{ "definition": "mù", "examples": [] }]
+  },
+  "écuelle": { "definitions": [{ "definition": "kogbán", "examples": [] }] },
+  "écuelle en bois": {
+    "definitions": [{ "definition": "akpakpò", "examples": [] }]
+  },
+  "écume": {
+    "definitions": [
+      { "definition": "àfíntúnkplɔ̆", "examples": [] },
+      { "definition": "afúntúnkplɔ̆", "examples": [] },
+      { "definition": "àfúntúnkplɔ̆", "examples": [] },
+      { "definition": "fún", "examples": [] }
+    ]
+  },
+  "écume d'huile de palme": {
+    "definitions": [{ "definition": "amifún", "examples": [] }]
+  },
+  "écumer": {
+    "definitions": [
+      { "definition": "ɖè fún", "examples": [] },
+      { "definition": "nyὲ fún", "examples": [] }
+    ]
+  },
+  "écumoire": { "definitions": [{ "definition": "fúnfɔ́n", "examples": [] }] },
+  "écureuil ‑ écureuil de terre": {
+    "definitions": [
+      { "definition": "agbè", "examples": [] },
+      { "definition": "awàságbè", "examples": [] }
+    ]
+  },
+  "écureuil des arbres": {
+    "definitions": [{ "definition": "dɔ̀n", "examples": [] }]
+  },
+  "écureuil fouisseur": {
+    "definitions": [{ "definition": "agbè", "examples": [] }]
+  },
+  "écurie": { "definitions": [{ "definition": "lanxɔsá", "examples": [] }] },
+  "écuyer": { "definitions": [{ "definition": "sɔ́́kplátɔ́", "examples": [] }] },
+  "édenté": {
+    "definitions": [
+      { "definition": "aɖùsúnsúnnɔ̀", "examples": [] },
+      { "definition": "aɖùwεńtɔ́", "examples": [] },
+      { "definition": "fotofoto", "examples": [] },
+      { "definition": "fotoò", "examples": [] }
+    ]
+  },
+  "édifice": { "definitions": [{ "definition": "xɔ̀", "examples": [] }] },
+  "édifier": { "definitions": [{ "definition": "lĭ", "examples": [] }] },
+  "éducateur": {
+    "definitions": [{ "definition": "mεkplɔ́ntɔ́", "examples": [] }]
+  },
+  "éducation": {
+    "definitions": [
+      { "definition": "kpínkplɔ́n", "examples": [] },
+      { "definition": "mεkpínkplɔ́n", "examples": [] }
+    ]
+  },
+  "éduquer ‑ éduquer un enfant": {
+    "definitions": [{ "definition": "hὲn vĭ", "examples": [] }]
+  },
+  "effacer": { "definitions": [{ "definition": "gbìdí", "examples": [] }] },
+  "effacer sur le papier": {
+    "definitions": [{ "definition": "súnsún wĕmà", "examples": [] }]
+  },
+  "s'effacer (en parlant des couleurs et des étoffes)": {
+    "definitions": [{ "definition": "sún", "examples": [] }]
+  },
+  "efficace ‑ être efficace": {
+    "definitions": [{ "definition": "ɖì", "examples": [] }]
+  },
+  "efficacité ‑ faire perdre l'efficacité d'une amulette ou d'autre chose": {
+    "definitions": [{ "definition": "flá", "examples": [] }]
+  },
+  "effilé": { "definitions": [{ "definition": "xwíɖíxwíɖí", "examples": [] }] },
+  "être effilé": { "definitions": [{ "definition": "wìnní", "examples": [] }] },
+  "effilocher": { "definitions": [{ "definition": "jò", "examples": [] }] },
+  "s'effilocher": { "definitions": [{ "definition": "jò", "examples": [] }] },
+  "efforcer ‑ s'efforcer": {
+    "definitions": [
+      { "definition": "dŏ hlɔ̀hlɔ́n", "examples": [] },
+      { "definition": "syɛ́n wŭ", "examples": [] },
+      { "definition": "syɛ́n xú", "examples": [] }
+    ]
+  },
+  "effort": {
+    "definitions": [
+      { "definition": "găn", "examples": [] },
+      { "definition": "gàndìdó", "examples": [] },
+      { "definition": "gàndùdó", "examples": [] }
+    ]
+  },
+  "faire des efforts": {
+    "definitions": [{ "definition": "zɛ̀n", "examples": [] }]
+  },
+  "faire effort": {
+    "definitions": [
+      { "definition": "dŏ găn", "examples": [] },
+      { "definition": "dŏ hlɔ̀hlɔ́n", "examples": [] }
+    ]
+  },
+  "faire un grand effort avec bruit et empressement": {
+    "definitions": [{ "definition": "takitì", "examples": [] }]
+  },
+  "effrayant ‑ être effrayant": {
+    "definitions": [
+      { "definition": "fyɔ́n wŭ", "examples": [] },
+      { "definition": "xwyɔ́ wŭ", "examples": [] }
+    ]
+  },
+  "effrayé ‑ être effrayé": {
+    "definitions": [
+      { "definition": "xesì jɛ̀ mɛ jĭ", "examples": [] },
+      { "definition": "xò avivì", "examples": [] }
+    ]
+  },
+  "effrayer": { "definitions": [{ "definition": "dŏ xεsì", "examples": [] }] },
+  "effrayer quelqu'un": {
+    "definitions": [
+      { "definition": "dŏ xɛsì nú mɛ", "examples": [] },
+      { "definition": "gbà hŭn dŏ nú mε", "examples": [] }
+    ]
+  },
+  "s'effrayer": {
+    "definitions": [{ "definition": "ɖì xɛsì", "examples": [] }]
+  },
+  "effroi": {
+    "definitions": [
+      { "definition": "adohù", "examples": [] },
+      { "definition": "adohuhu", "examples": [] },
+      { "definition": "adohumɛ", "examples": [] }
+    ]
+  },
+  "effronté": {
+    "definitions": [
+      { "definition": "mεhɔnwùn", "examples": [] },
+      { "definition": "wunhɔnmɔ́nɔ̀", "examples": [] },
+      { "definition": "wunhɔntɔ́", "examples": [] },
+      { "definition": "wunhunhɔ́nnɔ̀", "examples": [] }
+    ]
+  },
+  "être effronté": { "definitions": [{ "definition": "lyá", "examples": [] }] },
+  "effronterie": {
+    "definitions": [
+      { "definition": "memasí", "examples": [] },
+      { "definition": "wunhinhɔ́n", "examples": [] }
+    ]
+  },
+  "égaler": { "definitions": [{ "definition": "sɔ̀", "examples": [] }] },
+  "égalisé ‑ être égalisé": {
+    "definitions": [{ "definition": "gbìgbá", "examples": [] }]
+  },
+  "égalité ‑ à égalité": {
+    "definitions": [
+      { "definition": "zɛɛ́n", "examples": [] },
+      { "definition": "zɛ̆nzɛ̆n", "examples": [] }
+    ]
+  },
+  "être à égalité": {
+    "definitions": [
+      { "definition": "cyán", "examples": [] },
+      { "definition": "ɖò zɛɛ́n", "examples": [] }
+    ]
+  },
+  "égard": { "definitions": [{ "definition": "sísí", "examples": [] }] },
+  "égaré": {
+    "definitions": [
+      { "definition": "bùbú", "examples": [] },
+      { "definition": "yɛyinɔ̀", "examples": [] }
+    ]
+  },
+  "égarer": { "definitions": [{ "definition": "bŭ", "examples": [] }] },
+  "égarer quelqu'un": {
+    "definitions": [{ "definition": "hὲn bŭ", "examples": [] }]
+  },
+  "s’égarer": {
+    "definitions": [
+      { "definition": "bŭ gì", "examples": [] },
+      { "definition": "bŭ alì", "examples": [] }
+    ]
+  },
+  "égaux ‑ être égaux": {
+    "definitions": [{ "definition": "ɖò zɛɛ́n", "examples": [] }]
+  },
+  "égayer ‑ s’égayer": {
+    "definitions": [{ "definition": "dà ayihún", "examples": [] }]
+  },
+  "église": { "definitions": [{ "definition": "igléjà", "examples": [] }] },
+  "égoïsme": {
+    "definitions": [
+      { "definition": "agbadecéjέnnábí", "examples": [] },
+      { "definition": "cejέnnányɔ́", "examples": [] },
+      { "definition": "gbadecéjέnnábí", "examples": [] },
+      { "definition": "mεɖémúmɔ́", "examples": [] },
+      { "definition": "nùcéjέnnányɔ́", "examples": [] },
+      { "definition": "wɔ̀n", "examples": [] }
+    ]
+  },
+  "égoïsme extrême": {
+    "definitions": [{ "definition": "wɔ̀nkúkú", "examples": [] }]
+  },
+  "égoïste": {
+    "definitions": [
+      { "definition": "agbadécejεnnabínɔ̀", "examples": [] },
+      { "definition": "gbadécejεnnabínɔ̀", "examples": [] }
+    ]
+  },
+  "être égoïste et indifférent aux malheurs d'autrui": {
+    "definitions": [{ "definition": "kú wɔ̀n", "examples": [] }]
+  },
+  "égorger": { "definitions": [{ "definition": "gbogbè", "examples": [] }] },
+  "égout": { "definitions": [{ "definition": "ayìsúnhwín", "examples": [] }] },
+  "égratigné ‑ être égratigné": {
+    "definitions": [{ "definition": "flé", "examples": [] }]
+  },
+  "égratigner ‑ égratigner quelqu'un": {
+    "definitions": [{ "definition": "tlέn fέn mε", "examples": [] }]
+  },
+  "égratignure": {
+    "definitions": [{ "definition": "fεnkpà", "examples": [] }]
+  },
+  "égrené": { "definitions": [{ "definition": "kísákísá", "examples": [] }] },
+  "égrener": { "definitions": [{ "definition": "kísá", "examples": [] }] },
+  "égrener le maïs": {
+    "definitions": [{ "definition": "kísá gbadé", "examples": [] }]
+  },
+  "eh ‑ eh bien !": {
+    "definitions": [{ "definition": "kóoyì !", "examples": [] }]
+  },
+  "éhonté": { "definitions": [{ "definition": "wunhɔntɔ́", "examples": [] }] },
+  "éjaculation": {
+    "definitions": [{ "definition": "afɔníná", "examples": [] }]
+  },
+  "éjaculer": { "definitions": [{ "definition": "nă afɔ̀", "examples": [] }] },
+  "élaguer ‑ élaguer un arbre": {
+    "definitions": [
+      { "definition": "ɖè ala nú atín", "examples": [] },
+      { "definition": "ɖè alà nú atín", "examples": [] }
+    ]
+  },
+  "élancé": {
+    "definitions": [
+      { "definition": "ɖiɖi", "examples": [] },
+      { "definition": "gεgε", "examples": [] }
+    ]
+  },
+  "élancement ‑ avoir des élancements à la racine des dents": {
+    "definitions": [{ "definition": "àɖŭ ɖú mε", "examples": [] }]
+  },
+  "élancer ‑ s'élancer": {
+    "definitions": [{ "definition": "zlɔ̆n", "examples": [] }]
+  },
+  "s'élancer vers": {
+    "definitions": [{ "definition": "kplɔ́ dŏ", "examples": [] }]
+  },
+  "élargir": { "definitions": [{ "definition": "gblɔ", "examples": [] }] },
+  "s'élargir": { "definitions": [{ "definition": "dŏ agbà", "examples": [] }] },
+  "élastique": {
+    "definitions": [
+      { "definition": "adɔ̀ví", "examples": [] },
+      { "definition": "didε", "examples": [] },
+      { "definition": "lánkólánkó", "examples": [] }
+    ]
+  },
+  "être élastique": { "definitions": [{ "definition": "dὲ", "examples": [] }] },
+  "élection ‑ élection d'un chef": {
+    "definitions": [{ "definition": "gànsɔ́mε", "examples": [] }]
+  },
+  "électricien": {
+    "definitions": [{ "definition": "lεtlíkíbloɖotɔ́", "examples": [] }]
+  },
+  "électricité": {
+    "definitions": [{ "definition": "lεtlíkì", "examples": [] }]
+  },
+  "élégance": {
+    "definitions": [
+      { "definition": "àcɔ́bíbá", "examples": [] },
+      { "definition": "ɖεkpὲ", "examples": [] },
+      { "definition": "ɖεkpεnyinyɔ́", "examples": [] }
+    ]
+  },
+  "celui qui aime la l'élégance": {
+    "definitions": [{ "definition": "àcɔ́bátɔ́", "examples": [] }]
+  },
+  "élégant": { "definitions": [{ "definition": "ɖεkpὲ", "examples": [] }] },
+  "éléphant": { "definitions": [{ "definition": "ajikanú", "examples": [] }] },
+  "éléphant (poétique)": {
+    "definitions": [{ "definition": "gelí", "examples": [] }]
+  },
+  "éléphantiasis": {
+    "definitions": [{ "definition": "wlĭ bò nú mε", "examples": [] }]
+  },
+  "élève": {
+    "definitions": [
+      { "definition": "nùkplɔ́ntɔ́", "examples": [] },
+      { "definition": "nùkplɔ́nví", "examples": [] },
+      { "definition": "wèmàkplɔ́ntɔ́", "examples": [] },
+      { "definition": "wèmàxɔ́mɛ́ví", "examples": [] }
+    ]
+  },
+  "d'un prix élevé": {
+    "definitions": [{ "definition": "vìvέ", "examples": [] }]
+  },
+  "élevé": { "definitions": [{ "definition": "gaga", "examples": [] }] },
+  "être d'un prix élevé": {
+    "definitions": [{ "definition": "vε̆ axì", "examples": [] }]
+  },
+  "élever": {
+    "definitions": [
+      { "definition": "zĕ", "examples": [] },
+      { "definition": "zĕ yì jĭ", "examples": [] }
+    ]
+  },
+  "élever de terre": {
+    "definitions": [{ "definition": "zĕ sín ayĭ", "examples": [] }]
+  },
+  "élever des animaux": {
+    "definitions": [{ "definition": "nyì", "examples": [] }]
+  },
+  "élever des bovins": {
+    "definitions": [{ "definition": "nyì nyibú", "examples": [] }]
+  },
+  "élever du bétail": {
+    "definitions": [
+      { "definition": "nyì kanlìn", "examples": [] },
+      { "definition": "nyì làn", "examples": [] }
+    ]
+  },
+  "élever et abaisser plusieurs fois": {
+    "definitions": [{ "definition": "mì", "examples": [] }]
+  },
+  "élever la voix": {
+    "definitions": [
+      { "definition": "sɔ́ gbè yì jĭ", "examples": [] },
+      { "definition": "zĕ gbè yì jĭ", "examples": [] }
+    ]
+  },
+  "élever les murs d'une maison": {
+    "definitions": [{ "definition": "mὲ xɔ̀", "examples": [] }]
+  },
+  "élever un enfant": {
+    "definitions": [{ "definition": "hὲn vĭ", "examples": [] }]
+  },
+  "s'élever au dessus de quelqu'un": {
+    "definitions": [{ "definition": "kpà àcὲ nú mὲ", "examples": [] }]
+  },
+  "s'élever sur la pointe des pieds": {
+    "definitions": [{ "definition": "zĕ gè", "examples": [] }]
+  },
+  "élire": { "definitions": [{ "definition": "cyăn", "examples": [] }] },
+  "action d’élire": {
+    "definitions": [{ "definition": "cyáncyán", "examples": [] }]
+  },
+  "élire un chef": {
+    "definitions": [{ "definition": "sɔ́ mε găn", "examples": [] }]
+  },
+  "elle": {
+    "definitions": [
+      { "definition": "é", "examples": [] },
+      { "definition": "éyέ", "examples": [] }
+    ]
+  },
+  "à elle": { "definitions": [{ "definition": "n'í", "examples": [] }] },
+  "elles": { "definitions": [{ "definition": "yĕ", "examples": [] }] },
+  "élocution": {
+    "definitions": [
+      { "definition": "xóɖíɖɔ́", "examples": [] },
+      { "definition": "xóɖúɖɔ́", "examples": [] }
+    ]
+  },
+  "avoir de la difficulté d'élocution": {
+    "definitions": [{ "definition": "ɖε̆ tέ", "examples": [] }]
+  },
+  "éloigné": { "definitions": [{ "definition": "lìnlín", "examples": [] }] },
+  "d'être éloigné": {
+    "definitions": [{ "definition": "lìnlín", "examples": [] }]
+  },
+  "être éloigné (dans l'espace ou le temps)": {
+    "definitions": [{ "definition": "lĭn", "examples": [] }]
+  },
+  "très éloigné": {
+    "definitions": [{ "definition": "vanavíní", "examples": [] }]
+  },
+  "éloignement": {
+    "definitions": [{ "definition": "lìnlín", "examples": [] }]
+  },
+  "éloigner ‑ éloigner la pluie": {
+    "definitions": [{ "definition": "klɔ́n jĭ", "examples": [] }]
+  },
+  "s'éloigner": {
+    "definitions": [
+      { "definition": "go sín", "examples": [] },
+      { "definition": "jɛ̀ zɔ̀", "examples": [] },
+      { "definition": "sɛ̀ yì zɔ̀", "examples": [] },
+      { "definition": "sὲ jὲ zɔ̀", "examples": [] },
+      { "definition": "sὲ sín", "examples": [] },
+      { "definition": "sὲ yì", "examples": [] },
+      { "definition": "yì azɔgà", "examples": [] },
+      { "definition": "yì nukɔ̀n", "examples": [] }
+    ]
+  },
+  "éloquent ‑ être éloquent": {
+    "definitions": [{ "definition": "nyɔ̆ xó ɖɔ̀", "examples": [] }]
+  },
+  "élu ‑ un élu": {
+    "definitions": [{ "definition": "mε cyáncyán", "examples": [] }]
+  },
+  "émanciper ‑ émanciper un enfant": {
+    "definitions": [{ "definition": "hùn tó nú yɔkpɔ́vú", "examples": [] }]
+  },
+  "emballer ‑ ne pas s'emballer": {
+    "definitions": [{ "definition": "xwè sɔ̀", "examples": [] }]
+  },
+  "embarcation ‑ embarcation à moteur": {
+    "definitions": [{ "definition": "zòhŭn", "examples": [] }]
+  },
+  "embarcation pour aller en mer": {
+    "definitions": [{ "definition": "xujihún", "examples": [] }]
+  },
+  "embarquement": {
+    "definitions": [{ "definition": "hunmεbyɔ́byɔ́", "examples": [] }]
+  },
+  "embarquer ‑ embarquer quelque chose dans un véhicule": {
+    "definitions": [{ "definition": "fɔ̀ nùɖé dŏ hŭn mὲ", "examples": [] }]
+  },
+  "s'embarquer": {
+    "definitions": [
+      { "definition": "byɔ̆ hŭn mὲ", "examples": [] },
+      { "definition": "jὲ hŭn mὲ", "examples": [] }
+    ]
+  },
+  "s'embarquer dans un long développement": {
+    "definitions": [{ "definition": "wlĭ xó", "examples": [] }]
+  },
+  "s'embarquer dans une affaire embrouillée": {
+    "definitions": [{ "definition": "byɔ̆ lεgεdε mὲ", "examples": [] }]
+  },
+  "s'embarquer dans une affaire pas claire": {
+    "definitions": [{ "definition": "byɔ̆ lεgεdε mὲ", "examples": [] }]
+  },
+  "s'embarquer dans une affaire pas honnête": {
+    "definitions": [{ "definition": "byɔ̆ lεgεdε mὲ", "examples": [] }]
+  },
+  "embarras": { "definitions": [{ "definition": "jàn", "examples": [] }] },
+  "avoir de l'embarras gastrique": {
+    "definitions": [
+      { "definition": "gò hŭn mε", "examples": [] },
+      { "definition": "gò jĭ mε", "examples": [] },
+      { "definition": "jĭ gò", "examples": [] },
+      { "definition": "gohúnmε", "examples": [] },
+      { "definition": "gojíjí", "examples": [] }
+    ]
+  },
+  "embarrasser": { "definitions": [{ "definition": "xá", "examples": [] }] },
+  "embarrasser quelqu'un": {
+    "definitions": [{ "definition": "xá mɛ", "examples": [] }]
+  },
+  "embaucher": { "definitions": [{ "definition": "dà", "examples": [] }] },
+  "embaumer ‑ embaumer un cadavre": {
+    "definitions": [{ "definition": "sá amasìn dŏ cyɔ́ wŭ", "examples": [] }]
+  },
+  "emblème ‑ emblème des forgerons": {
+    "definitions": [{ "definition": "gŭbasá", "examples": [] }]
+  },
+  "emblème des guerriers": {
+    "definitions": [{ "definition": "gŭbasá", "examples": [] }]
+  },
+  "embouchure": { "definitions": [{ "definition": "nu", "examples": [] }] },
+  "embrassement": {
+    "definitions": [{ "definition": "asíkplákɔ̀", "examples": [] }]
+  },
+  "embrasser": {
+    "definitions": [
+      { "definition": "kísì", "examples": [] },
+      { "definition": "sì", "examples": [] }
+    ]
+  },
+  "embrasser quelqu'un": {
+    "definitions": [
+      { "definition": "kísì nú mε", "examples": [] },
+      { "definition": "kplá así kɔ̀ nú mε", "examples": [] },
+      { "definition": "kplá àsí kɔ̀ nú mε", "examples": [] }
+    ]
+  },
+  "embrasser quelqu'un avec transport": {
+    "definitions": [{ "definition": "zùn fán mɛ", "examples": [] }]
+  },
+  "embrasure": { "definitions": [{ "definition": "hɔnlinu", "examples": [] }] },
+  "embrasure d'une porte": {
+    "definitions": [{ "definition": "hɔnli", "examples": [] }]
+  },
+  "embrouillé": {
+    "definitions": [
+      { "definition": "fitifitì", "examples": [] },
+      { "definition": "fitiì", "examples": [] }
+    ]
+  },
+  "être embrouillé": {
+    "definitions": [{ "definition": "hìzí", "examples": [] }]
+  },
+  "le fait d'être embrouillé": {
+    "definitions": [{ "definition": "hìzìhízí", "examples": [] }]
+  },
+  "embrouiller": {
+    "definitions": [
+      { "definition": "gbàdá", "examples": [] },
+      { "definition": "hìzí", "examples": [] }
+    ]
+  },
+  "action d'embrouiller": {
+    "definitions": [{ "definition": "hìzìhízí", "examples": [] }]
+  },
+  "s'embrouiller": {
+    "definitions": [{ "definition": "hìzí", "examples": [] }]
+  },
+  "émerveiller": { "definitions": [{ "definition": "jĭ wŭ", "examples": [] }] },
+  "émettre ‑ émettre (chant)": {
+    "definitions": [{ "definition": "jì", "examples": [] }]
+  },
+  "émettre un cri fort": {
+    "definitions": [{ "definition": "cyá", "examples": [] }]
+  },
+  "émietter": {
+    "definitions": [
+      { "definition": "hìnhέn", "examples": [] },
+      { "definition": "hlε̆n", "examples": [] }
+    ]
+  },
+  "action d'émietter": {
+    "definitions": [{ "definition": "hlὲnhlέn", "examples": [] }]
+  },
+  "émigrer": { "definitions": [{ "definition": "tún xwé", "examples": [] }] },
+  "éminent": { "definitions": [{ "definition": "nukúnɖéjí", "examples": [] }] },
+  "une personne éminente": {
+    "definitions": [{ "definition": "gbεtɔ́ nukúnɖéjí", "examples": [] }]
+  },
+  "emmener": {
+    "definitions": [
+      { "definition": "dɔ̀n yì", "examples": [] },
+      { "definition": "hɛ̀n yì", "examples": [] },
+      { "definition": "kplá mε dŏ", "examples": [] },
+      { "definition": "sɔ́ hɛ̀n yì", "examples": [] },
+      { "definition": "wă kplá", "examples": [] },
+      { "definition": "zĕ hɛ̀n yì", "examples": [] }
+    ]
+  },
+  "emmener à l'écart": {
+    "definitions": [{ "definition": "dɔ̀n yì kpá", "examples": [] }]
+  },
+  "émoi": {
+    "definitions": [
+      { "definition": "akpakpà", "examples": [] },
+      { "definition": "xɛsì", "examples": [] }
+    ]
+  },
+  "être en émoi": {
+    "definitions": [{ "definition": "xò zĭn", "examples": [] }]
+  },
+  "émoussé ‑ qui est émoussé": {
+    "definitions": [{ "definition": "tikpò", "examples": [] }]
+  },
+  "émouvoir": {
+    "definitions": [
+      { "definition": "ɖù ɖò lanmὲ nú mε", "examples": [] },
+      { "definition": "jĭ wŭ", "examples": [] }
+    ]
+  },
+  "empan": { "definitions": [{ "definition": "alɔbá", "examples": [] }] },
+  "emparer ‑ s'emparer de": {
+    "definitions": [{ "definition": "wlĭ", "examples": [] }]
+  },
+  "s'emparer de quelque chose": {
+    "definitions": [{ "definition": "klá jὲ nùɖé nú", "examples": [] }]
+  },
+  "s'emparer du double de quelqu'un": {
+    "definitions": [{ "definition": "wŭn yɛ̀ ɖò ta nú mɛ", "examples": [] }]
+  },
+  "empêcher": {
+    "definitions": [
+      { "definition": "jăn", "examples": [] },
+      { "definition": "kɔ́", "examples": [] },
+      { "definition": "tɔ́", "examples": [] }
+    ]
+  },
+  "empêcher de": {
+    "definitions": [
+      { "definition": "gbε̆", "examples": [] },
+      { "definition": "glɔ̆n", "examples": [] }
+    ]
+  },
+  "empêcher de continuer à exister": {
+    "definitions": [{ "definition": "sú kún dŏ", "examples": [] }]
+  },
+  "empêcher de dormir": {
+    "definitions": [{ "definition": "vε̆ adɔ̆", "examples": [] }]
+  },
+  "empêcher de se reproduire": {
+    "definitions": [{ "definition": "sú kún dŏ", "examples": [] }]
+  },
+  "empêcher la contrebande": {
+    "definitions": [{ "definition": "gbò dè", "examples": [] }]
+  },
+  "empêcher la mort de venir": {
+    "definitions": [{ "definition": "xέ kú", "examples": [] }]
+  },
+  "empêcher la mort de venir en lui donnant ce qu'elle veut": {
+    "definitions": [
+      { "definition": "ɖyɔ̆ kú", "examples": [] },
+      { "definition": "xɛ́ kú", "examples": [] }
+    ]
+  },
+  "empêcher la pluie de tomber": {
+    "definitions": [
+      { "definition": "klɔ́n jĭ", "examples": [] },
+      { "definition": "glɔ́n jĭ", "examples": [] }
+    ]
+  },
+  "empêcher l'efficacité d'un bô": {
+    "definitions": [{ "definition": "klɔ́n bŏ", "examples": [] }]
+  },
+  "empêcher quelqu'un d'aller": {
+    "definitions": [{ "definition": "hὲn mε ɖŏ tè", "examples": [] }]
+  },
+  "empêcher quelqu'un de faire quoique ce soit": {
+    "definitions": [{ "definition": "jὲ gŏ mὲ nú mε", "examples": [] }]
+  },
+  "empêcher quelqu'un de partir": {
+    "definitions": [{ "definition": "cí mε jĭ", "examples": [] }]
+  },
+  "empêcher quelqu'un de s'en aller": {
+    "definitions": [{ "definition": "tɔ́ dŏ wŭ", "examples": [] }]
+  },
+  "empêcher un effet de se produire": {
+    "definitions": [{ "definition": "klɔ́n", "examples": [] }]
+  },
+  "empeser ‑ empeser le linge": {
+    "definitions": [{ "definition": "dŏ gɔ̆mà avɔ̀", "examples": [] }]
+  },
+  "empiffrer ‑ s'empiffrer": {
+    "definitions": [{ "definition": "lὲ jὲ", "examples": [] }]
+  },
+  "emplacement": {
+    "definitions": [{ "definition": "tὲn mὲ", "examples": [] }]
+  },
+  "emplacement d'un ancien palais d’abomey": {
+    "definitions": [{ "definition": "danxomεhɔnjí", "examples": [] }]
+  },
+  "emplacement réservé à chaque vendeuse": {
+    "definitions": [{ "definition": "sɔnu", "examples": [] }]
+  },
+  "emplette ‑ faire des emplettes": {
+    "definitions": [{ "definition": "xwlé", "examples": [] }]
+  },
+  "employé": {
+    "definitions": [
+      { "definition": "azɔ̀mὲyítɔ́", "examples": [] },
+      { "definition": "azɔwatɔ́", "examples": [] }
+    ]
+  },
+  "employé de bureau": {
+    "definitions": [{ "definition": "akɔwé", "examples": [] }]
+  },
+  "employé de magasin": {
+    "definitions": [{ "definition": "akɔwé", "examples": [] }]
+  },
+  "employé de maison": {
+    "definitions": [{ "definition": "xwégbézɔ́wátɔ́", "examples": [] }]
+  },
+  "employer": { "definitions": [{ "definition": "zăn", "examples": [] }] },
+  "empoigner": { "definitions": [{ "definition": "wlĭ", "examples": [] }] },
+  "empois ‑ empois du manioc": {
+    "definitions": [{ "definition": "gɔ̆mà", "examples": [] }]
+  },
+  "empoisonnement": {
+    "definitions": [{ "definition": "nùdónùmέnúmε", "examples": [] }]
+  },
+  "sorte d'empoisonnement": {
+    "definitions": [{ "definition": "alăn", "examples": [] }]
+  },
+  "empoisonner ‑ empoisonner quelqu'un": {
+    "definitions": [{ "definition": "ɖŏ alăn nú mε", "examples": [] }]
+  },
+  "empoisonner quelqu'un": {
+    "definitions": [{ "definition": "dŏ nŭ nŭ mὲ nú mε", "examples": [] }]
+  },
+  "le fait de s'empoisonner auprès d'une femme pendant une relation sexuelle avec elle": {
+    "definitions": [{ "definition": "nùsɔ́ɖònyɔ̀núkɔ̀n", "examples": [] }]
+  },
+  "emportement": { "definitions": [{ "definition": "adăn", "examples": [] }] },
+  "emporter": {
+    "definitions": [
+      { "definition": "hɛ̀n yì", "examples": [] },
+      { "definition": "sɔ́ hɛ̀n yì", "examples": [] },
+      { "definition": "zĕ hɛ̀n yì", "examples": [] }
+    ]
+  },
+  "le fait de l'emporter sur": {
+    "definitions": [{ "definition": "gànhùhú", "examples": [] }]
+  },
+  "l'emporter en force sur quelqu'un": {
+    "definitions": [{ "definition": "hŭ hlɔ̀nhlɔ́n mε", "examples": [] }]
+  },
+  "l'emporter sur": {
+    "definitions": [{ "definition": "zɛ̀ wŭ", "examples": [] }]
+  },
+  "l'emporter sur (en quantité)": {
+    "definitions": [{ "definition": "zɛ̀ wŭ", "examples": [] }]
+  },
+  "l'emporter sur quelqu'un": {
+    "definitions": [{ "definition": "hŭ găn mε", "examples": [] }]
+  },
+  "s'emporter": {
+    "definitions": [{ "definition": "jὲ adăn dŏ mε", "examples": [] }]
+  },
+  "empreinte": {
+    "definitions": [
+      { "definition": "afɔ̀", "examples": [] },
+      { "definition": "mɔ̆", "examples": [] },
+      { "definition": "wŭntùn", "examples": [] }
+    ]
+  },
+  "empreinte de pied sur le sable": {
+    "definitions": [{ "definition": "afɔkɔ́", "examples": [] }]
+  },
+  "empreinte du pied sur le sol": {
+    "definitions": [
+      { "definition": "afɔdò", "examples": [] },
+      { "definition": "afɔdomὲ", "examples": [] }
+    ]
+  },
+  "empreinte d'une chaussure": {
+    "definitions": [{ "definition": "afɔkpadò", "examples": [] }]
+  },
+  "empressé ‑ être empressé à saluer les gens": {
+    "definitions": [{ "definition": "yă wŭ dŏ mɛ", "examples": [] }]
+  },
+  "empressement": { "definitions": [{ "definition": "cɔcɔ̀", "examples": [] }] },
+  "avec empressement": {
+    "definitions": [{ "definition": "klέnklέn", "examples": [] }]
+  },
+  "empressement à recevoir ou à saluer quelqu'un": {
+    "definitions": [{ "definition": "wùyàdómɛ", "examples": [] }]
+  },
+  "emprisonnement": {
+    "definitions": [{ "definition": "mεdógàn", "examples": [] }]
+  },
+  "emprunt": {
+    "definitions": [
+      { "definition": "àkwέnyánúmε", "examples": [] },
+      { "definition": "àkwέnyínyá", "examples": [] },
+      { "definition": "hwenahwéná", "examples": [] }
+    ]
+  },
+  "emprunter": {
+    "definitions": [
+      { "definition": "hwĕ", "examples": [] },
+      { "definition": "nyà nùɖé ɖò mε así", "examples": [] }
+    ]
+  },
+  "emprunter à intérêt": {
+    "definitions": [
+      { "definition": "xɔ̀ àkwέ", "examples": [] },
+      { "definition": "xɔ̀ kwέ", "examples": [] }
+    ]
+  },
+  "emprunter de l'argent à quelqu'un": {
+    "definitions": [
+      { "definition": "nyà àkwέ ɖò mε así", "examples": [] },
+      { "definition": "nyà àkwέ ɖò mε’sí", "examples": [] }
+    ]
+  },
+  "emprunter de l'argent à un intérêt usuraire": {
+    "definitions": [{ "definition": "xɔ̀ akwɛ́", "examples": [] }]
+  },
+  "emprunter quelque chose à quelqu'un": {
+    "definitions": [{ "definition": "hwĕ nŭ ɖò mε así", "examples": [] }]
+  },
+  "emprunteur": {
+    "definitions": [{ "definition": "nuxayatù", "examples": [] }]
+  },
+  "ému ‑ être ému": {
+    "definitions": [{ "definition": "xò zĭn", "examples": [] }]
+  },
+  "encadreur ‑ encadreur rural": {
+    "definitions": [{ "definition": "glegán", "examples": [] }]
+  },
+  "enceinte ‑ action de mettre une femme enceinte": {
+    "definitions": [{ "definition": "xodudó", "examples": [] }]
+  },
+  "enceinte fortifiée": {
+    "definitions": [{ "definition": "agbŏdò", "examples": [] }]
+  },
+  "être enceinte": {
+    "definitions": [
+      { "definition": "aɖĭ ɖŏ mε nu", "examples": [] },
+      { "definition": "ɖŏ adɔgò", "examples": [] },
+      { "definition": "ɖò xò", "examples": [] },
+      { "definition": "ɖŏ xò", "examples": [] },
+      { "definition": "mɔ̀ adɔgò", "examples": [] },
+      { "definition": "sùn nɔ tè nú mε", "examples": [] },
+      { "definition": "xò ɖò mɛ nu", "examples": [] }
+    ]
+  },
+  "être enceinte avant l'âge": {
+    "definitions": [{ "definition": "gbà zε̆n", "examples": [] }]
+  },
+  "femme enceinte (car elle ne voit pas ce qu'elle va devenir)": {
+    "definitions": [{ "definition": "nukúnnɔ̀", "examples": [] }]
+  },
+  "encens": {
+    "definitions": [
+      { "definition": "zà lὲnkpɔ́n", "examples": [] },
+      { "definition": "zàlɛ́nkpɔ́n", "examples": [] }
+    ]
+  },
+  "encenser": {
+    "definitions": [{ "definition": "mì azɔzέn", "examples": [] }]
+  },
+  "encensoir": { "definitions": [{ "definition": "azɔzέn", "examples": [] }] },
+  "encercler": { "definitions": [{ "definition": "xá", "examples": [] }] },
+  "enchaîné ‑ être enchaîné": {
+    "definitions": [{ "definition": "ɖò wɔlɔ̀ mɛ̀", "examples": [] }]
+  },
+  "enchaîner ‑ enchaîner quelqu'un": {
+    "definitions": [{ "definition": "dŏ mε gàn", "examples": [] }]
+  },
+  "enclore": { "definitions": [{ "definition": "dŏ kpá", "examples": [] }] },
+  "enclos": { "definitions": [{ "definition": "wùtó", "examples": [] }] },
+  "chacun des enclos d'un tata possédant habituellement sa porte principale indépendante": {
+    "definitions": [{ "definition": "hɔ̀ngbómὲ", "examples": [] }]
+  },
+  "enclos contenant une ou plusieurs grandes habitations-hôpitaux compartimentés": {
+    "definitions": [{ "definition": "cákpánxɔ̀", "examples": [] }]
+  },
+  "enclos de chant": {
+    "definitions": [{ "definition": "hankpá", "examples": [] }]
+  },
+  "enclos d'initiation d'un vaudoun": {
+    "definitions": [{ "definition": "hùnkpámὲ", "examples": [] }]
+  },
+  "enclos du vaudoun": {
+    "definitions": [
+      { "definition": "hùn kpámὲ", "examples": [] },
+      { "definition": "vodúnkpámὲ", "examples": [] }
+    ]
+  },
+  "enclos non couvert pour des moutons": {
+    "definitions": [{ "definition": "lὲngbɔ́kpámὲ", "examples": [] }]
+  },
+  "enclos où se réunit la société secrète des zangbeto": {
+    "definitions": [{ "definition": "avalì", "examples": [] }]
+  },
+  "enclos pour la douche": {
+    "definitions": [{ "definition": "wùlɛ̀xɔ́sá", "examples": [] }]
+  },
+  "enclos pour le bain": {
+    "definitions": [{ "definition": "wùlɛ̀kpá", "examples": [] }]
+  },
+  "enclos pour le bétail": {
+    "definitions": [{ "definition": "kpámὲ", "examples": [] }]
+  },
+  "enclos pour le bokinà": {
+    "definitions": [{ "definition": "kpámὲ", "examples": [] }]
+  },
+  "enclos pour le couvent de tel ou tel vaudoun": {
+    "definitions": [{ "definition": "kpámὲ", "examples": [] }]
+  },
+  "enclos sacré de la société secrète des kûtiti": {
+    "definitions": [{ "definition": "gbalὲ", "examples": [] }]
+  },
+  "enclume": { "definitions": [{ "definition": "wàn", "examples": [] }] },
+  "encombrer": { "definitions": [{ "definition": "súbɔ́", "examples": [] }] },
+  "encore": {
+    "definitions": [
+      { "definition": "azɔ̀n ɖébŭ", "examples": [] },
+      { "definition": "kpéná", "examples": [] },
+      { "definition": "lɔlɔ", "examples": [] },
+      { "definition": "sɔ́́", "examples": [] }
+    ]
+  },
+  "être encore": { "definitions": [{ "definition": "kpò", "examples": [] }] },
+  "être encore jeune": {
+    "definitions": [{ "definition": "zìn hăn", "examples": [] }]
+  },
+  "encorné ‑ bien encorné": {
+    "definitions": [{ "definition": "zonɔ̀", "examples": [] }]
+  },
+  "encouragement": {
+    "definitions": [{ "definition": "akɔ́nkpínkpan", "examples": [] }]
+  },
+  "encourager ‑ encourager quelqu'un": {
+    "definitions": [{ "definition": "dŏ akɔ́nkpínkpán nú mε", "examples": [] }]
+  },
+  "encourager quelqu'un": {
+    "definitions": [
+      { "definition": "ɖŏ glàglá nú mε", "examples": [] },
+      { "definition": "dŏ ta syέnsyέn nú mε", "examples": [] },
+      { "definition": "nă akɔ́nkpínkpán mε", "examples": [] }
+    ]
+  },
+  "encre": { "definitions": [{ "definition": "wèmàsín", "examples": [] }] },
+  "encre en poudre violette ou autre": {
+    "definitions": [
+      { "definition": "kwélè", "examples": [] },
+      { "definition": "kólè", "examples": [] }
+    ]
+  },
+  "encre rouge": { "definitions": [{ "definition": "swè", "examples": [] }] },
+  "encrier": { "definitions": [{ "definition": "kwélegò", "examples": [] }] },
+  "endetter ‑ endetter quelqu'un": {
+    "definitions": [{ "definition": "dŏ axɔ́ kɔ̀ nú mε", "examples": [] }]
+  },
+  "s'endetter": { "definitions": [{ "definition": "ɖù axɔ́", "examples": [] }] },
+  "endiguer ‑ action d'endiguer un cours d'eau": {
+    "definitions": [{ "definition": "tɔsúsú", "examples": [] }]
+  },
+  "endormir ‑ endormir quelqu'un": {
+    "definitions": [{ "definition": "ɖŏ sὲnmlɔ̀ nú mε", "examples": [] }]
+  },
+  "endormir un enfant": {
+    "definitions": [
+      { "definition": "xwè vĭ dŏ amlɔ̀ mὲ", "examples": [] },
+      { "definition": "xwè xĭ dlɔ̆ mὲ", "examples": [] }
+    ]
+  },
+  "endormir un enfant en se couchant à côté de lui": {
+    "definitions": [{ "definition": "tέ vĭ", "examples": [] }]
+  },
+  "faire quelque chose pour endormir quelqu'un": {
+    "definitions": [{ "definition": "blŏ nú mε d’ámlɔ̀", "examples": [] }]
+  },
+  "s'endormir": {
+    "definitions": [{ "definition": "amlɔgɔ́ sín mε", "examples": [] }]
+  },
+  "endosser ‑ endosser un uniforme": {
+    "definitions": [{ "definition": "dŏ awù", "examples": [] }]
+  },
+  "endroit": {
+    "definitions": [
+      { "definition": "fí", "examples": [] },
+      { "definition": "tὲn", "examples": [] },
+      { "definition": "tὲn mὲ", "examples": [] },
+      { "definition": "tεndò", "examples": [] },
+      { "definition": "tεnmὲ", "examples": [] }
+    ]
+  },
+  "en cet endroit": {
+    "definitions": [
+      { "definition": "tὲn élɔ́ mὲ", "examples": [] },
+      { "definition": "tὲn nέ ɔ́ mέ ɔ́", "examples": [] }
+    ]
+  },
+  "endroit (par opposition à envers)": {
+    "definitions": [{ "definition": "nukúnmὲ", "examples": [] }]
+  },
+  "l'endroit du nid": {
+    "definitions": [{ "definition": "adɔtέn", "examples": [] }]
+  },
+  "l'endroit d'une étoffe": {
+    "definitions": [
+      { "definition": "avɔ̀ nukúnmὲ", "examples": [] },
+      { "definition": "avɔnukúnmὲ", "examples": [] }
+    ]
+  },
+  "l'endroit où l'on cause": {
+    "definitions": [{ "definition": "alisátεn", "examples": [] }]
+  },
+  "l'endroit où l'on est bien": {
+    "definitions": [{ "definition": "gbεɖutὲn", "examples": [] }]
+  },
+  "l'endroit où l'on fait cuire les pots en argile": {
+    "definitions": [{ "definition": "abijí", "examples": [] }]
+  },
+  "enduire": { "definitions": [{ "definition": "sá", "examples": [] }] },
+  "action d'enduire": {
+    "definitions": [{ "definition": "sísá", "examples": [] }]
+  },
+  "enduit": { "definitions": [{ "definition": "sísá", "examples": [] }] },
+  "endurance": {
+    "definitions": [
+      { "definition": "kanɖodázɔwú", "examples": [] },
+      { "definition": "nukúnkpédázɔwú", "examples": [] }
+    ]
+  },
+  "endurant ‑ être endurant": {
+    "definitions": [{ "definition": "dὲ", "examples": [] }]
+  },
+  "endurer ‑ endurer des tourments": {
+    "definitions": [{ "definition": "jì yà", "examples": [] }]
+  },
+  "énergie": { "definitions": [{ "definition": "hlɔ̀nhlɔ́n", "examples": [] }] },
+  "énergique (à propos des vaudoun)": {
+    "definitions": [{ "definition": "glàglá", "examples": [] }]
+  },
+  "ne pas avoir d'énergie": {
+    "definitions": [{ "definition": "vɔ̆", "examples": [] }]
+  },
+  "énergumène": {
+    "definitions": [
+      { "definition": "gbetɔ́hla", "examples": [] },
+      { "definition": "langbεtɔ́", "examples": [] }
+    ]
+  },
+  "enfance": {
+    "definitions": [
+      { "definition": "vuɖíɖé", "examples": [] },
+      { "definition": "vùnínɔ̀", "examples": [] },
+      { "definition": "yakpɔ́vú hwenu", "examples": [] },
+      { "definition": "yɔkpɔ́vú hwénú", "examples": [] },
+      { "definition": "yɔkpɔ́vúnyínyí", "examples": [] }
+    ]
+  },
+  "dans l’enfance (au temps des coups)": {
+    "definitions": [
+      { "definition": "xixo hwenu ɔ́", "examples": [] },
+      { "definition": "xuxo hwenu ɔ́", "examples": [] }
+    ]
+  },
+  "dans l'enfance": {
+    "definitions": [{ "definition": "yakpɔ́­vú mɛ̀", "examples": [] }]
+  },
+  "enfant": {
+    "definitions": [
+      { "definition": "aɖì", "examples": [] },
+      { "definition": "nyaví", "examples": [] },
+      { "definition": "vĭ", "examples": [] },
+      { "definition": "vŭ", "examples": [] },
+      { "definition": "yakpɔ́", "examples": [] }
+    ]
+  },
+  "avoir un enfant": {
+    "definitions": [{ "definition": "jì vĭ", "examples": [] }]
+  },
+  "avoir un enfant alors que le précédent tète encore": {
+    "definitions": [{ "definition": "jì kpέ", "examples": [] }]
+  },
+  "enfant (fille ou garçon)": {
+    "definitions": [{ "definition": "yɔkpɔ́vú", "examples": [] }]
+  },
+  "enfant ‑ enfant à la mamelle": {
+    "definitions": [{ "definition": "vĭ ɖ’ànɔ̀nu", "examples": [] }]
+  },
+  "enfant à la mamelle": {
+    "definitions": [
+      { "definition": "vĭɖanɔnú", "examples": [] },
+      { "definition": "yakpɔ́vú ɖò anɔnú", "examples": [] },
+      { "definition": "yɔkpɔ́vú ɖò anɔnú", "examples": [] }
+    ]
+  },
+  "enfant adultérin": {
+    "definitions": [{ "definition": "agaví", "examples": [] }]
+  },
+  "enfant au pair": {
+    "definitions": [
+      { "definition": "vìɖómεgɔ́n", "examples": [] },
+      { "definition": "vĭɖòmεgɔ́n", "examples": [] }
+    ]
+  },
+  "enfant au service d'une famille": {
+    "definitions": [{ "definition": "vìɖòmεgɔ́n", "examples": [] }]
+  },
+  "enfant blanc": {
+    "definitions": [
+      { "definition": "yovóví", "examples": [] },
+      { "definition": "yovóvú", "examples": [] },
+      { "definition": "aɖimεví", "examples": [] },
+      { "definition": "aɖiví", "examples": [] }
+    ]
+  },
+  "enfant de la maison de la mère": {
+    "definitions": [{ "definition": "nylɔylɔvĭ", "examples": [] }]
+  },
+  "enfant du pays": {
+    "definitions": [{ "definition": "toví", "examples": [] }]
+  },
+  "enfant encore à la mamelle quand sa mère devient enceinte": {
+    "definitions": [
+      { "definition": "kpέdóví", "examples": [] },
+      { "definition": "kpεdóvú", "examples": [] }
+    ]
+  },
+  "enfant gâté": {
+    "definitions": [
+      { "definition": "kpεdóvú", "examples": [] },
+      { "definition": "vì tíntέn", "examples": [] },
+      { "definition": "vìkíkέ", "examples": [] }
+    ]
+  },
+  "enfant illégitime": {
+    "definitions": [{ "definition": "alɔmawlíví", "examples": [] }]
+  },
+  "enfant issu d'un mariage chrétien": {
+    "definitions": [{ "definition": "alɔwlitɔ́ví", "examples": [] }]
+  },
+  "enfant maladif": {
+    "definitions": [{ "definition": "azɔnví", "examples": [] }]
+  },
+  "enfant prodigue": {
+    "definitions": [{ "definition": "akpavú", "examples": [] }]
+  },
+  "enfant qui est toujours malade": {
+    "definitions": [{ "definition": "azɔnví", "examples": [] }]
+  },
+  "enfant qui hérite": {
+    "definitions": [{ "definition": "xùɖùví", "examples": [] }]
+  },
+  "enfant qui n'est pas encore sevré": {
+    "definitions": [{ "definition": "kpέ", "examples": [] }]
+  },
+  "faire l’enfant": {
+    "definitions": [
+      { "definition": "blŏ nŭ", "examples": [] },
+      { "definition": "ɖɔ̀ vĭ", "examples": [] }
+    ]
+  },
+  "les enfants des enfants en ligne directe jusqu'à la quatrième génération": {
+    "definitions": [{ "definition": "vìvú vivu vitikli", "examples": [] }]
+  },
+  "petit enfant": {
+    "definitions": [{ "definition": "kpεká", "examples": [] }]
+  },
+  "petit enfant chéri": {
+    "definitions": [{ "definition": "kóɖó", "examples": [] }]
+  },
+  "petits enfants": {
+    "definitions": [{ "definition": "yɔkpwɛ́yɔkpwɛ́", "examples": [] }]
+  },
+  "un enfant": { "definitions": [{ "definition": "klíklí", "examples": [] }] },
+  "enfantement": {
+    "definitions": [
+      { "definition": "ajì", "examples": [] },
+      { "definition": "jiji", "examples": [] }
+    ]
+  },
+  "enfanter": {
+    "definitions": [
+      { "definition": "gbà gò", "examples": [] },
+      { "definition": "jì", "examples": [] },
+      { "definition": "jì vĭ", "examples": [] }
+    ]
+  },
+  "enfanter (pop.)": {
+    "definitions": [{ "definition": "gbà gò", "examples": [] }]
+  },
+  "enfanter avec un enfant encore au sein": {
+    "definitions": [{ "definition": "jì kpέ", "examples": [] }]
+  },
+  "ne plus enfanter": {
+    "definitions": [{ "definition": "kpò vĭ", "examples": [] }]
+  },
+  "enfer": { "definitions": [{ "definition": "zomɛ̀", "examples": [] }] },
+  "l'enfer mythologique": {
+    "definitions": [{ "definition": "kújὲsúsava", "examples": [] }]
+  },
+  "enfermer": {
+    "definitions": [
+      { "definition": "sú", "examples": [] },
+      { "definition": "sú dŏ", "examples": [] }
+    ]
+  },
+  "enfermer dans la main": {
+    "definitions": [{ "definition": "myɔ̆ alɔ̀ dŏ", "examples": [] }]
+  },
+  "enfermer un voleur": {
+    "definitions": [{ "definition": "sú ajotɔ́", "examples": [] }]
+  },
+  "enfiler ‑ enfiler des perles": {
+    "definitions": [{ "definition": "sɔ́ jε̆", "examples": [] }]
+  },
+  "enflammer": { "definitions": [{ "definition": "jì zò", "examples": [] }] },
+  "enflammer quelqu’un": {
+    "definitions": [{ "definition": "dŏ adăn tamε nú mε", "examples": [] }]
+  },
+  "s'enflammer": {
+    "definitions": [{ "definition": "fɔ́n adăn", "examples": [] }]
+  },
+  "enflé": {
+    "definitions": [
+      { "definition": "bεtεὲ", "examples": [] },
+      { "definition": "dede", "examples": [] },
+      { "definition": "gɔɖɔɖɔ̀", "examples": [] },
+      { "definition": "titε", "examples": [] }
+    ]
+  },
+  "être enflé": { "definitions": [{ "definition": "hlɔ̆n", "examples": [] }] },
+  "enfler": {
+    "definitions": [
+      { "definition": "hlɔ̆n", "examples": [] },
+      { "definition": "hŭn", "examples": [] },
+      { "definition": "jĭ", "examples": [] },
+      { "definition": "tὲ", "examples": [] }
+    ]
+  },
+  "enfler superficiellement à la suite de piqûres d'insectes, de coups de fouet, etc": {
+    "definitions": [{ "definition": "lĭ", "examples": [] }]
+  },
+  "enflure": { "definitions": [{ "definition": "nùtítέ", "examples": [] }] },
+  "enflure de tout le corps": {
+    "definitions": [
+      { "definition": "flɔ́flɔ́zɔ̀n", "examples": [] },
+      { "definition": "jijízɔ̀n", "examples": [] },
+      { "definition": "kejekejè", "examples": [] }
+    ]
+  },
+  "enflure des joues": {
+    "definitions": [{ "definition": "klέn jíjí", "examples": [] }]
+  },
+  "enflure du corps": {
+    "definitions": [{ "definition": "jìjí", "examples": [] }]
+  },
+  "enfoncer": {
+    "definitions": [
+      { "definition": "lùn", "examples": [] },
+      { "definition": "lùn dŏ mὲ", "examples": [] },
+      { "definition": "xwè", "examples": [] },
+      { "definition": "zĭn", "examples": [] }
+    ]
+  },
+  "enfoncer un chapeau": {
+    "definitions": [
+      { "definition": "xwè azà", "examples": [] },
+      { "definition": "xwè gbàkún", "examples": [] }
+    ]
+  },
+  "enfoncer un piquet en terre": {
+    "definitions": [{ "definition": "xwè só", "examples": [] }]
+  },
+  "enfoncer une pointe": {
+    "definitions": [{ "definition": "xwè hùnjέn", "examples": [] }]
+  },
+  "s'enfoncer": { "definitions": [{ "definition": "wăn", "examples": [] }] },
+  "enfouir": {
+    "definitions": [{ "definition": "sɔ́ dŏ dò mὲ", "examples": [] }]
+  },
+  "enfourcher": {
+    "definitions": [{ "definition": "vlɔ̆ asá", "examples": [] }]
+  },
+  "enfourcher son dada": {
+    "definitions": [{ "definition": "wlĭ xó", "examples": [] }]
+  },
+  "enfreindre ‑ enfreindre ses ordres": {
+    "definitions": [{ "definition": "jὲ agɔ̀ dŏ mε", "examples": [] }]
+  },
+  "enfreindre une règle": {
+    "definitions": [{ "definition": "dă", "examples": [] }]
+  },
+  "enfuir ‑ celui qui s'enfuit de la maison": {
+    "definitions": [{ "definition": "gbèjέtɔ́", "examples": [] }]
+  },
+  "s'enfuir": {
+    "definitions": [
+      { "definition": "hɔ̀n jὲ gbĕ", "examples": [] },
+      { "definition": "hɔ̀n yì", "examples": [] }
+    ]
+  },
+  "s'enfuir à toutes jambes": {
+    "definitions": [
+      { "definition": "dŏ afɔ̀ mὲ", "examples": [] },
+      { "definition": "dŏ afɔ̀ wezùn mɛ̀", "examples": [] },
+      { "definition": "dŏ gè mὲ", "examples": [] }
+    ]
+  },
+  "s'enfuir dans un autre endroit": {
+    "definitions": [{ "definition": "hɔ̀n jὲ gbĕ", "examples": [] }]
+  },
+  "s'enfuir en courant": {
+    "definitions": [{ "definition": "hɔ̀n wezùn", "examples": [] }]
+  },
+  "engagement ‑ engagement envers quelqu'un": {
+    "definitions": [{ "definition": "lὲ", "examples": [] }]
+  },
+  "engager": {
+    "definitions": [{ "definition": "dŏ gbat ε ̀", "examples": [] }]
+  },
+  "engendrer": { "definitions": [{ "definition": "jì", "examples": [] }] },
+  "engendrer quelqu'un en dernier lieu": {
+    "definitions": [{ "definition": "jì mε gbɔ̀n tó", "examples": [] }]
+  },
+  "engoulevent": { "definitions": [{ "definition": "bàsá", "examples": [] }] },
+  "engrais ‑ engrais organique": {
+    "definitions": [{ "definition": "zunkɔ́", "examples": [] }]
+  },
+  "engraisser": { "definitions": [{ "definition": "mɔ̀ jŏ", "examples": [] }] },
+  "enivrement": {
+    "definitions": [{ "definition": "ahanmúmε", "examples": [] }]
+  },
+  "enivrer": { "definitions": [{ "definition": "mŭ", "examples": [] }] },
+  "s'enivrer": {
+    "definitions": [{ "definition": "nù ahàn mŭ", "examples": [] }]
+  },
+  "enjambée": {
+    "definitions": [
+      { "definition": "afɔɖiɖè", "examples": [] },
+      { "definition": "afɔgà", "examples": [] }
+    ]
+  },
+  "enjamber": { "definitions": [{ "definition": "dŏ asá", "examples": [] }] },
+  "enjeu": { "definitions": [{ "definition": "akɔ̀", "examples": [] }] },
+  "enlever": {
+    "definitions": [
+      { "definition": "ɖè", "examples": [] },
+      { "definition": "ɖè sín", "examples": [] },
+      { "definition": "ɖeɖὲ", "examples": [] },
+      { "definition": "fìn", "examples": [] },
+      { "definition": "kɔ́n", "examples": [] },
+      { "definition": "kɔ́n sín", "examples": [] },
+      { "definition": "sún", "examples": [] },
+      { "definition": "yĭ sín", "examples": [] },
+      { "definition": "bε̆ nùɖé kɔ́n nyì gbĕ", "examples": [] }
+    ]
+  },
+  "enlever de": {
+    "definitions": [
+      { "definition": "ɖè sín", "examples": [] },
+      { "definition": "sɔ́ sín ì", "examples": [] }
+    ]
+  },
+  "enlever de force": {
+    "definitions": [
+      { "definition": "fán asú mε wŭ", "examples": [] },
+      { "definition": "fán asú mε wŭ", "examples": [] }
+    ]
+  },
+  "enlever la crasse": {
+    "definitions": [
+      { "definition": "lὲ ɖìxó", "examples": [] },
+      { "definition": "sún ză", "examples": [] }
+    ]
+  },
+  "enlever la petite peau de l'arachide": {
+    "definitions": [{ "definition": "flé aziín", "examples": [] }]
+  },
+  "enlever la poussière de l'oeil": {
+    "definitions": [{ "definition": "fún kɔ̀ sín nukún jí", "examples": [] }]
+  },
+  "enlever la sauce du feu": {
+    "definitions": [{ "definition": "lɔ̆n nùsúnnú sín ado jí", "examples": [] }]
+  },
+  "enlever la sauce du foyer": {
+    "definitions": [{ "definition": "lɔ̆n nùsúnnú sín ado jí", "examples": [] }]
+  },
+  "enlever le deuil": {
+    "definitions": [{ "definition": "ɖè lŭtù", "examples": [] }]
+  },
+  "enlever l'enveloppe de l'épi de maïs": {
+    "definitions": [{ "definition": "flé gbadé", "examples": [] }]
+  },
+  "enlever les écailles d'un poisson": {
+    "definitions": [{ "definition": "xò ză nú hweví", "examples": [] }]
+  },
+  "enlever les écailles d'un pois­son": {
+    "definitions": [{ "definition": "fán hweví", "examples": [] }]
+  },
+  "enlever les entrailles d'une bête": {
+    "definitions": [{ "definition": "ɖè adɔ̀ nú kanlìn", "examples": [] }]
+  },
+  "enlever les gros grains du gali": {
+    "definitions": [{ "definition": "jò galí", "examples": [] }]
+  },
+  "enlever les gros grains du gali une fois séché au feu": {
+    "definitions": [{ "definition": "jò galí", "examples": [] }]
+  },
+  "enlever l'interdit": {
+    "definitions": [
+      { "definition": "flú sù", "examples": [] },
+      { "definition": "gbìdí sέn", "examples": [] }
+    ]
+  },
+  "enlever son pagne": {
+    "definitions": [{ "definition": "ɖè avɔ̀", "examples": [] }]
+  },
+  "enlever un par un": {
+    "definitions": [{ "definition": "kέn", "examples": [] }]
+  },
+  "ne pas enlever": {
+    "definitions": [{ "definition": "xásá ɖŏ", "examples": [] }]
+  },
+  "ennemi": { "definitions": [{ "definition": "kέntɔ́", "examples": [] }] },
+  "se faire un ennemi de quelqu'un": {
+    "definitions": [{ "definition": "jὲ mε jĭ agɔ̀", "examples": [] }]
+  },
+  "ennui": {
+    "definitions": [
+      { "definition": "adì", "examples": [] },
+      { "definition": "akpɔ̀", "examples": [] },
+      { "definition": "tagbà", "examples": [] },
+      { "definition": "tagbanú", "examples": [] },
+      { "definition": "wàxálà", "examples": [] }
+    ]
+  },
+  "avoir des ennuis": {
+    "definitions": [{ "definition": "mɔ̀ akpɔ̀", "examples": [] }]
+  },
+  "ennuyer": {
+    "definitions": [
+      { "definition": "dŏ tagbà nú mε", "examples": [] },
+      { "definition": "dŏ yà nú mɛ", "examples": [] }
+    ]
+  },
+  "action d'ennuyer quelqu'un": {
+    "definitions": [{ "definition": "hăbamε", "examples": [] }]
+  },
+  "ennuyer quelqu'un": {
+    "definitions": [{ "definition": "ɖè dŏ mε", "examples": [] }]
+  },
+  "ennuyer un supérieur": {
+    "definitions": [{ "definition": "bà hă mε", "examples": [] }]
+  },
+  "ennuyeux": {
+    "definitions": [{ "definition": "tagbadotɔ́", "examples": [] }]
+  },
+  "enorgueillir ‑ s'enorgueillir": {
+    "definitions": [{ "definition": "yĭ gò", "examples": [] }]
+  },
+  "énorme": {
+    "definitions": [
+      { "definition": "aditì", "examples": [] },
+      { "definition": "dowùn", "examples": [] },
+      { "definition": "dowùndowùn", "examples": [] },
+      { "definition": "gbanjangbanjàn", "examples": [] },
+      { "definition": "gbawùn", "examples": [] },
+      { "definition": "gbiwùn", "examples": [] },
+      { "definition": "gidigbájà", "examples": [] },
+      { "definition": "gidijaà", "examples": [] },
+      { "definition": "glijà", "examples": [] },
+      { "definition": "glijaà", "examples": [] },
+      { "definition": "gεjεὲ", "examples": [] },
+      { "definition": "kloklo", "examples": [] },
+      { "definition": "kpayakpayà", "examples": [] },
+      { "definition": "lajaà", "examples": [] },
+      { "definition": "nyatinnyatín", "examples": [] },
+      { "definition": "vannyaà", "examples": [] },
+      { "definition": "vannyavannyà", "examples": [] }
+    ]
+  },
+  "énorme (s'applique aux femmes)": {
+    "definitions": [{ "definition": "kpayaà", "examples": [] }]
+  },
+  "énorme en largeur": {
+    "definitions": [{ "definition": "gojogojò", "examples": [] }]
+  },
+  "énormément": {
+    "definitions": [
+      { "definition": "gajaà", "examples": [] },
+      { "definition": "gajagajà", "examples": [] },
+      { "definition": "gbεmὲ", "examples": [] },
+      { "definition": "gègé", "examples": [] }
+    ]
+  },
+  "enquérir": { "definitions": [{ "definition": "bà kpɔ́n", "examples": [] }] },
+  "s’enquérir": {
+    "definitions": [
+      { "definition": "kàn byɔ̆", "examples": [] },
+      { "definition": "bà kpɔ́n", "examples": [] }
+    ]
+  },
+  "enquête": {
+    "definitions": [
+      { "definition": "alasí", "examples": [] },
+      { "definition": "alasídídó", "examples": [] },
+      { "definition": "alasídúdó", "examples": [] },
+      { "definition": "nùbákpɔ́n", "examples": [] },
+      { "definition": "nùdóbíbá", "examples": [] }
+    ]
+  },
+  "enquête sur la résidence ouverte ou cachée de quelqu'un": {
+    "definitions": [{ "definition": "mεfɔdudó", "examples": [] }]
+  },
+  "faire une enquête": {
+    "definitions": [
+      { "definition": "dŏ alasí", "examples": [] },
+      { "definition": "dŏ àsí kpɔ́n nú mε", "examples": [] }
+    ]
+  },
+  "faire une enquête pour quelqu'un": {
+    "definitions": [
+      { "definition": "dŏ alasí tɔ̀n nú mε", "examples": [] },
+      { "definition": "bà dò ɖó mε wú", "examples": [] }
+    ]
+  },
+  "enquêteur": { "definitions": [{ "definition": "dobatɔ́", "examples": [] }] },
+  "enraciner ‑ enraciner (sens propre et figuré)": {
+    "definitions": [{ "definition": "dŏ ɖɔ̀ dò", "examples": [] }]
+  },
+  "enragé": { "definitions": [{ "definition": "majεtɔ́", "examples": [] }] },
+  "être enragé": { "definitions": [{ "definition": "jὲ mà", "examples": [] }] },
+  "enrager": { "definitions": [{ "definition": "wlĭ mà", "examples": [] }] },
+  "enrhumé ‑ être enrhumé": {
+    "definitions": [{ "definition": "jὲ lìnkpɔ́n", "examples": [] }]
+  },
+  "enrichir ‑ s'enrichir": {
+    "definitions": [{ "definition": "kplé dɔkùn", "examples": [] }]
+  },
+  "enroué ‑ être enroué": {
+    "definitions": [{ "definition": "gbè sú", "examples": [] }]
+  },
+  "être enrouée": { "definitions": [{ "definition": "xlá", "examples": [] }] },
+  "enroulé": {
+    "definitions": [
+      { "definition": "hùzùhúzwí", "examples": [] },
+      { "definition": "kláxlá", "examples": [] },
+      { "definition": "logwélógwé", "examples": [] },
+      { "definition": "xáláxálá", "examples": [] }
+    ]
+  },
+  "enrouler": {
+    "definitions": [
+      { "definition": "klá", "examples": [] },
+      { "definition": "mlă", "examples": [] },
+      { "definition": "xásá", "examples": [] }
+    ]
+  },
+  "enrouler le pagne autour des reins": {
+    "definitions": [
+      { "definition": "gbă avɔ̀", "examples": [] },
+      { "definition": "lŏ avɔ̀", "examples": [] }
+    ]
+  },
+  "enrouler une corde": {
+    "definitions": [{ "definition": "xá kàn", "examples": [] }]
+  },
+  "enrouler une natte": {
+    "definitions": [{ "definition": "mlă zàn", "examples": [] }]
+  },
+  "s'enrouler": { "definitions": [{ "definition": "xásá", "examples": [] }] },
+  "s'enrouler autour de quelque chose": {
+    "definitions": [{ "definition": "sló dŏ nŭ", "examples": [] }]
+  },
+  "enseigner": {
+    "definitions": [{ "definition": "kplɔ́n mε", "examples": [] }]
+  },
+  "enseignement": {
+    "definitions": [
+      { "definition": "kpínkplɔ́n", "examples": [] },
+      { "definition": "kplɔ́nkplɔ́n", "examples": [] },
+      { "definition": "nùkpínkplɔ́n", "examples": [] },
+      { "definition": "nùkplɔ́nkplɔ́n", "examples": [] }
+    ]
+  },
+  "enseignement supérieur": {
+    "definitions": [
+      { "definition": "wèmàxɔ́mɛ yi-ji-b'ala-vɔ tɔ̀n", "examples": [] }
+    ]
+  },
+  "action d'enseigner": {
+    "definitions": [
+      { "definition": "kplɔ́nkplɔ́n", "examples": [] },
+      { "definition": "nùkplɔ́nmὲ", "examples": [] }
+    ]
+  },
+  "enseigner la lecture à quelqu'un": {
+    "definitions": [{ "definition": "kplɔ́n wĕmà xixa mɛ", "examples": [] }]
+  },
+  "enseigner quelqu'un": {
+    "definitions": [{ "definition": "kplɔ́n wĕmà mɛ", "examples": [] }]
+  },
+  "ensemble": {
+    "definitions": [
+      { "definition": "bŭ", "examples": [] },
+      { "definition": "kàn", "examples": [] },
+      { "definition": "kpɔ́", "examples": [] },
+      { "definition": "xúsúxúsú", "examples": [] },
+      { "definition": "zɛ̆nzɛ̆n", "examples": [] }
+    ]
+  },
+  "aller quelque part ensemble": {
+    "definitions": [{ "definition": "zɔ̀n yì", "examples": [] }]
+  },
+  "être ensemble": {
+    "definitions": [
+      { "definition": "ɖŏ bŭ", "examples": [] },
+      { "definition": "ɖò kpɔ́", "examples": [] },
+      { "definition": "ɖŏ kpɔ́", "examples": [] },
+      { "definition": "kplé ɖò̀ kpɔ́", "examples": [] }
+    ]
+  },
+  "ensemencer": {
+    "definitions": [{ "definition": "dŏ nùkún", "examples": [] }]
+  },
+  "enserrer": { "definitions": [{ "definition": "vùn blá", "examples": [] }] },
+  "ensorceler ‑ ensorceler quelqu'un": {
+    "definitions": [{ "definition": "gbò azĕ mε", "examples": [] }]
+  },
+  "ensuite": {
+    "definitions": [{ "definition": "énέ ɔ́ gúdó ɔ́", "examples": [] }]
+  },
+  "entassé": { "definitions": [{ "definition": "gbágbà", "examples": [] }] },
+  "entasser": { "definitions": [{ "definition": "kplé", "examples": [] }] },
+  "entendre": {
+    "definitions": [
+      { "definition": "ɖŏ tó", "examples": [] },
+      { "definition": "sè", "examples": [] },
+      { "definition": "sè xó", "examples": [] }
+    ]
+  },
+  "à qui veut l'entendre": {
+    "definitions": [{ "definition": "kpétó", "examples": [] }]
+  },
+  "bien s'entendre avec quelqu'un": {
+    "definitions": [{ "definition": "mɔ̀ mε gbɔ̀", "examples": [] }]
+  },
+  "le fait d'entendre": {
+    "definitions": [{ "definition": "sise", "examples": [] }]
+  },
+  "ne pas bien entendre": {
+    "definitions": [{ "definition": "gblă tó", "examples": [] }]
+  },
+  "ne plus s’entendre avec quelqu'un": {
+    "definitions": [{ "definition": "klán gbè xá mε", "examples": [] }]
+  },
+  "s'entendre": {
+    "definitions": [{ "definition": "ɖŏ gbè kpɔ́ xá mε", "examples": [] }]
+  },
+  "entendu ‑ entendu !": {
+    "definitions": [{ "definition": "ooo !", "examples": [] }]
+  },
+  "entente": {
+    "definitions": [
+      { "definition": "gbeɖókpɔ́", "examples": [] },
+      { "definition": "gbenɔkpɔ́", "examples": [] }
+    ]
+  },
+  "bonne entente": {
+    "definitions": [{ "definition": "memɔgbɔ̀", "examples": [] }]
+  },
+  "en entente": {
+    "definitions": [{ "definition": "gbekplígbekplí", "examples": [] }]
+  },
+  "enterrement": {
+    "definitions": [
+      { "definition": "cyɔ́ɖíɖí", "examples": [] },
+      { "definition": "mεɖiɖì", "examples": [] }
+    ]
+  },
+  "faire l’enterrement": {
+    "definitions": [{ "definition": "ɖì cyɔ́", "examples": [] }]
+  },
+  "le jour de l'enterrement officiel": {
+    "definitions": [{ "definition": "cyɔ́ɖízángbè", "examples": [] }]
+  },
+  "nom donné à un enterrement provisoire": {
+    "definitions": [{ "definition": "akpagbé", "examples": [] }]
+  },
+  "enterrer": { "definitions": [{ "definition": "ɖì", "examples": [] }] },
+  "action d'enterrer": {
+    "definitions": [{ "definition": "ɖiɖì", "examples": [] }]
+  },
+  "enterrer un cadavre": {
+    "definitions": [{ "definition": "ɖì cyɔ̆", "examples": [] }]
+  },
+  "enterrer un enfant": {
+    "definitions": [{ "definition": "tlɔ́ vĭ", "examples": [] }]
+  },
+  "entêté": {
+    "definitions": [
+      { "definition": "tamεsyέntɔ́", "examples": [] },
+      { "definition": "tasyέntɔ́", "examples": [] },
+      { "definition": "tótlítɔ́", "examples": [] }
+    ]
+  },
+  "être entêté": {
+    "definitions": [
+      { "definition": "kpὲn tamὲ", "examples": [] },
+      { "definition": "syέn ta", "examples": [] },
+      { "definition": "syέn tamὲ", "examples": [] },
+      { "definition": "ta syέn", "examples": [] },
+      { "definition": "tamε syέn", "examples": [] }
+    ]
+  },
+  "entêtement": {
+    "definitions": [
+      { "definition": "cejíjέnnágbóɖó", "examples": [] },
+      { "definition": "tamεcici", "examples": [] },
+      { "definition": "tamεsyέnsyέn", "examples": [] },
+      { "definition": "tamεtití", "examples": [] },
+      { "definition": "tasyέnsyέn", "examples": [] }
+    ]
+  },
+  "entêter ‑ s'entêter": {
+    "definitions": [
+      { "definition": "cí tamὲ", "examples": [] },
+      { "definition": "gblɔ̆n", "examples": [] },
+      { "definition": "jὲ kú", "examples": [] },
+      { "definition": "tì tamὲ", "examples": [] }
+    ]
+  },
+  "entier": {
+    "definitions": [
+      { "definition": "bléblé", "examples": [] },
+      { "definition": "blèbŭ", "examples": [] }
+    ]
+  },
+  "en entier": { "definitions": [{ "definition": "blŭjù", "examples": [] }] },
+  "entièrement": {
+    "definitions": [
+      { "definition": "bĭ", "examples": [] },
+      { "definition": "bìdégbédégbé", "examples": [] },
+      { "definition": "bìnàzɔ́n", "examples": [] },
+      { "definition": "ɖóɖó", "examples": [] },
+      { "definition": "tatlέ", "examples": [] }
+    ]
+  },
+  "entièrement rempli": {
+    "definitions": [{ "definition": "beɖebeɖè", "examples": [] }]
+  },
+  "être entièrement décomposé": {
+    "definitions": [{ "definition": "hùn vɔ̀", "examples": [] }]
+  },
+  "être entièrement gâté": {
+    "definitions": [{ "definition": "hùn vɔ̀", "examples": [] }]
+  },
+  "être entièrement ouvert": {
+    "definitions": [{ "definition": "hùn fó", "examples": [] }]
+  },
+  "entonner ‑ entonner en criant un chant chez les vaudouns": {
+    "definitions": [{ "definition": "ké hàn", "examples": [] }]
+  },
+  "entonner un chant": {
+    "definitions": [{ "definition": "dŏ hàn", "examples": [] }]
+  },
+  "entonner un chant (chez les vaudouns)": {
+    "definitions": [{ "definition": "ké hàn", "examples": [] }]
+  },
+  "entonnoir": {
+    "definitions": [{ "definition": "ahandónú", "examples": [] }]
+  },
+  "entorse": {
+    "definitions": [
+      { "definition": "ɖiɖɔ̀", "examples": [] },
+      { "definition": "ɖuɖɔ̀", "examples": [] },
+      { "definition": "wùɖìɖɔ́", "examples": [] },
+      { "definition": "wùɖùɖɔ́", "examples": [] }
+    ]
+  },
+  "entorse au pied": {
+    "definitions": [{ "definition": "afɔɖuɖɔ̀", "examples": [] }]
+  },
+  "se faire une entorse": {
+    "definitions": [{ "definition": "wŭ ɖɔ̀", "examples": [] }]
+  },
+  "entourer": {
+    "definitions": [
+      { "definition": "dŏ kpà", "examples": [] },
+      { "definition": "lε̆ lε̆ dŏ", "examples": [] }
+    ]
+  },
+  "entourer de toutes parts": {
+    "definitions": [{ "definition": "xísí", "examples": [] }]
+  },
+  "entourer quelqu'un de prévenances": {
+    "definitions": [{ "definition": "wlĭ yɛ̀yí nú mɛ", "examples": [] }]
+  },
+  "entourer quelqu'un de toutes parts": {
+    "definitions": [{ "definition": "xísí dŏ mɛ", "examples": [] }]
+  },
+  "entr'aide": {
+    "definitions": [{ "definition": "àlɔ̀ɖòkpɔ́", "examples": [] }]
+  },
+  "entr'aider ‑ s'entr'aider": {
+    "definitions": [{ "definition": "dŏ àlɔ̀ɖòkpɔ́", "examples": [] }]
+  },
+  "entrailles": { "definitions": [{ "definition": "adɔ̀", "examples": [] }] },
+  "entrainer": {
+    "definitions": [
+      { "definition": "dɔ̀n yì", "examples": [] },
+      { "definition": "dɔ̀n", "examples": [] }
+    ]
+  },
+  "entraîner de force": {
+    "definitions": [{ "definition": "dɔ̀n wă", "examples": [] }]
+  },
+  "entrave": { "definitions": [{ "definition": "kplεkεsὲ", "examples": [] }] },
+  "celui qui est sans entraves": {
+    "definitions": [{ "definition": "kɔvɔnunɔ̀", "examples": [] }]
+  },
+  "entrave pour un animal": {
+    "definitions": [{ "definition": "gεdε", "examples": [] }]
+  },
+  "entraves pour les prisonniers": {
+    "definitions": [{ "definition": "mεdógàn", "examples": [] }]
+  },
+  "entre": {
+    "definitions": [
+      { "definition": "ɖò gbla...mὲ", "examples": [] },
+      { "definition": "ɖŏ... gbla mὲ", "examples": [] },
+      { "definition": "gblamὲ", "examples": [] },
+      { "definition": "tέntín", "examples": [] }
+    ]
+  },
+  "entre l'enfance et l'âge viril": {
+    "definitions": [{ "definition": "wìnnyá", "examples": [] }]
+  },
+  "entre nous": { "definitions": [{ "definition": "xólóó", "examples": [] }] },
+  "entre toi et moi": {
+    "definitions": [{ "definition": "xólóó", "examples": [] }]
+  },
+  "entre-deux": { "definitions": [{ "definition": "avlà", "examples": [] }] },
+  "entrebâiller": { "definitions": [{ "definition": "klé", "examples": [] }] },
+  "action d'entrebâiller": {
+    "definitions": [{ "definition": "xíxɛ́", "examples": [] }]
+  },
+  "entrebâiller une porte": {
+    "definitions": [
+      { "definition": "klé hɔ̀n", "examples": [] },
+      { "definition": "hɔn xíxɛ́", "examples": [] }
+    ]
+  },
+  "entrée": { "definitions": [{ "definition": "hɔnli", "examples": [] }] },
+  "‑ à l'entrée": {
+    "definitions": [
+      { "definition": "hɔnlihέnnú", "examples": [] },
+      { "definition": "hɔnlinu", "examples": [] },
+      { "definition": "hɔntò", "examples": [] }
+    ]
+  },
+  "à l'entrée de la case": {
+    "definitions": [{ "definition": "xɔlihɛnnú", "examples": [] }]
+  },
+  "à l'entrée de la maison": {
+    "definitions": [{ "definition": "gbεndè", "examples": [] }]
+  },
+  "à l'entrée du palais royal d'abomey": {
+    "definitions": [{ "definition": "hɔnlinu", "examples": [] }]
+  },
+  "entregent ‑ le fait d'avoir de l'entregent": {
+    "definitions": [{ "definition": "nukúnhúnhún", "examples": [] }]
+  },
+  "entrejambes": {
+    "definitions": [{ "definition": "asávlámὲ", "examples": [] }]
+  },
+  "entremêler": { "definitions": [{ "definition": "gùdú", "examples": [] }] },
+  "entreprenant ‑ être entreprenant": {
+    "definitions": [{ "definition": "klá", "examples": [] }]
+  },
+  "être entreprenant pour circonvenir quelqu'un": {
+    "definitions": [{ "definition": "xò jasísí dŏ mε", "examples": [] }]
+  },
+  "entreprendre": {
+    "definitions": [
+      { "definition": "blŏ", "examples": [] },
+      { "definition": "wà", "examples": [] }
+    ]
+  },
+  "entreprendre quelque chose qu'on ne peut finir": {
+    "definitions": [{ "definition": "dŏ agádá nŭ", "examples": [] }]
+  },
+  "entreprendre une action importante qui dépasse les forces": {
+    "definitions": [{ "definition": "dŏ nŭ sìn", "examples": [] }]
+  },
+  "entrer": {
+    "definitions": [
+      { "definition": "byɔ̀byɔ", "examples": [] },
+      { "definition": "kàn byɔ̆", "examples": [] },
+      { "definition": "wă... mɛ̀", "examples": [] }
+    ]
+  },
+  "action d’entrer": {
+    "definitions": [{ "definition": "byɔ̀byɔ", "examples": [] }]
+  },
+  "entrer dans le corps (chique)": {
+    "definitions": [{ "definition": "slέ", "examples": [] }]
+  },
+  "entrer dans une tontine": {
+    "definitions": [{ "definition": "jὲ sú mὲ", "examples": [] }]
+  },
+  "entrer en concurrence": {
+    "definitions": [{ "definition": "hwlε̆n agbà", "examples": [] }]
+  },
+  "entrer en contestation avec quelqu'un": {
+    "definitions": [{ "definition": "dɔ̀n nŭ xá mε", "examples": [] }]
+  },
+  "entrer en ébullition": {
+    "definitions": [{ "definition": "fyε", "examples": [] }]
+  },
+  "entretenir ‑ entretenir le feu": {
+    "definitions": [{ "definition": "sὲ myɔ̀ dŏ", "examples": [] }]
+  },
+  "s'entretenir familièrement avec quelqu'un": {
+    "definitions": [{ "definition": "cyán xó", "examples": [] }]
+  },
+  "entretien ‑ entretien familier": {
+    "definitions": [{ "definition": "xócyáncyán", "examples": [] }]
+  },
+  "entretien secret": {
+    "definitions": [{ "definition": "kpáxó", "examples": [] }]
+  },
+  "énumérer ‑ énumérer les titres de gloire de quelqu'un": {
+    "definitions": [{ "definition": "xò mlă mɛ", "examples": [] }]
+  },
+  "envahi ‑ être envahi par les herbes": {
+    "definitions": [{ "definition": "sú gbĕ", "examples": [] }]
+  },
+  "envahir": {
+    "definitions": [
+      { "definition": "gbà", "examples": [] },
+      { "definition": "gbà gbĕ", "examples": [] },
+      { "definition": "gbà kpé", "examples": [] },
+      { "definition": "súbɔ́", "examples": [] },
+      { "definition": "vùn blá", "examples": [] }
+    ]
+  },
+  "enveloppe": {
+    "definitions": [
+      { "definition": "akpò", "examples": [] },
+      { "definition": "bùbú", "examples": [] },
+      { "definition": "wèmákpò", "examples": [] }
+    ]
+  },
+  "enveloppe de l'épi de maïs": {
+    "definitions": [{ "definition": "gbadé fló", "examples": [] }]
+  },
+  "enveloppe d'une lettre": {
+    "definitions": [{ "definition": "wèmàkpó", "examples": [] }]
+  },
+  "enveloppe dure": {
+    "definitions": [{ "definition": "kpà", "examples": [] }]
+  },
+  "enveloppe la pâte de farine de maïs": {
+    "definitions": [{ "definition": "bŭ", "examples": [] }]
+  },
+  "enveloppement": {
+    "definitions": [{ "definition": "bùbú", "examples": [] }]
+  },
+  "envelopper": { "definitions": [{ "definition": "bŭ", "examples": [] }] },
+  "action d’envelopper": {
+    "definitions": [{ "definition": "bùbú", "examples": [] }]
+  },
+  "envelopper dans": {
+    "definitions": [{ "definition": "bŭ dŏ mὲ", "examples": [] }]
+  },
+  "envergure": {
+    "definitions": [{ "definition": "awagbagbà", "examples": [] }]
+  },
+  "de grande envergure": {
+    "definitions": [{ "definition": "agbafáfà", "examples": [] }]
+  },
+  "envers": {
+    "definitions": [
+      { "definition": "agɔ̀", "examples": [] },
+      { "definition": "nú", "examples": [] },
+      { "definition": "gŭdò", "examples": [] }
+    ]
+  },
+  "à l'envers": {
+    "definitions": [
+      { "definition": "agɔ̀", "examples": [] },
+      { "definition": "agwὲ", "examples": [] },
+      { "definition": "takpédò", "examples": [] }
+    ]
+  },
+  "l'envers d'une étoffe": {
+    "definitions": [{ "definition": "avɔgúdo", "examples": [] }]
+  },
+  "envie": {
+    "definitions": [
+      { "definition": "mεɖĕvonùjlómε", "examples": [] },
+      { "definition": "mεnujlómε", "examples": [] },
+      { "definition": "mεnúsumεnukúnmὲ", "examples": [] },
+      { "definition": "nùjlómε", "examples": [] },
+      { "definition": "nùjlómεnú", "examples": [] },
+      { "definition": "nukúnɖòmεgbanmὲ", "examples": [] }
+    ]
+  },
+  "avoir l'irrésistible envie de faire une chose": {
+    "definitions": [{ "definition": "sɔ́ zɛ̀n mɛ", "examples": [] }]
+  },
+  "envie de dormir": {
+    "definitions": [{ "definition": "amlɔgɔ́", "examples": [] }]
+  },
+  "faire envie": {
+    "definitions": [{ "definition": "sù nukún mε", "examples": [] }]
+  },
+  "envier ‑ envier le bien d'autrui": {
+    "definitions": [
+      { "definition": "sɔ́ nukún ɖò mε (a)'gbàn mὲ", "examples": [] }
+    ]
+  },
+  "envieux": {
+    "definitions": [
+      { "definition": "nùjlómεnú", "examples": [] },
+      { "definition": "nukúnkέndótɔ́", "examples": [] }
+    ]
+  },
+  "être envieux": {
+    "definitions": [{ "definition": "dŏ nukúnkὲn", "examples": [] }]
+  },
+  "environ": { "definitions": [{ "definition": "mɔ̆", "examples": [] }] },
+  "aux environs de": {
+    "definitions": [{ "definition": "nu", "examples": [] }]
+  },
+  "dans les environs de": {
+    "definitions": [{ "definition": "gbejí", "examples": [] }]
+  },
+  "les environs d'un pays": {
+    "definitions": [
+      { "definition": "tò kpá", "examples": [] },
+      { "definition": "tokpá", "examples": [] }
+    ]
+  },
+  "les environs d'une localité": {
+    "definitions": [{ "definition": "tokpá", "examples": [] }]
+  },
+  "les environs d'une ville": {
+    "definitions": [{ "definition": "tò kpá", "examples": [] }]
+  },
+  "environs": { "definitions": [{ "definition": "tó", "examples": [] }] },
+  "environner": { "definitions": [{ "definition": "jăn", "examples": [] }] },
+  "envoler ‑ s'envoler": {
+    "definitions": [{ "definition": "zɔ̀n yì", "examples": [] }]
+  },
+  "envoûtement": { "definitions": [{ "definition": "bóɖó", "examples": [] }] },
+  "envoûter ‑ envoûter": {
+    "definitions": [{ "definition": "lŭ", "examples": [] }]
+  },
+  "envoûter quelqu'un": {
+    "definitions": [{ "definition": "ɖŏ bŏ nú mε", "examples": [] }]
+  },
+  "envoûter quelqu'un à distance": {
+    "definitions": [{ "definition": "dà nŭ dŏ mε", "examples": [] }]
+  },
+  "envoûter quelqu'un et lui faire faire des choses bizarres": {
+    "definitions": [{ "definition": "fùn mε", "examples": [] }]
+  },
+  "envoûter quelqu'un et lui faire faire des choses inconvenantes": {
+    "definitions": [{ "definition": "fùn mε", "examples": [] }]
+  },
+  "le fait d'envoûter quelqu'un à distance": {
+    "definitions": [{ "definition": "nùdádómε", "examples": [] }]
+  },
+  "envoyé": { "definitions": [{ "definition": "mεsέdó", "examples": [] }] },
+  "envoyer": { "definitions": [{ "definition": "sέ dŏ", "examples": [] }] },
+  "envoyer la dot à quelqu'un": {
+    "definitions": [{ "definition": "nyì agbàn nú mε", "examples": [] }]
+  },
+  "envoyer un message à quelqu’un": {
+    "definitions": [{ "definition": "sɛ́ wɛ̀n dŏ mɛ", "examples": [] }]
+  },
+  "envoyer un songe": {
+    "definitions": [{ "definition": "xò dlɔ̆", "examples": [] }]
+  },
+  "envoyer un songe à quelqu'un": {
+    "definitions": [{ "definition": "xò dlɔ̆ mɛ", "examples": [] }]
+  },
+  "épais": {
+    "definitions": [
+      { "definition": "gbejeè", "examples": [] },
+      { "definition": "kpeɖedè", "examples": [] },
+      { "definition": "kpeɖekpeɖè", "examples": [] },
+      { "definition": "kpítí", "examples": [] },
+      { "definition": "kεɖεkεɖὲ", "examples": [] },
+      { "definition": "kεɖεὲ", "examples": [] },
+      { "definition": "tlítlí", "examples": [] }
+    ]
+  },
+  "épais (haricot salive)": {
+    "definitions": [{ "definition": "kpεkoò", "examples": [] }]
+  },
+  "être épais": {
+    "definitions": [
+      { "definition": "dɔ̀", "examples": [] },
+      { "definition": "kέɖέ", "examples": [] },
+      { "definition": "syέn kàn", "examples": [] },
+      { "definition": "tlí", "examples": [] },
+      { "definition": "kpeɖèe", "examples": [] },
+      { "definition": "kpejeè", "examples": [] },
+      { "definition": "kpejekpejè", "examples": [] }
+    ]
+  },
+  "très épais (fumée)": {
+    "definitions": [{ "definition": "siì", "examples": [] }]
+  },
+  "épaisseur ‑ épaisseur non habituelle d'un objet": {
+    "definitions": [{ "definition": "kpeɖekpeɖè", "examples": [] }]
+  },
+  "épanouir ‑ s'épanouir": {
+    "definitions": [{ "definition": "ɖì bè", "examples": [] }]
+  },
+  "épanouissement ‑ épanouissement des bourgeons et des jeunes feuilles": {
+    "definitions": [{ "definition": "zìnzɔ́n", "examples": [] }]
+  },
+  "épargne": {
+    "definitions": [{ "definition": "àkwέkplékplé", "examples": [] }]
+  },
+  "épargner": {
+    "definitions": [
+      { "definition": "kplé akwέ", "examples": [] },
+      { "definition": "xásá ɖŏ", "examples": [] }
+    ]
+  },
+  "épargner (un coupable)": {
+    "definitions": [{ "definition": "xlá", "examples": [] }]
+  },
+  "épargner quelque chose en défrichant": {
+    "definitions": [{ "definition": "xlá nŭ ɖŏ", "examples": [] }]
+  },
+  "épargner quelque chose en labourant ou en sarclant": {
+    "definitions": [{ "definition": "xlá nŭ ɖŏ", "examples": [] }]
+  },
+  "éparpillé ‑ éparpillé un peu partout": {
+    "definitions": [{ "definition": "tetè", "examples": [] }]
+  },
+  "éparpiller": {
+    "definitions": [
+      { "definition": "fúnfún", "examples": [] },
+      { "definition": "hìnhέn", "examples": [] },
+      { "definition": "hὲn kíja", "examples": [] }
+    ]
+  },
+  "épaule": {
+    "definitions": [
+      { "definition": "abɔ̀jí", "examples": [] },
+      { "definition": "abɔ̀tá", "examples": [] },
+      { "definition": "abɔ̀xú", "examples": [] }
+    ]
+  },
+  "à l'épaule pour tirer": {
+    "definitions": [{ "definition": "akɔbó", "examples": [] }]
+  },
+  "épée": {
+    "definitions": [
+      { "definition": "dεnkpè", "examples": [] },
+      { "definition": "hwĭ", "examples": [] },
+      { "definition": "hwĭsɔ̀", "examples": [] }
+    ]
+  },
+  "épée à deux tranchants": {
+    "definitions": [{ "definition": "hwínúwenɔ̀", "examples": [] }]
+  },
+  "variété d'épée": {
+    "definitions": [{ "definition": "akpὲ", "examples": [] }]
+  },
+  "éperon": { "definitions": [{ "definition": "afɔkpagàn", "examples": [] }] },
+  "épervier ‑ épervier (oiseau)": {
+    "definitions": [{ "definition": "gε̆n", "examples": [] }]
+  },
+  "épi": { "definitions": [{ "definition": "gŏ", "examples": [] }] },
+  "action de porter des épis": {
+    "definitions": [{ "definition": "vìfúfɔ́", "examples": [] }]
+  },
+  "en épi": {
+    "definitions": [
+      { "definition": "kayakayà", "examples": [] },
+      { "definition": "kεyεkεyὲ", "examples": [] },
+      { "definition": "kεyεὲ", "examples": [] }
+    ]
+  },
+  "épi de maïs mûr mais non sec": {
+    "definitions": [{ "definition": "gbadé fέ", "examples": [] }]
+  },
+  "épi de maïs vidé de ses grains": {
+    "definitions": [
+      { "definition": "gbadégotín", "examples": [] },
+      { "definition": "gbadégotín", "examples": [] }
+    ]
+  },
+  "épis de maïs avec ses grains": {
+    "definitions": [{ "definition": "agbadé gotínnúɖé", "examples": [] }]
+  },
+  "épis de mais grillé": {
+    "definitions": [{ "definition": "agbadé mimε", "examples": [] }]
+  },
+  "épis de maïs vidé de ses grains": {
+    "definitions": [{ "definition": "agbadégotín", "examples": [] }]
+  },
+  "épis de sans les grains": {
+    "definitions": [{ "definition": "gotín", "examples": [] }]
+  },
+  "épis de vidé de ses grains": {
+    "definitions": [{ "definition": "gbadé gotín", "examples": [] }]
+  },
+  "former des épis": {
+    "definitions": [{ "definition": "fɔ̀ vĭ", "examples": [] }]
+  },
+  "épice": { "definitions": [{ "definition": "kpéclekún", "examples": [] }] },
+  "épidémie": { "definitions": [{ "definition": "jεmεjí", "examples": [] }] },
+  "épiderme": { "definitions": [{ "definition": "anyŭ", "examples": [] }] },
+  "épier ‑ épier quelqu'un": {
+    "definitions": [{ "definition": "xwíɖá", "examples": [] }]
+  },
+  "épilepsie": {
+    "definitions": [{ "definition": "adìngbèkúkú", "examples": [] }]
+  },
+  "épileptique": {
+    "definitions": [{ "definition": "adìngbèkútɔ́", "examples": [] }]
+  },
+  "épiler": { "definitions": [{ "definition": "ɖè fún", "examples": [] }] },
+  "épinard": { "definitions": [{ "definition": "tεtὲ", "examples": [] }] },
+  "épine": { "definitions": [{ "definition": "wùn", "examples": [] }] },
+  "l'épine dorsale": {
+    "definitions": [{ "definition": "nεgbedómὲ", "examples": [] }]
+  },
+  "une espèce d'épine sur des lianes rampantes": {
+    "definitions": [{ "definition": "vὲwún", "examples": [] }]
+  },
+  "épineux": { "definitions": [{ "definition": "kpɔfὲn", "examples": [] }] },
+  "épingle": {
+    "definitions": [
+      { "definition": "àfínétì", "examples": [] },
+      { "definition": "nyὲví", "examples": [] }
+    ]
+  },
+  "épingle de sûreté": {
+    "definitions": [{ "definition": "wlĭ", "examples": [] }]
+  },
+  "éplucher": {
+    "definitions": [
+      { "definition": "flé", "examples": [] },
+      { "definition": "kpà", "examples": [] },
+      { "definition": "kpà fló", "examples": [] },
+      { "definition": "mɔ̆", "examples": [] }
+    ]
+  },
+  "épluchure": { "definitions": [{ "definition": "fló", "examples": [] }] },
+  "éponge": { "definitions": [{ "definition": "wùsɔ́nnú", "examples": [] }] },
+  "celui qui a l'habitude de passer l'éponge dessus": {
+    "definitions": [
+      { "definition": "mεnɔsɔ́nùsáwŭ", "examples": [] },
+      { "definition": "nùsɔ́sáwùtɔ́", "examples": [] }
+    ]
+  },
+  "éponge en fibres végétales": {
+    "definitions": [{ "definition": "tekàn", "examples": [] }]
+  },
+  "éponge végétale": {
+    "definitions": [{ "definition": "asángò", "examples": [] }]
+  },
+  "éponger": { "definitions": [{ "definition": "xwí sìn", "examples": [] }] },
+  "éponger le liquide d'une plaie": {
+    "definitions": [{ "definition": "xwí sìn sín akpa mɛ̀", "examples": [] }]
+  },
+  "époque": { "definitions": [{ "definition": "hwenu", "examples": [] }] },
+  "faire époque": {
+    "definitions": [{ "definition": "ɖŏ hwenu", "examples": [] }]
+  },
+  "épouse": {
+    "definitions": [
+      { "definition": "asì", "examples": [] },
+      { "definition": "asὲ", "examples": [] },
+      { "definition": "sì", "examples": [] },
+      { "definition": "yaó", "examples": [] },
+      { "definition": "yawó", "examples": [] }
+    ]
+  },
+  "ce que l'on donne pour amener l'épouse à la maison": {
+    "definitions": [{ "definition": "asikplánú", "examples": [] }]
+  },
+  "celui ou celle qui accompagne l'épouse chez l’époux": {
+    "definitions": [{ "definition": "asikplátɔ́", "examples": [] }]
+  },
+  "co-épouse": { "definitions": [{ "definition": "asísì", "examples": [] }] },
+  "épouse en état de procréer": {
+    "definitions": [{ "definition": "vìjísì", "examples": [] }]
+  },
+  "épouses du roi d'abomey": {
+    "definitions": [{ "definition": "kpɔsì", "examples": [] }]
+  },
+  "la première épouse": {
+    "definitions": [{ "definition": "sέsì", "examples": [] }]
+  },
+  "nom donné (à abomey) par l'épouse ou les épouses à la soeur du mari": {
+    "definitions": [{ "definition": "tàsí", "examples": [] }]
+  },
+  "épouser": { "definitions": [{ "definition": "dà asì", "examples": [] }] },
+  "épouser une nouvelle femme": {
+    "definitions": [{ "definition": "gbé", "examples": [] }]
+  },
+  "épousseter": { "definitions": [{ "definition": "fέ", "examples": [] }] },
+  "épousseter la pierre à moudre": {
+    "definitions": [{ "definition": "fέ sé", "examples": [] }]
+  },
+  "épousseter la table": {
+    "definitions": [{ "definition": "fέ távo", "examples": [] }]
+  },
+  "épousseter un habit": {
+    "definitions": [{ "definition": "fέ awù", "examples": [] }]
+  },
+  "épouvantable": {
+    "definitions": [
+      { "definition": "gεyìn", "examples": [] },
+      { "definition": "gεyìngεyìn", "examples": [] },
+      { "definition": "nylànylá", "examples": [] },
+      { "definition": "vannyaà", "examples": [] },
+      { "definition": "vannyavannyà", "examples": [] }
+    ]
+  },
+  "épouvantail": {
+    "definitions": [{ "definition": "xɛblɛ́nú", "examples": [] }]
+  },
+  "épouvante": {
+    "definitions": [{ "definition": "xɛsi ɖaxó", "examples": [] }]
+  },
+  "épouvanter": {
+    "definitions": [{ "definition": "dŏ xεsì", "examples": [] }]
+  },
+  "épouvanter quelqu'un": {
+    "definitions": [{ "definition": "dŏ xɛsì nú mɛ", "examples": [] }]
+  },
+  "s'épouvanter": {
+    "definitions": [{ "definition": "ɖì xɛsì", "examples": [] }]
+  },
+  "époux": {
+    "definitions": [
+      { "definition": "asisínɔ̀", "examples": [] },
+      { "definition": "asisúnɔ̀", "examples": [] },
+      { "definition": "asú", "examples": [] },
+      { "definition": "sú", "examples": [] }
+    ]
+  },
+  "épreuve": {
+    "definitions": [
+      { "definition": "mεdidó", "examples": [] },
+      { "definition": "mεtέnkpɔ́n", "examples": [] },
+      { "definition": "tíntέnkpɔ́n", "examples": [] },
+      { "definition": "tέnkpɔ́n", "examples": [] }
+    ]
+  },
+  "épreuve de la corde": {
+    "definitions": [{ "definition": "kannyinyi", "examples": [] }]
+  },
+  "épreuve du poison": {
+    "definitions": [{ "definition": "àɖìɖúɖú", "examples": [] }]
+  },
+  "épreuve que l'on fait subir à quelqu'un": {
+    "definitions": [{ "definition": "tɔdómεkpɔ́n", "examples": [] }]
+  },
+  "les épreuves de la vie": {
+    "definitions": [{ "definition": "nùjέmεjí", "examples": [] }]
+  },
+  "éprouver": { "definitions": [{ "definition": "dŏ kpɔ́n", "examples": [] }] },
+  "éprouver de la confusion": {
+    "definitions": [{ "definition": "ɖù winnyá", "examples": [] }]
+  },
+  "éprouver de la confusion à la suite d’un échec": {
+    "definitions": [{ "definition": "ɖù wìnyá", "examples": [] }]
+  },
+  "éprouver de la gêne pour telle objet ou telle personne": {
+    "definitions": [{ "definition": "ɖù wùwε", "examples": [] }]
+  },
+  "éprouver de la répugnance": {
+    "definitions": [{ "definition": "ɖù wùwέ", "examples": [] }]
+  },
+  "éprouver des appréhensions": {
+    "definitions": [{ "definition": "wɔ̆ wŭ", "examples": [] }]
+  },
+  "éprouver quelqu'un": {
+    "definitions": [
+      { "definition": "dŏ yà nú mɛ", "examples": [] },
+      { "definition": "tέn mε kpɔ́n", "examples": [] }
+    ]
+  },
+  "éprouver une douleur": {
+    "definitions": [
+      { "definition": "ɖù wùwέ", "examples": [] },
+      { "definition": "mɔ̀ wùvɛ́", "examples": [] }
+    ]
+  },
+  "éprouver une joie extrême": {
+    "definitions": [{ "definition": "gbà wɔ̆", "examples": [] }]
+  },
+  "épuisé ‑ être épuisé": {
+    "definitions": [
+      { "definition": "vɔ̆ dà", "examples": [] },
+      { "definition": "vɔ̀ găn", "examples": [] }
+    ]
+  },
+  "être épuisé (pour un terrain)": {
+    "definitions": [{ "definition": "cá", "examples": [] }]
+  },
+  "être épuisé de fatigue": {
+    "definitions": [{ "definition": "lanmε kú mε", "examples": [] }]
+  },
+  "équilibre ‑ faire l'équilibre sur la tête": {
+    "definitions": [{ "definition": "sí kɔ̀ dò", "examples": [] }]
+  },
+  "équitablement": {
+    "definitions": [{ "definition": "zɛ̆nzɛ̆n", "examples": [] }]
+  },
+  "érection ‑ être en érection": {
+    "definitions": [
+      { "definition": "zĭn nɛ̆", "examples": [] },
+      { "definition": "zĭn nɛ̀kwín", "examples": [] }
+    ]
+  },
+  "éreinté ‑ être éreinté": {
+    "definitions": [{ "definition": "fέn tέ", "examples": [] }]
+  },
+  "éreinter ‑ éreinter quelqu’un": {
+    "definitions": [{ "definition": "fó", "examples": [] }]
+  },
+  "éreinter quelqu'un à la marche": {
+    "definitions": [{ "definition": "fέn agŭn mε", "examples": [] }]
+  },
+  "ergot ‑ ergot de coq": {
+    "definitions": [
+      { "definition": "hwyŏ", "examples": [] },
+      { "definition": "koklófὲn", "examples": [] },
+      { "definition": "hwyabε̆", "examples": [] }
+    ]
+  },
+  "ergot des gallinacés": {
+    "definitions": [{ "definition": "hwìsó", "examples": [] }]
+  },
+  "ergoter": { "definitions": [{ "definition": "dɔ̀n adɔ̀n", "examples": [] }] },
+  "ergoteur": { "definitions": [{ "definition": "nùdɔ̀ntɔ́", "examples": [] }] },
+  "ériger ‑ ériger un autel": {
+    "definitions": [{ "definition": "nyì zŭn", "examples": [] }]
+  },
+  "errant": { "definitions": [{ "definition": "alagá", "examples": [] }] },
+  "errer": {
+    "definitions": [
+      { "definition": "dăn hùn gbɔ̀n", "examples": [] },
+      { "definition": "flú", "examples": [] }
+    ]
+  },
+  "errer à l'abandon": {
+    "definitions": [{ "definition": "lèlé", "examples": [] }]
+  },
+  "e": { "definitions": [{ "definition": "sà lelè", "examples": [] }] },
+  "errer sans but": {
+    "definitions": [{ "definition": "lèlé", "examples": [] }]
+  },
+  "erreur": { "definitions": [{ "definition": "nŭjεdò", "examples": [] }] },
+  "éructer": { "definitions": [{ "definition": "xɔ̀", "examples": [] }] },
+  "érudit": { "definitions": [{ "definition": "nùnywέtɔ́", "examples": [] }] },
+  "être érudit": {
+    "definitions": [{ "definition": "sè amà", "examples": [] }]
+  },
+  "érythème ‑ érythème fessier chez les bébés": {
+    "definitions": [{ "definition": "nŭɖùnŭ", "examples": [] }]
+  },
+  "escalade": { "definitions": [{ "definition": "sófínfán", "examples": [] }] },
+  "escalader": { "definitions": [{ "definition": "fán", "examples": [] }] },
+  "escalader un mur": {
+    "definitions": [{ "definition": "fán dŏ", "examples": [] }]
+  },
+  "escalader une montagne": {
+    "definitions": [{ "definition": "fán só", "examples": [] }]
+  },
+  "escalier": { "definitions": [{ "definition": "àlyá", "examples": [] }] },
+  "escargot": { "definitions": [{ "definition": "akweté", "examples": [] }] },
+  "escargot à coquille allongée en spirale": {
+    "definitions": [
+      { "definition": "xwatotowegwĭn", "examples": [] },
+      { "definition": "xwátótwé", "examples": [] },
+      { "definition": "xwátótwégwĭn", "examples": [] }
+    ]
+  },
+  "escargot tout blanc, consacré à lisà": {
+    "definitions": [{ "definition": "lisagwin", "examples": [] }]
+  },
+  "gros escargot comestible": {
+    "definitions": [
+      { "definition": "axwátótogwín", "examples": [] },
+      { "definition": "gwĭn", "examples": [] },
+      { "definition": "agwĭn", "examples": [] }
+    ]
+  },
+  "gros escargot comestible dont la coquille est presque noire et la chair jaune": {
+    "definitions": [{ "definition": "gbĭn", "examples": [] }]
+  },
+  "petit escargot": {
+    "definitions": [
+      { "definition": "akotó", "examples": [] },
+      { "definition": "akotóé", "examples": [] },
+      { "definition": "akweté", "examples": [] }
+    ]
+  },
+  "variété d’escargot": {
+    "definitions": [{ "definition": "lisagwín", "examples": [] }]
+  },
+  "variété de gros escargot": {
+    "definitions": [{ "definition": "agbĭn", "examples": [] }]
+  },
+  "esclavage": {
+    "definitions": [
+      { "definition": "kannu", "examples": [] },
+      { "definition": "kannumɔgbenú", "examples": [] }
+    ]
+  },
+  "esclave": {
+    "definitions": [
+      { "definition": "alɔnugbɔ́ví", "examples": [] },
+      { "definition": "kannumɔ̀", "examples": [] },
+      { "definition": "mεxixɔ", "examples": [] }
+    ]
+  },
+  "esclave fait à la guerre": {
+    "definitions": [{ "definition": "ahwankannumɔ̀", "examples": [] }]
+  },
+  "être esclave": {
+    "definitions": [{ "definition": "ɖò mε kànnu", "examples": [] }]
+  },
+  "escorter": { "definitions": [{ "definition": "kplá", "examples": [] }] },
+  "escroc": { "definitions": [{ "definition": "àjòtɔ́", "examples": [] }] },
+  "escroquer": { "definitions": [{ "definition": "táfú", "examples": [] }] },
+  "escroquer quelqu'un": {
+    "definitions": [{ "definition": "blε̆ mε ɖù", "examples": [] }]
+  },
+  "espace ‑ l'espace": {
+    "definitions": [{ "definition": "gblŏlŏ", "examples": [] }]
+  },
+  "‑ espace compris entre trois marchés": {
+    "definitions": [{ "definition": "ga atɔ̀n mὲ", "examples": [] }]
+  },
+  "espace de temps compris entre deux marchés": {
+    "definitions": [{ "definition": "axigà", "examples": [] }]
+  },
+  "espace de ving-quatre heures": {
+    "definitions": [{ "definition": "azăn", "examples": [] }]
+  },
+  "espace libre devant un temple": {
+    "definitions": [
+      { "definition": "hὲnnu", "examples": [] },
+      { "definition": "xɔ hennú", "examples": [] },
+      { "definition": "xɔhɛnnú", "examples": [] }
+    ]
+  },
+  "espace libre devant une case": {
+    "definitions": [{ "definition": "hὲnnu", "examples": [] }]
+  },
+  "espace libre devant une habitation": {
+    "definitions": [{ "definition": "xɔ hennú", "examples": [] }]
+  },
+  "espacé": { "definitions": [{ "definition": "kàn", "examples": [] }] },
+  "espadrille": {
+    "definitions": [{ "definition": "avɔfɔkpà", "examples": [] }]
+  },
+  "espèce": { "definitions": [{ "definition": "wŭnmɛ̀", "examples": [] }] },
+  "de différentes espèces": {
+    "definitions": [{ "definition": "wŭnmɛwŭnmɛ̀", "examples": [] }]
+  },
+  "espérance": {
+    "definitions": [
+      { "definition": "nùɖónukún", "examples": [] },
+      { "definition": "nukúnɖíɖó", "examples": [] },
+      { "definition": "nukúnɖónŭ", "examples": [] }
+    ]
+  },
+  "espérer": { "definitions": [{ "definition": "-ɖŭ nukún", "examples": [] }] },
+  "espérer la venue de quelqu’un": {
+    "definitions": [{ "definition": "ɖŏ nukún mε", "examples": [] }]
+  },
+  "espérer quelque chose": {
+    "definitions": [{ "definition": "ɖŏ nukún nŭ", "examples": [] }]
+  },
+  "espiègle": {
+    "definitions": [
+      { "definition": "ayihúndátɔ", "examples": [] },
+      { "definition": "mìmlàtɔ́", "examples": [] },
+      { "definition": "mlàmlá", "examples": [] },
+      { "definition": "mlàmlàtɔ́", "examples": [] }
+    ]
+  },
+  "être espiègle": { "definitions": [{ "definition": "mlă", "examples": [] }] },
+  "espièglerie": {
+    "definitions": [{ "definition": "mìmlán", "examples": [] }]
+  },
+  "espion": {
+    "definitions": [
+      { "definition": "agbajígbetɔ́", "examples": [] },
+      { "definition": "amε̆", "examples": [] },
+      { "definition": "mɛxɔ́tɔ́", "examples": [] },
+      { "definition": "mεcɔ́tɔ́", "examples": [] },
+      { "definition": "nùxɔ́tɔ́", "examples": [] },
+      { "definition": "tóxɔ́nutɔ́", "examples": [] }
+    ]
+  },
+  "espion de la police secrète du roi d'abomey": {
+    "definitions": [{ "definition": "lεgεdεnɔ̀", "examples": [] }]
+  },
+  "espion des rois d'agbomé": {
+    "definitions": [{ "definition": "aɖɔ̀mεnú", "examples": [] }]
+  },
+  "espionner": {
+    "definitions": [{ "definition": "xɔ́ nŭ tó", "examples": [] }]
+  },
+  "espoir": {
+    "definitions": [
+      { "definition": "nùɖónukún", "examples": [] },
+      { "definition": "nukúnɖíɖó", "examples": [] },
+      { "definition": "nukúnɖónŭ", "examples": [] }
+    ]
+  },
+  "esprit": {
+    "definitions": [
+      { "definition": "ayì", "examples": [] },
+      { "definition": "ayixà", "examples": [] },
+      { "definition": "nŭɖoyεswímὲ", "examples": [] },
+      { "definition": "sέ", "examples": [] },
+      { "definition": "yɛ̀", "examples": [] },
+      { "definition": "yɛhwè", "examples": [] }
+    ]
+  },
+  "esprit (saint) de conseil": {
+    "definitions": [{ "definition": "yɛsinsɛn weɖéxámɛtɔ́", "examples": [] }]
+  },
+  "esprit de bonté": {
+    "definitions": [{ "definition": "ayiɖagbeɖiɖó", "examples": [] }]
+  },
+  "esprit de justice": {
+    "definitions": [{ "definition": "ayiɖagbeɖiɖó", "examples": [] }]
+  },
+  "esprit des eaux": {
+    "definitions": [{ "definition": "tɔvodún", "examples": [] }]
+  },
+  "esprit d'honnêteté": {
+    "definitions": [{ "definition": "ayiɖagbeɖiɖó", "examples": [] }]
+  },
+  "esprit impur": {
+    "definitions": [{ "definition": "yε kwíjí kwíjí", "examples": [] }]
+  },
+  "esprit qui demeure dans un arbre ou une butte de terre": {
+    "definitions": [{ "definition": "dàn", "examples": [] }]
+  },
+  "esprit résidant dans la terre": {
+    "definitions": [
+      { "definition": "dàn", "examples": [] },
+      { "definition": "gedé", "examples": [] },
+      { "definition": "kúxɔ́sú", "examples": [] },
+      { "definition": "sakpatá", "examples": [] }
+    ]
+  },
+  "esprit saint": {
+    "definitions": [{ "definition": "yɛsinsɛn", "examples": [] }]
+  },
+  "le grand esprit": {
+    "definitions": [{ "definition": "dadá sέgbó", "examples": [] }]
+  },
+  "esprit ‑ le grand esprit": {
+    "definitions": [{ "definition": "dadá sέgbó", "examples": [] }]
+  },
+  "les esprits": {
+    "definitions": [
+      { "definition": "nŭ ɖò yɛsí mɛ̀", "examples": [] },
+      { "definition": "nŭ ɖò yɛswí mɛ̀", "examples": [] }
+    ]
+  },
+  "les mauvais esprits": {
+    "definitions": [{ "definition": "yɛ̀ dídá lɛ́", "examples": [] }]
+  },
+  "l'esprit suprême": {
+    "definitions": [{ "definition": "dadá sέgbó", "examples": [] }]
+  },
+  "petits esprits errants et malfaisants": {
+    "definitions": [{ "definition": "yɛvú", "examples": [] }]
+  },
+  "esquisser ‑ esquisser un rythme pour annoncer qu'on va commencer à jouer": {
+    "definitions": [{ "definition": "vlε̆ hŭn", "examples": [] }]
+  },
+  "essai": { "definitions": [{ "definition": "tέnkpɔ́n", "examples": [] }] },
+  "essai que fait l'enfant pour se tenir debout tout seul": {
+    "definitions": [{ "definition": "deè", "examples": [] }]
+  },
+  "essaim": { "definitions": [{ "definition": "atɔ̀", "examples": [] }] },
+  "essaim d'abeille": {
+    "definitions": [{ "definition": "wììntɔ́", "examples": [] }]
+  },
+  "essayer": {
+    "definitions": [
+      { "definition": "blŏ gbɔ̀", "examples": [] },
+      { "definition": "blŏ kpɔ́n", "examples": [] },
+      { "definition": "tέn", "examples": [] },
+      { "definition": "tέn kpɔ́n", "examples": [] },
+      { "definition": "xò kpɔ́n", "examples": [] }
+    ]
+  },
+  "essayer (véhicule, habit, etc.)": {
+    "definitions": [{ "definition": "dŏ kpɔ́n", "examples": [] }]
+  },
+  "essayer de retenir quelqu'un": {
+    "definitions": [{ "definition": "tɔ́ dŏ wŭ", "examples": [] }]
+  },
+  "essayer de se rappeler": {
+    "definitions": [{ "definition": "dŏ nukún mὲ kpɔ́n", "examples": [] }]
+  },
+  "essayer un objet, un habit": {
+    "definitions": [{ "definition": "dŏ kpɔ́n", "examples": [] }]
+  },
+  "essayer un objet un véhicule": {
+    "definitions": [{ "definition": "dŏ kpɔ́n", "examples": [] }]
+  },
+  "essence": { "definitions": [{ "definition": "sánsì", "examples": [] }] },
+  "essence de voiture": {
+    "definitions": [{ "definition": "mɔ̆tomì", "examples": [] }]
+  },
+  "essentiel": { "definitions": [{ "definition": "kpatakì", "examples": [] }] },
+  "essorer": {
+    "definitions": [
+      { "definition": "fyɔ́n", "examples": [] },
+      { "definition": "fyɔ́n avɔ", "examples": [] },
+      { "definition": "fyɔ́nsìn sín nuɖé mὲ", "examples": [] }
+    ]
+  },
+  "essorer du linge": {
+    "definitions": [{ "definition": "fyɔ́n avɔ̀", "examples": [] }]
+  },
+  "essoufflé ‑ être essoufflé": {
+    "definitions": [{ "definition": "agbɔ̆n kpé mε", "examples": [] }]
+  },
+  "essoufflement": {
+    "definitions": [{ "definition": "agbɔ̀nkpíkpé", "examples": [] }]
+  },
+  "essuyer": {
+    "definitions": [
+      { "definition": "fέ", "examples": [] },
+      { "definition": "súnsún", "examples": [] }
+    ]
+  },
+  "essuyer les larmes de quelqu'un": {
+    "definitions": [{ "definition": "súnsún ɖasìn nú mε", "examples": [] }]
+  },
+  "est ‑ l'est": {
+    "definitions": [{ "definition": "zănzànhwéjí", "examples": [] }]
+  },
+  "estimer ‑ estimer quelqu'un": {
+    "definitions": [{ "definition": "mɔ̀ mε gbɔ", "examples": [] }]
+  },
+  "estomac": { "definitions": [{ "definition": "adɔgbó", "examples": [] }] },
+  "estropié": {
+    "definitions": [
+      { "definition": "afɔwinnwέnnɔ̀", "examples": [] },
+      { "definition": "sékúnɔ̀", "examples": [] }
+    ]
+  },
+  "être estropié des membres inférieurs": {
+    "definitions": [{ "definition": "kú sé", "examples": [] }]
+  },
+  "être estropié d'un pied": {
+    "definitions": [{ "definition": "afɔ̀ kú", "examples": [] }]
+  },
+  "et": {
+    "definitions": [
+      { "definition": "bɔ̀", "examples": [] },
+      { "definition": "ká", "examples": [] },
+      { "definition": "kɔ́n", "examples": [] },
+      { "definition": "kpódó... kpán", "examples": [] },
+      { "definition": "lobɔ̀", "examples": [] }
+    ]
+  },
+  "et après": { "definitions": [{ "definition": "lobɔ̀", "examples": [] }] },
+  "et caetera": {
+    "definitions": [{ "definition": "kpukpotɔ́", "examples": [] }]
+  },
+  "et ensuite": { "definitions": [{ "definition": "lobɔ̀", "examples": [] }] },
+  "et lorsque": {
+    "definitions": [{ "definition": "lobɔ nú", "examples": [] }]
+  },
+  "et pourtant": { "definitions": [{ "definition": "sín", "examples": [] }] },
+  "et puis": {
+    "definitions": [{ "definition": "énέ ɔ́ gúdó ɔ́", "examples": [] }]
+  },
+  "et si": { "definitions": [{ "definition": "lobɔ nú", "examples": [] }] },
+  "étable": {
+    "definitions": [
+      { "definition": "lanxɔsá", "examples": [] },
+      { "definition": "nyìbú wútó", "examples": [] }
+    ]
+  },
+  "établir": {
+    "definitions": [
+      { "definition": "dŏ", "examples": [] },
+      { "definition": "ɖŏ ayĭ", "examples": [] },
+      { "definition": "slé", "examples": [] }
+    ]
+  },
+  "établir quelqu'un chef": {
+    "definitions": [
+      { "definition": "sɔ́ mε găn", "examples": [] },
+      { "definition": "sɔ́ mε găn", "examples": [] }
+    ]
+  },
+  "établir un champ": {
+    "definitions": [{ "definition": "jὲ glè", "examples": [] }]
+  },
+  "établir un vaudoun": {
+    "definitions": [{ "definition": "ɖŏ vodún ayĭ", "examples": [] }]
+  },
+  "s'établir à campagne dans les champs": {
+    "definitions": [{ "definition": "jὲ glè", "examples": [] }]
+  },
+  "étage": { "definitions": [{ "definition": "azají", "examples": [] }] },
+  "à l'étage": {
+    "definitions": [{ "definition": "síngbójí", "examples": [] }]
+  },
+  "étagère": { "definitions": [{ "definition": "akakaɖà", "examples": [] }] },
+  "étain": {
+    "definitions": [
+      { "definition": "aflélé", "examples": [] },
+      { "definition": "félélé", "examples": [] }
+    ]
+  },
+  "étalage": { "definitions": [{ "definition": "agbantítέ", "examples": [] }] },
+  "étalage de tous les objets qui servent à une consultation par le devin": {
+    "definitions": [{ "definition": "fátítὲ", "examples": [] }]
+  },
+  "faire étalage de sa personne": {
+    "definitions": [{ "definition": "sà xá mε", "examples": [] }]
+  },
+  "faire étalage de son autorité": {
+    "definitions": [{ "definition": "glă awà", "examples": [] }]
+  },
+  "faire étalage de ses habits": {
+    "definitions": [{ "definition": "sà xá mε", "examples": [] }]
+  },
+  "étaler": {
+    "definitions": [
+      { "definition": "tέ", "examples": [] },
+      { "definition": "tέ nyì jĭ", "examples": [] }
+    ]
+  },
+  "étaler des marchandises variées": {
+    "definitions": [{ "definition": "tέ agbàn", "examples": [] }]
+  },
+  "étaler la marchandise": {
+    "definitions": [{ "definition": "tέ agbàn", "examples": [] }]
+  },
+  "étaler les objets rituels dugénie de la divinationpour le consulter": {
+    "definitions": [{ "definition": "tέ fá", "examples": [] }]
+  },
+  "étalon": { "definitions": [{ "definition": "sɔ́ asú", "examples": [] }] },
+  "étang": { "definitions": [{ "definition": "tán", "examples": [] }] },
+  "état": {
+    "definitions": [
+      { "definition": "ninɔ", "examples": [] },
+      { "definition": "nyìnyí", "examples": [] },
+      { "definition": "tomὲ", "examples": [] }
+    ]
+  },
+  "être en très bon état": {
+    "definitions": [{ "definition": "céwúncéwún", "examples": [] }]
+  },
+  "le fait d'être en bon état": {
+    "definitions": [{ "definition": "ɖagbenunɔ̀", "examples": [] }]
+  },
+  "l'état": { "definitions": [{ "definition": "ninɔmὲ", "examples": [] }] },
+  "éteindre": {
+    "definitions": [
+      { "definition": "xó cí", "examples": [] },
+      { "definition": "xò cí", "examples": [] }
+    ]
+  },
+  "action d’éteindre": {
+    "definitions": [{ "definition": "cící", "examples": [] }]
+  },
+  "éteindre le feu": {
+    "definitions": [{ "definition": "cí myɔ̀", "examples": [] }]
+  },
+  "éteindre le poste de radio": {
+    "definitions": [{ "definition": "cí ladyóo", "examples": [] }]
+  },
+  "éteindre quelque chose": {
+    "definitions": [{ "definition": "cí", "examples": [] }]
+  },
+  "étendard": { "definitions": [{ "definition": "asyá", "examples": [] }] },
+  "étendre": {
+    "definitions": [
+      { "definition": "dlε̆n", "examples": [] },
+      { "definition": "kɔ̀n nyì", "examples": [] },
+      { "definition": "tέ", "examples": [] },
+      { "definition": "tέ nyì jĭ", "examples": [] },
+      { "definition": "vlɔ̆n", "examples": [] }
+    ]
+  },
+  "action d’étendre": {
+    "definitions": [
+      { "definition": "dìndlέn", "examples": [] },
+      { "definition": "dlὲdlὲn", "examples": [] }
+    ]
+  },
+  "étendre au soleil": {
+    "definitions": [{ "definition": "xyá", "examples": [] }]
+  },
+  "étendre du linge": {
+    "definitions": [{ "definition": "xíyá avɔ̀", "examples": [] }]
+  },
+  "étendre la nappe sur la table": {
+    "definitions": [{ "definition": "tέ avɔ̀ ɖŏ távo ji", "examples": [] }]
+  },
+  "étendre la natte": {
+    "definitions": [{ "definition": "tέ zàn", "examples": [] }]
+  },
+  "étendre le bras": {
+    "definitions": [{ "definition": "dlε̆n alɔ̀", "examples": [] }]
+  },
+  "étendre les bras": {
+    "definitions": [{ "definition": "dlε̆n awà", "examples": [] }]
+  },
+  "étendre sur": { "definitions": [{ "definition": "tέ jĭ", "examples": [] }] },
+  "étendre une natte": {
+    "definitions": [
+      { "definition": "ɖŏ zàn", "examples": [] },
+      { "definition": "té zàn", "examples": [] }
+    ]
+  },
+  "idée de s'étendre très facilement": {
+    "definitions": [{ "definition": "wɛɛɛ̀", "examples": [] }]
+  },
+  "le fait d'étendre une chose": {
+    "definitions": [{ "definition": "títέ", "examples": [] }]
+  },
+  "s’étendre": {
+    "definitions": [
+      { "definition": "dlε̆n", "examples": [] },
+      { "definition": "dlε̆n alìn", "examples": [] }
+    ]
+  },
+  "étendre ‑ s'étendre au soleil": {
+    "definitions": [{ "definition": "xyá", "examples": [] }]
+  },
+  "s'étendre dans un siège": {
+    "definitions": [{ "definition": "găn jε nŭ mὲ", "examples": [] }]
+  },
+  "étendu": { "definitions": [{ "definition": "xololò", "examples": [] }] },
+  "étendu sur le dos": {
+    "definitions": [{ "definition": "wɛ̀n", "examples": [] }]
+  },
+  "étendue": { "definitions": [{ "definition": "agbà", "examples": [] }] },
+  "étendue d'eau": { "definitions": [{ "definition": "tɔ̀", "examples": [] }] },
+  "éternel": { "definitions": [{ "definition": "mavɔmavɔ", "examples": [] }] },
+  "éternellement": {
+    "definitions": [
+      { "definition": "káká sɔ́ yi mavɔmavɔ", "examples": [] },
+      { "definition": "mavɔmavɔ", "examples": [] }
+    ]
+  },
+  "éternuement": { "definitions": [{ "definition": "cìn", "examples": [] }] },
+  "éternuer": { "definitions": [{ "definition": "nyì cìn", "examples": [] }] },
+  "ethnie ‑ de l'ethnie gùn": {
+    "definitions": [{ "definition": "gunnù", "examples": [] }]
+  },
+  "ethnie du sud bénin": {
+    "definitions": [{ "definition": "ayìzɔ́", "examples": [] }]
+  },
+  "sous-groupe ethnique dépendant du groupe aja": {
+    "definitions": [{ "definition": "gὲn", "examples": [] }]
+  },
+  "étincelant": {
+    "definitions": [
+      { "definition": "kínkɔ́n", "examples": [] },
+      { "definition": "nyaà", "examples": [] }
+    ]
+  },
+  "étinceler": { "definitions": [{ "definition": "kɔ́n", "examples": [] }] },
+  "étirement ‑ marquant l'étirement vers le bas": {
+    "definitions": [{ "definition": "dɔɔ̀", "examples": [] }]
+  },
+  "étirer ‑ s’étirer": {
+    "definitions": [{ "definition": "dὲn", "examples": [] }]
+  },
+  "étoffe": {
+    "definitions": [
+      { "definition": "avɔ̀", "examples": [] },
+      { "definition": "s’ávɔ̀", "examples": [] }
+    ]
+  },
+  "étoffe blanche fine et légère": {
+    "definitions": [{ "definition": "léwéyɔ", "examples": [] }]
+  },
+  "étoffe de coton écru": {
+    "definitions": [{ "definition": "ajalà", "examples": [] }]
+  },
+  "étoffe de laine": {
+    "definitions": [
+      { "definition": "gbɔ̀fúnvɔ̀", "examples": [] },
+      { "definition": "lὲngbɔ́fúnvɔ̀", "examples": [] }
+    ]
+  },
+  "étoffe de qualité grossière": {
+    "definitions": [{ "definition": "kpokún", "examples": [] }]
+  },
+  "étoffe de velours": {
+    "definitions": [{ "definition": "alănvɔ̀", "examples": [] }]
+  },
+  "étoffe diminuée parce que fraudée": {
+    "definitions": [{ "definition": "avɔ cícέ", "examples": [] }]
+  },
+  "étoffe d'un grand prix": {
+    "definitions": [{ "definition": "àkwέnúvɔ̀", "examples": [] }]
+  },
+  "étoffe rouge": { "definitions": [{ "definition": "dodó", "examples": [] }] },
+  "étoffe rouge violet": {
+    "definitions": [{ "definition": "sovɔ̀", "examples": [] }]
+  },
+  "petit morceau d'étoffe": {
+    "definitions": [{ "definition": "avɔví", "examples": [] }]
+  },
+  "étoile": { "definitions": [{ "definition": "sunví", "examples": [] }] },
+  "étoile de mer": {
+    "definitions": [{ "definition": "xumɛsunví", "examples": [] }]
+  },
+  "étonnant": {
+    "definitions": [{ "definition": "bàɖă dŏ mε", "examples": [] }]
+  },
+  "être étonnant": {
+    "definitions": [
+      { "definition": "bàdéxɔ́", "examples": [] },
+      { "definition": "kpácá", "examples": [] }
+    ]
+  },
+  "étonnement": { "definitions": [{ "definition": "wùjìjí", "examples": [] }] },
+  "interjection marquant étonnement et surprise": {
+    "definitions": [{ "definition": "étέ ká jε bɔ̀ ?", "examples": [] }]
+  },
+  "marque d'étonnement": {
+    "definitions": [
+      { "definition": "nŭɖògbεmὲ", "examples": [] },
+      { "definition": "nùtíin", "examples": [] }
+    ]
+  },
+  "marque un étonnement niais": {
+    "definitions": [{ "definition": "yɛɖɛɖɛ", "examples": [] }]
+  },
+  "étonner": {
+    "definitions": [
+      { "definition": "fyán", "examples": [] },
+      { "definition": "hὲn hŭn nú mε", "examples": [] },
+      { "definition": "jĭ wŭ", "examples": [] },
+      { "definition": "kpácá", "examples": [] }
+    ]
+  },
+  "étonner quelqu'un": {
+    "definitions": [{ "definition": "bàɖă", "examples": [] }]
+  },
+  "s'étonner à propos de quelqu'un": {
+    "definitions": [{ "definition": "dŏ hwyɔ mε", "examples": [] }]
+  },
+  "étouffer": { "definitions": [{ "definition": "xá hŭn", "examples": [] }] },
+  "étouffer quelqu'un par le cou": {
+    "definitions": [{ "definition": "gbìdí kɔ̀ nú mε", "examples": [] }]
+  },
+  "étourderie": { "definitions": [{ "definition": "mìmlán", "examples": [] }] },
+  "étourdissement": {
+    "definitions": [
+      { "definition": "agbádedé", "examples": [] },
+      { "definition": "wunɖáwúnɖá", "examples": [] }
+    ]
+  },
+  "avoir des étourdissements": {
+    "definitions": [{ "definition": "wunɖáwúnɖá ɖá mε", "examples": [] }]
+  },
+  "étrange ‑ être étrange": {
+    "definitions": [{ "definition": "jĭ wŭ", "examples": [] }]
+  },
+  "étranger": {
+    "definitions": [
+      { "definition": "jŏnɔ̆", "examples": [] },
+      { "definition": "toɖémεnù", "examples": [] },
+      { "definition": "toɖĕvomεnù", "examples": [] },
+      { "definition": "túnwánɔ̀", "examples": [] }
+    ]
+  },
+  "aller à l'étranger": {
+    "definitions": [{ "definition": "yì gbèjí", "examples": [] }]
+  },
+  "à l'étranger": {
+    "definitions": [{ "definition": "gbejí", "examples": [] }]
+  },
+  "étranger suspect": {
+    "definitions": [{ "definition": "mε mŭ", "examples": [] }]
+  },
+  "les étrangers": {
+    "definitions": [{ "definition": "togudonú", "examples": [] }]
+  },
+  "étrangler ‑ s'étrangler en avalant un morceau trop gros": {
+    "definitions": [{ "definition": "xá hŭn", "examples": [] }]
+  },
+  "être": {
+    "definitions": [
+      { "definition": "ɖè", "examples": [] },
+      { "definition": "nɔ̀", "examples": [] },
+      { "definition": "nyĭ", "examples": [] },
+      { "definition": "wɛ̀ nyí", "examples": [] }
+    ]
+  },
+  "être (lieu, état, manière d'être)": {
+    "definitions": [{ "definition": "ɖŏ", "examples": [] }]
+  },
+  "la façon d'être": {
+    "definitions": [
+      { "definition": "ninɔmὲ", "examples": [] },
+      { "definition": "nunɔmὲ", "examples": [] },
+      { "definition": "jijɔ̀", "examples": [] },
+      { "definition": "jujɔ̀", "examples": [] },
+      { "definition": "ninɔ", "examples": [] },
+      { "definition": "nyìnyí", "examples": [] }
+    ]
+  },
+  "petit être vivant": {
+    "definitions": [{ "definition": "nùvíɖogbὲ", "examples": [] }]
+  },
+  "tout être inanimé": {
+    "definitions": [{ "definition": "atín kpó kan kpó", "examples": [] }]
+  },
+  "un être vivant": {
+    "definitions": [{ "definition": "nŭɖogbὲ", "examples": [] }]
+  },
+  "étreindre": {
+    "definitions": [
+      { "definition": "fyɔ́n", "examples": [] },
+      { "definition": "xá", "examples": [] }
+    ]
+  },
+  "étreindre quelqu'un": {
+    "definitions": [{ "definition": "kplá así kɔ̀ nú mε", "examples": [] }]
+  },
+  "étroit": {
+    "definitions": [
+      { "definition": "dwíín", "examples": [] },
+      { "definition": "gódwé", "examples": [] },
+      { "definition": "gwédé", "examples": [] },
+      { "definition": "swέέn", "examples": [] },
+      { "definition": "yoboyobwénú", "examples": [] }
+    ]
+  },
+  "être étroit": { "definitions": [{ "definition": "sóbwé", "examples": [] }] },
+  "très étroit": { "definitions": [{ "definition": "swíí", "examples": [] }] },
+  "étroitement": { "definitions": [{ "definition": "gódwé", "examples": [] }] },
+  "étudiant": {
+    "definitions": [
+      { "definition": "nùkplɔ́ntɔ́", "examples": [] },
+      { "definition": "wèmàkplɔ́ntɔ́", "examples": [] }
+    ]
+  },
+  "étudier": {
+    "definitions": [
+      { "definition": "kplɔ́n", "examples": [] },
+      { "definition": "kplɔ́n wĕmà", "examples": [] }
+    ]
+  },
+  "celui qui étudie une langue": {
+    "definitions": [{ "definition": "gbezɔwatɔ́", "examples": [] }]
+  },
+  "étui": {
+    "definitions": [
+      { "definition": "akpà", "examples": [] },
+      { "definition": "akún", "examples": [] },
+      { "definition": "gò", "examples": [] }
+    ]
+  },
+  "étui à aiguilles": {
+    "definitions": [
+      { "definition": "avɔtɔnú", "examples": [] },
+      { "definition": "blὲfútù", "examples": [] },
+      { "definition": "nyὲgó", "examples": [] }
+    ]
+  },
+  "étui à flèches": {
+    "definitions": [{ "definition": "găgò", "examples": [] }]
+  },
+  "étui pour mettre la pipe": {
+    "definitions": [{ "definition": "kɔ́wé kpà", "examples": [] }]
+  },
+  "eunuque ‑ eunuque du palais": {
+    "definitions": [{ "definition": "azaglɔ́nɔ́tɔ́", "examples": [] }]
+  },
+  "euphorbe ‑ euphorbe à latex": {
+    "definitions": [
+      { "definition": "sokpέntín", "examples": [] },
+      { "definition": "sotín", "examples": [] }
+    ]
+  },
+  "euphorbe épineuse": {
+    "definitions": [{ "definition": "seló", "examples": [] }]
+  },
+  "europe": { "definitions": [{ "definition": "yovótomɛ̀", "examples": [] }] },
+  "européen": {
+    "definitions": [
+      { "definition": "aklamεnù", "examples": [] },
+      { "definition": "yovó", "examples": [] }
+    ]
+  },
+  "petit européen": {
+    "definitions": [{ "definition": "yovóví", "examples": [] }]
+  },
+  "eux": { "definitions": [{ "definition": "yĕ", "examples": [] }] },
+  "évacuation": { "definitions": [{ "definition": "síslá", "examples": [] }] },
+  "évacuer": { "definitions": [{ "definition": "ɖɔ̆", "examples": [] }] },
+  "évader ‑ s'évader": {
+    "definitions": [{ "definition": "hɔ̀n", "examples": [] }]
+  },
+  "évangile": {
+    "definitions": [{ "definition": "wɛn ɖagbe", "examples": [] }]
+  },
+  "évanouir ‑ action de s'évanouir": {
+    "definitions": [{ "definition": "xíxɛ́", "examples": [] }]
+  },
+  "s’évanouir": {
+    "definitions": [
+      { "definition": "fò", "examples": [] },
+      { "definition": "flé nukún", "examples": [] },
+      { "definition": "kὲn", "examples": [] },
+      { "definition": "nŭ jὲ mε jĭ", "examples": [] }
+    ]
+  },
+  "évanouissement": {
+    "definitions": [{ "definition": "nùxixé", "examples": [] }]
+  },
+  "évaporer ‑ s'évaporer (l'eau)": {
+    "definitions": [{ "definition": "mὲ sìn", "examples": [] }]
+  },
+  "évasion": { "definitions": [{ "definition": "hinhɔn", "examples": [] }] },
+  "éveillé ‑ être éveillé": {
+    "definitions": [{ "definition": "zìn", "examples": [] }]
+  },
+  "qualifie un enfant très éveillé": {
+    "definitions": [{ "definition": "azingblέntέn", "examples": [] }]
+  },
+  "éveiller": { "definitions": [{ "definition": "fɔ́n", "examples": [] }] },
+  "s'éveiller": { "definitions": [{ "definition": "fɔ́n", "examples": [] }] },
+  "éventail": { "definitions": [{ "definition": "afafà", "examples": [] }] },
+  "agiter l'éventail": {
+    "definitions": [{ "definition": "nyì afafà", "examples": [] }]
+  },
+  "sorte d’éventail": {
+    "definitions": [{ "definition": "ayá", "examples": [] }]
+  },
+  "éventaire": {
+    "definitions": [
+      { "definition": "agbajέ", "examples": [] },
+      { "definition": "xágbájɛ́", "examples": [] }
+    ]
+  },
+  "éventaire en raphia": {
+    "definitions": [{ "definition": "ɖεgbajέ", "examples": [] }]
+  },
+  "éventer": {
+    "definitions": [
+      { "definition": "fέ", "examples": [] },
+      { "definition": "nyì afafà", "examples": [] }
+    ]
+  },
+  "éventer quelqu’un": {
+    "definitions": [{ "definition": "nyì afafà nú mε", "examples": [] }]
+  },
+  "éventrer un animal": {
+    "definitions": [{ "definition": "kέ", "examples": [] }]
+  },
+  "évêque": {
+    "definitions": [{ "definition": "yɛhwenɔ gán", "examples": [] }]
+  },
+  "évidence ‑ bien en évidence": {
+    "definitions": [{ "definition": "agbawungbà", "examples": [] }]
+  },
+  "évident": { "definitions": [{ "definition": "gaàn", "examples": [] }] },
+  "éviter": {
+    "definitions": [
+      { "definition": "gɔ̀n", "examples": [] },
+      { "definition": "kpà kέn", "examples": [] },
+      { "definition": "zɛ̀", "examples": [] }
+    ]
+  },
+  "éviter le péché": {
+    "definitions": [{ "definition": "sí hwὲ", "examples": [] }]
+  },
+  "éviter tout contact avec quelqu'un": {
+    "definitions": [{ "definition": "nɔ̀ zɔ̀ nú mε", "examples": [] }]
+  },
+  "évolué ‑ être évolué": {
+    "definitions": [{ "definition": "hùn nukún", "examples": [] }]
+  },
+  "évolution ‑ être en pleine évolution": {
+    "definitions": [{ "definition": "wìnnyá", "examples": [] }]
+  },
+  "exact": {
+    "definitions": [
+      { "definition": "ɖŏ ganjí", "examples": [] },
+      { "definition": "ganjínínɔ̀", "examples": [] },
+      { "definition": "ganjínúnɔ̀", "examples": [] },
+      { "definition": "gbesisɔ", "examples": [] },
+      { "definition": "gbesusɔ", "examples": [] }
+    ]
+  },
+  "exactement": {
+    "definitions": [
+      { "definition": "ganjí", "examples": [] },
+      { "definition": "gbesúgbesɔ̀", "examples": [] },
+      { "definition": "gέgέ", "examples": [] },
+      { "definition": "pέέ", "examples": [] },
+      { "definition": "tawùn", "examples": [] }
+    ]
+  },
+  "exactement de la même taille": {
+    "definitions": [{ "definition": "gbesúgbesɔ̀", "examples": [] }]
+  },
+  "très exactement": {
+    "definitions": [{ "definition": "pέpέ", "examples": [] }]
+  },
+  "exagérer": {
+    "definitions": [
+      { "definition": "flá", "examples": [] },
+      { "definition": "gbε̆", "examples": [] }
+    ]
+  },
+  "ne pas exagérer": {
+    "definitions": [{ "definition": "ɖŏ jlε̆", "examples": [] }]
+  },
+  "exalter": { "definitions": [{ "definition": "sɔ́ mε sù", "examples": [] }] },
+  "examen": {
+    "definitions": [
+      { "definition": "kéjékéjé", "examples": [] },
+      { "definition": "mε tinténkpin", "examples": [] },
+      { "definition": "tέnkpɔ́n", "examples": [] }
+    ]
+  },
+  "examen de conscience": {
+    "definitions": [{ "definition": "ayi kéjékéjé", "examples": [] }]
+  },
+  "faire passer un examen": {
+    "definitions": [{ "definition": "nyì nŭ dŏ mε", "examples": [] }]
+  },
+  "examiner": {
+    "definitions": [
+      { "definition": "bà kpɔ́n", "examples": [] },
+      { "definition": "bɔɖɔ̀ kpɔ́n", "examples": [] },
+      { "definition": "bɔɖɔɔ̀", "examples": [] },
+      { "definition": "gbèjé", "examples": [] },
+      { "definition": "hὲn kpɔ́n", "examples": [] },
+      { "definition": "kàn bɔ̆", "examples": [] },
+      { "definition": "kàn byɔ̆", "examples": [] },
+      { "definition": "kéjé", "examples": [] },
+      { "definition": "kéjé kpɔ́n", "examples": [] },
+      { "definition": "kpɔ́n", "examples": [] }
+    ]
+  },
+  "examiner sa conscience": {
+    "definitions": [{ "definition": "kéjé ayì kpɔ́n", "examples": [] }]
+  },
+  "exaucer": {
+    "definitions": [
+      { "definition": "yĭ gbè", "examples": [] },
+      { "definition": "yĭ gbè", "examples": [] }
+    ]
+  },
+  "excédé ‑ être excédé": {
+    "definitions": [{ "definition": "kpéké kɔ̀ nú mε", "examples": [] }]
+  },
+  "excellent ‑ excellent (denrée)": {
+    "definitions": [{ "definition": "nylă kàn", "examples": [] }]
+  },
+  "exception ‑ faire une exception pour quelqu'un": {
+    "definitions": [{ "definition": "gbò gbĕ nú mε", "examples": [] }]
+  },
+  "marque l'exception": {
+    "definitions": [{ "definition": "zɛ̀ wŭ", "examples": [] }]
+  },
+  "excès ‑ à l’excès": {
+    "definitions": [
+      { "definition": "dín", "examples": [] },
+      { "definition": "díngàn", "examples": [] }
+    ]
+  },
+  "celui qui mange avec excès": {
+    "definitions": [{ "definition": "mɛ wiwan", "examples": [] }]
+  },
+  "excès de boisson": {
+    "definitions": [{ "definition": "ahannudíngan", "examples": [] }]
+  },
+  "excès de zèle": {
+    "definitions": [{ "definition": "hwihwéhwíhwé", "examples": [] }]
+  },
+  "idée d'excès": {
+    "definitions": [{ "definition": "kpíɖíkpíɖí", "examples": [] }]
+  },
+  "excessivement": {
+    "definitions": [
+      { "definition": "díngàn", "examples": [] },
+      { "definition": "gbεmὲ", "examples": [] }
+    ]
+  },
+  "être excessivement bête": {
+    "definitions": [{ "definition": "cɔ̀n", "examples": [] }]
+  },
+  "être excessivement sot": {
+    "definitions": [{ "definition": "cɔ̀n", "examples": [] }]
+  },
+  "être excessivement violent dans ses colères": {
+    "definitions": [{ "definition": "awòvínɔ̀", "examples": [] }]
+  },
+  "excitation ‑ avec excitation": {
+    "definitions": [{ "definition": "klalà", "examples": [] }]
+  },
+  "exciter": { "definitions": [{ "definition": "klɔ́ nŭ dŏ", "examples": [] }] },
+  "action d'exciter": {
+    "definitions": [{ "definition": "xuxo", "examples": [] }]
+  },
+  "exciter quelqu’un": {
+    "definitions": [
+      { "definition": "ɖè dŏ mε", "examples": [] },
+      { "definition": "dŏ adăn ta nú mε", "examples": [] },
+      { "definition": "ɖŏ glàglá nú mε", "examples": [] }
+    ]
+  },
+  "s'exciter": {
+    "definitions": [{ "definition": "sún manamanà", "examples": [] }]
+  },
+  "exclamation": {
+    "definitions": [{ "definition": "cáxóxooó", "examples": [] }]
+  },
+  "exclamation marquant la surprise": {
+    "definitions": [{ "definition": "có", "examples": [] }]
+  },
+  "exclamation marquant une vive douleur": {
+    "definitions": [{ "definition": "yágáyì", "examples": [] }]
+  },
+  "exclamation pour marquer l'étonnement": {
+    "definitions": [{ "definition": "cĭgì", "examples": [] }]
+  },
+  "excrément": {
+    "definitions": [
+      { "definition": "adà", "examples": [] },
+      { "definition": "lanmí", "examples": [] },
+      { "definition": "mĭ", "examples": [] },
+      { "definition": "sɔ̀nŭɖà", "examples": [] }
+    ]
+  },
+  "excrément des animaux": {
+    "definitions": [{ "definition": "lan mĭ", "examples": [] }]
+  },
+  "excrément qui reste au derrière d'un animal": {
+    "definitions": [{ "definition": "adì", "examples": [] }]
+  },
+  "excroissance ‑ avoir la jambe avec une excroissance par devant": {
+    "definitions": [{ "definition": "ɖŏ dŏ", "examples": [] }]
+  },
+  "celui qui a une excroissance sur la jambe": {
+    "definitions": [{ "definition": "dŏnɔ̀", "examples": [] }]
+  },
+  "excroissance cueillie sur un arbre": {
+    "definitions": [{ "definition": "kὲn", "examples": [] }]
+  },
+  "excuse": {
+    "definitions": [
+      { "definition": "jàlé", "examples": [] },
+      { "definition": "kεnklέὲn", "examples": [] }
+    ]
+  },
+  "formule employée pour s'excuser": {
+    "definitions": [{ "definition": "kánflàn", "examples": [] }]
+  },
+  "exécuter": { "definitions": [{ "definition": "blŏ", "examples": [] }] },
+  "exemple": {
+    "definitions": [
+      { "definition": "jijɔ̀", "examples": [] },
+      { "definition": "jìjlέ", "examples": [] },
+      { "definition": "jujɔ̀", "examples": [] },
+      { "definition": "kpɔ́ndéwú", "examples": [] },
+      { "definition": "nùjlὲdónùwú", "examples": [] }
+    ]
+  },
+  "bon exemple": {
+    "definitions": [{ "definition": "jijɔ ɖagbe", "examples": [] }]
+  },
+  "exhaler ‑ exhaler une mauvaise odeur": {
+    "definitions": [{ "definition": "lùn wăn", "examples": [] }]
+  },
+  "exhiber ‑ s'exhiber": {
+    "definitions": [{ "definition": "bà glădì", "examples": [] }]
+  },
+  "exiger ‑ exiger de quelqu'un la compensation d'un dommage": {
+    "definitions": [{ "definition": "yĭ nŭ axɔ́sú", "examples": [] }]
+  },
+  "existence": {
+    "definitions": [
+      { "definition": "gbὲ", "examples": [] },
+      { "definition": "gbεkan", "examples": [] }
+    ]
+  },
+  "exister": {
+    "definitions": [
+      { "definition": "ɖè", "examples": [] },
+      { "definition": "ɖŏ gbὲ", "examples": [] },
+      { "definition": "nɔ̀ gbὲ", "examples": [] },
+      { "definition": "tíìn", "examples": [] },
+      { "definition": "wɛ̀ ɖè", "examples": [] }
+    ]
+  },
+  "exister en trop grande abondance": {
+    "definitions": [{ "definition": "flá", "examples": [] }]
+  },
+  "exorbité ‑ avoir les yeux exorbités": {
+    "definitions": [{ "definition": "tún nukún", "examples": [] }]
+  },
+  "expansif ‑ de nature expansive": {
+    "definitions": [{ "definition": "hayà", "examples": [] }]
+  },
+  "expédier": { "definitions": [{ "definition": "sέ dŏ", "examples": [] }] },
+  "expérimenté": {
+    "definitions": [{ "definition": "nùnywέtɔ́", "examples": [] }]
+  },
+  "être expérimenté": {
+    "definitions": [{ "definition": "dĕ", "examples": [] }]
+  },
+  "expert ‑ être expert en médecine traditionnelle": {
+    "definitions": [{ "definition": "tuwùn amà", "examples": [] }]
+  },
+  "expert en quelque chose": {
+    "definitions": [{ "definition": "kéyikà", "examples": [] }]
+  },
+  "expier ‑ expier un crime": {
+    "definitions": [{ "definition": "sú hwὲ xɔ́", "examples": [] }]
+  },
+  "expier une faute": {
+    "definitions": [{ "definition": "sú hwὲ’xɔ́", "examples": [] }]
+  },
+  "expirer": { "definitions": [{ "definition": "vɔ̀", "examples": [] }] },
+  "explication": { "definitions": [{ "definition": "jε̆", "examples": [] }] },
+  "expliquer": {
+    "definitions": [
+      { "definition": "tín", "examples": [] },
+      { "definition": "tín mὲ", "examples": [] }
+    ]
+  },
+  "expliquer bien clairement": {
+    "definitions": [{ "definition": "gbà jὲ mὲ", "examples": [] }]
+  },
+  "expliquer un proverbe": {
+    "definitions": [{ "definition": "flɔ́n", "examples": [] }]
+  },
+  "expliquer un proverbe à quelqu'un en lui citant la deuxième partie": {
+    "definitions": [{ "definition": "flɔ́n lŏ nú mε", "examples": [] }]
+  },
+  "exploit ‑ faire un exploit (dans le mauvais sens)": {
+    "definitions": [{ "definition": "dŏ tè", "examples": [] }]
+  },
+  "exploitation": {
+    "definitions": [
+      { "definition": "mεtáfú", "examples": [] },
+      { "definition": "mεtáfútáfú", "examples": [] }
+    ]
+  },
+  "exploiter": { "definitions": [{ "definition": "kɔ́tɔ́", "examples": [] }] },
+  "exploiteur": {
+    "definitions": [{ "definition": "mεtáfútɔ́", "examples": [] }]
+  },
+  "exploser": { "definitions": [{ "definition": "wùkpá", "examples": [] }] },
+  "exposer": { "definitions": [{ "definition": "xlɛ́", "examples": [] }] },
+  "exposer son cas": {
+    "definitions": [{ "definition": "ɖŏ tè nú mε ɖé", "examples": [] }]
+  },
+  "exposer brièvement une affaire": {
+    "definitions": [{ "definition": "flán xó", "examples": [] }]
+  },
+  "exposer rapidement au feu": {
+    "definitions": [{ "definition": "hìnhán", "examples": [] }]
+  },
+  "s'exposer au soleil": {
+    "definitions": [{ "definition": "xú zivɔ́", "examples": [] }]
+  },
+  "s'exposer nu": {
+    "definitions": [{ "definition": "nà mε̆", "examples": [] }]
+  },
+  "s'exposer nu au regard de quelqu'un": {
+    "definitions": [
+      { "definition": "nɔ mε̆ ɖò mε ɖĕvo nukúnmὲ", "examples": [] }
+    ]
+  },
+  "exposition": { "definitions": [{ "definition": "títέ", "examples": [] }] },
+  "expression": { "definitions": [{ "definition": "xógbè", "examples": [] }] },
+  "expression campagnarde": {
+    "definitions": [{ "definition": "gletagbè", "examples": [] }]
+  },
+  "expression de mépris": {
+    "definitions": [{ "definition": "avɔkíjà", "examples": [] }]
+  },
+  "expression exprimant l'insatisfaction de l'homme": {
+    "definitions": [{ "definition": "xélòxélò", "examples": [] }]
+  },
+  "expression servant à former le futur antérieur et le conditionnel": {
+    "definitions": [{ "definition": "na ko", "examples": [] }]
+  },
+  "expression servant à former le futur lointain": {
+    "definitions": [{ "definition": "nă wă", "examples": [] }]
+  },
+  "expression traduisant un souhait ou un regret": {
+    "definitions": [{ "definition": "vέ ko", "examples": [] }]
+  },
+  "expulser": {
+    "definitions": [
+      { "definition": "nyà", "examples": [] },
+      { "definition": "nyà tɔ́n", "examples": [] }
+    ]
+  },
+  "expulser quelqu'un": {
+    "definitions": [{ "definition": "nyà mε", "examples": [] }]
+  },
+  "exquis ‑ être exquis": {
+    "definitions": [{ "definition": "vìví", "examples": [] }]
+  },
+  "extérieur ‑ à l'extérieur": {
+    "definitions": [{ "definition": "glegbè", "examples": [] }]
+  },
+  "exterminer": { "definitions": [{ "definition": "vɔ̀", "examples": [] }] },
+  "extinction ‑ avoir une extinction de voix": {
+    "definitions": [{ "definition": "gbè sú", "examples": [] }]
+  },
+  "extraire ‑ extraire l’huile d’arachide": {
+    "definitions": [{ "definition": "fyɔ́n aziinmí", "examples": [] }]
+  },
+  "extraordinaire": {
+    "definitions": [
+      { "definition": "gέn", "examples": [] },
+      { "definition": "gέngέn", "examples": [] },
+      { "definition": "hiì", "examples": [] },
+      { "definition": "lɔ̀jɔ́", "examples": [] },
+      { "definition": "sìn nŭ", "examples": [] }
+    ]
+  },
+  "être extraordinaire": {
+    "definitions": [
+      { "definition": "jĭ wŭ", "examples": [] },
+      { "definition": "jĭ wŭ", "examples": [] }
+    ]
+  },
+  "faire une chose extraordinaire": {
+    "definitions": [{ "definition": "jlε̆ nŭ", "examples": [] }]
+  },
+  "le fait d’être extraordinaire": {
+    "definitions": [{ "definition": "azì", "examples": [] }]
+  },
+  "extravagant ‑ faire une chose extravagante": {
+    "definitions": [{ "definition": "dŏ nŭ sìn", "examples": [] }]
+  },
+  "extrêmement": {
+    "definitions": [
+      { "definition": "gbεmὲ", "examples": [] },
+      { "definition": "káká", "examples": [] },
+      { "definition": "taala", "examples": [] },
+      { "definition": "tlala", "examples": [] },
+      { "definition": "tlílí", "examples": [] }
+    ]
+  },
+  "extrêmement effilé": {
+    "definitions": [{ "definition": "xwíɖíxwíɖí", "examples": [] }]
+  },
+  "extrémité": { "definitions": [{ "definition": "nu", "examples": [] }] },
+  "extrémité du pagne": {
+    "definitions": [{ "definition": "avɔnuvínu", "examples": [] }]
+  },
+  "l'extrémité du coude": {
+    "definitions": [{ "definition": "awagólì", "examples": [] }]
+  },
+  "exulter ‑ exulter de joie": {
+    "definitions": [{ "definition": "gbà wŭ", "examples": [] }]
   }
 }
