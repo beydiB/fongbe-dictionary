@@ -22341,5 +22341,2790 @@
   },
   "exulter ‑ exulter de joie": {
     "definitions": [{ "definition": "gbà wŭ", "examples": [] }]
+  },
+  "fable -": {
+    "definitions": [{ "definition": "lòdónú - xɛxó - yɛxó", "examples": [] }]
+  },
+  "fabricant -": {
+    "definitions": [
+      { "definition": "nùblòtɔ́ - wàtɔ́ (suffixe) -", "examples": [] }
+    ]
+  },
+  "fabricant de balai -": {
+    "definitions": [{ "definition": "xáblótɔ́ -", "examples": [] }]
+  },
+  "fabricant de clous -": {
+    "definitions": [{ "definition": "hùnjέnblótɔ́ -", "examples": [] }]
+  },
+  "fabricant de comprimés -": {
+    "definitions": [{ "definition": "atínkέnblótɔ́ -", "examples": [] }]
+  },
+  "fabricant de grigri -": {
+    "definitions": [{ "definition": "bòwàtɔ́ -", "examples": [] }]
+  },
+  "fabricant de marmites -": {
+    "definitions": [{ "definition": "ganzεnblotɔ́ -", "examples": [] }]
+  },
+  "fabricant de nattes -": {
+    "definitions": [
+      { "definition": "fέnɖɔ́lɔ́ntɔ́ - zanblotɔ́ - zanlɔntɔ́ -", "examples": [] }
+    ]
+  },
+  "fabricant de pierres à moudre -": {
+    "definitions": [{ "definition": "sékpátɔ́ -", "examples": [] }]
+  },
+  "fabricant de talisman ou d'amulette -": {
+    "definitions": [{ "definition": "bòwànúmεtɔ́", "examples": [] }]
+  },
+  "fabriquer -": { "definitions": [{ "definition": "blŏ -", "examples": [] }] },
+  "fabriquer de la fausse monnaie -": {
+    "definitions": [{ "definition": "blŏ àkwέ -", "examples": [] }]
+  },
+  "fabriquer de l'argent -": {
+    "definitions": [{ "definition": "blŏ àkwέ -", "examples": [] }]
+  },
+  "fabriquer des savons -": {
+    "definitions": [{ "definition": "ɖà aɖĭ - ɖà aɖĭ -", "examples": [] }]
+  },
+  "fabriquer un balai -": {
+    "definitions": [{ "definition": "blă akízà -", "examples": [] }]
+  },
+  "fabriquer une clé -": {
+    "definitions": [{ "definition": "tùn cávì", "examples": [] }]
+  },
+  "face -": { "definitions": [{ "definition": "nukúnmὲ -", "examples": [] }] },
+  "en face de -": {
+    "definitions": [{ "definition": "nukɔ̀n - kpàn nukɔ̀n -", "examples": [] }]
+  },
+  "faire face -": {
+    "definitions": [
+      { "definition": "kpàn nukɔ̀n - kpàn nukɔ̀n -", "examples": [] }
+    ]
+  },
+  "la face contre terre -": {
+    "definitions": [{ "definition": "agbɔ̆nnu -", "examples": [] }]
+  },
+  "la face interne de la cuisse -": {
+    "definitions": [{ "definition": "asákplá", "examples": [] }]
+  },
+  "fâcher -": {
+    "definitions": [{ "definition": "gblĕ xomɛ̀ - gblĕ xomὲ -", "examples": [] }]
+  },
+  "action de se fâcher -": {
+    "definitions": [{ "definition": "xomɛsinsin -", "examples": [] }]
+  },
+  "fâcher quelqu'un -": {
+    "definitions": [{ "definition": "dŏ xomɛsìn mɛ -", "examples": [] }]
+  },
+  "se fâcher -": {
+    "definitions": [
+      {
+        "definition": "gblĕ xomɛ̀ - gblĕ xomὲ - sìn xomɛ̀ - sìn xomɛ̀ dŏ mɛ - sìn xomὲ - sìn xomὲ dŏ mε - sìn xomὲ dŏ wŭ",
+        "examples": []
+      }
+    ]
+  },
+  "fâcherie -": {
+    "definitions": [
+      { "definition": "xomɛgbigblé - xomɛgblegblé", "examples": [] }
+    ]
+  },
+  "fâcheux -": { "definitions": [{ "definition": "vìvέ -", "examples": [] }] },
+  "événement fâcheux et inattendu -": {
+    "definitions": [{ "definition": "nùjέnŭmε -", "examples": [] }]
+  },
+  "fâcheuse affaire -": {
+    "definitions": [{ "definition": "adɔ̀n", "examples": [] }]
+  },
+  "facile -": { "definitions": [{ "definition": "bɔkùn -", "examples": [] }] },
+  "être facile -": {
+    "definitions": [{ "definition": "bɔ̀ - fá -", "examples": [] }]
+  },
+  "être facile pour quelqu'un -": {
+    "definitions": [
+      { "definition": "bɔ̀ mε - bɔ̀ wŭ nú mɛ - fá dŏ mε", "examples": [] }
+    ]
+  },
+  "faciliter - faciliter la réussite -": {
+    "definitions": [{ "definition": "ylɔ̆ -", "examples": [] }]
+  },
+  "faciliter le succès -": {
+    "definitions": [{ "definition": "ylɔ̆", "examples": [] }]
+  },
+  "façon -": { "definitions": [{ "definition": "alɔkpà -", "examples": [] }] },
+  "de la même façon -": {
+    "definitions": [{ "definition": "alɔkpa ɖokpó ɔ́ -", "examples": [] }]
+  },
+  "façon d'être -": {
+    "definitions": [{ "definition": "mεnyinyí -", "examples": [] }]
+  },
+  "la façon de se comporter dans la vie -": {
+    "definitions": [
+      { "definition": "gbezɔnlin - gbεzɔnlinzunzun", "examples": [] }
+    ]
+  },
+  "façonner -": { "definitions": [{ "definition": "blŏ", "examples": [] }] },
+  "facteur -": {
+    "definitions": [{ "definition": "wèmàmátɔ́", "examples": [] }]
+  },
+  "faction -": {
+    "definitions": [{ "definition": "klánklán", "examples": [] }]
+  },
+  "facture -": {
+    "definitions": [
+      { "definition": "àjɔ̀wèmá - àkwέwémá - nùxɔ́wémá", "examples": [] }
+    ]
+  },
+  "fade - être fade -": {
+    "definitions": [{ "definition": "vlε̆", "examples": [] }]
+  },
+  "fagot -": { "definitions": [{ "definition": "kɔ̀ -", "examples": [] }] },
+  "en fagots -": {
+    "definitions": [{ "definition": "kɔnukɔnu -", "examples": [] }]
+  },
+  "fagot de bois -": {
+    "definitions": [{ "definition": "nakíkɔ̀bŭ", "examples": [] }]
+  },
+  "faible - être faible -": {
+    "definitions": [
+      { "definition": "blă wŭ - jìjɔ́ - jùjɔ́ - vɔ̆ -", "examples": [] }
+    ]
+  },
+  "être faible (boisson)": {
+    "definitions": [{ "definition": "-fá", "examples": [] }]
+  },
+  "faiblir -": {
+    "definitions": [{ "definition": "túntún -", "examples": [] }]
+  },
+  "faiblir dans la marche -": {
+    "definitions": [{ "definition": "kpò zɔ̀n -", "examples": [] }]
+  },
+  "faiblir dans son courage -": {
+    "definitions": [{ "definition": "xò dɔjɔ̀ - xò dɔjɔ̀", "examples": [] }]
+  },
+  "faillite -": {
+    "definitions": [{ "definition": "agbanɖuɖù -", "examples": [] }]
+  },
+  "faire faillite -": {
+    "definitions": [{ "definition": "ɖù agbàn - ɖù agbàn", "examples": [] }]
+  },
+  "faim -": {
+    "definitions": [{ "definition": "kánɖŭkpawùn - xovɛ́ -", "examples": [] }]
+  },
+  "avoir faim -": {
+    "definitions": [{ "definition": "xovɛ́ sìn mɛ", "examples": [] }]
+  },
+  "fainéant -": {
+    "definitions": [{ "definition": "fɔnlínnɔ̀ - likpánɔ̀ -", "examples": [] }]
+  },
+  "être fainéant -": {
+    "definitions": [{ "definition": "xò lĭkpà", "examples": [] }]
+  },
+  "fainéanter -": {
+    "definitions": [{ "definition": "ɖì fɔnlín", "examples": [] }]
+  },
+  "fainéantise -": {
+    "definitions": [{ "definition": "fɔnlín - lĭkpà", "examples": [] }]
+  },
+  "faire -": {
+    "definitions": [{ "definition": "blɔmεvò - ɖŏ - wà -", "examples": [] }]
+  },
+  "action de faire -": {
+    "definitions": [
+      { "definition": "bìbló - blàblá - blŏ xá mε - blòbló -", "examples": [] }
+    ]
+  },
+  "façon de faire -": {
+    "definitions": [
+      { "definition": "nùwálɔ̀ - wa alɔ̀ - walɔ̀ - walɔ̀ -", "examples": [] }
+    ]
+  },
+  "manière de faire -": {
+    "definitions": [{ "definition": "zìnzán -", "examples": [] }]
+  },
+  "ne pas bien faire quelque chose -": {
+    "definitions": [{ "definition": "ɖè nŭ nyidò -", "examples": [] }]
+  },
+  "ne pas faire -": {
+    "definitions": [{ "definition": "gbɔ̀", "examples": [] }]
+  },
+  "faire-part -": {
+    "definitions": [{ "definition": "mεylɔ́wémà", "examples": [] }]
+  },
+  "faisander -": { "definitions": [{ "definition": "hwăn", "examples": [] }] },
+  "faiseur -": {
+    "definitions": [{ "definition": "nùwátɔ́ - wàtɔ́ (suffixe)", "examples": [] }]
+  },
+  "fait -": {
+    "definitions": [
+      {
+        "definition": "bìbló - bìbló - blòbló - blòbló - nùwíwá - nùwúwá - wiwa -",
+        "examples": []
+      }
+    ]
+  },
+  "bien fait -": {
+    "definitions": [{ "definition": "gbágbà", "examples": [] }]
+  },
+  "faîte -": { "definitions": [{ "definition": "ta -", "examples": [] }] },
+  "le faîte de la maison -": {
+    "definitions": [{ "definition": "xɔta", "examples": [] }]
+  },
+  "faîtière -": { "definitions": [{ "definition": "atà", "examples": [] }] },
+  "falloir -": { "definitions": [{ "definition": "nyɔ̆", "examples": [] }] },
+  "familiarité -": {
+    "definitions": [{ "definition": "hă - mεmε", "examples": [] }]
+  },
+  "familier -": { "definitions": [{ "definition": "hă -", "examples": [] }] },
+  "être familier -": {
+    "definitions": [{ "definition": "hă - mă -", "examples": [] }]
+  },
+  "tout familier que l'on affectionne : mon chéri -": {
+    "definitions": [{ "definition": "kóɖó", "examples": [] }]
+  },
+  "famille -": { "definitions": [{ "definition": "hε̆nnù -", "examples": [] }] },
+  "famille maternelle -": {
+    "definitions": [{ "definition": "nɔ hεnnû -", "examples": [] }]
+  },
+  "famille paternelle -": {
+    "definitions": [{ "definition": "tɔ́ hέnnú - tɔ́ hε̆nnù -", "examples": [] }]
+  },
+  "nom de famille -": {
+    "definitions": [{ "definition": "akɔta -", "examples": [] }]
+  },
+  "nom donné aux membres de la famille royale d'abomey -": {
+    "definitions": [{ "definition": "aladaxónú", "examples": [] }]
+  },
+  "famine -": {
+    "definitions": [{ "definition": "adɔ̀ - kándú", "examples": [] }]
+  },
+  "faner - se faner -": {
+    "definitions": [{ "definition": "mlŭ - sún - xú", "examples": [] }]
+  },
+  "fanfaron -": {
+    "definitions": [{ "definition": "glaglaɖutɔ́ - nuflétɔ́ -", "examples": [] }]
+  },
+  "faire le fanfaron -": {
+    "definitions": [{ "definition": "ɖŭ glàglá - flé nu -", "examples": [] }]
+  },
+  "le fait de faire le fanfaron -": {
+    "definitions": [{ "definition": "glaglà", "examples": [] }]
+  },
+  "fanfaronnade -": {
+    "definitions": [{ "definition": "hanglàn", "examples": [] }]
+  },
+  "fange -": { "definitions": [{ "definition": "bɔ̆", "examples": [] }] },
+  "fantaisie -": {
+    "definitions": [{ "definition": "aɖawùn", "examples": [] }]
+  },
+  "fantôme -": {
+    "definitions": [{ "definition": "blibɔ̀ - kalétà -", "examples": [] }]
+  },
+  "rencontre avec un fantôme -": {
+    "definitions": [{ "definition": "nù kpíkpé", "examples": [] }]
+  },
+  "fard -": { "definitions": [{ "definition": "atínkὲn", "examples": [] }] },
+  "fardeau -": { "definitions": [{ "definition": "agbàn", "examples": [] }] },
+  "farder -": {
+    "definitions": [
+      {
+        "definition": "sá atínkὲn dŏ nukúnmὲ - sá nŭ dŏ nukúnmὲ",
+        "examples": []
+      }
+    ]
+  },
+  "farine -": { "definitions": [{ "definition": "linfín -", "examples": [] }] },
+  "farine de haricots et de maïs -": {
+    "definitions": [{ "definition": "ablă -", "examples": [] }]
+  },
+  "farine de maïs mélangée à l'huile de palme -": {
+    "definitions": [{ "definition": "vὲ -", "examples": [] }]
+  },
+  "farine de manioc -": {
+    "definitions": [{ "definition": "gέwún -", "examples": [] }]
+  },
+  "farine de mil -": {
+    "definitions": [{ "definition": "likúnlínfín -", "examples": [] }]
+  },
+  "farine de nété -": {
+    "definitions": [{ "definition": "ahwalinfín -", "examples": [] }]
+  },
+  "farine d'igname -": {
+    "definitions": [{ "definition": "telibɔ línfín -", "examples": [] }]
+  },
+  "farine du premier mil trempée dans de l'eau -": {
+    "definitions": [{ "definition": "jă -", "examples": [] }]
+  },
+  "farine mélangée à une boisson alcoolisée -": {
+    "definitions": [{ "definition": "nawìkún - nawukún -", "examples": [] }]
+  },
+  "farine mélangée à une boisson alcoolisée guérit dit on les alcooliques -": {
+    "definitions": [{ "definition": "nawukún -", "examples": [] }]
+  },
+  "farine très pure -": {
+    "definitions": [{ "definition": "linfín mímέ plélépé -", "examples": [] }]
+  },
+  "même préparation qu'ablă mais plus huileux -": {
+    "definitions": [{ "definition": "lεlὲ -", "examples": [] }]
+  },
+  "variété de farine de maïs -": {
+    "definitions": [{ "definition": "akutù", "examples": [] }]
+  },
+  "fatigue -": {
+    "definitions": [{ "definition": "nùcéjέnnányɔ́nɔ̀", "examples": [] }]
+  },
+  "fatigué -": {
+    "definitions": [
+      { "definition": "nŭ cì kɔ̀ nú mε - nŭ gbέ dŏ mε", "examples": [] }
+    ]
+  },
+  "fatiguer -": {
+    "definitions": [{ "definition": "cì - cì kɔ̀ nú mε -", "examples": [] }]
+  },
+  "fatiguer beaucoup -": {
+    "definitions": [{ "definition": "kpéké", "examples": [] }]
+  },
+  "faucher -": {
+    "definitions": [{ "definition": "nyì aɖă - xò aɖă", "examples": [] }]
+  },
+  "faux -": {
+    "definitions": [{ "definition": "aɖă - nyanya - nyidò -", "examples": [] }]
+  },
+  "faux bambou -": {
+    "definitions": [{ "definition": "bàcέ -", "examples": [] }]
+  },
+  "faux bruit -": {
+    "definitions": [{ "definition": "ahòjá -", "examples": [] }]
+  },
+  "faux col -": { "definitions": [{ "definition": "kɔ́la -", "examples": [] }] },
+  "faux iroko -": {
+    "definitions": [{ "definition": "gùxɔ́ - gùxɔ́tín -", "examples": [] }]
+  },
+  "faux pas -": {
+    "definitions": [{ "definition": "afɔɖenyidò - afɔnyidò -", "examples": [] }]
+  },
+  "faux rapport -": {
+    "definitions": [{ "definition": "ajàn - nùkpáɖómεnu -", "examples": [] }]
+  },
+  "faux rapport pour nuire à quelqu'un -": {
+    "definitions": [{ "definition": "ajandidó -", "examples": [] }]
+  },
+  "faux témoin -": {
+    "definitions": [{ "definition": "kúnnuagɔɖetɔ́ -", "examples": [] }]
+  },
+  "faux-monnayeur -": {
+    "definitions": [{ "definition": "àkwέblótɔ́", "examples": [] }]
+  },
+  "fausser -": { "definitions": [{ "definition": "gblĕ", "examples": [] }] },
+  "fausseté -": { "definitions": [{ "definition": "nùvú", "examples": [] }] },
+  "faute -": {
+    "definitions": [
+      {
+        "definition": "acεgbigbà - agɔjijε - hwὲ - hwεhuhu - nŭjεdò -",
+        "examples": []
+      }
+    ]
+  },
+  "commettre une faute -": {
+    "definitions": [
+      { "definition": "hù hwὲ - jὲ hwὲ mὲ - jὲ tɔ̀ - kú hwὲ -", "examples": [] }
+    ]
+  },
+  "faire une faute grave -": {
+    "definitions": [{ "definition": "gbà acὲ -", "examples": [] }]
+  },
+  "faute cachée -": {
+    "definitions": [{ "definition": "nŭɖoxomὲ", "examples": [] }]
+  },
+  "fauteuil -": {
+    "definitions": [{ "definition": "zinkpogànjɛ́­mɛ́ -", "examples": [] }]
+  },
+  "fauteuil de même fabrication -": {
+    "definitions": [{ "definition": "jănganjεmέ -", "examples": [] }]
+  },
+  "fauteuil fait avec des branches de palmier raphia -": {
+    "definitions": [{ "definition": "jănganjεmέ -", "examples": [] }]
+  },
+  "fauteuil traditionnel en bois qui se divise en deux parties -": {
+    "definitions": [{ "definition": "kplábέ", "examples": [] }]
+  },
+  "fautif -": {
+    "definitions": [{ "definition": "hwεhutɔ́ -", "examples": [] }]
+  },
+  "être fautif -": {
+    "definitions": [{ "definition": "kú hwὲ -", "examples": [] }]
+  },
+  "un fautif -": {
+    "definitions": [{ "definition": "nùwányidotɔ́", "examples": [] }]
+  },
+  "faux-monnayeur - activité de faux-monnayeurs -": {
+    "definitions": [{ "definition": "àkwέblótɔ́", "examples": [] }]
+  },
+  "faveur -": {
+    "definitions": [{ "definition": "wùjɔ́mɛ - wùjɛ́mɛ -", "examples": [] }]
+  },
+  "en faveur de -": {
+    "definitions": [
+      {
+        "definition": "ɖò ta mὲ - ɖŏ ta mὲ - ɖŏ... tamὲ - ɖŏ... tamὲ - nú -",
+        "examples": []
+      }
+    ]
+  },
+  "faire une faveur à quelqu'un -": {
+    "definitions": [{ "definition": "jɛ̀ wŭ mɛ - jὲ wŭ mε", "examples": [] }]
+  },
+  "favorable - être favorable -": {
+    "definitions": [{ "definition": "cὲ", "examples": [] }]
+  },
+  "favori -": { "definitions": [{ "definition": "gekplá", "examples": [] }] },
+  "favoriser - favoriser quelqu'un -": {
+    "definitions": [{ "definition": "bɔ̀ lanmὲ", "examples": [] }]
+  },
+  "fɔ̀n -": { "definitions": [{ "definition": "fɔnnù", "examples": [] }] },
+  "fébrifuge -": {
+    "definitions": [{ "definition": "avivɔgblénú", "examples": [] }]
+  },
+  "fécondité -": {
+    "definitions": [{ "definition": "kúngbígbá", "examples": [] }]
+  },
+  "fécule - fécule tirée de la racine de manioc -": {
+    "definitions": [{ "definition": "tapyókà", "examples": [] }]
+  },
+  "fée -": { "definitions": [{ "definition": "mamíwátá", "examples": [] }] },
+  "feindre -": { "definitions": [{ "definition": "wà yɛnú", "examples": [] }] },
+  "feinte -": { "definitions": [{ "definition": "yɛmɛnú", "examples": [] }] },
+  "fêlé -": { "definitions": [{ "definition": "fínfέn", "examples": [] }] },
+  "fêler -": { "definitions": [{ "definition": "fέn", "examples": [] }] },
+  "félicitation -": {
+    "definitions": [{ "definition": "adánmácyó - mε kpikpa -", "examples": [] }]
+  },
+  "félicitations pour encourager une femme qui vient d'accoucher -": {
+    "definitions": [{ "definition": "ajamεhínhɔ́n -", "examples": [] }]
+  },
+  "mes félicitations -": {
+    "definitions": [
+      { "definition": "ajámácóóó nú mi - alɔ towe ɖíè", "examples": [] }
+    ]
+  },
+  "félicité -": {
+    "definitions": [{ "definition": "xomɛfífá - omɛhunhun", "examples": [] }]
+  },
+  "féliciter -": {
+    "definitions": [{ "definition": "kpà - kpà gbè - mlă -", "examples": [] }]
+  },
+  "féliciter quelqu'un -": {
+    "definitions": [
+      {
+        "definition": "kpà mε - sɔ́ alɔ̀ nú mε - zĕ alɔ nú mɛ - zĕ alɔ̀ yì jĭ nú mε -",
+        "examples": []
+      }
+    ]
+  },
+  "féliciter quelqu'un qui a bien dansé -": {
+    "definitions": [{ "definition": "kpà wè nú mε", "examples": [] }]
+  },
+  "femelle -": {
+    "definitions": [{ "definition": "asì - asì -", "examples": [] }]
+  },
+  "femelle d'Aziza, divinité de la forêt -": {
+    "definitions": [{ "definition": "yɛ̆ -", "examples": [] }]
+  },
+  "femelle du crabe -": {
+    "definitions": [{ "definition": "asɔ́n denɔ̀ -", "examples": [] }]
+  },
+  "très jeune femelle -": {
+    "definitions": [{ "definition": "asixwé", "examples": [] }]
+  },
+  "femme -": {
+    "definitions": [{ "definition": "nyɔ̆nù - nyɔ̆̆nù -", "examples": [] }]
+  },
+  "femme à l'organe génital sans orifice -": {
+    "definitions": [{ "definition": "klíbotò -", "examples": [] }]
+  },
+  "femme adultère -": {
+    "definitions": [{ "definition": "afɔdógbetɔ́ -", "examples": [] }]
+  },
+  "femme au teint clair -": {
+    "definitions": [{ "definition": "navɔ̀ -", "examples": [] }]
+  },
+  "femme au teint sombre -": {
+    "definitions": [{ "definition": "nawì -", "examples": [] }]
+  },
+  "fem­me chargée de l'initiation des vodúnsì -": {
+    "definitions": [{ "definition": "yăgbà -", "examples": [] }]
+  },
+  "femme chargée de veiller les morts -": {
+    "definitions": [{ "definition": "akɔví ɖaxó -", "examples": [] }]
+  },
+  "femme de haute taille -": {
+    "definitions": [{ "definition": "nagà - nagὲ -", "examples": [] }]
+  },
+  "femme de la maison -": {
+    "definitions": [{ "definition": "xwésí -", "examples": [] }]
+  },
+  "femme - femme de la maison chargée des cérémonies en l'honneur des autel portatif -": {
+    "definitions": [{ "definition": "tánnyínɔ́ - tásínɔ́ -", "examples": [] }]
+  },
+  "femme de mauvaise vie -": {
+    "definitions": [{ "definition": "tonyatɔ́ -", "examples": [] }]
+  },
+  "femme de quelqu'un -": {
+    "definitions": [{ "definition": "mε asì - mε'sì -", "examples": [] }]
+  },
+  "femme de rencontre -": {
+    "definitions": [
+      {
+        "definition": "alita nyɔ̆nù - alitànyɔ̀nú - alitànyɔ̀nú -",
+        "examples": []
+      }
+    ]
+  },
+  "femme qui va chercher de l’eau -": {
+    "definitions": [{ "definition": "tɔyisì -", "examples": [] }]
+  },
+  "femme du mari -": {
+    "definitions": [{ "definition": "sísì -", "examples": [] }]
+  },
+  "femme du mari de ma mère -": {
+    "definitions": [
+      { "definition": "nɔ ce sín asú'sì - nɔ ce sísì -", "examples": [] }
+    ]
+  },
+  "femme du roi -": {
+    "definitions": [
+      { "definition": "axɔ̀sí - axɔ́sì - axɔ́sì - axɔ́súsì -", "examples": [] }
+    ]
+  },
+  "femme d’un autre pays prise en mariage -": {
+    "definitions": [{ "definition": "gbejísì - gbèjísì -", "examples": [] }]
+  },
+  "femme d'un mari polygame -": {
+    "definitions": [{ "definition": "asísì - asúsì -", "examples": [] }]
+  },
+  "femme d'un même clan -": {
+    "definitions": [{ "definition": "akɔví -", "examples": [] }]
+  },
+  "femme d'un roi -": {
+    "definitions": [{ "definition": "agɔntínmὲ -", "examples": [] }]
+  },
+  "femme élancée -": {
+    "definitions": [{ "definition": "nagà - nagὲ -", "examples": [] }]
+  },
+  "femme enceinte -": {
+    "definitions": [
+      { "definition": "adɔgonɔ̀ - gonɔví - xoxónɔ̀ - xoxónɔ̀ -", "examples": [] }
+    ]
+  },
+  "femme frigide -": {
+    "definitions": [{ "definition": "hwankúnɔ̀ -", "examples": [] }]
+  },
+  "femme mariée chrétiennement -": {
+    "definitions": [{ "definition": "alɔwlísì -", "examples": [] }]
+  },
+  "femme mariée dans la concession -": {
+    "definitions": [{ "definition": "xwégbesì -", "examples": [] }]
+  },
+  "femme mariée qui trompe son mari -": {
+    "definitions": [{ "definition": "xɔnnɔ̀ -", "examples": [] }]
+  },
+  "femme mariée sous le régime de hɔ̆ngbò -": {
+    "definitions": [{ "definition": "hɔ̀ngbósì -", "examples": [] }]
+  },
+  "femme mise en prison car elle a refusé l’homme qui a payé la dot -": {
+    "definitions": [{ "definition": "hwεmεsì -", "examples": [] }]
+  },
+  "femme noire vivant maritalement avec un blanc -": {
+    "definitions": [{ "definition": "yovó'sì -", "examples": [] }]
+  },
+  "femme non étrangère -": {
+    "definitions": [{ "definition": "xwégbesì -", "examples": [] }]
+  },
+  "femme ordinaire -": {
+    "definitions": [{ "definition": "năwè -", "examples": [] }]
+  },
+  "femme ou jeune fille au teint très clair -": {
+    "definitions": [{ "definition": "vɔvɔnɔbakὲn -", "examples": [] }]
+  },
+  "femme qui a un bébé -": {
+    "definitions": [{ "definition": "vĭnɔ̀ -", "examples": [] }]
+  },
+  "femme qui est mère -": {
+    "definitions": [{ "definition": "vĭnɔ̀ -", "examples": [] }]
+  },
+  "femme qui prépare des beignets -": {
+    "definitions": [{ "definition": "ganviɖatɔ́ -", "examples": [] }]
+  },
+  "femme qui vend au marché des plantes médicinales -": {
+    "definitions": [{ "definition": "amasinnɔ̀ -", "examples": [] }]
+  },
+  "femme séparée de sa famille et vivant en concubinage -": {
+    "definitions": [{ "definition": "alitànyɔ̀nú -", "examples": [] }]
+  },
+  "femme stérile -": {
+    "definitions": [{ "definition": "wɛnsinɔ̀ -", "examples": [] }]
+  },
+  "femme svelte -": {
+    "definitions": [{ "definition": "nagà - nagὲ -", "examples": [] }]
+  },
+  "femme vaudoun qui a ses règles -": {
+    "definitions": [{ "definition": "làxótɔ́nɔ̀ -", "examples": [] }]
+  },
+  "-": {
+    "definitions": [{ "definition": "ján s’ánsì - ján’sì -", "examples": [] }]
+  },
+  "la femme de zinsou -": {
+    "definitions": [{ "definition": "zinsú s'ánsì -", "examples": [] }]
+  },
+  "la première femme de la maison -": {
+    "definitions": [{ "definition": "yaalé -", "examples": [] }]
+  },
+  "la première femme épousée -": {
+    "definitions": [{ "definition": "yaalé -", "examples": [] }]
+  },
+  "ma femme -": {
+    "definitions": [{ "definition": "yaó cè - yaó mì -", "examples": [] }]
+  },
+  "qui a trois femmes -": {
+    "definitions": [{ "definition": "kantɔnnɔ̀ -", "examples": [] }]
+  },
+  "très jeune femme -": {
+    "definitions": [{ "definition": "asixwé", "examples": [] }]
+  },
+  "fémur -": { "definitions": [{ "definition": "asáxú", "examples": [] }] },
+  "fendeur - fendeur de bois -": {
+    "definitions": [{ "definition": "nakízέtɔ́", "examples": [] }]
+  },
+  "fendre -": {
+    "definitions": [{ "definition": "fέn - zɛ̀ -", "examples": [] }]
+  },
+  "action de fendre -": {
+    "definitions": [{ "definition": "fínfέn - zizɛ -", "examples": [] }]
+  },
+  "fendre du bois -": {
+    "definitions": [{ "definition": "zɛ̀ nakí - zὲ atín -", "examples": [] }]
+  },
+  "fendre du bois de chauffage -": {
+    "definitions": [{ "definition": "zὲ nakí -", "examples": [] }]
+  },
+  "fendre une tige flexible pour la préparer à assembler la charpente d'une paillote -": {
+    "definitions": [{ "definition": "tέn kàn -", "examples": [] }]
+  },
+  "fendre une tige flexible pour la préparer à attacher les fagots -": {
+    "definitions": [{ "definition": "tέn kàn -", "examples": [] }]
+  },
+  "fendre une tige flexible pour en tirer des liens qui serviront à faire des travaux de vannerie -": {
+    "definitions": [{ "definition": "tέn kàn", "examples": [] }]
+  },
+  "fendu -": {
+    "definitions": [{ "definition": "fínfέn - zizɛ -", "examples": [] }]
+  },
+  "être fendu -": {
+    "definitions": [{ "definition": "fέn - zɛ̀", "examples": [] }]
+  },
+  "fenêtre -": {
+    "definitions": [{ "definition": "flεsέε - flεtέε", "examples": [] }]
+  },
+  "fer -": {
+    "definitions": [{ "definition": "gàn - ganwiwi -", "examples": [] }]
+  },
+  "fer en forme de hache -": {
+    "definitions": [{ "definition": "axwá -", "examples": [] }]
+  },
+  "sorte de fer bien rond qui sert de marteau au forgeron -": {
+    "definitions": [{ "definition": "zùnkpé -", "examples": [] }]
+  },
+  "sorte de fer plat dans le piège sur lequel on met l'appât -": {
+    "definitions": [{ "definition": "ɖùká - nùɖúká", "examples": [] }]
+  },
+  "ferblantier -": {
+    "definitions": [{ "definition": "gannútlέtɔ́", "examples": [] }]
+  },
+  "fermage - fermage payé au roi pour la location des terres -": {
+    "definitions": [{ "definition": "kuzŭ", "examples": [] }]
+  },
+  "ferme -": {
+    "definitions": [
+      { "definition": "gleta - gleta - sɔ́́kíkέ - tì - tέnwùn -", "examples": [] }
+    ]
+  },
+  "bien ferme -": {
+    "definitions": [{ "definition": "tikoò - tikotikò -", "examples": [] }]
+  },
+  "être ferme envers quelqu'un -": {
+    "definitions": [
+      {
+        "definition": "dŏ zŏ gbĕ jĭ nú mɛ - dŏ zŏ gbĕ jĭ nú mε",
+        "examples": []
+      }
+    ]
+  },
+  "fermé -": {
+    "definitions": [{ "definition": "bibɔ̀ - bubɔ̀ - súsú", "examples": [] }]
+  },
+  "fermement -": {
+    "definitions": [
+      { "definition": "dódó - jangbaàn - jangbanjangbàn", "examples": [] }
+    ]
+  },
+  "fermenter -": { "definitions": [{ "definition": "hwăn", "examples": [] }] },
+  "fermer -": {
+    "definitions": [
+      { "definition": "bɔ̀ - bɔ̀ dŏ - bwébwé - myɔ̆ - sú -", "examples": [] }
+    ]
+  },
+  "fermer avec un couvercle -": {
+    "definitions": [
+      { "definition": "sú nŭ dŏ - xwè nŭ d'é nú - xwè nŭ dŏ -", "examples": [] }
+    ]
+  },
+  "fermer de façon définitive -": {
+    "definitions": [{ "definition": "ká -", "examples": [] }]
+  },
+  "fermer hermétiquement -": {
+    "definitions": [{ "definition": "tlέ -", "examples": [] }]
+  },
+  "fermer la bouche -": {
+    "definitions": [
+      { "definition": "bɔ̀ nu - myɔ̆ nu - myɔ̆ nu -", "examples": [] }
+    ]
+  },
+  "fermer la bouche à quelqu'un -": {
+    "definitions": [
+      {
+        "definition": "cí xó dŏ nu nú mε - gbà xó dŏ nu nú mɛ - gbò xó dŏ nu nú mε - ká mε -",
+        "examples": []
+      }
+    ]
+  },
+  "fermer la main -": {
+    "definitions": [{ "definition": "myɔ̆ alɔ̀ -", "examples": [] }]
+  },
+  "fermer la porte légèrement -": {
+    "definitions": [{ "definition": "bɔ̀ hɔ̀n dŏ -", "examples": [] }]
+  },
+  "fermer le chemin -": {
+    "definitions": [{ "definition": "sú alì -", "examples": [] }]
+  },
+  "fermer le loquet -": {
+    "definitions": [{ "definition": "sὲ sέxló dŏ -", "examples": [] }]
+  },
+  "fermer le verrou -": {
+    "definitions": [{ "definition": "sὲ sέxló dŏ -", "examples": [] }]
+  },
+  "fermer les yeux -": {
+    "definitions": [
+      { "definition": "myɔ̆ nukún - myɔ̆ nukún - sú nukún -", "examples": [] }
+    ]
+  },
+  "fermer les yeux sur un désagrément -": {
+    "definitions": [
+      { "definition": "sɔ́ sá wŭ - sɔ́ sá wŭ - sɔ́ sá wŭ -", "examples": [] }
+    ]
+  },
+  "fermer l'oeil -": {
+    "definitions": [{ "definition": "xwè nukún - xwè nukún -", "examples": [] }]
+  },
+  "fermer quelque chose -": {
+    "definitions": [{ "definition": "cí -", "examples": [] }]
+  },
+  "fermer un parapluie -": {
+    "definitions": [{ "definition": "cí awὲ -", "examples": [] }]
+  },
+  "fermer un parasol -": {
+    "definitions": [{ "definition": "cí awὲ - cí hwexɔ́ -", "examples": [] }]
+  },
+  "fermer une porte -": {
+    "definitions": [{ "definition": "sú hɔ̀n -", "examples": [] }]
+  },
+  "ne pas fermer l'oeil -": {
+    "definitions": [{ "definition": "dɔ̆ wunzὲn", "examples": [] }]
+  },
+  "fermeture - fermeture de la fosse -": {
+    "definitions": [{ "definition": "dosusu -", "examples": [] }]
+  },
+  "fermeture de porte -": {
+    "definitions": [{ "definition": "hɔnsúnú -", "examples": [] }]
+  },
+  "fermeture du caveau funèbre -": {
+    "definitions": [{ "definition": "dosúsú", "examples": [] }]
+  },
+  "fermier -": { "definitions": [{ "definition": "glelεtɔ́", "examples": [] }] },
+  "fesse -": {
+    "definitions": [{ "definition": "gogó - yonu -", "examples": [] }]
+  },
+  "fesses proéminentes -": {
+    "definitions": [{ "definition": "agbɔnnu -", "examples": [] }]
+  },
+  "qui a de grosses fesses -": {
+    "definitions": [{ "definition": "gogónɔ̀ -", "examples": [] }]
+  },
+  "se dit pour apprécier de belles fesses -": {
+    "definitions": [{ "definition": "tanganaà", "examples": [] }]
+  },
+  "fessée -": {
+    "definitions": [{ "definition": "yonugbigba - yonuxixo", "examples": [] }]
+  },
+  "festin -": {
+    "definitions": [{ "definition": "agbanɖuɖù -", "examples": [] }]
+  },
+  "faire un festin -": {
+    "definitions": [
+      { "definition": "ɖù agbàn - ɖù agɔ - ɖù agŏ", "examples": [] }
+    ]
+  },
+  "festoyer -": {
+    "definitions": [
+      { "definition": "ɖù agbàn - ɖù agbàn - ɖù agɔ -", "examples": [] }
+    ]
+  },
+  "qui aime festoyer -": {
+    "definitions": [{ "definition": "agɔ̀­ɖútɔ́", "examples": [] }]
+  },
+  "fête -": { "definitions": [{ "definition": "xwè -", "examples": [] }] },
+  "faire la fête -": {
+    "definitions": [{ "definition": "ɖù agɔ̆ - ɖù agŏ -", "examples": [] }]
+  },
+  "fête extraordinaire -": {
+    "definitions": [{ "definition": "xwè gɛnnyigɛnnyì -", "examples": [] }]
+  },
+  "fête sensationnelle -": {
+    "definitions": [{ "definition": "xwè gɛnnyigɛnnyì", "examples": [] }]
+  },
+  "fêter -": { "definitions": [{ "definition": "ɖù xwè -", "examples": [] }] },
+  "fêter quelqu'un -": {
+    "definitions": [{ "definition": "ɖù xwè nú mε", "examples": [] }]
+  },
+  "feu -": {
+    "definitions": [{ "definition": "myɔ̀ - myɔmyɔ - zò -", "examples": [] }]
+  },
+  "activer le feu -": {
+    "definitions": [{ "definition": "flɔ́ zò - xò zò dŏ nŭ -", "examples": [] }]
+  },
+  "activer le feu de la forge -": {
+    "definitions": [{ "definition": "xò zò - xò zò dŏ nŭ -", "examples": [] }]
+  },
+  "ce qui reste de quelque chose brûlé par le feu -": {
+    "definitions": [{ "definition": "zokpla - zokplakplà -", "examples": [] }]
+  },
+  "dans le feu -": {
+    "definitions": [{ "definition": "zomɛ̀ -", "examples": [] }]
+  },
+  "faire du feu -": {
+    "definitions": [
+      {
+        "definition": "bɔ̀ myɔ̀ - bɔ̀ myɔ̀ - dŏ zò - flɔ́ myɔ - flɔ́ myɔ̀ - flɔ́ zò - flɔ́ zò -",
+        "examples": []
+      }
+    ]
+  },
+  "feu ardent -": {
+    "definitions": [{ "definition": "zò hεhε -", "examples": [] }]
+  },
+  "feu d'artifice -": {
+    "definitions": [{ "definition": "sunvı́vănɔ̀ -", "examples": [] }]
+  },
+  "feu de brousse -": {
+    "definitions": [
+      { "definition": "gbèhánzò - gbĕjizò - gbèmyɔ́ - gbĕzò -", "examples": [] }
+    ]
+  },
+  "feu qui brûle avec une ardeur éphémère -": {
+    "definitions": [{ "definition": "zo wlawlà -", "examples": [] }]
+  },
+  "qui met le feu à une maison -": {
+    "definitions": [{ "definition": "xɔdómyɔtɔ́ - xɔdózotɔ́", "examples": [] }]
+  },
+  "feuillage -": {
+    "definitions": [{ "definition": "atínmá - ɖà -", "examples": [] }]
+  },
+  "au grand feulliage donnant de l’ombrage -": {
+    "definitions": [{ "definition": "ɖεὲ -", "examples": [] }]
+  },
+  "avoir un beau feuillage -": {
+    "definitions": [{ "definition": "vùn ɖà", "examples": [] }]
+  },
+  "feuille -": { "definitions": [{ "definition": "amà -", "examples": [] }] },
+  "action d'avoir de nouvelle feuilles -": {
+    "definitions": [{ "definition": "zìnzɔ́n - zùnzɔ́n -", "examples": [] }]
+  },
+  "feuille à cinq folioles -": {
+    "definitions": [{ "definition": "alɔvíatɔ́ɔ́nma -", "examples": [] }]
+  },
+  "feuille d'arbre -": {
+    "definitions": [{ "definition": "atínmá -", "examples": [] }]
+  },
+  "feuille d'arbre utilisée pour se torcher -": {
+    "definitions": [
+      { "definition": "adasúnmà - adasúnsúnmà -", "examples": [] }
+    ]
+  },
+  "feuille de balisier -": {
+    "definitions": [{ "definition": "àcídikwínma -", "examples": [] }]
+  },
+  "feuille de citronnelle -": {
+    "definitions": [{ "definition": "cáamà -", "examples": [] }]
+  },
+  "feuille de cocotier -": {
+    "definitions": [{ "definition": "agɔnmà - agɔnmayà -", "examples": [] }]
+  },
+  "feuille de cotonnier -": {
+    "definitions": [{ "definition": "avɔkanfún -", "examples": [] }]
+  },
+  "feuille de haricot -": {
+    "definitions": [{ "definition": "ayimá -", "examples": [] }]
+  },
+  "feuille de haricot après la récolte -": {
+    "definitions": [{ "definition": "ayikàn -", "examples": [] }]
+  },
+  "feuille de l'arbre fɔntín -": {
+    "definitions": [{ "definition": "fɔnmá -", "examples": [] }]
+  },
+  "feuille de l'arbre gbagbadà -": {
+    "definitions": [{ "definition": "gbagbaɖamà -", "examples": [] }]
+  },
+  "feuille de l'arbre wú -": {
+    "definitions": [{ "definition": "wuma -", "examples": [] }]
+  },
+  "feuille de lὲtín -": {
+    "definitions": [{ "definition": "lὲmá -", "examples": [] }]
+  },
+  "feuille de manioc -": {
+    "definitions": [{ "definition": "gbotùn -", "examples": [] }]
+  },
+  "feuille de manioc que l'on mange en légumes -": {
+    "definitions": [{ "definition": "atínɖòhàjĭ -", "examples": [] }]
+  },
+  "feuille de palmier -": {
+    "definitions": [{ "definition": "dĕmà -", "examples": [] }]
+  },
+  "feuille de papier -": {
+    "definitions": [{ "definition": "wĕmà -", "examples": [] }]
+  },
+  "feuille de rônier -": {
+    "definitions": [{ "definition": "agɔnmà - agɔnmayà -", "examples": [] }]
+  },
+  "feuille de tout arbuste servant à faire des palissades -": {
+    "definitions": [{ "definition": "kpátínmá -", "examples": [] }]
+  },
+  "feuille du cocotier -": {
+    "definitions": [{ "definition": "agɔnkέmà -", "examples": [] }]
+  },
+  "feuille du fɔntín -": {
+    "definitions": [{ "definition": "fɔntín -", "examples": [] }]
+  },
+  "feuille du vaudoun qui sert pour l'eau du bain de la nouvelle recrue -": {
+    "definitions": [{ "definition": "hunmà -", "examples": [] }]
+  },
+  "feuille large qui sert à envelopper la pâte de farine de maïs -": {
+    "definitions": [{ "definition": "tungoma -", "examples": [] }]
+  },
+  "feuille pour la sauce -": {
+    "definitions": [{ "definition": "nεnúwì - sɔ́́ma -", "examples": [] }]
+  },
+  "feuille pour la sauce aux légumes -": {
+    "definitions": [{ "definition": "gbòmá -", "examples": [] }]
+  },
+  "feuille pour se torcher -": {
+    "definitions": [{ "definition": "mìsúnmà -", "examples": [] }]
+  },
+  "feuille purgative -": {
+    "definitions": [{ "definition": "mìtínmà -", "examples": [] }]
+  },
+  "feuille qui donne une sauce gluante -": {
+    "definitions": [{ "definition": "azátalúgà -", "examples": [] }]
+  },
+  "feuille qui sert à préparer les sauces et qui est gluante comme le gombo -": {
+    "definitions": [{ "definition": "nεnú -", "examples": [] }]
+  },
+  "feuille sèche -": {
+    "definitions": [{ "definition": "amaywε -", "examples": [] }]
+  },
+  "feuille très petite utilisée contre la sorcellerie -": {
+    "definitions": [{ "definition": "xɛxɛma -", "examples": [] }]
+  },
+  "feuille urticante -": {
+    "definitions": [{ "definition": "zomà -", "examples": [] }]
+  },
+  "feuille utilisée par les vaudouns -": {
+    "definitions": [{ "definition": "akémá -", "examples": [] }]
+  },
+  "feuille verte -": {
+    "definitions": [{ "definition": "ama mŭ -", "examples": [] }]
+  },
+  "feuilles d'une variété d’arbre -": {
+    "definitions": [{ "definition": "dèslégεma -", "examples": [] }]
+  },
+  "feuilles tendre du manioc -": {
+    "definitions": [{ "definition": "tewunɖé -", "examples": [] }]
+  },
+  "nom de feuille dont le dos colle sur les habits -": {
+    "definitions": [{ "definition": "wlekpekpè -", "examples": [] }]
+  },
+  "sorte de feuille -": {
+    "definitions": [{ "definition": "akinkɔnmà -", "examples": [] }]
+  },
+  "une espèce de feuille pour la sauce -": {
+    "definitions": [{ "definition": "lantótó -", "examples": [] }]
+  },
+  "variété de feuille -": {
+    "definitions": [
+      { "definition": "afamà - akunkɔnmà - anyamá - ajikwínmá", "examples": [] }
+    ]
+  },
+  "fève -": { "definitions": [{ "definition": "ayikún", "examples": [] }] },
+  "fi - faire fi des bonnes manières dans son comportement -": {
+    "definitions": [{ "definition": "hɔ̆n wùn", "examples": [] }]
+  },
+  "fiançailles -": {
+    "definitions": [{ "definition": "asibyɔ́ɖótè", "examples": [] }]
+  },
+  "fiancé - être fiancé -": {
+    "definitions": [
+      { "definition": "zùn xɔ́ntɔ̀n xá mɛ - zùn xɔ́ntɔ̀n xá mɛ -", "examples": [] }
+    ]
+  },
+  "avoir une fiancée -": {
+    "definitions": [{ "definition": "byɔ́ asì ɖŏ tè", "examples": [] }]
+  },
+  "fiancer - se fiancer avec quelqu'un -": {
+    "definitions": [{ "definition": "zùn xɔ́ntɔ̀n xá mɛ", "examples": [] }]
+  },
+  "ficeler -": { "definitions": [{ "definition": "blă -", "examples": [] }] },
+  "ficeler un cadavre dans la natte avant de l'enterrer -": {
+    "definitions": [
+      { "definition": "blă ɖà nú mε - blă ɖɔ̆ nú mε", "examples": [] }
+    ]
+  },
+  "ficelle -": { "definitions": [{ "definition": "kàn -", "examples": [] }] },
+  "ficelle pour coudre les sacs -": {
+    "definitions": [{ "definition": "hùnsínkàn", "examples": [] }]
+  },
+  "ficher - ficher un autel portatif par terre -": {
+    "definitions": [{ "definition": "tùn asέέn", "examples": [] }]
+  },
+  "fichu - fichu de tête -": {
+    "definitions": [{ "definition": "gélé", "examples": [] }]
+  },
+  "fidèle -": {
+    "definitions": [{ "definition": "nùɖítɔ́n -", "examples": [] }]
+  },
+  "être fidèle -": {
+    "definitions": [{ "definition": "ɖò gbè jĭ -", "examples": [] }]
+  },
+  "fidèle à sa parole -": {
+    "definitions": [{ "definition": "gbejinɔtɔ́", "examples": [] }]
+  },
+  "fidélité -": {
+    "definitions": [{ "definition": "gbejí - gbejinínɔ̀", "examples": [] }]
+  },
+  "fieffé -": {
+    "definitions": [
+      { "definition": "agănlingàn - awùngósú - wòkógò", "examples": [] }
+    ]
+  },
+  "fiel -": { "definitions": [{ "definition": "vìvέ", "examples": [] }] },
+  "fiente - fiente de boeuf -": {
+    "definitions": [{ "definition": "nyibumí -", "examples": [] }]
+  },
+  "fiente de perroquet -": {
+    "definitions": [{ "definition": "kεsέmí -", "examples": [] }]
+  },
+  "fiente de serpent -": {
+    "definitions": [{ "definition": "danmí -", "examples": [] }]
+  },
+  "fiente de vache -": {
+    "definitions": [{ "definition": "nyibumí -", "examples": [] }]
+  },
+  "fiente d'oiseau -": {
+    "definitions": [{ "definition": "xɛmí - xὲ mĭ", "examples": [] }]
+  },
+  "fier -": { "definitions": [{ "definition": "goyitɔ́ -", "examples": [] }] },
+  "action de faire le fier -": {
+    "definitions": [{ "definition": "gìgó -", "examples": [] }]
+  },
+  "être fier -": {
+    "definitions": [{ "definition": "sù ta - yĭ gò - yĭ gò -", "examples": [] }]
+  },
+  "faire le fier -": {
+    "definitions": [{ "definition": "gŏ", "examples": [] }]
+  },
+  "fierté -": { "definitions": [{ "definition": "goyiyí", "examples": [] }] },
+  "fièvre -": {
+    "definitions": [
+      { "definition": "avivɔ̀ - avivɔzɔ̀n - avuvɔ̀ -", "examples": [] }
+    ]
+  },
+  "avoir de la fièvre -": {
+    "definitions": [{ "definition": "avivɔ̀ sìn mε -", "examples": [] }]
+  },
+  "fièvre (accès chaud) -": {
+    "definitions": [{ "definition": "hwezivɔ́ - hwezivɔ́zɔ̀n -", "examples": [] }]
+  },
+  "fièvre intermittente (paludisme) -": {
+    "definitions": [{ "definition": "kpɔ́nhwekpɔ́nhwè", "examples": [] }]
+  },
+  "figue -": { "definitions": [{ "definition": "malεkókwé", "examples": [] }] },
+  "figuier - sorte de figuier -": {
+    "definitions": [{ "definition": "votín", "examples": [] }]
+  },
+  "figure -": {
+    "definitions": [{ "definition": "nukúnmὲ - xlɛɛ́ -", "examples": [] }]
+  },
+  "sorte de figure pour la consultation -": {
+    "definitions": [{ "definition": "aklàn", "examples": [] }]
+  },
+  "fil -": {
+    "definitions": [{ "definition": "avɔkàn - kàn -", "examples": [] }]
+  },
+  "fil de fer -": {
+    "definitions": [{ "definition": "gankàn -", "examples": [] }]
+  },
+  "fil de filet à pêcheurs -": {
+    "definitions": [{ "definition": "awlέ -", "examples": [] }]
+  },
+  "fil téléphonique -": {
+    "definitions": [{ "definition": "pósukàn -", "examples": [] }]
+  },
+  "le fil de la vie -": {
+    "definitions": [{ "definition": "gbεkan", "examples": [] }]
+  },
+  "filaire -": { "definitions": [{ "definition": "vɔ̆n", "examples": [] }] },
+  "filant -": { "definitions": [{ "definition": "gblεlεὲ", "examples": [] }] },
+  "filature - filature de coton -": {
+    "definitions": [{ "definition": "avɔkangbibgὲ", "examples": [] }]
+  },
+  "filer -": {
+    "definitions": [
+      { "definition": "gbὲ - gbὲ - gbὲ avɔkàn -", "examples": [] }
+    ]
+  },
+  "action de filer quelqu'un -": {
+    "definitions": [{ "definition": "mεxwíɖáxwíɖá", "examples": [] }]
+  },
+  "filet -": { "definitions": [{ "definition": "ɖɔ̀ - dè -", "examples": [] }] },
+  "celui qui roule le filet -": {
+    "definitions": [{ "definition": "ɖɔ̀xatɔ́", "examples": [] }]
+  },
+  "fille -": {
+    "definitions": [{ "definition": "vĭ - vĭnyɔnú -", "examples": [] }]
+  },
+  "belle jeune fille -": {
+    "definitions": [{ "definition": "ɖyɔ̆vi ganɖobá -", "examples": [] }]
+  },
+  "belle-fille -": {
+    "definitions": [
+      { "definition": "atóbὲ - vĭ asì - vĭ'sì -", "examples": [] }
+    ]
+  },
+  "état de la vieille fille qui n'a pas trouvé de mari -": {
+    "definitions": [{ "definition": "takpikpo -", "examples": [] }]
+  },
+  "fille au teint clair -": {
+    "definitions": [{ "definition": "vĭ vɔ̀ -", "examples": [] }]
+  },
+  "fille donnée en garantie d'un emprunt -": {
+    "definitions": [{ "definition": "àkwέnúsì -", "examples": [] }]
+  },
+  "fille d'un roi -": {
+    "definitions": [{ "definition": "aligbónɔ̀ -", "examples": [] }]
+  },
+  "fille née après des jumeaux -": {
+    "definitions": [{ "definition": "dosí -", "examples": [] }]
+  },
+  "fille née par le siège ou les pieds chez des jumeaux -": {
+    "definitions": [{ "definition": "agɔsì - agɔyì -", "examples": [] }]
+  },
+  "fille nubile ou jeune femme -": {
+    "definitions": [{ "definition": "yɔkpɔ́ -", "examples": [] }]
+  },
+  "fille ou femme au teint clair -": {
+    "definitions": [{ "definition": "vĭvɔ̀ -", "examples": [] }]
+  },
+  "petite fille -": {
+    "definitions": [
+      { "definition": "nyɔ̀núví - nyɔ̀núví - nyɔ̀núvú -", "examples": [] }
+    ]
+  },
+  "petite jeune fille -": {
+    "definitions": [{ "definition": "ahwlivú -", "examples": [] }]
+  },
+  "sa belle-fille -": {
+    "definitions": [
+      { "definition": "vì tɔ́n'sì - vì tɔ́n sì - vì tɔ́n’sì", "examples": [] }
+    ]
+  },
+  "fillette -": {
+    "definitions": [
+      { "definition": "nyɔ̀núví - nyɔ̀núví - nyɔ̀núvú", "examples": [] }
+    ]
+  },
+  "filleul(e) -": {
+    "definitions": [{ "definition": "jεɖuví", "examples": [] }]
+  },
+  "filou -": { "definitions": [{ "definition": "mεblεtɔ́", "examples": [] }] },
+  "fils -": { "definitions": [{ "definition": "vĭ -", "examples": [] }] },
+  "arrière petit-fils -": {
+    "definitions": [{ "definition": "vìvúvivu -", "examples": [] }]
+  },
+  "beau-fils -": {
+    "definitions": [{ "definition": "vì sú - vĭ asú -", "examples": [] }]
+  },
+  "fils aîné -": {
+    "definitions": [{ "definition": "vì ɖaxó - vìɖáxó -", "examples": [] }]
+  },
+  "fils de forgeron l'homme du fer -": {
+    "definitions": [{ "definition": "ayatɔ́ví ganmεnù -", "examples": [] }]
+  },
+  "fils de la maison -": {
+    "definitions": [{ "definition": "xwéví -", "examples": [] }]
+  },
+  "fils de la panthère mâle -": {
+    "definitions": [{ "definition": "lὲnsúxwé - nεvyé -", "examples": [] }]
+  },
+  "fils de roi -": {
+    "definitions": [{ "definition": "axɔ́ví -", "examples": [] }]
+  },
+  "fils unique -": {
+    "definitions": [{ "definition": "vì ɖókpónɔ̀ -", "examples": [] }]
+  },
+  "le fils de dossou -": {
+    "definitions": [{ "definition": "dosú sín vì ɔ́ -", "examples": [] }]
+  },
+  "les arrières petits-fils de la quatrième génération -": {
+    "definitions": [{ "definition": "vìvúvivu vitikli -", "examples": [] }]
+  },
+  "petit-fils -": {
+    "definitions": [{ "definition": "vìvú -", "examples": [] }]
+  },
+  "un fils qui a toutes les qualités que l'on attend de lui -": {
+    "definitions": [{ "definition": "vìjɔ́vĭ -", "examples": [] }]
+  },
+  "un petit fils qui est la réincarnation du fils de quelqu'un -": {
+    "definitions": [{ "definition": "vìjɔ́vĭ -", "examples": [] }]
+  },
+  "un vrai fils -": {
+    "definitions": [
+      {
+        "definition": "vìjɔ́vĭ - vĭjɔ̀vĭ - aɖimεví - aɖiví - ajimεví",
+        "examples": []
+      }
+    ]
+  },
+  "filtre -": {
+    "definitions": [{ "definition": "sinxwínú - sinxwízέn", "examples": [] }]
+  },
+  "filtrer -": { "definitions": [{ "definition": "xwí", "examples": [] }] },
+  "fin -": {
+    "definitions": [
+      {
+        "definition": "atà - bὲ yὲ - fífó - fúfó - fúfónú - glíglí - lílílí - lyólyó - mεsísέ - vivɔ - vuvɔ - wɛ̀ɖɛ̀wɛ́ɖɛ́ -",
+        "examples": []
+      }
+    ]
+  },
+  "celui qui est à la fin -": {
+    "definitions": [{ "definition": "mε e ɖò tó lé jí -", "examples": [] }]
+  },
+  "être fin -": {
+    "definitions": [
+      { "definition": "fέɖέ - lwέlwέ - mε̆ - wìnní -", "examples": [] }
+    ]
+  },
+  "être fin (en parlant d'un tissu d'une feuille) -": {
+    "definitions": [{ "definition": "wɛ̀ɖɛ́ -", "examples": [] }]
+  },
+  "être fin (pour un tissu) -": {
+    "definitions": [{ "definition": "xwè kàn ná -", "examples": [] }]
+  },
+  "fin d'année -": {
+    "definitions": [{ "definition": "xwè fífó -", "examples": [] }]
+  },
+  "fin d'apprentissage -": {
+    "definitions": [{ "definition": "flí -", "examples": [] }]
+  },
+  "fin de la lune -": {
+    "definitions": [{ "definition": "sunfífó - sunfúfó -", "examples": [] }]
+  },
+  "fin du dernier quartier de la lune -": {
+    "definitions": [{ "definition": "sunkúkú -", "examples": [] }]
+  },
+  "fin du mois -": {
+    "definitions": [{ "definition": "sunfífó - sunfúfó -", "examples": [] }]
+  },
+  "fin du mois lunaire -": {
+    "definitions": [{ "definition": "sunkúkú -", "examples": [] }]
+  },
+  "la fin du monde -": {
+    "definitions": [{ "definition": "gbεvivɔ̀ -", "examples": [] }]
+  },
+  "postposition indiquant la fin -": {
+    "definitions": [{ "definition": "gbé -", "examples": [] }]
+  },
+  "très fin -": {
+    "definitions": [{ "definition": "xwítíxwítí -", "examples": [] }]
+  },
+  "très fine (pour la voix) -": {
+    "definitions": [{ "definition": "lílélílé", "examples": [] }]
+  },
+  "final -": {
+    "definitions": [{ "definition": "vivɔ - vuvɔ", "examples": [] }]
+  },
+  "finalement -": {
+    "definitions": [
+      { "definition": "gùdó gúdó bì ɔ́ - gùdógúdó bì ɔ́", "examples": [] }
+    ]
+  },
+  "finir -": { "definitions": [{ "definition": "vɔ̀ -", "examples": [] }] },
+  "action de finir -": {
+    "definitions": [{ "definition": "fífó - fúfó - fúfónú -", "examples": [] }]
+  },
+  "finir de -": {
+    "definitions": [
+      { "definition": "ɖŏ alɔ̀ tè - ɖŏ alɔ̀ tè - fó -", "examples": [] }
+    ]
+  },
+  "finir par -": {
+    "definitions": [{ "definition": "nă wă - wă -", "examples": [] }]
+  },
+  "finir par avouer -": {
+    "definitions": [{ "definition": "jŏ gbè -", "examples": [] }]
+  },
+  "finir par reconnaître que -": {
+    "definitions": [
+      { "definition": "wă tuwùn ɖɔ̀ - wă yĭ gbè ɖɔ̀ -", "examples": [] }
+    ]
+  },
+  "finir son apprentissage -": {
+    "definitions": [{ "definition": "flí -", "examples": [] }]
+  },
+  "finir son sillon avant quelqu'un -": {
+    "definitions": [
+      { "definition": "ɖè hwὲn nú mε - ɖè hwὲn nú mε -", "examples": [] }
+    ]
+  },
+  "qui n'en finit pas -": {
+    "definitions": [{ "definition": "gεnnyigεnnyi", "examples": [] }]
+  },
+  "fiole -": { "definitions": [{ "definition": "gò", "examples": [] }] },
+  "fioritures -": {
+    "definitions": [{ "definition": "aɖawùn", "examples": [] }]
+  },
+  "firmament -": {
+    "definitions": [
+      {
+        "definition": "jinukúnsìn - jinukúnsùn - jìxwé - jìxwé",
+        "examples": []
+      }
+    ]
+  },
+  "fissurer -": { "definitions": [{ "definition": "fέn", "examples": [] }] },
+  "fixation - fixation d'un délai -": {
+    "definitions": [{ "definition": "hwenuɖúɖó", "examples": [] }]
+  },
+  "fixe -": { "definitions": [{ "definition": "kleteè", "examples": [] }] },
+  "fixement -": {
+    "definitions": [{ "definition": "dáán - syέnsyέn - xéé", "examples": [] }]
+  },
+  "fixer -": { "definitions": [{ "definition": "xwè -", "examples": [] }] },
+  "fixer à une personne la part qu'il doit donner -": {
+    "definitions": [{ "definition": "zὲ nŭjɔ̀ nú mε -", "examples": [] }]
+  },
+  "fixer la part à offrir à quelqu'un -": {
+    "definitions": [
+      { "definition": "zɛ̀ kanta nú mɛ - zὲ kanta nú mε -", "examples": [] }
+    ]
+  },
+  "fixer le prix d'une chose -": {
+    "definitions": [
+      { "definition": "sùn axì nŭ - sùn axì nŭ -", "examples": [] }
+    ]
+  },
+  "fixer son pagne sur la poitrine -": {
+    "definitions": [{ "definition": "gbă avɔ̀ ɖ'akɔ́nta -", "examples": [] }]
+  },
+  "fixer un délai -": {
+    "definitions": [{ "definition": "ɖŏ hwenu -", "examples": [] }]
+  },
+  "fixer un jour -": {
+    "definitions": [{ "definition": "ɖŏ azăn -", "examples": [] }]
+  },
+  "fixer un jour à quelqu'un -": {
+    "definitions": [{ "definition": "ɖŏ azăn nú mε -", "examples": [] }]
+  },
+  "fixer un nid -": {
+    "definitions": [{ "definition": "xwè adɔ̆ -", "examples": [] }]
+  },
+  "fixer un temps à quelqu'un -": {
+    "definitions": [
+      { "definition": "ɖŏ hè xá mε - ɖŏ hwenu -", "examples": [] }
+    ]
+  },
+  "fixer une quote-part à quelqu'un -": {
+    "definitions": [
+      {
+        "definition": "kán àkwέ nú mε - zɛ̀ akwɛ́ nú mɛ - kán akwέ nú mε - zὲ àkwέ nú mε -",
+        "examples": []
+      }
+    ]
+  },
+  "fixer une réunion -": {
+    "definitions": [{ "definition": "ɖŏ kplé -", "examples": [] }]
+  },
+  "renforce l'idée de fixer son attention pour regarder -": {
+    "definitions": [{ "definition": "síí", "examples": [] }]
+  },
+  "flacon -": { "definitions": [{ "definition": "gò", "examples": [] }] },
+  "flageller - flageller quelqu'un -": {
+    "definitions": [
+      {
+        "definition": "ɖŏ bă nú mε - zĕ bă dŏ xò mε ná - zĕ bă xò mɛ",
+        "examples": []
+      }
+    ]
+  },
+  "flambant - flambant neuf -": {
+    "definitions": [{ "definition": "yɔ̀yɔ́ cɔɔ̀n - yɔ̀yɔ́ cɔɔ̀n", "examples": [] }]
+  },
+  "flambeau -": { "definitions": [{ "definition": "zohwĭn", "examples": [] }] },
+  "flamber -": {
+    "definitions": [{ "definition": "dŏ myɔmyɔ̀", "examples": [] }]
+  },
+  "flamme -": {
+    "definitions": [{ "definition": "myɔɖέ - zoɖɛ́ -", "examples": [] }]
+  },
+  "flamme - avec beaucoup de flammes -": {
+    "definitions": [{ "definition": "gεgὲ", "examples": [] }]
+  },
+  "flanc -": {
+    "definitions": [{ "definition": "adɔ́kpá - ajajà", "examples": [] }]
+  },
+  "flâner -": { "definitions": [{ "definition": "xò jɔ̀ -", "examples": [] }] },
+  "action de flâner -": {
+    "definitions": [{ "definition": "legéde", "examples": [] }]
+  },
+  "flânerie -": {
+    "definitions": [{ "definition": "jɔfúnfún - legéde", "examples": [] }]
+  },
+  "flasque -": {
+    "definitions": [{ "definition": "kplayaà - kployaà -", "examples": [] }]
+  },
+  "flasque et pendant -": {
+    "definitions": [{ "definition": "gbɔjɔɔ̀ - gbɔjɔgbɔjɔ̀", "examples": [] }]
+  },
+  "flatter -": {
+    "definitions": [{ "definition": "xò asánnyí nú mɛ -", "examples": [] }]
+  },
+  "action de flatter -": {
+    "definitions": [{ "definition": "kíklɔ́ - klɔ́klɔ́ -", "examples": [] }]
+  },
+  "celui qui ravit les biens de quelqu'un en le flattant -": {
+    "definitions": [{ "definition": "mεnuyitɔ́ -", "examples": [] }]
+  },
+  "flatter quelqu'un -": {
+    "definitions": [
+      { "definition": "klɔ́ mε - xò asánnyí nú mε -", "examples": [] }
+    ]
+  },
+  "flatter quelqu'un pour en retirer quelque chose -": {
+    "definitions": [{ "definition": "klɔ́ mε ɖù", "examples": [] }]
+  },
+  "flatterie -": {
+    "definitions": [{ "definition": "mε kiklɔ́ - yɛdómɛ -", "examples": [] }]
+  },
+  "flatterie pour obtenir quelque chose -": {
+    "definitions": [{ "definition": "asánnyíxúxó", "examples": [] }]
+  },
+  "flatteur -": {
+    "definitions": [{ "definition": "awosì -", "examples": [] }]
+  },
+  "flatteur du roi -": {
+    "definitions": [{ "definition": "axɔ́súkpátɔ", "examples": [] }]
+  },
+  "flatulence -": {
+    "definitions": [{ "definition": "gò hŭn mε -", "examples": [] }]
+  },
+  "avoir des flatulences -": {
+    "definitions": [{ "definition": "gò hŭn mε", "examples": [] }]
+  },
+  "fléau -": { "definitions": [{ "definition": "akpakpò", "examples": [] }] },
+  "flèche -": {
+    "definitions": [{ "definition": "gă - hwăn -", "examples": [] }]
+  },
+  "flèche empoisonnée -": {
+    "definitions": [{ "definition": "aɖìgá", "examples": [] }]
+  },
+  "flétri -": { "definitions": [{ "definition": "yajaà", "examples": [] }] },
+  "flétrir - se flétrir -": {
+    "definitions": [{ "definition": "mlŭ - xú", "examples": [] }]
+  },
+  "fleur -": { "definitions": [{ "definition": "sέ -", "examples": [] }] },
+  "fleur d’ornementation -": {
+    "definitions": [{ "definition": "folóò -", "examples": [] }]
+  },
+  "fleur d'arbre -": {
+    "definitions": [{ "definition": "atínsέ -", "examples": [] }]
+  },
+  "fleur de maïs -": {
+    "definitions": [{ "definition": "gbadésέ -", "examples": [] }]
+  },
+  "fleur de nété -": {
+    "definitions": [{ "definition": "klosέvɔ̀ - klwesávɔ̀ -", "examples": [] }]
+  },
+  "fleur décorative -": {
+    "definitions": [{ "definition": "fláwa -", "examples": [] }]
+  },
+  "fleur d'un arbre -": {
+    "definitions": [{ "definition": "atín sέ -", "examples": [] }]
+  },
+  "fleur mâle du palmier à huile -": {
+    "definitions": [{ "definition": "sunvɔ̀ - wunsungblɛ́n", "examples": [] }]
+  },
+  "fleurir -": {
+    "definitions": [
+      { "definition": "ɖŏ sέ - gbà sέ - wlĭ sɛ́ -", "examples": [] }
+    ]
+  },
+  "fleurir (pour le maïs) -": {
+    "definitions": [{ "definition": "gbà sέ", "examples": [] }]
+  },
+  "fleuve -": { "definitions": [{ "definition": "tɔ̀ -", "examples": [] }] },
+  "le fleuve ouémé -": {
+    "definitions": [{ "definition": "wɔ̆ - wɔ̀gbó", "examples": [] }]
+  },
+  "flirt -": {
+    "definitions": [{ "definition": "hè - heɖiɖó - heɖuɖó", "examples": [] }]
+  },
+  "flirter -": { "definitions": [{ "definition": "ɖŏ hè -", "examples": [] }] },
+  "celui qui aime flirter -": {
+    "definitions": [{ "definition": "àcɔ́ɖóxámεtɔ́ -", "examples": [] }]
+  },
+  "flirter avec quelqu'un -": {
+    "definitions": [
+      {
+        "definition": "ɖŏ acɔ́ xá mε - ɖŏ àcɔ́ xá mε - ɖŏ hè xá mε",
+        "examples": []
+      }
+    ]
+  },
+  "flot -": {
+    "definitions": [
+      { "definition": "aslɔ́kέ - ɔxixo - tɔxuxo -", "examples": [] }
+    ]
+  },
+  "à flot -": {
+    "definitions": [{ "definition": "hòhò - hohohò", "examples": [] }]
+  },
+  "flotter -": {
+    "definitions": [{ "definition": "ɖò sìn nukúnmὲ", "examples": [] }]
+  },
+  "flou -": { "definitions": [{ "definition": "fitiì -", "examples": [] }] },
+  "de façon floue -": {
+    "definitions": [{ "definition": "faàn", "examples": [] }]
+  },
+  "fluide -": {
+    "definitions": [{ "definition": "lómílómí -", "examples": [] }]
+  },
+  "être fluide (pour les liquides) -": {
+    "definitions": [{ "definition": "lòlwé", "examples": [] }]
+  },
+  "flûte -": {
+    "definitions": [{ "definition": "akwὲ - kpetè - kpὲn -", "examples": [] }]
+  },
+  "flûte en bambou -": {
+    "definitions": [{ "definition": "dawékpὲn - dawékpὲn -", "examples": [] }]
+  },
+  "flûte en bois -": {
+    "definitions": [{ "definition": "kwὲ -", "examples": [] }]
+  },
+  "flûte en plastique -": {
+    "definitions": [{ "definition": "alakwέ -", "examples": [] }]
+  },
+  "sorte de flûte -": {
+    "definitions": [{ "definition": "adikwὲ", "examples": [] }]
+  },
+  "fœtus - foetus avorté -": {
+    "definitions": [{ "definition": "hungbandan -", "examples": [] }]
+  },
+  "foetus embryonnaire -": {
+    "definitions": [{ "definition": "hungbandan -", "examples": [] }]
+  },
+  "foetus non arrivé à terme -": {
+    "definitions": [{ "definition": "hungbandan", "examples": [] }]
+  },
+  "foi -": { "definitions": [{ "definition": "nùɖíɖí -", "examples": [] }] },
+  "avoir la foi -": {
+    "definitions": [{ "definition": "ɖì nŭ", "examples": [] }]
+  },
+  "foie -": {
+    "definitions": [{ "definition": "alĭn - alìnxlé", "examples": [] }]
+  },
+  "foire -": { "definitions": [{ "definition": "aximὲ", "examples": [] }] },
+  "fois -": { "definitions": [{ "definition": "azɔ̀n -", "examples": [] }] },
+  "il était une fois -": {
+    "definitions": [{ "definition": "gbe dokpó sù", "examples": [] }]
+  },
+  "foisonner -": {
+    "definitions": [{ "definition": "tíìn gègé - tíìn sù kpɔ́", "examples": [] }]
+  },
+  "folie -": {
+    "definitions": [
+      {
+        "definition": "ayixazɔ̀n - lὲn - nùlúlú - taɖù - taɖuhunhun - tamεmasɔgbè - wlé - yɛyi - yɛyu -",
+        "examples": []
+      }
+    ]
+  },
+  "foliole d'une feuille de palmier -": {
+    "definitions": [{ "definition": "dĕmà", "examples": [] }]
+  },
+  "fomenter - celui qui se plaît à fomenter des querelles -": {
+    "definitions": [{ "definition": "gbedotónúmεtɔ́ -", "examples": [] }]
+  },
+  "celui qui se plaît à attiser les différends -": {
+    "definitions": [{ "definition": "nùklɔ́dótɔ́ -", "examples": [] }]
+  },
+  "fomenter les querelles -": {
+    "definitions": [{ "definition": "klɔ́ nŭ dŏ", "examples": [] }]
+  },
+  "fon - nom donné aux fons à cause de leur ruse -": {
+    "definitions": [{ "definition": "akpónyagidì", "examples": [] }]
+  },
+  "foncer - foncer sur -": {
+    "definitions": [{ "definition": "zùn dŏ jĭ", "examples": [] }]
+  },
+  "fonctionnaire -": {
+    "definitions": [{ "definition": "axɔ́súzɔ́wátɔ́", "examples": [] }]
+  },
+  "fonctionner -": {
+    "definitions": [{ "definition": "wà azɔ̆", "examples": [] }]
+  },
+  "fond -": { "definitions": [{ "definition": "dò - kò -", "examples": [] }] },
+  "au fond -": { "definitions": [{ "definition": "ɖŏ dò -", "examples": [] }] },
+  "bas fond -": {
+    "definitions": [
+      { "definition": "gbamὲ - gbamὲ - tɔdomέ -", "examples": [] }
+    ]
+  },
+  "être au fond -": {
+    "definitions": [{ "definition": "ɖŏ dò -", "examples": [] }]
+  },
+  "fond d'une bouteille -": {
+    "definitions": [{ "definition": "ahankɔ̀ -", "examples": [] }]
+  },
+  "le fond -": { "definitions": [{ "definition": "xúlwé -", "examples": [] }] },
+  "le fond des choses -": {
+    "definitions": [{ "definition": "nùhlὲnhlέn", "examples": [] }]
+  },
+  "fondateur - fondateur d'une localité -": {
+    "definitions": [{ "definition": "tonɔ̀", "examples": [] }]
+  },
+  "fondation -": {
+    "definitions": [{ "definition": "ɖuɖó - kpè -", "examples": [] }]
+  },
+  "faire les fondations d'une maison -": {
+    "definitions": [{ "definition": "dŏ xɔ̀ dò - dŏ xɔ̀ dò -", "examples": [] }]
+  },
+  "fondation de hwεgbó -": {
+    "definitions": [{ "definition": "hwεgbóɖúɖó -", "examples": [] }]
+  },
+  "fondations d'un mur -": {
+    "definitions": [{ "definition": "dòdó", "examples": [] }]
+  },
+  "fondé - être fondé -": {
+    "definitions": [{ "definition": "lĭ", "examples": [] }]
+  },
+  "fonder -": { "definitions": [{ "definition": "dŏ wă", "examples": [] }] },
+  "fondeur -": {
+    "definitions": [{ "definition": "gankɔntɔ́", "examples": [] }]
+  },
+  "fondre -": {
+    "definitions": [{ "definition": "sínsín - yɔ̀ -", "examples": [] }]
+  },
+  "faire fondre -": {
+    "definitions": [{ "definition": "sínsín -", "examples": [] }]
+  },
+  "fondre et couler -": {
+    "definitions": [{ "definition": "slá", "examples": [] }]
+  },
+  "fondu - être fondus collés ensemble -": {
+    "definitions": [{ "definition": "kpɔ́tɔ́ - kpántán -", "examples": [] }]
+  },
+  "fondu et collé -": {
+    "definitions": [{ "definition": "kpántánkpántán", "examples": [] }]
+  },
+  "fontanelle -": {
+    "definitions": [{ "definition": "ahɔnmὲ", "examples": [] }]
+  },
+  "fonte -": {
+    "definitions": [{ "definition": "agbàlyá - gbadaglà", "examples": [] }]
+  },
+  "football -": {
+    "definitions": [{ "definition": "bɔlúnyínyí", "examples": [] }]
+  },
+  "force -": {
+    "definitions": [
+      {
+        "definition": "adăn - găn - gànhúmε - glàglá - hlɔ̀nhlɔ́n -",
+        "examples": []
+      }
+    ]
+  },
+  "avec force -": {
+    "definitions": [
+      {
+        "definition": "gbligbli - hlɔ̀nhlɔ́n ɖò wŭ - kpódó hlɔ̀nhlɔ́n kpán -",
+        "examples": []
+      }
+    ]
+  },
+  "de force -": {
+    "definitions": [
+      { "definition": "gănnù - gannugánnú - kplulù - xwaà -", "examples": [] }
+    ]
+  },
+  "être à bout de forces -": {
+    "definitions": [{ "definition": "nŭ kpé mε - vɔ̀ găn", "examples": [] }]
+  },
+  "forcer - forcer quelqu'un à -": {
+    "definitions": [
+      { "definition": "zɔ̆n mɛ gănnù - zɔ̆n mε gănnù -", "examples": [] }
+    ]
+  },
+  "forcer quelqu'un à l'adultère -": {
+    "definitions": [{ "definition": "hwlε̆n kàn xá mε -", "examples": [] }]
+  },
+  "forcer une femme à commettre un adultère -": {
+    "definitions": [{ "definition": "hwlέn kàn xá mε -", "examples": [] }]
+  },
+  "forcer une fille à aller chez son mari -": {
+    "definitions": [{ "definition": "zĕ mε ɖŏ ajò", "examples": [] }]
+  },
+  "forêt -": {
+    "definitions": [
+      {
+        "definition": "atínkàn - atínkánmὲ - zùn - zùngbó - zunkàn - zunkangbomɛ̀",
+        "examples": []
+      }
+    ]
+  },
+  "forge -": {
+    "definitions": [
+      { "definition": "flè - flemὲ - flexɔmὲ - nùtúnxɔ́sá -", "examples": [] }
+    ]
+  },
+  "forge en plein air -": {
+    "definitions": [{ "definition": "flesá -", "examples": [] }]
+  },
+  "forge sous un hangar -": {
+    "definitions": [{ "definition": "flesá", "examples": [] }]
+  },
+  "forger -": {
+    "definitions": [
+      { "definition": "tùn - tùn flè - tùn gàn - tùn nŭ", "examples": [] }
+    ]
+  },
+  "forgeron -": {
+    "definitions": [
+      {
+        "definition": "alágbεdε - ayatɔ́ - flenɔ̀ - fletuntɔ́ - ganmεnù - gantuntɔ́ - nùtúntɔ́ -",
+        "examples": []
+      }
+    ]
+  },
+  "forgeron valeureux -": {
+    "definitions": [
+      { "definition": "ayatɔ́ ganmεnu - ayatɔ́ gbɛdɛ́", "examples": [] }
+    ]
+  },
+  "formalité - faire les formalités pour prendre femme -": {
+    "definitions": [{ "definition": "wà asì nŭ -", "examples": [] }]
+  },
+  "les formalités pour prendre femme -": {
+    "definitions": [{ "definition": "asinú", "examples": [] }]
+  },
+  "forme -": {
+    "definitions": [{ "definition": "ninɔmὲ - nunɔmὲ", "examples": [] }]
+  },
+  "- en forme -": {
+    "definitions": [{ "definition": "wùyámɛ -", "examples": [] }]
+  },
+  "en forme de boule -": {
+    "definitions": [{ "definition": "tɔngɔɔ̀n -", "examples": [] }]
+  },
+  "être en forme -": {
+    "definitions": [{ "definition": "bĭ - wŭ yă -", "examples": [] }]
+  },
+  "être en très bonne forme -": {
+    "definitions": [{ "definition": "séfúnsefún", "examples": [] }]
+  },
+  "formé - bien formé -": {
+    "definitions": [{ "definition": "gogoɖogò -", "examples": [] }]
+  },
+  "être mal formé -": {
+    "definitions": [{ "definition": "gblĕ wɔ̆n", "examples": [] }]
+  },
+  "former - former du pus -": {
+    "definitions": [{ "definition": "dŏ sìn - tɔ́n sìn -", "examples": [] }]
+  },
+  "former quelqu'un -": {
+    "definitions": [{ "definition": "kplɔ́n nŭ mε -", "examples": [] }]
+  },
+  "former un club de ripailleur -": {
+    "definitions": [
+      { "definition": "dŏ alɔxágbέ - dŏ alɔxágbὲ -", "examples": [] }
+    ]
+  },
+  "former un groupe -": {
+    "definitions": [{ "definition": "sò -", "examples": [] }]
+  },
+  "former un groupe de travail -": {
+    "definitions": [{ "definition": "dŏ sɔ́ -", "examples": [] }]
+  },
+  "former une croûte -": {
+    "definitions": [{ "definition": "sú gbă - sú gbă -", "examples": [] }]
+  },
+  "former une rivière -": {
+    "definitions": [{ "definition": "sà tɔ̀", "examples": [] }]
+  },
+  "formule -": { "definitions": [{ "definition": "xógbè", "examples": [] }] },
+  "fort -": {
+    "definitions": [
+      {
+        "definition": "agidi - akowunká - glàglá - gúngúngún - lĭ dŏ - wòkógò -",
+        "examples": []
+      }
+    ]
+  },
+  "être fort -": {
+    "definitions": [
+      {
+        "definition": "dŏ hlɔ̀nhlɔ́n - glă - xú syɛ́n - xú syέn -",
+        "examples": []
+      }
+    ]
+  },
+  "faire le fort à bras -": {
+    "definitions": [{ "definition": "glă awà -", "examples": [] }]
+  },
+  "fort et abusif (pouvoir) -": {
+    "definitions": [{ "definition": "glanglàn -", "examples": [] }]
+  },
+  "fort et mal bâti -": {
+    "definitions": [
+      { "definition": "ganjaàn - ganjanganjàn -", "examples": [] }
+    ]
+  },
+  "fort et passager -": {
+    "definitions": [{ "definition": "akútakú -", "examples": [] }]
+  },
+  "fort portugais -": {
+    "definitions": [{ "definition": "agudaxwé -", "examples": [] }]
+  },
+  "fort soleil -": {
+    "definitions": [{ "definition": "hwezivɔ glaglá -", "examples": [] }]
+  },
+  "forte tête -": {
+    "definitions": [{ "definition": "aglăjà -", "examples": [] }]
+  },
+  "très fort -": {
+    "definitions": [
+      {
+        "definition": "akú - cákácáká - gawunga - glálá - yoò - zowunkla -",
+        "examples": []
+      }
+    ]
+  },
+  "très fort (pour johàn) -": {
+    "definitions": [{ "definition": "gbagbàgúgú", "examples": [] }]
+  },
+  "fortement -": {
+    "definitions": [
+      {
+        "definition": "dawùn - gàngăn - gannyiì - gáwúngáwún - gbáwúngbáwún - jaà - jawùn - \nkpánwúnkpánwún - syέnsyέn - tánwúntánwún - téwijntéwl1n - tlílí -",
+        "examples": []
+      }
+    ]
+  },
+  "fortement développé -": {
+    "definitions": [
+      { "definition": "jangbaàn - jangbanjangbàn -", "examples": [] }
+    ]
+  },
+  "fortement et en quantité -": {
+    "definitions": [{ "definition": "dawundawùn -", "examples": [] }]
+  },
+  "très fortement -": {
+    "definitions": [{ "definition": "kútúkútú", "examples": [] }]
+  },
+  "fortifiant -": {
+    "definitions": [
+      { "definition": "hlɔ̀nhlɔ́nmásín - hunsintínkέn", "examples": [] }
+    ]
+  },
+  "fortifier - fortifier quelqu'un -": {
+    "definitions": [{ "definition": "nă hlɔ̀nhlɔ́n mε", "examples": [] }]
+  },
+  "fortuit -": { "definitions": [{ "definition": "dòkó", "examples": [] }] },
+  "fortune -": {
+    "definitions": [
+      { "definition": "dɔkùn - flέnflέn - nùnyɔ̀ná", "examples": [] }
+    ]
+  },
+  "fosse -": {
+    "definitions": [
+      { "definition": "ayìsúnhwín - dò - yɔ̀ - yɔdò -", "examples": [] }
+    ]
+  },
+  "fosse d'aisance -": {
+    "definitions": [{ "definition": "adadò", "examples": [] }]
+  },
+  "fossé -": { "definitions": [{ "definition": "agbŏ -", "examples": [] }] },
+  "fossé profond -": {
+    "definitions": [{ "definition": "dogbó", "examples": [] }]
+  },
+  "fossoyeur -": {
+    "definitions": [{ "definition": "yɔdokuntɔ́ - yɔkuntɔ́", "examples": [] }]
+  },
+  "fou -": {
+    "definitions": [
+      {
+        "definition": "anŭwànùmɔ́nɔ̀ - lεnnɔ̀ - mamajεmatɔ́ - nùlúnɔ̀ - nùwánùmɔ̀nɔ́ - taɖunɔ̀ - yɛyinɔ̀ - yeyunɔ̀ -",
+        "examples": []
+      }
+    ]
+  },
+  "être fou -": {
+    "definitions": [{ "definition": "hùn ta ɖu - hùn ta ɖù", "examples": [] }]
+  },
+  "foudre -": { "definitions": [{ "definition": "sò -", "examples": [] }] },
+  "foudre des marais -": {
+    "definitions": [{ "definition": "gbamε sò -", "examples": [] }]
+  },
+  "foudre génératrice de grosses pluies -": {
+    "definitions": [{ "definition": "jakata sò -", "examples": [] }]
+  },
+  "la foudre qui est tombée sur quelque chose -": {
+    "definitions": [{ "definition": "sò jὲ nŭ", "examples": [] }]
+  },
+  "fouet -": {
+    "definitions": [{ "definition": "bă - lanbá", "examples": [] }]
+  },
+  "fouetter - fouetter quelqu'un -": {
+    "definitions": [{ "definition": "zĕ lanbá xò mε", "examples": [] }]
+  },
+  "fouiller -": {
+    "definitions": [{ "definition": "kéjé - kíjé -", "examples": [] }]
+  },
+  "action de fouiller -": {
+    "definitions": [{ "definition": "kinkan", "examples": [] }]
+  },
+  "fouine -": { "definitions": [{ "definition": "wɔ̀", "examples": [] }] },
+  "fouineur -": {
+    "definitions": [{ "definition": "hwìhwé -", "examples": [] }]
+  },
+  "être fouineur -": {
+    "definitions": [{ "definition": "hùhwé - kánwín", "examples": [] }]
+  },
+  "foulard -": {
+    "definitions": [
+      {
+        "definition": "dukwí - tabladukwí - tablanú - tablavɔ́ -",
+        "examples": []
+      }
+    ]
+  },
+  "foulard de tête -": {
+    "definitions": [{ "definition": "tabladúkwí -", "examples": [] }]
+  },
+  "foulard noué -": {
+    "definitions": [{ "definition": "nùbìblá - nùblàblá", "examples": [] }]
+  },
+  "foule -": {
+    "definitions": [
+      { "definition": "agùn - mεkplékplé - togùn -", "examples": [] }
+    ]
+  },
+  "en foule -": {
+    "definitions": [{ "definition": "kɔnnyikpɔ́", "examples": [] }]
+  },
+  "foulé - être foulé -": {
+    "definitions": [{ "definition": "ɖɔ̀", "examples": [] }]
+  },
+  "fouler -": {
+    "definitions": [{ "definition": "gbìdí - zĭn -", "examples": [] }]
+  },
+  "action de fouler -": {
+    "definitions": [{ "definition": "zìnzín -", "examples": [] }]
+  },
+  "fouler au pied -": {
+    "definitions": [
+      {
+        "definition": "tὲ afɔ̀ jĭ - tὲ afɔ̀ jĭ - gbìdí dŏ afɔ̀ wŭ",
+        "examples": []
+      }
+    ]
+  },
+  "four -": { "definitions": [{ "definition": "zokpó -", "examples": [] }] },
+  "four (un grand pot en terre) -": {
+    "definitions": [{ "definition": "kpó -", "examples": [] }]
+  },
+  "four à pain -": {
+    "definitions": [
+      { "definition": "blε̆ɖìɖàtɔ́ - wɔ̀xúxúɖádó - wɔ̀xúxúkpó", "examples": [] }
+    ]
+  },
+  "fourbe -": {
+    "definitions": [
+      {
+        "definition": "awlinmεdàn - ayiblublúnɔ̀ - blùblú - blὲbàtɔ́ - mεblεtɔ́ - yɛmɛnuwatɔ́ - yɛnuwatɔ́ -",
+        "examples": []
+      }
+    ]
+  },
+  "qui est fourbe -": {
+    "definitions": [{ "definition": "blùblúnɔ̀", "examples": [] }]
+  },
+  "fourberie -": {
+    "definitions": [
+      { "definition": "ayiblublú - yɛmɛnuwiwá - yɛnuwiwá", "examples": [] }
+    ]
+  },
+  "fourche -": { "definitions": [{ "definition": "avlà -", "examples": [] }] },
+  "fourche en fer -": {
+    "definitions": [{ "definition": "gan avlanɔ̀", "examples": [] }]
+  },
+  "fourchette -": { "definitions": [{ "definition": "găfù", "examples": [] }] },
+  "fourchu -": {
+    "definitions": [{ "definition": "avlatótwe - avlatótwe -", "examples": [] }]
+  },
+  "être fourchu -": {
+    "definitions": [
+      { "definition": "dŏ avlà - zɛ̀ avlà - zὲ avlà", "examples": [] }
+    ]
+  },
+  "fourgon -": {
+    "definitions": [{ "definition": "agbanhεnxɔ̀ -", "examples": [] }]
+  },
+  "celui qui fabrique les fourgons de camions -": {
+    "definitions": [{ "definition": "hùnjàntɔ́", "examples": [] }]
+  },
+  "fourmi -": {
+    "definitions": [{ "definition": "azănhwàn -", "examples": [] }]
+  },
+  "fourmi de couleur sombre -": {
+    "definitions": [{ "definition": "zănhwàn -", "examples": [] }]
+  },
+  "fourmi des cadavres -": {
+    "definitions": [{ "definition": "asyansyàn -", "examples": [] }]
+  },
+  "fourmi en général -": {
+    "definitions": [{ "definition": "zĭnzɛ̀n -", "examples": [] }]
+  },
+  "fourmi jaune -": {
+    "definitions": [{ "definition": "akpikpì -", "examples": [] }]
+  },
+  "fourmi jaune des arbres -": {
+    "definitions": [{ "definition": "zè -", "examples": [] }]
+  },
+  "fourmi magnan -": {
+    "definitions": [{ "definition": "zănhwàn -", "examples": [] }]
+  },
+  "fourmi très petite et friande de sucre -": {
+    "definitions": [{ "definition": "nùxánúxέ -", "examples": [] }]
+  },
+  "fourmi voyageuse -": {
+    "definitions": [{ "definition": "zănhwàn -", "examples": [] }]
+  },
+  "grosse fourmi noire qui sent fort quand on l'écrase -": {
+    "definitions": [{ "definition": "asyansyàn -", "examples": [] }]
+  },
+  "grosse fourmi rouge -": {
+    "definitions": [{ "definition": "ahannuhannu -", "examples": [] }]
+  },
+  "petite fourmi noire des arbres -": {
+    "definitions": [
+      { "definition": "aɖugeɖugε - aɖukanɖukàn -", "examples": [] }
+    ]
+  },
+  "petite fourmi noire qui pique très fort -": {
+    "definitions": [{ "definition": "ayìsínzὲn -", "examples": [] }]
+  },
+  "petite fourmi noire ordinaire -": {
+    "definitions": [{ "definition": "ɖiɖé -", "examples": [] }]
+  },
+  "très petite fourmi noire -": {
+    "definitions": [{ "definition": "dóhwlíhwe", "examples": [] }]
+  },
+  "fournir -": { "definitions": [{ "definition": "nă -", "examples": [] }] },
+  "fournir une participation -": {
+    "definitions": [{ "definition": "jɔ̀ fún", "examples": [] }]
+  },
+  "fournisseur - fournisseur habituel -": {
+    "definitions": [{ "definition": "axisinɔ̀", "examples": [] }]
+  },
+  "fourreau -": { "definitions": [{ "definition": "akún", "examples": [] }] },
+  "fourrer -": {
+    "definitions": [
+      { "definition": "kì - sɔ́ d'é mὲ - sɔ́ dŏ é mὲ - tì", "examples": [] }
+    ]
+  },
+  "fourvoyer - fourvoyer quelqu'un -": {
+    "definitions": [{ "definition": "kplá mε yì bŭ", "examples": [] }]
+  },
+  "foutre - il s'en fout -": {
+    "definitions": [{ "definition": "sanfú -", "examples": [] }]
+  },
+  "j'm'enfoutiste -": {
+    "definitions": [{ "definition": "sazεntɔ́", "examples": [] }]
+  },
+  "foyer -": {
+    "definitions": [{ "definition": "adò - adokɔ́ -", "examples": [] }]
+  },
+  "aménager un foyer avec trois pierres -": {
+    "definitions": [{ "definition": "kpé adò -", "examples": [] }]
+  },
+  "foyer formé de trois pierres ou de trois cônes de terre -": {
+    "definitions": [{ "definition": "adogwlè -", "examples": [] }]
+  },
+  "foyer portatif -": {
+    "definitions": [{ "definition": "adòkpé -", "examples": [] }]
+  },
+  "foyer pour faire cuire des noix de palme -": {
+    "definitions": [{ "definition": "dèdó", "examples": [] }]
+  },
+  "fracas - avec fracas -": {
+    "definitions": [{ "definition": "gbaàn - vuzuvuzù -", "examples": [] }]
+  },
+  "avec fracas (pour les gros oiseaux) -": {
+    "definitions": [{ "definition": "gbagbà", "examples": [] }]
+  },
+  "fracasser -": { "definitions": [{ "definition": "fó -", "examples": [] }] },
+  "fracasser une porte -": {
+    "definitions": [{ "definition": "fó hɔ̀n", "examples": [] }]
+  },
+  "fraction -": { "definitions": [{ "definition": "mìmá", "examples": [] }] },
+  "fracture -": {
+    "definitions": [
+      { "definition": "lìlɔ́ - lùlɔ́ - wìnwɛ́n - wùwìnwɛ́n -", "examples": [] }
+    ]
+  },
+  "avoir une fracture -": {
+    "definitions": [{ "definition": "wɛ̆n wŭ -", "examples": [] }]
+  },
+  "fracture du pied -": {
+    "definitions": [{ "definition": "afɔwinwέn -", "examples": [] }]
+  },
+  "fracture du pied ou de la jambe -": {
+    "definitions": [{ "definition": "afɔlilɔ́ -", "examples": [] }]
+  },
+  "fracture d'un membre -": {
+    "definitions": [{ "definition": "wù winwɛ́n - wùlìlɔ́ -", "examples": [] }]
+  },
+  "fracture d'une jambe -": {
+    "definitions": [{ "definition": "afɔlilɔ́ - afɔlulɔ́", "examples": [] }]
+  },
+  "fracturé -": {
+    "definitions": [{ "definition": "wìnwɛ́n -", "examples": [] }]
+  },
+  "être fracturé -": {
+    "definitions": [{ "definition": "wɛ̆n", "examples": [] }]
+  },
+  "fracturer -": {
+    "definitions": [{ "definition": "fέn - gbà -", "examples": [] }]
+  },
+  "fracturer (un membre) -": {
+    "definitions": [{ "definition": "lɔ̆ - wɛ̆n -", "examples": [] }]
+  },
+  "se fracturer un membre -": {
+    "definitions": [
+      { "definition": "lɔ̆ wŭ - lɔ̆ wŭ - wɛ̆n wŭ - wɛ̆n wŭ -", "examples": [] }
+    ]
+  },
+  "se fracturer un os -": {
+    "definitions": [{ "definition": "lɔ̀ gŏ", "examples": [] }]
+  },
+  "fragile -": {
+    "definitions": [{ "definition": "caywé - cáywé -", "examples": [] }]
+  },
+  "être fragile -": {
+    "definitions": [{ "definition": "béwún - fέɖε - kpécé", "examples": [] }]
+  },
+  "fragment - fragment de poterie -": {
+    "definitions": [
+      { "definition": "zɛ̀nxwɛ́ - zɛ̀nxwɛ́ - zɛ̆nxwɛ̀", "examples": [] }
+    ]
+  },
+  "fraîcheur -": {
+    "definitions": [{ "definition": "fífá -", "examples": [] }]
+  },
+  "idée d'une grande fraîcheur -": {
+    "definitions": [{ "definition": "tɔɔ̀", "examples": [] }]
+  },
+  "frais -": {
+    "definitions": [
+      {
+        "definition": "akwɛ́zínzán - àkwέzínzán - fífá - fέ - kpɔncɔɔ̀n - nùzínzán - yɔ̀yɔ́ -",
+        "examples": []
+      }
+    ]
+  },
+  "être frais -": { "definitions": [{ "definition": "fá -", "examples": [] }] },
+  "frais et dispos -": {
+    "definitions": [{ "definition": "wù yɛ̀yɛ́ afɔ yɛyɛ́", "examples": [] }]
+  },
+  "franc -": {
+    "definitions": [{ "definition": "flán - nùgbóɖɔ́tɔ́ -", "examples": [] }]
+  },
+  "être franc -": {
+    "definitions": [
+      {
+        "definition": "ɖɔ̀ nùgbó - ɖɔ̀ nùgbó - ɖɔ̀ xomɛ̀ - ɖɔ̀ xomὲ -",
+        "examples": []
+      }
+    ]
+  },
+  "le fait de n'être pas franc -": {
+    "definitions": [
+      { "definition": "nùhízíhízí - nùhízíhízí -", "examples": [] }
+    ]
+  },
+  "un franc vingt-cinq -": {
+    "definitions": [{ "definition": "cili", "examples": [] }]
+  },
+  "français -": { "definitions": [{ "definition": "flansé", "examples": [] }] },
+  "franchir -": {
+    "definitions": [{ "definition": "fɔ̀n - xò zlɛ̆ -", "examples": [] }]
+  },
+  "franchir le seuil -": {
+    "definitions": [{ "definition": "zɛ̀ hwɛ̀ - zὲ hwὲ", "examples": [] }]
+  },
+  "franchise -": {
+    "definitions": [{ "definition": "nùgbóɖíɖɔ́ - xomɛɖiɖɔ", "examples": [] }]
+  },
+  "francolin -": {
+    "definitions": [{ "definition": "asɔ̀ - asɔklé - asɔὲ", "examples": [] }]
+  },
+  "francs -": {
+    "definitions": [
+      { "definition": "kpɔ́wùn ɖokpó - kpɔ́wùn gbàn", "examples": [] }
+    ]
+  },
+  "frange -": { "definitions": [{ "definition": "yaɖà", "examples": [] }] },
+  "frappé - être frappé -": {
+    "definitions": [{ "definition": "hŭn zὲ -", "examples": [] }]
+  },
+  "être frappé de frayeur -": {
+    "definitions": [{ "definition": "ahwĭ xò mε -", "examples": [] }]
+  },
+  "être frappé de paralysie -": {
+    "definitions": [
+      { "definition": "xwè ayìisó - xwè ayìsó -", "examples": [] }
+    ]
+  },
+  "être frappé d'hébétude -": {
+    "definitions": [{ "definition": "ahwĭ xò mε", "examples": [] }]
+  },
+  "frapper -": {
+    "definitions": [
+      { "definition": "ɖŏ alɔ̀ wŭ - xò - xú - xúxú -", "examples": [] }
+    ]
+  },
+  "action de frapper -": {
+    "definitions": [{ "definition": "xixo -", "examples": [] }]
+  },
+  "celui qui frappe des mains pour danser -": {
+    "definitions": [{ "definition": "fákpέxótɔ́ -", "examples": [] }]
+  },
+  "celui qui frappe le gong -": {
+    "definitions": [{ "definition": "ganxúxútɔ́ -", "examples": [] }]
+  },
+  "frapper des mains pour appeler -": {
+    "definitions": [{ "definition": "xò kpέ -", "examples": [] }]
+  },
+  "frapper (en parlant d'un malheur) -": {
+    "definitions": [{ "definition": "zún -", "examples": [] }]
+  },
+  "frapper à coups de poing -": {
+    "definitions": [
+      { "definition": "dŏ akodokwín - dŏ akodokwín -", "examples": [] }
+    ]
+  },
+  "frapper à la porte -": {
+    "definitions": [{ "definition": "xúxú kpɛ́ -", "examples": [] }]
+  },
+  "frapper dans ses mains avant d'entrer -": {
+    "definitions": [{ "definition": "xò àsí kpέ - xò kpɛ́ -", "examples": [] }]
+  },
+  "frapper dans ses mains pour appeler -": {
+    "definitions": [
+      {
+        "definition": "xò àsí - xò alɔ̀ kpɛ́ - xò alɔ̀ kpέ - xò así kpέ - xò kpɛ́ -",
+        "examples": []
+      }
+    ]
+  },
+  "frapper fortement -": {
+    "definitions": [{ "definition": "xò gàngăn -", "examples": [] }]
+  },
+  "frapper la porte à grand bruit sur quelqu'un qui repose à l'intérieur -": {
+    "definitions": [{ "definition": "gbà hɔ̀n dŏ ta nú mε -", "examples": [] }]
+  },
+  "frapper le gong -": {
+    "definitions": [{ "definition": "xúxú gàn - xúxú gàn -", "examples": [] }]
+  },
+  "frapper le haut de la cuisse -": {
+    "definitions": [{ "definition": "xò agunkpámὲ -", "examples": [] }]
+  },
+  "frapper les regards -": {
+    "definitions": [{ "definition": "ɖì wùn - ɖì wùn -", "examples": [] }]
+  },
+  "frapper les yeux -": {
+    "definitions": [{ "definition": "gbà nukún -", "examples": [] }]
+  },
+  "frapper quelqu'un -": {
+    "definitions": [{ "definition": "dŏ nŭ mε -", "examples": [] }]
+  },
+  "se frapper la poitrine -": {
+    "definitions": [
+      {
+        "definition": "xò akɔ́n nú éɖéé - xò akɔ́n nú éɖéé - xò akɔ́nta nú éɖéé - ò akɔ́nta nú éɖéé - zìn alɔ̀ dŏ akɔ́n -",
+        "examples": []
+      }
+    ]
+  },
+  "se frapper la poitrine pour dire son accord avec fermeté -": {
+    "definitions": [{ "definition": "zìn alɔ̀ dŏ akɔ́n", "examples": [] }]
+  },
+  "fraternité -": {
+    "definitions": [{ "definition": "nɔ̀vígbὲ", "examples": [] }]
+  },
+  "fraude -": { "definitions": [{ "definition": "ajò", "examples": [] }] },
+  "frauder -": {
+    "definitions": [{ "definition": "ɖìɖá hwlă -", "examples": [] }]
+  },
+  "action de frauder dans la mesure pendant une vente -": {
+    "definitions": [{ "definition": "cícέ -", "examples": [] }]
+  },
+  "action de frauder sur la mesure d'une étoffe -": {
+    "definitions": [{ "definition": "avɔ cícέ -", "examples": [] }]
+  },
+  "frauder sur la vente des étoffes -": {
+    "definitions": [{ "definition": "cέ avɔ̀", "examples": [] }]
+  },
+  "frayer - se frayer un passage -": {
+    "definitions": [{ "definition": "klέ", "examples": [] }]
+  },
+  "frayeur -": {
+    "definitions": [
+      { "definition": "ahwĭ - wùjìjí - wùkúwúkwí -", "examples": [] }
+    ]
+  },
+  "frayeur extrême -": {
+    "definitions": [{ "definition": "avivì", "examples": [] }]
+  },
+  "frein -": { "definitions": [{ "definition": "flέὲn", "examples": [] }] },
+  "freiner -": {
+    "definitions": [{ "definition": "hὲn flέὲn", "examples": [] }]
+  },
+  "frêle -": { "definitions": [{ "definition": "lwέlwε ́", "examples": [] }] },
+  "frémir -": { "definitions": [{ "definition": "slɔ̀ fún", "examples": [] }] },
+  "frémissement - frémissement annonciateur de fièvre -": {
+    "definitions": [{ "definition": "dεὲn", "examples": [] }]
+  },
+  "fréquemment -": {
+    "definitions": [{ "definition": "azɔ̀n gègé - hwεhwὲ", "examples": [] }]
+  },
+  "fréquentation - fréquentation des marchés -": {
+    "definitions": [{ "definition": "axililε", "examples": [] }]
+  },
+  "fréquenté - très peu fréquenté (lieu) -": {
+    "definitions": [{ "definition": "xɔ́", "examples": [] }]
+  },
+  "fréquenter - fréquenter les différents marchés -": {
+    "definitions": [{ "definition": "lὲ axì - lὲ axì -", "examples": [] }]
+  },
+  "fréquenter quelqu'un -": {
+    "definitions": [{ "definition": "dŏ hă mε - zɔ̀n xá mɛ -", "examples": [] }]
+  },
+  "fréquenter un marché -": {
+    "definitions": [{ "definition": "xwlé", "examples": [] }]
+  },
+  "frère -": { "definitions": [{ "definition": "nɔ̀ví -", "examples": [] }] },
+  "beau-frère -": {
+    "definitions": [{ "definition": "asì nɔ̀ví -", "examples": [] }]
+  },
+  "frère aîné -": {
+    "definitions": [{ "definition": "fofó -", "examples": [] }]
+  },
+  "frère aîné du roi -": {
+    "definitions": [{ "definition": "axɔ́nɔ́ví -", "examples": [] }]
+  },
+  "frère cadet du père -": {
+    "definitions": [{ "definition": "ataví -", "examples": [] }]
+  },
+  "frère consanguin -": {
+    "definitions": [{ "definition": "tɔ́ví - tɔ́ví -", "examples": [] }]
+  },
+  "frère du roi -": {
+    "definitions": [{ "definition": "axɔ́nɔ́ví -", "examples": [] }]
+  },
+  "mes frères -": {
+    "definitions": [{ "definition": "nɔví cé lέ mi", "examples": [] }]
+  },
+  "friandise -": {
+    "definitions": [{ "definition": "nùvìví", "examples": [] }]
+  },
+  "frictionner -": {
+    "definitions": [
+      { "definition": "sá dŏ wŭ - sá nŭ dŏ wŭ -", "examples": [] }
+    ]
+  },
+  "se frictionner -": {
+    "definitions": [{ "definition": "sá dŏ wŭ", "examples": [] }]
+  },
+  "fripé - être fripé -": {
+    "definitions": [{ "definition": "bíbɔ́", "examples": [] }]
+  },
+  "friperie -": { "definitions": [{ "definition": "acuta", "examples": [] }] },
+  "fripon -": {
+    "definitions": [
+      {
+        "definition": "mεblεtɔ́ - nùvɔ́nɔ̀ - yɛmɛnuwatɔ́ - yɛnuwatɔ́",
+        "examples": []
+      }
+    ]
+  },
+  "friponnerie -": {
+    "definitions": [{ "definition": "yɛmɛnuwiwá - yɛnuwiwá", "examples": [] }]
+  },
+  "frire - frire dans l'huile -": {
+    "definitions": [{ "definition": "jlε̆ - sɔ̀ -", "examples": [] }]
+  },
+  "frire de la viande -": {
+    "definitions": [{ "definition": "sɔ̀ làn -", "examples": [] }]
+  },
+  "le fait de frire -": {
+    "definitions": [{ "definition": "sisɔ - susɔ", "examples": [] }]
+  },
+  "frisson -": {
+    "definitions": [{ "definition": "dεὲn - sísɔ́sísɔ -", "examples": [] }]
+  },
+  "avoir des frissons -": {
+    "definitions": [{ "definition": "slɔ̀ fún", "examples": [] }]
+  },
+  "frissonner -": {
+    "definitions": [{ "definition": "sí nŭ - sísɔ́ - súsɔ́ -", "examples": [] }]
+  },
+  "action de frissonner -": {
+    "definitions": [{ "definition": "sísɔ́sísɔ", "examples": [] }]
+  },
+  "frit -": {
+    "definitions": [{ "definition": "sisɔ - susɔ", "examples": [] }]
+  },
+  "friture -": {
+    "definitions": [{ "definition": "nùsísɔ́ - nùsúsɔ́ -", "examples": [] }]
+  },
+  "faire de la friture -": {
+    "definitions": [{ "definition": "gbă jă - gbă jă", "examples": [] }]
+  },
+  "froid -": { "definitions": [{ "definition": "avivɔ̀ -", "examples": [] }] },
+  "être froid -": { "definitions": [{ "definition": "fá -", "examples": [] }] },
+  "avoir froid -": {
+    "definitions": [{ "definition": "avivɔ sìn mε", "examples": [] }]
+  },
+  "froissé - être froissé -": {
+    "definitions": [{ "definition": "wòló", "examples": [] }]
+  },
+  "froisser -": {
+    "definitions": [{ "definition": "gbìdí - wlŏ -", "examples": [] }]
+  },
+  "froisser entre les doigts -": {
+    "definitions": [{ "definition": "kúsú", "examples": [] }]
+  },
+  "frôler - frôler quelqu'un avec quelque chose sans l’atteindre -": {
+    "definitions": [{ "definition": "gblă hwăn mε -", "examples": [] }]
+  },
+  "frôler quelqu'un avec un caillou lancé sans bien l'atteindre -": {
+    "definitions": [{ "definition": "gblă hwăn mε", "examples": [] }]
+  },
+  "fromager -": {
+    "definitions": [{ "definition": "hŭn - hùntín", "examples": [] }]
+  },
+  "froncer -": { "definitions": [{ "definition": "wlŏ -", "examples": [] }] },
+  "froncer les sourcils -": {
+    "definitions": [{ "definition": "nyε̆ nukɔ̀n -", "examples": [] }]
+  },
+  "froncer une étoffe -": {
+    "definitions": [{ "definition": "fɔ̀", "examples": [] }]
+  },
+  "fronde - fronde faite avec un élastique -": {
+    "definitions": [{ "definition": "kannakannà -", "examples": [] }]
+  },
+  "fronde faite avec une corde -": {
+    "definitions": [{ "definition": "klohwán", "examples": [] }]
+  },
+  "frondeur -": { "definitions": [{ "definition": "aglăjà", "examples": [] }] },
+  "front -": { "definitions": [{ "definition": "nukɔ̀n -", "examples": [] }] },
+  "au front (guerre) -": {
+    "definitions": [{ "definition": "zo sonu -", "examples": [] }]
+  },
+  "front bombé -": {
+    "definitions": [
+      { "definition": "gεnnεgεnnε - nukɔ́n gεnnεgεnnε -", "examples": [] }
+    ]
+  },
+  "front de guerre -": {
+    "definitions": [{ "definition": "ahwangbénú", "examples": [] }]
+  },
+  "frontière -": { "definitions": [{ "definition": "dogbó", "examples": [] }] },
+  "frotté - frotté les mains pour demander pardon -": {
+    "definitions": [{ "definition": "alɔ̀ sɔ̀n alɔ̀ mὲ", "examples": [] }]
+  },
+  "frotter -": {
+    "definitions": [
+      {
+        "definition": "dὲn - gbìdí - gìngín - glĭn - kútú - lìlí - sá - sá dŏ - sɔ̀n - súnsún - tíntέn -",
+        "examples": []
+      }
+    ]
+  },
+  "action de frotter -": {
+    "definitions": [{ "definition": "sísá -", "examples": [] }]
+  },
+  "action de frotter les mains pour demander le pardon -": {
+    "definitions": [{ "definition": "alɔsɔnalɔmὲ -", "examples": [] }]
+  },
+  "frotter avec les pieds -": {
+    "definitions": [{ "definition": "gbìdí afɔ̀ d'é wú -", "examples": [] }]
+  },
+  "frotter avec un médicament -": {
+    "definitions": [{ "definition": "sá amasìn dŏ wŭ -", "examples": [] }]
+  },
+  "frotter et récurer les dents -": {
+    "definitions": [{ "definition": "xwá aɖŭ -", "examples": [] }]
+  },
+  "frotter fortement au point de s'arracher la peau -": {
+    "definitions": [{ "definition": "sún -", "examples": [] }]
+  },
+  "frotter les pieds sur -": {
+    "definitions": [{ "definition": "gbìdí afɔ̀ d'é wú -", "examples": [] }]
+  },
+  "frotter un objet contre un autre -": {
+    "definitions": [{ "definition": "gìn -", "examples": [] }]
+  },
+  "se frotter -": {
+    "definitions": [{ "definition": "sɔ̀n wŭ -", "examples": [] }]
+  },
+  "se frotter le corps avec de l'huile -": {
+    "definitions": [{ "definition": "sá amì dŏ wŭ", "examples": [] }]
+  },
+  "fruit -": { "definitions": [{ "definition": "sínsέn -", "examples": [] }] },
+  "espèce de fruits ressemblant à la goyave -": {
+    "definitions": [{ "definition": "amănà -", "examples": [] }]
+  },
+  "fruit d’un arbre -": {
+    "definitions": [{ "definition": "kpéjélekún -", "examples": [] }]
+  },
+  "fruit de la grosseur d'une petite prunelle -": {
+    "definitions": [{ "definition": "wɛwɛ́ -", "examples": [] }]
+  },
+  "fruit de l'anacardier dit pomme cajou -": {
+    "definitions": [{ "definition": "kajŭ -", "examples": [] }]
+  },
+  "fruit de l'avocatier -": {
+    "definitions": [{ "definition": "avoká -", "examples": [] }]
+  },
+  "fruit du cocotier -": {
+    "definitions": [{ "definition": "agɔnkέ - agɔ̀n -", "examples": [] }]
+  },
+  "fruit du cocotier non mûr -": {
+    "definitions": [{ "definition": "agɔn dlò -", "examples": [] }]
+  },
+  "fruit du faux acajou -": {
+    "definitions": [{ "definition": "lisέ - sìsí -", "examples": [] }]
+  },
+  "fruit du faux acajou non mûr -": {
+    "definitions": [{ "definition": "lisέ gló -", "examples": [] }]
+  },
+  "fruit du fɔntín (petite baie noire, dont le goût rappelle celui de la nèfle) -": {
+    "definitions": [{ "definition": "fɔ̀n -", "examples": [] }]
+  },
+  "fruit du karité -": {
+    "definitions": [{ "definition": "wŭgòkwín -", "examples": [] }]
+  },
+  "fruit du nété en gousse -": {
+    "definitions": [{ "definition": "ahwalokpo -", "examples": [] }]
+  },
+  "fruit du rônier -": {
+    "definitions": [{ "definition": "agɔ̀n - agɔntegeɖé -", "examples": [] }]
+  },
+  "fruit d'un arbre -": {
+    "definitions": [
+      { "definition": "atinsinsén - atínsínsέn -", "examples": [] }
+    ]
+  },
+  "fruit - fruit d'une sorte d'arbre -": {
+    "definitions": [{ "definition": "akinkɔn -", "examples": [] }]
+  },
+  "fruit d'une sorte de ficus -": {
+    "definitions": [{ "definition": "vò -", "examples": [] }]
+  },
+  "fruit noir -": {
+    "definitions": [{ "definition": "awosán -", "examples": [] }]
+  },
+  "fruit du palmier raphia -": {
+    "definitions": [{ "definition": "ɖὲkwín -", "examples": [] }]
+  },
+  "le fruit du calebassier -": {
+    "definitions": [{ "definition": "ká -", "examples": [] }]
+  },
+  "le fruit du nété -": {
+    "definitions": [{ "definition": "ahwakún -", "examples": [] }]
+  },
+  "le fruit du palmier -": {
+    "definitions": [{ "definition": "dĕ -", "examples": [] }]
+  },
+  "petit fruit rouge d'une saveur douceâtre -": {
+    "definitions": [{ "definition": "síslε̆ -", "examples": [] }]
+  },
+  "variétés de fruits d'une mimosée -": {
+    "definitions": [{ "definition": "ahwà -", "examples": [] }]
+  },
+  "variété de fruits -": {
+    "definitions": [{ "definition": "akunkɔn", "examples": [] }]
+  },
+  "fugace -": {
+    "definitions": [{ "definition": "wàyìwáyí -", "examples": [] }]
+  },
+  "se dit d'une apparition soudaine et fugace d’une chose ou d'un esprit -": {
+    "definitions": [{ "definition": "blε̆ avɔ̀", "examples": [] }]
+  },
+  "fugitif -": {
+    "definitions": [{ "definition": "gbèjέgbéjέ - gbèjέtɔ́", "examples": [] }]
+  },
+  "fugue - faire une fu­gue -": {
+    "definitions": [{ "definition": "jὲ gbĕ", "examples": [] }]
+  },
+  "fuir -": {
+    "definitions": [
+      { "definition": "hɔ̀n - hɔ̀n yì - kùn - lùlú -", "examples": [] }
+    ]
+  },
+  "fuir le péché -": {
+    "definitions": [{ "definition": "hɔ̀n nú hwὲ - sí hwὲ -", "examples": [] }]
+  },
+  "fuir quelqu'un -": {
+    "definitions": [{ "definition": "hɔ̀n nú mε", "examples": [] }]
+  },
+  "fuite -": {
+    "definitions": [{ "definition": "hinhɔn - hunhɔn -", "examples": [] }]
+  },
+  "avoir une fuite -": {
+    "definitions": [{ "definition": "kùn", "examples": [] }]
+  },
+  "fumé -": { "definitions": [{ "definition": "hihi", "examples": [] }] },
+  "fumée -": {
+    "definitions": [{ "definition": "azɔ̀ - azizɔ", "examples": [] }]
+  },
+  "fumer -": {
+    "definitions": [
+      { "definition": "nù azɔ̀ - nù azɔ̀ - sí azɔ̀ - sí azɔ̀ -", "examples": [] }
+    ]
+  },
+  "action de fumer -": {
+    "definitions": [{ "definition": "azɔnunu - nùhíhí -", "examples": [] }]
+  },
+  "faire fumer -": {
+    "definitions": [{ "definition": "hì -", "examples": [] }]
+  },
+  "fumer de la viande -": {
+    "definitions": [{ "definition": "hì - hì làn -", "examples": [] }]
+  },
+  "fumer la pipe -": {
+    "definitions": [{ "definition": "nù azɔkwέ -", "examples": [] }]
+  },
+  "fumer une cigarette -": {
+    "definitions": [{ "definition": "nù sigá", "examples": [] }]
+  },
+  "fumeur -": {
+    "definitions": [{ "definition": "azɔnutɔ́ -", "examples": [] }]
+  },
+  "fumeur de pipe -": {
+    "definitions": [{ "definition": "azɔkwέnútɔ́", "examples": [] }]
+  },
+  "fumier -": { "definitions": [{ "definition": "zunkɔ́ -", "examples": [] }] },
+  "fumier d'animaux -": {
+    "definitions": [{ "definition": "lanmí", "examples": [] }]
+  },
+  "funérailles -": {
+    "definitions": [{ "definition": "cyɔ́nú - cyɔ́núwíwá -", "examples": [] }]
+  },
+  "faire les funérailles de quelqu'un -": {
+    "definitions": [{ "definition": "wà cyɔ́nú", "examples": [] }]
+  },
+  "fureter -": { "definitions": [{ "definition": "kéjé", "examples": [] }] },
+  "fureur -": {
+    "definitions": [{ "definition": "adăn - xomɛsin ɖaxó", "examples": [] }]
+  },
+  "furieux - être furieux (nuance de changement brusque) -": {
+    "definitions": [{ "definition": "hùzú nukúnmὲ -", "examples": [] }]
+  },
+  "être furieux contre quelqu'un -": {
+    "definitions": [{ "definition": "hùzú nukúnmὲ dŏ mε jĭ", "examples": [] }]
+  },
+  "furoncle -": {
+    "definitions": [
+      { "definition": "mεtεfyɔ́́ - mεtεfyέ - nùtítέ - nùtέmε -", "examples": [] }
+    ]
+  },
+  "avoir un furoncle -": {
+    "definitions": [{ "definition": "nŭ tὲ mε -", "examples": [] }]
+  },
+  "furoncle avec un bourbillon -": {
+    "definitions": [{ "definition": "zùngbɛ́dɛ́", "examples": [] }]
+  },
+  "furtivement -": {
+    "definitions": [
+      {
+        "definition": "lwέέ - nyέwún - pyánwún - séwún - wayɛ̀ - yéwún",
+        "examples": []
+      }
+    ]
+  },
+  "fuseau -": { "definitions": [{ "definition": "kεkέ", "examples": [] }] },
+  "fusil -": { "definitions": [{ "definition": "tú -", "examples": [] }] },
+  "ancien fusil que l'on bourre par le canon -": {
+    "definitions": [{ "definition": "laja -", "examples": [] }]
+  },
+  "fusil à deux coups -": {
+    "definitions": [{ "definition": "túnuwenɔ̀ -", "examples": [] }]
+  },
+  "fusil à pierre -": {
+    "definitions": [{ "definition": "kέn tù -", "examples": [] }]
+  },
+  "fusil à un coup -": {
+    "definitions": [{ "definition": "túnuɖokpónɔ̀ -", "examples": [] }]
+  },
+  "fusil de fabrication locale -": {
+    "definitions": [{ "definition": "cakaviwùn", "examples": [] }]
+  },
+  "fût -": { "definitions": [{ "definition": "gbă -", "examples": [] }] },
+  "fût métallique -": {
+    "definitions": [{ "definition": "gangbá - gangbá", "examples": [] }]
+  },
+  "futaille -": { "definitions": [{ "definition": "gbă", "examples": [] }] },
+  "futile -": {
+    "definitions": [{ "definition": "maɖìnùɖé - yàyá", "examples": [] }]
+  },
+  "futilité -": { "definitions": [{ "definition": "nŭyàyá", "examples": [] }] },
+  "futur -": {
+    "definitions": [{ "definition": "hwenu è jàwé ɔ́", "examples": [] }]
+  },
+  "- futur plus lointain -": {
+    "definitions": [{ "definition": "nă wă -", "examples": [] }]
+  },
+  "particule servant à former le futur -": {
+    "definitions": [{ "definition": "nă", "examples": [] }]
   }
 }
