@@ -43,7 +43,7 @@ const handleSearch = () => {
   const input = document.getElementById("inp-word");
   const word = input.value.trim().toLowerCase();
 
-  // Load the JSON data (assuming 'fongbe.json' is in the same directory)
+  // Load the JSON data (assuming 'fongbeA.json' is in the same directory)
   fetch("fongbeA.json")
     .then((response) => response.json())
     .then((data) => {
