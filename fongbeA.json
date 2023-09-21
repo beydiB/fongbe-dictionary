@@ -29769,5 +29769,2088 @@
       { "definition": "acà", "examples": [] }
     ]
   },
-  "gypse": { "definitions": [{ "definition": "ayìnukún", "examples": [] }] }
+  "gypse": { "definitions": [{ "definition": "ayìnukún", "examples": [] }] },
+  "habile": {
+    "definitions": [
+      { "definition": "bìbí", "examples": [] },
+      { "definition": "dŏ", "examples": [] },
+      { "definition": "acà", "examples": [] },
+      { "definition": "mεsísέ", "examples": [] },
+      { "definition": "sísέtɔ́", "examples": [] },
+      { "definition": "zinzin", "examples": [] }
+    ]
+  },
+  "être habile": {
+    "definitions": [
+      { "definition": "bĭ", "examples": [] },
+      { "definition": "sè", "examples": [] },
+      { "definition": "gàn", "examples": [] },
+      { "definition": "sέ", "examples": [] },
+      { "definition": "zìn", "examples": [] }
+    ]
+  },
+  "être habile à la danse": {
+    "definitions": [
+      { "definition": "sè", "examples": [] },
+      { "definition": "gàn", "examples": [] }
+    ]
+  },
+  "habileté": { "definitions": [{ "definition": "gansisè", "examples": [] }] },
+  "habileté morale": {
+    "definitions": [{ "definition": "sísέ", "examples": [] }]
+  },
+  "habillement": { "definitions": [{ "definition": "awù", "examples": [] }] },
+  "habiller - habiller quelqu'un d'un pagne": {
+    "definitions": [
+      { "definition": "dŏ", "examples": [] },
+      { "definition": "avɔ̀", "examples": [] },
+      { "definition": "nú", "examples": [] },
+      { "definition": "mε", "examples": [] }
+    ]
+  },
+  "habiller quelqu'un qui est dans la nécessité": {
+    "definitions": [
+      { "definition": "dŏ", "examples": [] },
+      { "definition": "awù", "examples": [] }
+    ]
+  },
+  "s'habiller": {
+    "definitions": [
+      { "definition": "dŏ", "examples": [] },
+      { "definition": "awù", "examples": [] }
+    ]
+  },
+  "s'habiller au même moment": {
+    "definitions": [
+      { "definition": "dŏ", "examples": [] },
+      { "definition": "awù", "examples": [] },
+      { "definition": "zɛ̆nzɛ̆n", "examples": [] }
+    ]
+  },
+  "habit": {
+    "definitions": [
+      { "definition": "avɔ̀", "examples": [] },
+      { "definition": "awù", "examples": [] },
+      { "definition": "s’ávɔ̀", "examples": [] }
+    ]
+  },
+  "bel habit de fête": {
+    "definitions": [{ "definition": "àcɔ́wù", "examples": [] }]
+  },
+  "faire faire un habit": {
+    "definitions": [
+      { "definition": "tɔ̀", "examples": [] },
+      { "definition": "awù", "examples": [] }
+    ]
+  },
+  "habit ample": {
+    "definitions": [
+      { "definition": "awu", "examples": [] },
+      { "definition": "hloyaà", "examples": [] }
+    ]
+  },
+  "habit de prêtre": {
+    "definitions": [{ "definition": "yɛhwenɔwu", "examples": [] }]
+  },
+  "habit des kútítɔ́": {
+    "definitions": [{ "definition": "gɔ̀", "examples": [] }]
+  },
+  "habit d'un rouge éclatant": {
+    "definitions": [
+      { "definition": "awu", "examples": [] },
+      { "definition": "vɔvɔ", "examples": [] },
+      { "definition": "nyagoò", "examples": [] }
+    ]
+  },
+  "habit noir pour le deuil": {
+    "definitions": [{ "definition": "lŭtù", "examples": [] }]
+  },
+  "habit que l'on met à un mort": {
+    "definitions": [{ "definition": "cyɔ́wù", "examples": [] }]
+  },
+  "habit tout à fait blanc": {
+    "definitions": [
+      { "definition": "awu", "examples": [] },
+      { "definition": "wèwé", "examples": [] },
+      { "definition": "tété", "examples": [] }
+    ]
+  },
+  "habit tout à fait rouge": {
+    "definitions": [
+      { "definition": "awu", "examples": [] },
+      { "definition": "vɔvɔ", "examples": [] },
+      { "definition": "cέcέ", "examples": [] },
+      { "definition": "ou", "examples": [] },
+      { "definition": "xέxέ", "examples": [] },
+      { "definition": "awu", "examples": [] },
+      { "definition": "vivo", "examples": [] },
+      { "definition": "nyagoù", "examples": [] }
+    ]
+  },
+  "le grand habit des prêtres": {
+    "definitions": [
+      { "definition": "awu", "examples": [] },
+      { "definition": "gagá", "examples": [] },
+      { "definition": "yɛhwenɔ", "examples": [] },
+      { "definition": "lɛ́", "examples": [] },
+      { "definition": "tɔ̀́n", "examples": [] }
+    ]
+  },
+  "habillement en général, toilette": {
+    "definitions": [{ "definition": "nùzìnzán", "examples": [] }]
+  },
+  "habitant": { "definitions": [{ "definition": "tomεnù", "examples": [] }] },
+  "habitant d'abomey": {
+    "definitions": [{ "definition": "agbòmέnù", "examples": [] }]
+  },
+  "habitant de": {
+    "definitions": [
+      { "definition": "nù", "examples": [] },
+      { "definition": "tɔ́", "examples": [] }
+    ]
+  },
+  "habitant de cotonou": {
+    "definitions": [{ "definition": "kútɔ́nútɔ́", "examples": [] }]
+  },
+  "habitant de la concession d'un vaudoun": {
+    "definitions": [{ "definition": "hunxwénù", "examples": [] }]
+  },
+  "habitant de la localité": {
+    "definitions": [{ "definition": "tomεfínù", "examples": [] }]
+  },
+  "habitant de la région d'allada": {
+    "definitions": [
+      { "definition": "alada", "examples": [] },
+      { "definition": "kanmεnu", "examples": [] }
+    ]
+  },
+  "habitant de la vallée de l'ouémé": {
+    "definitions": [{ "definition": "wèmɛ́nù", "examples": [] }]
+  },
+  "habitant de l'endroit": {
+    "definitions": [
+      { "definition": "fínù", "examples": [] },
+      { "definition": "tomεfínù", "examples": [] }
+    ]
+  },
+  "habitant d’un pays": {
+    "definitions": [{ "definition": "tomεfínù", "examples": [] }]
+  },
+  "habitant de porto-novo": {
+    "definitions": [{ "definition": "xɔgbonutɔ́", "examples": [] }]
+  },
+  "habitant - habitant de porto-novo": {
+    "definitions": [{ "definition": "xɔgbonutɔ́", "examples": [] }]
+  },
+  "habitant de savè": {
+    "definitions": [{ "definition": "canù", "examples": [] }]
+  },
+  "habitant de village lacustre": {
+    "definitions": [{ "definition": "atɔ̀", "examples": [] }]
+  },
+  "habitant d'ici": {
+    "definitions": [
+      { "definition": "fínù", "examples": [] },
+      { "definition": "tomεfínù", "examples": [] }
+    ]
+  },
+  "habitant du dahomey": {
+    "definitions": [
+      { "definition": "danxomεnù", "examples": [] },
+      { "definition": "fɔnnù", "examples": [] }
+    ]
+  },
+  "habitant du nord": {
+    "definitions": [{ "definition": "kénù", "examples": [] }]
+  },
+  "habitant du pays adja": {
+    "definitions": [{ "definition": "janu", "examples": [] }]
+  },
+  "habitant du pays gὲn": {
+    "definitions": [{ "definition": "gεnnù", "examples": [] }]
+  },
+  "habitant du pays maxi": {
+    "definitions": [{ "definition": "maxínù", "examples": [] }]
+  },
+  "habitant du pays xweɖá": {
+    "definitions": [{ "definition": "xweɖánù", "examples": [] }]
+  },
+  "habitant du portugal": {
+    "definitions": [{ "definition": "agudatomεnù", "examples": [] }]
+  },
+  "habitant du sud": {
+    "definitions": [{ "definition": "xunù", "examples": [] }]
+  },
+  "habitant d'un autre pays": {
+    "definitions": [
+      { "definition": "toɖémεnù", "examples": [] },
+      { "definition": "toɖĕvomεnù", "examples": [] },
+      { "definition": "tomεnù", "examples": [] }
+    ]
+  },
+  "habitant d'une agglomération": {
+    "definitions": [{ "definition": "toxomεnù", "examples": [] }]
+  },
+  "habitant d'une autre localité": {
+    "definitions": [
+      { "definition": "toɖémεnù", "examples": [] },
+      { "definition": "toɖĕvomεnù", "examples": [] }
+    ]
+  },
+  "habitant d'une maison": {
+    "definitions": [
+      { "definition": "xwégbenù", "examples": [] },
+      { "definition": "xwénù", "examples": [] }
+    ]
+  },
+  "habitant d'une ville": {
+    "definitions": [{ "definition": "tomεnù", "examples": [] }]
+  },
+  "habitant le pays ayizo": {
+    "definitions": [{ "definition": "ayìzɔ́nù", "examples": [] }]
+  },
+  "les habitants des cases sur pilotis": {
+    "definitions": [{ "definition": "tɔxwεnu", "examples": [] }]
+  },
+  "nom des habitants du plateau d'abomey": {
+    "definitions": [{ "definition": "gedeví", "examples": [] }]
+  },
+  "habitation": { "definitions": [{ "definition": "xwé", "examples": [] }] },
+  "habiter": {
+    "definitions": [
+      { "definition": "cí", "examples": [] },
+      { "definition": "nɔ̀", "examples": [] }
+    ]
+  },
+  "habitude": {
+    "definitions": [
+      { "definition": "hwεndò", "examples": [] },
+      { "definition": "jijɔ̀", "examples": [] },
+      { "definition": "jujɔ̀", "examples": [] },
+      { "definition": "zìnzán", "examples": [] }
+    ]
+  },
+  "avoir l'habitude": {
+    "definitions": [{ "definition": "dŏ", "examples": [] }]
+  },
+  "avoir telle ou telle habitude": {
+    "definitions": [
+      { "definition": "zăn", "examples": [] },
+      { "definition": "ayì", "examples": [] }
+    ]
+  },
+  "avoir une mauvaise habitude": {
+    "definitions": [
+      { "definition": "nylă", "examples": [] },
+      { "definition": "jujɔ", "examples": [] }
+    ]
+  },
+  "bonne habitude": {
+    "definitions": [
+      { "definition": "jijɔ", "examples": [] },
+      { "definition": "ɖagbe", "examples": [] },
+      { "definition": "jujɔ", "examples": [] },
+      { "definition": "ɖagbe", "examples": [] }
+    ]
+  },
+  "en faire une habitude": {
+    "definitions": [{ "definition": "lὲ", "examples": [] }]
+  },
+  "habitude de brute": {
+    "definitions": [
+      { "definition": "lanjijɔ", "examples": [] },
+      { "definition": "lanjujɔ", "examples": [] }
+    ]
+  },
+  "habitude juste": {
+    "definitions": [
+      { "definition": "hwεjijɔ", "examples": [] },
+      { "definition": "hwεjujɔ", "examples": [] }
+    ]
+  },
+  "particule marquant l'habitude et se plaçant entre le sujet et le verbe": {
+    "definitions": [{ "definition": "nɔ", "examples": [] }]
+  },
+  "habitué - être habitué": {
+    "definitions": [
+      { "definition": "ɖă", "examples": [] },
+      { "definition": "mă", "examples": [] }
+    ]
+  },
+  "un habitué de l'eau": {
+    "definitions": [{ "definition": "tɔnuwatɔ́", "examples": [] }]
+  },
+  "habituel": { "definitions": [{ "definition": "xololò", "examples": [] }] },
+  "habituer - action de s'habituer": {
+    "definitions": [{ "definition": "mìmá", "examples": [] }]
+  },
+  "s'habituer": {
+    "definitions": [
+      { "definition": "dŏ", "examples": [] },
+      { "definition": "mε", "examples": [] },
+      { "definition": "tɔ̀n", "examples": [] },
+      { "definition": "mă", "examples": [] }
+    ]
+  },
+  "hâbleur": { "definitions": [{ "definition": "nuflétɔ́", "examples": [] }] },
+  "hache": { "definitions": [{ "definition": "asyɔ́", "examples": [] }] },
+  "grosse hache": {
+    "definitions": [
+      { "definition": "asyɔ́gbólù", "examples": [] },
+      { "definition": "gbolu", "examples": [] }
+    ]
+  },
+  "hache du tonnerre": {
+    "definitions": [{ "definition": "sosyɔ́ví", "examples": [] }]
+  },
+  "hacher": { "definitions": [{ "definition": "jă", "examples": [] }] },
+  "hachette": {
+    "definitions": [
+      { "definition": "asyɔ́ví", "examples": [] },
+      { "definition": "hanví", "examples": [] }
+    ]
+  },
+  "hachoir": { "definitions": [{ "definition": "nùjànú", "examples": [] }] },
+  "hachoir pour la viande": {
+    "definitions": [{ "definition": "lanjanú", "examples": [] }]
+  },
+  "haie": { "definitions": [{ "definition": "kpá", "examples": [] }] },
+  "haillon": {
+    "definitions": [
+      { "definition": "avɔtíntlέn", "examples": [] },
+      { "definition": "awuvúnvún", "examples": [] }
+    ]
+  },
+  "haine": {
+    "definitions": [
+      { "definition": "kὲn", "examples": [] },
+      { "definition": "nŭhὲnxomὲ", "examples": [] }
+    ]
+  },
+  "haïr - haïr quelqu'un": {
+    "definitions": [
+      { "definition": "gbɛ̆", "examples": [] },
+      { "definition": "wăn", "examples": [] },
+      { "definition": "nú", "examples": [] },
+      { "definition": "mɛ", "examples": [] }
+    ]
+  },
+  "haleur": { "definitions": [{ "definition": "kandɔntɔ́", "examples": [] }] },
+  "halte": { "definitions": [{ "definition": "tenɔtὲn", "examples": [] }] },
+  "hamac": { "definitions": [{ "definition": "kpɔ̀n", "examples": [] }] },
+  "hamac des rois d'abomey": {
+    "definitions": [{ "definition": "akpaká", "examples": [] }]
+  },
+  "hameçon": {
+    "definitions": [
+      { "definition": "mlὲ", "examples": [] },
+      { "definition": "xù", "examples": [] }
+    ]
+  },
+  "hampe - hampe de drapeau": {
+    "definitions": [{ "definition": "asyátín", "examples": [] }]
+  },
+  "hanche": {
+    "definitions": [
+      { "definition": "agŭn", "examples": [] },
+      { "definition": "akùn", "examples": [] },
+      { "definition": "alɔ̀", "examples": [] },
+      { "definition": "alinkàn", "examples": [] },
+      { "definition": "logó", "examples": [] },
+      { "definition": "logómὲ", "examples": [] },
+      { "definition": "lotomὲ", "examples": [] }
+    ]
+  },
+  "handicapé": {
+    "definitions": [{ "definition": "wɔ̀ngblèmɔ́nɔ̀", "examples": [] }]
+  },
+  "hangar": {
+    "definitions": [
+      { "definition": "azavà", "examples": [] },
+      { "definition": "xɔsá", "examples": [] }
+    ]
+  },
+  "hanneton": { "definitions": [{ "definition": "vεὲn", "examples": [] }] },
+  "hanneton au cri strident": {
+    "definitions": [{ "definition": "tiíntiín", "examples": [] }]
+  },
+  "harceler - action de harceler quelqu'un": {
+    "definitions": [{ "definition": "mεfunfun", "examples": [] }]
+  },
+  "celui qui harcèle quelqu'un jusqu'à le fatiguer": {
+    "definitions": [{ "definition": "mεfuntɔ́", "examples": [] }]
+  },
+  "celui qui harcèle un autre": {
+    "definitions": [{ "definition": "mεfuntɔ́", "examples": [] }]
+  },
+  "harceler quelqu'un": {
+    "definitions": [
+      { "definition": "ɖè", "examples": [] },
+      { "definition": "dŏ", "examples": [] },
+      { "definition": "mε", "examples": [] },
+      { "definition": "fùn", "examples": [] },
+      { "definition": "mε", "examples": [] }
+    ]
+  },
+  "hardi": {
+    "definitions": [
+      { "definition": "glă", "examples": [] },
+      { "definition": "glàglánɔ̀", "examples": [] }
+    ]
+  },
+  "être hardi": {
+    "definitions": [
+      { "definition": "syέn", "examples": [] },
+      { "definition": "ta", "examples": [] },
+      { "definition": "zɛ̀n", "examples": [] },
+      { "definition": "nŭ", "examples": [] }
+    ]
+  },
+  "hardiesse": {
+    "definitions": [
+      { "definition": "adăn", "examples": [] },
+      { "definition": "ayiglaglá", "examples": [] },
+      { "definition": "glàglá", "examples": [] }
+    ]
+  },
+  "hardiment": {
+    "definitions": [
+      { "definition": "kpódó", "examples": [] },
+      { "definition": "ayiglaglá", "examples": [] },
+      { "definition": "kpán", "examples": [] }
+    ]
+  },
+  "hargneux": {
+    "definitions": [
+      { "definition": "hunnylatɔ́", "examples": [] },
+      { "definition": "kanɖutɔ́", "examples": [] }
+    ]
+  },
+  "être hargneux": {
+    "definitions": [
+      { "definition": "adàntɔ́nɔ̀", "examples": [] },
+      { "definition": "ɖù", "examples": [] },
+      { "definition": "kàn", "examples": [] }
+    ]
+  },
+  "haricot": {
+    "definitions": [
+      { "definition": "ayì", "examples": [] },
+      { "definition": "ayìví", "examples": [] }
+    ]
+  },
+  "gros haricot rouge": {
+    "definitions": [{ "definition": "lὲgbàkpákún", "examples": [] }]
+  },
+  "haricot bariolé": {
+    "definitions": [{ "definition": "gbɔ̀ɖújígò", "examples": [] }]
+  },
+  "haricot blanc": {
+    "definitions": [
+      { "definition": "acáwèkún", "examples": [] },
+      { "definition": "cáwèkún", "examples": [] },
+      { "definition": "doyìwĕ", "examples": [] },
+      { "definition": "hwεntakpakún", "examples": [] }
+    ]
+  },
+  "haricot blanc dont les graines se forment en terre comme les arachides": {
+    "definitions": [{ "definition": "doyìwĕ", "examples": [] }]
+  },
+  "haricot blanc ou rouge": {
+    "definitions": [
+      { "definition": "vĭ", "examples": [] },
+      { "definition": "yὲyὲ’fɔ́kpá", "examples": [] }
+    ]
+  },
+  "haricot cuit": {
+    "definitions": [{ "definition": "ayikúnjlέjlέ", "examples": [] }]
+  },
+  "haricot cuit assaisonné": {
+    "definitions": [{ "definition": "ayihlŏ", "examples": [] }]
+  },
+  "haricot cuit avec des grains de maïs": {
+    "definitions": [{ "definition": "kosibɔbɔ", "examples": [] }]
+  },
+  "haricot de la petite saison sèche": {
+    "definitions": [
+      { "definition": "fomεyikún", "examples": [] },
+      { "definition": "foyikún", "examples": [] }
+    ]
+  },
+  "haricot dont on a enlevé la peau": {
+    "definitions": [{ "definition": "atá", "examples": [] }]
+  },
+  "haricot en général": {
+    "definitions": [{ "definition": "ayikún", "examples": [] }]
+  },
+  "haricot noir": {
+    "definitions": [
+      { "definition": "doyiwì", "examples": [] },
+      { "definition": "nawìkún", "examples": [] }
+    ]
+  },
+  "haricot pistache": {
+    "definitions": [{ "definition": "aziíngòkwín", "examples": [] }]
+  },
+  "haricot préparé sans farine": {
+    "definitions": [
+      { "definition": "abɔbɔ", "examples": [] },
+      { "definition": "kpεkoò", "examples": [] }
+    ]
+  },
+  "haricot rayé de noir": {
+    "definitions": [{ "definition": "wlècíwe", "examples": [] }]
+  },
+  "haricot rouge": {
+    "definitions": [{ "definition": "gbògbóɖókún", "examples": [] }]
+  },
+  "haricot - haricot rouge": {
+    "definitions": [
+      { "definition": "gbògbóɖókún", "examples": [] },
+      { "definition": "mεnɔgbὲ", "examples": [] }
+    ]
+  },
+  "haricot violet aux fleurs blanches": {
+    "definitions": [
+      { "definition": "sέwé", "examples": [] },
+      { "definition": "sέwékún", "examples": [] }
+    ]
+  },
+  "haricots cuits à l'eau": {
+    "definitions": [{ "definition": "abɔbɔ̀", "examples": [] }]
+  },
+  "haricots cuits simplement à l'eau": {
+    "definitions": [{ "definition": "vεyí", "examples": [] }]
+  },
+  "haricots écrasés grossièrement": {
+    "definitions": [{ "definition": "kowé", "examples": [] }]
+  },
+  "haricots et maïs cuits à l'eau auquels on ajoute de l'huile, du sel et du piment.": {
+    "definitions": [{ "definition": "cεxlò", "examples": [] }]
+  },
+  "haricots grillés et moulus": {
+    "definitions": [
+      { "definition": "yɔywɛ̀", "examples": [] },
+      { "definition": "ywɛywɛ̀", "examples": [] }
+    ]
+  },
+  "haricots rouges très abondants": {
+    "definitions": [{ "definition": "mεnɔgbὲ", "examples": [] }]
+  },
+  "sorte de haricot de couleur beige": {
+    "definitions": [{ "definition": "ɖamadámì", "examples": [] }]
+  },
+  "sorte de haricot gros et plat": {
+    "definitions": [{ "definition": "akpakún", "examples": [] }]
+  },
+  "sorte de haricot rouge": {
+    "definitions": [{ "definition": "vĭyὲyέfɔ́kpà", "examples": [] }]
+  },
+  "harmattan": {
+    "definitions": [
+      { "definition": "jɔwé", "examples": [] },
+      { "definition": "wooó", "examples": [] }
+    ]
+  },
+  "brume d'harmattan": {
+    "definitions": [{ "definition": "akpitì", "examples": [] }]
+  },
+  "harmonie - signale l'harmonie vigoureuse d'une symphonie": {
+    "definitions": [
+      { "definition": "siì", "examples": [] },
+      { "definition": "soò", "examples": [] }
+    ]
+  },
+  "harmonium": {
+    "definitions": [
+      { "definition": "asánhún", "examples": [] },
+      { "definition": "sangún", "examples": [] }
+    ]
+  },
+  "harpon": { "definitions": [{ "definition": "hwăn", "examples": [] }] },
+  "harponner": {
+    "definitions": [
+      { "definition": "nyì", "examples": [] },
+      { "definition": "hwăn", "examples": [] },
+      { "definition": "dŏ", "examples": [] },
+      { "definition": "mε", "examples": [] }
+    ]
+  },
+  "hasard": {
+    "definitions": [
+      { "definition": "nùkpédónùnú", "examples": [] },
+      { "definition": "nŭsɔgbedónùnú", "examples": [] }
+    ]
+  },
+  "au hasard": { "definitions": [{ "definition": "vlavò", "examples": [] }] },
+  "hase": {
+    "definitions": [
+      { "definition": "azwi", "examples": [] },
+      { "definition": "asì", "examples": [] },
+      { "definition": "azwi’sì", "examples": [] }
+    ]
+  },
+  "hâte - à la hâte": {
+    "definitions": [{ "definition": "tenu", "examples": [] }]
+  },
+  "en hâte": {
+    "definitions": [
+      { "definition": "jajà", "examples": [] },
+      { "definition": "kpódó", "examples": [] },
+      { "definition": "wùyìyá", "examples": [] },
+      { "definition": "kpán", "examples": [] }
+    ]
+  },
+  "en toute hâte": {
+    "definitions": [
+      { "definition": "ɖò", "examples": [] },
+      { "definition": "yìyá", "examples": [] },
+      { "definition": "jí", "examples": [] },
+      { "definition": "kplákplá", "examples": [] }
+    ]
+  },
+  "hâter - se hâter": {
+    "definitions": [
+      { "definition": "ɖì", "examples": [] },
+      { "definition": "wŭ", "examples": [] },
+      { "definition": "dlɔ̆n", "examples": [] },
+      { "definition": "dŏ", "examples": [] },
+      { "definition": "wezùn", "examples": [] },
+      { "definition": "fyá", "examples": [] },
+      { "definition": "yă", "examples": [] },
+      { "definition": "wŭ", "examples": [] }
+    ]
+  },
+  "se hâter de faire": {
+    "definitions": [
+      { "definition": "yă", "examples": [] },
+      { "definition": "wŭ", "examples": [] },
+      { "definition": "blŏ", "examples": [] }
+    ]
+  },
+  "se hâter pour venir": {
+    "definitions": [
+      { "definition": "fyá", "examples": [] },
+      { "definition": "wă", "examples": [] }
+    ]
+  },
+  "se hâter vers": {
+    "definitions": [
+      { "definition": "dlɔ̆n", "examples": [] },
+      { "definition": "dŏ", "examples": [] }
+    ]
+  },
+  "hausser - hausser les épaules": {
+    "definitions": [
+      { "definition": "nyε̆", "examples": [] },
+      { "definition": "abɔ̆", "examples": [] }
+    ]
+  },
+  "haut": {
+    "definitions": [
+      { "definition": "agà", "examples": [] },
+      { "definition": "ajò", "examples": [] },
+      { "definition": "atà", "examples": [] },
+      { "definition": "jogiì", "examples": [] },
+      { "definition": "jogijogì", "examples": [] }
+    ]
+  },
+  "aller en haut": {
+    "definitions": [
+      { "definition": "yì", "examples": [] },
+      { "definition": "jĭ", "examples": [] }
+    ]
+  },
+  "au plus haut point de": {
+    "definitions": [{ "definition": "zanmɛ̀", "examples": [] }]
+  },
+  "bien en haut": {
+    "definitions": [
+      { "definition": "aga", "examples": [] },
+      { "definition": "ɖéé", "examples": [] }
+    ]
+  },
+  "en haut": { "definitions": [{ "definition": "agà", "examples": [] }] },
+  "en haut de la montée": {
+    "definitions": [
+      { "definition": "kpó", "examples": [] },
+      { "definition": "ta", "examples": [] },
+      { "definition": "kpóta", "examples": [] }
+    ]
+  },
+  "en haute mer": {
+    "definitions": [
+      { "definition": "xu", "examples": [] },
+      { "definition": "zanmɛ̀", "examples": [] }
+    ]
+  },
+  "être en haut": {
+    "definitions": [
+      { "definition": "ɖò...", "examples": [] },
+      { "definition": "jĭ", "examples": [] }
+    ]
+  },
+  "être haut": {
+    "definitions": [
+      { "definition": "yì", "examples": [] },
+      { "definition": "jĭ", "examples": [] }
+    ]
+  },
+  "haut de la cuisse": {
+    "definitions": [
+      { "definition": "agunkpámὲ", "examples": [] },
+      { "definition": "lotomὲ", "examples": [] }
+    ]
+  },
+  "haut de la mâchoire": {
+    "definitions": [{ "definition": "cì", "examples": [] }]
+  },
+  "le haut": { "definitions": [{ "definition": "jĭ", "examples": [] }] },
+  "le haut de la gorge": {
+    "definitions": [{ "definition": "anyămὲ", "examples": [] }]
+  },
+  "le haut de l'oeil": {
+    "definitions": [{ "definition": "nukúngázá", "examples": [] }]
+  },
+  "le haut du dos": {
+    "definitions": [{ "definition": "nέgbegojí", "examples": [] }]
+  },
+  "tout en haut": { "definitions": [{ "definition": "ɖéé", "examples": [] }] },
+  "très haut": {
+    "definitions": [
+      { "definition": "joò", "examples": [] },
+      { "definition": "tlílí", "examples": [] }
+    ]
+  },
+  "hauteur": {
+    "definitions": [
+      { "definition": "gaɖiɖi", "examples": [] },
+      { "definition": "tagà", "examples": [] }
+    ]
+  },
+  "en hauteur": {
+    "definitions": [
+      { "definition": "gajaà", "examples": [] },
+      { "definition": "gajagajà", "examples": [] }
+    ]
+  },
+  "hauteur (dimension)": {
+    "definitions": [{ "definition": "jìyíyí", "examples": [] }]
+  },
+  "hébété - être hébété": {
+    "definitions": [{ "definition": "lŭ", "examples": [] }]
+  },
+  "hébétement": { "definitions": [{ "definition": "nùlúlú", "examples": [] }] },
+  "marque l'hébétement": {
+    "definitions": [
+      { "definition": "yɛɖɛɖɛ", "examples": [] },
+      { "definition": "yɛɛ̀", "examples": [] }
+    ]
+  },
+  "hein - hein !": {
+    "definitions": [
+      { "definition": "hε̆n", "examples": [] },
+      { "definition": "!", "examples": [] },
+      { "definition": "mε", "examples": [] },
+      { "definition": "̀!", "examples": [] },
+      { "definition": "ε̆n !", "examples": [] }
+    ]
+  },
+  "hélas - hélas !": {
+    "definitions": [
+      { "definition": "ké !", "examples": [] },
+      { "definition": "kée !", "examples": [] },
+      { "definition": "kóoyì !", "examples": [] },
+      { "definition": "kóyì !", "examples": [] }
+    ]
+  },
+  "ah ! hélas !": { "definitions": [{ "definition": "káyì", "examples": [] }] },
+  "hémiptère - hémiptère des gallinacés": {
+    "definitions": [{ "definition": "yɔ̀", "examples": [] }]
+  },
+  "hémorragie": {
+    "definitions": [
+      { "definition": "hunɖiɖi", "examples": [] },
+      { "definition": "hùndíɖí", "examples": [] },
+      { "definition": "hunsisa", "examples": [] }
+    ]
+  },
+  "avoir une hémorragie": {
+    "definitions": [
+      { "definition": "ɖì", "examples": [] },
+      { "definition": "hùn", "examples": [] }
+    ]
+  },
+  "faire une hémorragie": {
+    "definitions": [
+      { "definition": "bà", "examples": [] },
+      { "definition": "hlɔ̀n", "examples": [] },
+      { "definition": "mε", "examples": [] },
+      { "definition": "wŭ", "examples": [] }
+    ]
+  },
+  "faire une hémorragie (en dehors des règles, lors d'une grossesse)": {
+    "definitions": [
+      { "definition": "bà", "examples": [] },
+      { "definition": "hùn", "examples": [] }
+    ]
+  },
+  "hémorroïdes": {
+    "definitions": [
+      { "definition": "kókò", "examples": [] },
+      { "definition": "yonutúntún", "examples": [] }
+    ]
+  },
+  "avoir des hémorroïdes": {
+    "definitions": [
+      { "definition": "nyὲ", "examples": [] },
+      { "definition": "hùn", "examples": [] }
+    ]
+  },
+  "herbe": {
+    "definitions": [
+      { "definition": "gbĕ", "examples": [] },
+      { "definition": "gbèhán", "examples": [] }
+    ]
+  },
+  "brins d'herbe coupés qui ont séché": {
+    "definitions": [
+      { "definition": "sεniyɔ̆", "examples": [] },
+      { "definition": "sεnuyɔ́", "examples": [] }
+    ]
+  },
+  "herbe à petites feuilles": {
+    "definitions": [{ "definition": "hlε̆nwĕ", "examples": [] }]
+  },
+  "herbe amère": {
+    "definitions": [{ "definition": "amavívέ", "examples": [] }]
+  },
+  "herbe de savane": {
+    "definitions": [{ "definition": "fán", "examples": [] }]
+  },
+  "herbe dont les feuilles se collent au tissu": {
+    "definitions": [{ "definition": "tlέdávɔwú", "examples": [] }]
+  },
+  "herbe épineuse qui colle aux habits": {
+    "definitions": [{ "definition": "tlέdágbokɔ̀", "examples": [] }]
+  },
+  "herbe haute à tige fine": {
+    "definitions": [{ "definition": "kinì", "examples": [] }]
+  },
+  "herbe médicinale": {
+    "definitions": [{ "definition": "axéxé", "examples": [] }]
+  },
+  "herbe odoriférante": {
+    "definitions": [{ "definition": "axísíxísí", "examples": [] }]
+  },
+  "herbe qui a des noeuds sur la tige": {
+    "definitions": [{ "definition": "gŏɖokɔ̀", "examples": [] }]
+  },
+  "herbe qui sert à laver la plaie des circoncis": {
+    "definitions": [{ "definition": "adaklɔ́mà", "examples": [] }]
+  },
+  "herbe qui sert pour préparer une sauce": {
+    "definitions": [
+      { "definition": "glàséma", "examples": [] },
+      { "definition": "glàswéma", "examples": [] }
+    ]
+  },
+  "herbe sur tige unique et tendre portant des épines": {
+    "definitions": [{ "definition": "hwexɔ́", "examples": [] }]
+  },
+  "herbes froissées et hachées": {
+    "definitions": [{ "definition": "nùyɔ́ywɛ́", "examples": [] }]
+  },
+  "petite herbe": {
+    "definitions": [
+      { "definition": "tέngbé", "examples": [] },
+      { "definition": "tέngbétέngbé", "examples": [] }
+    ]
+  },
+  "sorte d'herbe avec rhizomes": {
+    "definitions": [{ "definition": "adantɔ́fyò", "examples": [] }]
+  },
+  "herbivore": { "definitions": [{ "definition": "gbèɖùtɔ́", "examples": [] }] },
+  "herboriste": {
+    "definitions": [
+      { "definition": "amawatɔ", "examples": [] },
+      { "definition": "nùwátɔ́", "examples": [] }
+    ]
+  },
+  "hérisson": {
+    "definitions": [
+      { "definition": "ajijá", "examples": [] },
+      { "definition": "ajijákúzε̆n", "examples": [] }
+    ]
+  },
+  "héritage": {
+    "definitions": [
+      { "definition": "gŭ", "examples": [] },
+      { "definition": "xù", "examples": [] },
+      { "definition": "xuɖuɖu", "examples": [] }
+    ]
+  },
+  "faire un héritage": {
+    "definitions": [
+      { "definition": "ɖù", "examples": [] },
+      { "definition": "gŭ", "examples": [] },
+      { "definition": "nùɖé", "examples": [] },
+      { "definition": "tɔ̀n", "examples": [] },
+      { "definition": "ɖù", "examples": [] },
+      { "definition": "xù", "examples": [] }
+    ]
+  },
+  "hériter": {
+    "definitions": [
+      { "definition": "ɖù", "examples": [] },
+      { "definition": "gŭ", "examples": [] },
+      { "definition": "ɖù", "examples": [] },
+      { "definition": "xù", "examples": [] }
+    ]
+  },
+  "action d'hériter": {
+    "definitions": [{ "definition": "xuɖuɖu", "examples": [] }]
+  },
+  "hériter de quelque chose": {
+    "definitions": [
+      { "definition": "ɖù", "examples": [] },
+      { "definition": "gŭ", "examples": [] },
+      { "definition": "nùɖé", "examples": [] },
+      { "definition": "tɔ̀n", "examples": [] }
+    ]
+  },
+  "hériter de quelqu'un": {
+    "definitions": [
+      { "definition": "ɖù", "examples": [] },
+      { "definition": "gŭ", "examples": [] },
+      { "definition": "mεɖé", "examples": [] },
+      { "definition": "tɔ̀n", "examples": [] }
+    ]
+  },
+  "héritier": {
+    "definitions": [
+      { "definition": "gùɖútɔ́", "examples": [] },
+      { "definition": "xuɖutɔ́", "examples": [] },
+      { "definition": "xùɖùví", "examples": [] }
+    ]
+  },
+  "héritier du trône d'abomey": {
+    "definitions": [{ "definition": "degénɔ̀", "examples": [] }]
+  },
+  "hernie": {
+    "definitions": [{ "definition": "adɔ̀vízɛ̀kpázɔ́n", "examples": [] }]
+  },
+  "avoir une hernie scrotale": {
+    "definitions": [
+      { "definition": "jὲ", "examples": [] },
+      { "definition": "avungwé", "examples": [] }
+    ]
+  },
+  "hernie scrotale": {
+    "definitions": [
+      { "definition": "avùngó", "examples": [] },
+      { "definition": "avungwé", "examples": [] },
+      { "definition": "kè", "examples": [] }
+    ]
+  },
+  "qui a une hernie": {
+    "definitions": [{ "definition": "avungwenɔ̀", "examples": [] }]
+  },
+  "variété de hernie": {
+    "definitions": [
+      { "definition": "ahwlilwí", "examples": [] },
+      { "definition": "ahwlulwí", "examples": [] }
+    ]
+  },
+  "héron": { "definitions": [{ "definition": "aɖɔxέ", "examples": [] }] },
+  "héron blanc": { "definitions": [{ "definition": "aɖɔwé", "examples": [] }] },
+  "héron blanc pique-boeufs": {
+    "definitions": [
+      { "definition": "kpatínxwlĕ", "examples": [] },
+      { "definition": "kpatínxwlĕ", "examples": [] },
+      { "definition": "aɖɔwé", "examples": [] }
+    ]
+  },
+  "héron cendré": { "definitions": [{ "definition": "gò", "examples": [] }] },
+  "héros": {
+    "definitions": [
+      { "definition": "adàntɔ́", "examples": [] },
+      { "definition": "súnnu", "examples": [] },
+      { "definition": "glegbenù", "examples": [] }
+    ]
+  },
+  "hésitation": {
+    "definitions": [
+      { "definition": "nùxókpɔ́n", "examples": [] },
+      { "definition": "xixokpɔ́n", "examples": [] },
+      { "definition": "xuxokpɔ́n", "examples": [] }
+    ]
+  },
+  "hésiter": {
+    "definitions": [
+      { "definition": "xò", "examples": [] },
+      { "definition": "kpɔ́n", "examples": [] },
+      { "definition": "xò", "examples": [] },
+      { "definition": "nŭ", "examples": [] },
+      { "definition": "kpɔ́n", "examples": [] }
+    ]
+  },
+  "heure": {
+    "definitions": [
+      { "definition": "gàn", "examples": [] },
+      { "definition": "ganxuxo", "examples": [] }
+    ]
+  },
+  "à heure fixe ou prévue": {
+    "definitions": [{ "definition": "ganmεganmὲ", "examples": [] }]
+  },
+  "à l’heure": {
+    "definitions": [
+      { "definition": "dó", "examples": [] },
+      { "definition": "gan", "examples": [] },
+      { "definition": "mὲ", "examples": [] }
+    ]
+  },
+  "à pareille heure": {
+    "definitions": [
+      { "definition": "lè", "examples": [] },
+      { "definition": "hwénu", "examples": [] }
+    ]
+  },
+  "à tout à l'heure": {
+    "definitions": [
+      { "definition": "é", "examples": [] },
+      { "definition": "sù", "examples": [] },
+      { "definition": "hweɖénu", "examples": [] }
+    ]
+  },
+  "dans une heure": {
+    "definitions": [
+      { "definition": "ganxixo", "examples": [] },
+      { "definition": "ɖokpó", "examples": [] },
+      { "definition": "mὲ", "examples": [] }
+    ]
+  },
+  "de bonne heure": {
+    "definitions": [
+      { "definition": "ayitéhɔ̀nnu", "examples": [] },
+      { "definition": "zànfɔ́nnú", "examples": [] },
+      { "definition": "zăn­zăn", "examples": [] },
+      { "definition": "tεὲn", "examples": [] }
+    ]
+  },
+  "être à l'heure": {
+    "definitions": [
+      { "definition": "dŏ", "examples": [] },
+      { "definition": "gàn", "examples": [] },
+      { "definition": "mὲ", "examples": [] }
+    ]
+  },
+  "heure (durée)": {
+    "definitions": [{ "definition": "ganxixo", "examples": [] }]
+  },
+  "heureux - être heureux": {
+    "definitions": [
+      { "definition": "ɖù", "examples": [] },
+      { "definition": "gbὲ", "examples": [] },
+      { "definition": "ɖù", "examples": [] },
+      { "definition": "zò", "examples": [] },
+      { "definition": "hùn", "examples": [] },
+      { "definition": "xomɛ̀", "examples": [] },
+      { "definition": "nŭ", "examples": [] },
+      { "definition": "nyɔ́", "examples": [] },
+      { "definition": "nú", "examples": [] },
+      { "definition": "mε", "examples": [] },
+      { "definition": "wɔ̀", "examples": [] },
+      { "definition": "gbὲ", "examples": [] },
+      { "definition": "ɖù", "examples": [] }
+    ]
+  },
+  "être heureux pour quelqu'un": {
+    "definitions": [
+      { "definition": "afɔ", "examples": [] },
+      { "definition": "nyɔ̆", "examples": [] },
+      { "definition": "nú", "examples": [] },
+      { "definition": "mε", "examples": [] },
+      { "definition": "nyɔ̆", "examples": [] },
+      { "definition": "afɔ̀", "examples": [] },
+      { "definition": "nú", "examples": [] },
+      { "definition": "mε", "examples": [] }
+    ]
+  },
+  "heurt": {
+    "definitions": [
+      { "definition": "agloxixo", "examples": [] },
+      { "definition": "agloyamὲ", "examples": [] },
+      { "definition": "agloyiyá", "examples": [] },
+      { "definition": "gloxixo", "examples": [] },
+      { "definition": "gloyamε", "examples": [] },
+      { "definition": "gloyiyá", "examples": [] },
+      { "definition": "xuxo", "examples": [] }
+    ]
+  },
+  "heurter": {
+    "definitions": [
+      { "definition": "càn", "examples": [] },
+      { "definition": "càn", "examples": [] },
+      { "definition": "gŏ", "examples": [] },
+      { "definition": "klέn", "examples": [] },
+      { "definition": "kpàn", "examples": [] },
+      { "definition": "kpàn", "examples": [] },
+      { "definition": "gŏ", "examples": [] },
+      { "definition": "nyà", "examples": [] },
+      { "definition": "glŏ", "examples": [] },
+      { "definition": "nyà", "examples": [] },
+      { "definition": "glŏ", "examples": [] },
+      { "definition": "yà", "examples": [] },
+      { "definition": "glŏ", "examples": [] }
+    ]
+  },
+  "action de heurter une chose": {
+    "definitions": [{ "definition": "gloyànŭ", "examples": [] }]
+  },
+  "heurter à une porte": {
+    "definitions": [
+      { "definition": "xúxú", "examples": [] },
+      { "definition": "hɔ̀n", "examples": [] }
+    ]
+  },
+  "heurter de l'épaule": {
+    "definitions": [
+      { "definition": "xò", "examples": [] },
+      { "definition": "aglò", "examples": [] }
+    ]
+  },
+  "heurter du pied": {
+    "definitions": [
+      { "definition": "gbà", "examples": [] },
+      { "definition": "afɔ", "examples": [] },
+      { "definition": "klέn", "examples": [] },
+      { "definition": "afɔ̀", "examples": [] }
+    ]
+  },
+  "heurter quelqu'un": {
+    "definitions": [
+      { "definition": "gbà", "examples": [] },
+      { "definition": "zà", "examples": [] },
+      { "definition": "nú", "examples": [] }
+    ]
+  },
+  "heurter quelqu'un de l'épaule": {
+    "definitions": [
+      { "definition": "nyà", "examples": [] },
+      { "definition": "aglò", "examples": [] },
+      { "definition": "mε", "examples": [] }
+    ]
+  },
+  "heurter quelqu'un de l'épaule du côté": {
+    "definitions": [
+      { "definition": "nyà", "examples": [] },
+      { "definition": "aglò", "examples": [] },
+      { "definition": "mε", "examples": [] }
+    ]
+  },
+  "heurter quelqu'un du côté": {
+    "definitions": [
+      { "definition": "nyà", "examples": [] },
+      { "definition": "aglò", "examples": [] },
+      { "definition": "mε", "examples": [] }
+    ]
+  },
+  "heurter quelqu'un du pied": {
+    "definitions": [
+      { "definition": "sɔ́", "examples": [] },
+      { "definition": "afɔ̀", "examples": [] },
+      { "definition": "mε", "examples": [] }
+    ]
+  },
+  "se heurter": {
+    "definitions": [
+      { "definition": "xò", "examples": [] },
+      { "definition": "gò", "examples": [] }
+    ]
+  },
+  "heurtoir": { "definitions": [{ "definition": "nùxónú", "examples": [] }] },
+  "hibou": {
+    "definitions": [
+      { "definition": "azĕxɛ̀", "examples": [] },
+      { "definition": "klólwé", "examples": [] },
+      { "definition": "kwelele", "examples": [] }
+    ]
+  },
+  "hideux": { "definitions": [{ "definition": "nylànylá", "examples": [] }] },
+  "hier": {
+    "definitions": [
+      { "definition": "sɔ̀", "examples": [] },
+      { "definition": "sɔ̀", "examples": [] },
+      { "definition": "é", "examples": [] },
+      { "definition": "kó", "examples": [] },
+      { "definition": "wá", "examples": [] },
+      { "definition": "yí", "examples": [] },
+      { "definition": "ɔ́", "examples": [] }
+    ]
+  },
+  "hier matin": {
+    "definitions": [
+      { "definition": "sɔ̀", "examples": [] },
+      { "definition": "zănzăn", "examples": [] }
+    ]
+  },
+  "hier soir": {
+    "definitions": [
+      { "definition": "sɔ", "examples": [] },
+      { "definition": "gbadanu", "examples": [] }
+    ]
+  },
+  "hippopotame": {
+    "definitions": [
+      { "definition": "akláakú", "examples": [] },
+      { "definition": "akláakú", "examples": [] },
+      { "definition": "ɖεgbó", "examples": [] },
+      { "definition": "aklákú", "examples": [] },
+      { "definition": "ɖεgbó", "examples": [] }
+    ]
+  },
+  "hirondelle": { "definitions": [{ "definition": "azɔnxὲ", "examples": [] }] },
+  "hisser": {
+    "definitions": [
+      { "definition": "zĕ", "examples": [] },
+      { "definition": "sín", "examples": [] },
+      { "definition": "ayĭ", "examples": [] }
+    ]
+  },
+  "histoire": {
+    "definitions": [
+      { "definition": "hwenuxó", "examples": [] },
+      { "definition": "itàn", "examples": [] },
+      { "definition": "xó", "examples": [] }
+    ]
+  },
+  "faire de l'histoire": {
+    "definitions": [
+      { "definition": "kpì", "examples": [] },
+      { "definition": "tàn", "examples": [] }
+    ]
+  },
+  "histoire inventée": {
+    "definitions": [{ "definition": "xɛxó", "examples": [] }]
+  },
+  "histoire vraie": {
+    "definitions": [{ "definition": "tàn", "examples": [] }]
+  },
+  "hivernage": { "definitions": [{ "definition": "sinmὲ", "examples": [] }] },
+  "hocher - hocher la tête": {
+    "definitions": [
+      { "definition": "dăn", "examples": [] },
+      { "definition": "ta", "examples": [] },
+      { "definition": "hùnhún", "examples": [] },
+      { "definition": "ta", "examples": [] },
+      { "definition": "mì", "examples": [] },
+      { "definition": "ta", "examples": [] },
+      { "definition": "xúxú", "examples": [] },
+      { "definition": "ta", "examples": [] }
+    ]
+  },
+  "holocauste": {
+    "definitions": [{ "definition": "nawɔnkúvɔ́", "examples": [] }]
+  },
+  "homard": { "definitions": [{ "definition": "xumɛdegɔ̀n", "examples": [] }] },
+  "hommage - action de rendre hommage": {
+    "definitions": [{ "definition": "avalúnnyínyí", "examples": [] }]
+  },
+  "hommage rendu un supérieur pour qu'il soit bienveillant": {
+    "definitions": [
+      { "definition": "avalé", "examples": [] },
+      { "definition": "avalú", "examples": [] }
+    ]
+  },
+  "homme": {
+    "definitions": [
+      { "definition": "gbεtɔ́", "examples": [] },
+      { "definition": "súnnù", "examples": [] }
+    ]
+  },
+  "homme adultère": {
+    "definitions": [
+      { "definition": "afɔdógbenúmεtɔ́", "examples": [] },
+      { "definition": "mεsibatɔ́", "examples": [] }
+    ]
+  },
+  "homme âgé": { "definitions": [{ "definition": "nyaxóxó", "examples": [] }] },
+  "homme apathique": {
+    "definitions": [{ "definition": "sukútɔ́", "examples": [] }]
+  },
+  "homme au coeur bon": {
+    "definitions": [
+      { "definition": "dăwè", "examples": [] },
+      { "definition": "măwù", "examples": [] },
+      { "definition": "gbεtɔ́", "examples": [] }
+    ]
+  },
+  "homme au coeur droit": {
+    "definitions": [{ "definition": "ayisɔgbenánɔ̀", "examples": [] }]
+  },
+  "homme au sens péjoratif.": {
+    "definitions": [{ "definition": "alagbὲ", "examples": [] }]
+  },
+  "homme au teint clair": {
+    "definitions": [
+      { "definition": "dávɔ", "examples": [] },
+      { "definition": "nyavɔ̀", "examples": [] }
+    ]
+  },
+  "homme au teint noir": {
+    "definitions": [{ "definition": "nyawì", "examples": [] }]
+  },
+  "homme brave": {
+    "definitions": [
+      { "definition": "súnnu", "examples": [] },
+      { "definition": "glegbenù", "examples": [] }
+    ]
+  },
+  "homme de bon conseil": {
+    "definitions": [{ "definition": "nŭɖagbekplɔ́nmεtɔ́", "examples": [] }]
+  },
+  "homme de coeur": {
+    "definitions": [
+      { "definition": "dăwè", "examples": [] },
+      { "definition": "măwù", "examples": [] },
+      { "definition": "gbεtɔ́", "examples": [] }
+    ]
+  },
+  "homme de la brousse": {
+    "definitions": [{ "definition": "gbèmέnù", "examples": [] }]
+  },
+  "homme de sexe masculin et d'un certain âge": {
+    "definitions": [{ "definition": "dăwé", "examples": [] }]
+  },
+  "homme dégourdi": {
+    "definitions": [
+      { "definition": "mε", "examples": [] },
+      { "definition": "bìbí", "examples": [] }
+    ]
+  },
+  "homme droit": {
+    "definitions": [
+      { "definition": "ayiɖòwὲnnánɔ̀", "examples": [] },
+      { "definition": "ayilɔ́jlɔ́nɔ̀", "examples": [] }
+    ]
+  },
+  "homme d'un certain âge": {
+    "definitions": [{ "definition": "dàwé", "examples": [] }]
+  },
+  "homme d'un même clan": {
+    "definitions": [{ "definition": "akɔtɔ́nɔ̀", "examples": [] }]
+  },
+  "homme fort": {
+    "definitions": [
+      { "definition": "alaká", "examples": [] },
+      { "definition": "súnnu", "examples": [] },
+      { "definition": "glegbenù", "examples": [] }
+    ]
+  },
+  "homme honnête": {
+    "definitions": [{ "definition": "ayilɔ́jlɔ́nɔ̀", "examples": [] }]
+  },
+  "homme important": {
+    "definitions": [
+      { "definition": "mεdaxó", "examples": [] },
+      { "definition": "nyaɖaxó", "examples": [] }
+    ]
+  },
+  "homme inconséquent": {
+    "definitions": [
+      { "definition": "gbòlòɖɔ́tɔ́", "examples": [] },
+      { "definition": "lὲlónɔ̀", "examples": [] }
+    ]
+  },
+  "homme infidèle au pacte d'amitié": {
+    "definitions": [{ "definition": "lεdatɔ́", "examples": [] }]
+  },
+  "homme inflexible": {
+    "definitions": [{ "definition": "masegbɔ̀", "examples": [] }]
+  },
+  "homme intrépide": {
+    "definitions": [
+      { "definition": "súnnu", "examples": [] },
+      { "definition": "glegbenù", "examples": [] },
+      { "definition": "súnnu", "examples": [] },
+      { "definition": "glegbenù", "examples": [] }
+    ]
+  },
+  "homme juste": {
+    "definitions": [
+      { "definition": "ayiɖòwὲnnánɔ̀", "examples": [] },
+      { "definition": "ayilɔ́jlɔ́nɔ̀", "examples": [] },
+      { "definition": "ayisɔgbenánɔ̀", "examples": [] }
+    ]
+  },
+  "homme marié": {
+    "definitions": [
+      { "definition": "asisínò", "examples": [] },
+      { "definition": "asisúnò", "examples": [] }
+    ]
+  },
+  "homme mauvais": {
+    "definitions": [
+      { "definition": "nŭ", "examples": [] },
+      { "definition": "baɖabaɖa", "examples": [] }
+    ]
+  },
+  "homme négligent": {
+    "definitions": [{ "definition": "sukútɔ́", "examples": [] }]
+  },
+  "homme ordinaire": {
+    "definitions": [
+      { "definition": "gbɛtɔ́", "examples": [] },
+      { "definition": "xololò", "examples": [] }
+    ]
+  },
+  "homme ou femme consacrés à agasu": {
+    "definitions": [{ "definition": "agasúsì", "examples": [] }]
+  },
+  "homme ou femme qui vit en concubinage": {
+    "definitions": [{ "definition": "xɔnnɔ̀", "examples": [] }]
+  },
+  "homme politique": {
+    "definitions": [{ "definition": "toxóɖɔ́tɔ́", "examples": [] }]
+  },
+  "homme posé": {
+    "definitions": [{ "definition": "ayixanɔ̀", "examples": [] }]
+  },
+  "homme quelconque": {
+    "definitions": [
+      { "definition": "gbɛtɔ́", "examples": [] },
+      { "definition": "xololò", "examples": [] }
+    ]
+  },
+  "homme qui calcule": {
+    "definitions": [{ "definition": "ayixanɔ̀", "examples": [] }]
+  },
+  "homme qui n'a pas réussi à se marier": {
+    "definitions": [{ "definition": "xwékònŭ", "examples": [] }]
+  },
+  "homme qui prépare des sortilèges pour donner des maladies aux autres": {
+    "definitions": [{ "definition": "azɔnɖatɔ́", "examples": [] }]
+  },
+  "homme réfléchi": {
+    "definitions": [{ "definition": "ayixanɔ̀", "examples": [] }]
+  },
+  "homme sanguinaire": {
+    "definitions": [
+      { "definition": "gbεtɔ́", "examples": [] },
+      { "definition": "hunkɔndáyìtɔ́", "examples": [] }
+    ]
+  },
+  "homme sans défaut": {
+    "definitions": [{ "definition": "blɔmáɖòwú", "examples": [] }]
+  },
+  "homme solide": {
+    "definitions": [
+      { "definition": "súnnu", "examples": [] },
+      { "definition": "glegbenù", "examples": [] }
+    ]
+  },
+  "homme stérile": {
+    "definitions": [
+      { "definition": "súnnù", "examples": [] },
+      { "definition": "majìɖĕnɔ̀", "examples": [] }
+    ]
+  },
+  "homme très malin": {
+    "definitions": [{ "definition": "akpó", "examples": [] }]
+  },
+  "homme très rusé": {
+    "definitions": [{ "definition": "akpónyagidì", "examples": [] }]
+  },
+  "homme valeureux": {
+    "definitions": [
+      { "definition": "súnnu", "examples": [] },
+      { "definition": "glegbenù", "examples": [] }
+    ]
+  },
+  "homme véritable": {
+    "definitions": [{ "definition": "gbεtɔ́jɔgbεtɔ́", "examples": [] }]
+  },
+  "homme violent": {
+    "definitions": [{ "definition": "alaká", "examples": [] }]
+  },
+  "un homme blanc": {
+    "definitions": [{ "definition": "yovó", "examples": [] }]
+  },
+  "un homme de rien": {
+    "definitions": [{ "definition": "mεyàyá", "examples": [] }]
+  },
+  "un homme du commun": {
+    "definitions": [{ "definition": "mεyàyá", "examples": [] }]
+  },
+  "un homme du vieux temps": {
+    "definitions": [
+      { "definition": "gbεtɔ́", "examples": [] },
+      { "definition": "jixómε", "examples": [] },
+      { "definition": "tɔ̀n", "examples": [] }
+    ]
+  },
+  "un homme responsable de maison": {
+    "definitions": [
+      { "definition": "súnnu", "examples": [] },
+      { "definition": "xwétɔ́", "examples": [] },
+      { "definition": "xwénɔ̀", "examples": [] }
+    ]
+  },
+  "un homme totalement pauvre": {
+    "definitions": [
+      { "definition": "wamamɔnɔ", "examples": [] },
+      { "definition": "kέyέkέyέ", "examples": [] }
+    ]
+  },
+  "homonyme": { "definitions": [{ "definition": "nyĭkàn", "examples": [] }] },
+  "honnête - être honnête": {
+    "definitions": [
+      { "definition": "ayì", "examples": [] },
+      { "definition": "mε", "examples": [] },
+      { "definition": "tɔ̀n", "examples": [] },
+      { "definition": "jlɔ̆", "examples": [] },
+      { "definition": "ayiɖòwὲnnánɔ̀", "examples": [] }
+    ]
+  },
+  "honneur": {
+    "definitions": [
+      { "definition": "glădì", "examples": [] },
+      { "definition": "sísí", "examples": [] },
+      { "definition": "wì", "examples": [] },
+      { "definition": "yɛ̀yí", "examples": [] }
+    ]
+  },
+  "honnir": { "definitions": [{ "definition": "wɔ̆", "examples": [] }] },
+  "honnir quelqu'un": {
+    "definitions": [
+      { "definition": "wɔ̆", "examples": [] },
+      { "definition": "mɛ", "examples": [] }
+    ]
+  },
+  "honoré": { "definitions": [{ "definition": "susunɔ̀", "examples": [] }] },
+  "être honoré": {
+    "definitions": [
+      { "definition": "yĭ", "examples": [] },
+      { "definition": "yɛ̀yí", "examples": [] }
+    ]
+  },
+  "honorer": {
+    "definitions": [
+      { "definition": "sɔ́", "examples": [] },
+      { "definition": "mε", "examples": [] },
+      { "definition": "sù", "examples": [] }
+    ]
+  },
+  "honorer quelqu'un": {
+    "definitions": [
+      { "definition": "wlĭ", "examples": [] },
+      { "definition": "yɛ̀yí", "examples": [] },
+      { "definition": "nú", "examples": [] },
+      { "definition": "mɛ", "examples": [] }
+    ]
+  },
+  "honte": {
+    "definitions": [
+      { "definition": "winnyá", "examples": [] },
+      { "definition": "winnyáhumɛ", "examples": [] }
+    ]
+  },
+  "avoir honte": {
+    "definitions": [
+      { "definition": "ɖù", "examples": [] },
+      { "definition": "winnyá", "examples": [] },
+      { "definition": "ɖù", "examples": [] },
+      { "definition": "wìnyá", "examples": [] },
+      { "definition": "hù", "examples": [] },
+      { "definition": "winnyá", "examples": [] },
+      { "definition": "winnyá", "examples": [] },
+      { "definition": "hù", "examples": [] },
+      { "definition": "mɛ", "examples": [] }
+    ]
+  },
+  "faire honte": {
+    "definitions": [
+      { "definition": "hù", "examples": [] },
+      { "definition": "winnyá", "examples": [] },
+      { "definition": "kpɛ̀n", "examples": [] },
+      { "definition": "wùn", "examples": [] }
+    ]
+  },
+  "faire honte à quelqu'un": {
+    "definitions": [
+      { "definition": "dŏ", "examples": [] },
+      { "definition": "winnyá", "examples": [] },
+      { "definition": "mɛ", "examples": [] },
+      { "definition": "dŏ", "examples": [] },
+      { "definition": "winyá", "examples": [] },
+      { "definition": "mε", "examples": [] },
+      { "definition": "kɔ́n", "examples": [] },
+      { "definition": "wì", "examples": [] },
+      { "definition": "nú", "examples": [] },
+      { "definition": "mɛ", "examples": [] },
+      { "definition": "kɔ́n", "examples": [] },
+      { "definition": "wì", "examples": [] },
+      { "definition": "nú", "examples": [] },
+      { "definition": "mε", "examples": [] }
+    ]
+  },
+  "honte préjudiciable qui fait manquer une occasion favorable": {
+    "definitions": [{ "definition": "winnyázɔ̀n", "examples": [] }]
+  },
+  "lourde honte": {
+    "definitions": [{ "definition": "wunkpinkpɛn", "examples": [] }]
+  },
+  "qui a honte": {
+    "definitions": [{ "definition": "winnyákútɔ́", "examples": [] }]
+  },
+  "honteux - action honteuse": {
+    "definitions": [{ "definition": "wunkpɛnnú", "examples": [] }]
+  },
+  "commettre une action honteuse": {
+    "definitions": [
+      { "definition": "hù", "examples": [] },
+      { "definition": "winnyá", "examples": [] },
+      { "definition": "gbò", "examples": [] },
+      { "definition": "ta", "examples": [] }
+    ]
+  },
+  "être honteux": {
+    "definitions": [
+      { "definition": "hù", "examples": [] },
+      { "definition": "winnyá", "examples": [] },
+      { "definition": "gbò", "examples": [] },
+      { "definition": "ta", "examples": [] },
+      { "definition": "kpɛ̀n", "examples": [] },
+      { "definition": "wùn", "examples": [] },
+      { "definition": "kpὲn", "examples": [] },
+      { "definition": "wùn", "examples": [] }
+    ]
+  },
+  "hôpital": {
+    "definitions": [
+      { "definition": "dotóxwé", "examples": [] },
+      { "definition": "ɖaxó", "examples": [] },
+      { "definition": "dotóxwé", "examples": [] }
+    ]
+  },
+  "hoquet": {
+    "definitions": [
+      { "definition": "adɔsísó", "examples": [] },
+      { "definition": "adɔsúsó", "examples": [] },
+      { "definition": "hè", "examples": [] },
+      { "definition": "sɔ́́késɔ́", "examples": [] },
+      { "definition": "ké", "examples": [] },
+      { "definition": "súkésúké", "examples": [] }
+    ]
+  },
+  "avoir le hoquet": {
+    "definitions": [
+      { "definition": "adɔ̀", "examples": [] },
+      { "definition": "só", "examples": [] },
+      { "definition": "ɖ'adɔ̀", "examples": [] },
+      { "definition": "mὲ", "examples": [] },
+      { "definition": "adɔsúsó", "examples": [] },
+      { "definition": "sɔ́", "examples": [] },
+      { "definition": "mε", "examples": [] },
+      { "definition": "só", "examples": [] },
+      { "definition": "adɔ", "examples": [] },
+      { "definition": "súkésúké", "examples": [] },
+      { "definition": "sɔ́", "examples": [] },
+      { "definition": "mε", "examples": [] }
+    ]
+  },
+  "sorte de hoquet respiratoire chez quelqu'un qui a beaucoup pleuré": {
+    "definitions": [{ "definition": "bòbŏ", "examples": [] }]
+  },
+  "hoqueter": {
+    "definitions": [
+      { "definition": "sɔ́", "examples": [] },
+      { "definition": "hè", "examples": [] }
+    ]
+  },
+  "horloge": {
+    "definitions": [
+      { "definition": "gàn", "examples": [] },
+      { "definition": "lɔ̆jì", "examples": [] }
+    ]
+  },
+  "horloger": {
+    "definitions": [{ "definition": "lɔ̆jiblotɔ́", "examples": [] }]
+  },
+  "horloger-fabriquant": {
+    "definitions": [{ "definition": "ganblotɔ́", "examples": [] }]
+  },
+  "horloger-réparateur": {
+    "definitions": [{ "definition": "ganbloɖotɔ́", "examples": [] }]
+  },
+  "horlogerie": {
+    "definitions": [{ "definition": "ganbloxɔ́sá", "examples": [] }]
+  },
+  "hormis": {
+    "definitions": [
+      { "definition": "zɛ̀", "examples": [] },
+      { "definition": "wŭ", "examples": [] }
+    ]
+  },
+  "horreur - faire horreur": {
+    "definitions": [
+      { "definition": "fyɔ́n", "examples": [] },
+      { "definition": "wŭ", "examples": [] }
+    ]
+  },
+  "horrible": { "definitions": [{ "definition": "nylànylá", "examples": [] }] },
+  "horripilant - être horripilant": {
+    "definitions": [
+      { "definition": "xyɔ́", "examples": [] },
+      { "definition": "wŭ", "examples": [] }
+    ]
+  },
+  "horripilation": {
+    "definitions": [{ "definition": "wùjìjí", "examples": [] }]
+  },
+  "hors - être hors de propos": {
+    "definitions": [{ "definition": "majεgan", "examples": [] }]
+  },
+  "hors de": { "definitions": [{ "definition": "sín", "examples": [] }] },
+  "hors de l'eau": {
+    "definitions": [
+      { "definition": "agĕ", "examples": [] },
+      { "definition": "agε̆", "examples": [] },
+      { "definition": "gĕ", "examples": [] }
+    ]
+  },
+  "hors du trou": {
+    "definitions": [
+      { "definition": "agĕ", "examples": [] },
+      { "definition": "agε̆", "examples": [] },
+      { "definition": "gĕ", "examples": [] }
+    ]
+  },
+  "hors pair dans le sens négatif": {
+    "definitions": [{ "definition": "agănlingàn", "examples": [] }]
+  },
+  "hospitalité": {
+    "definitions": [{ "definition": "mεyiyí", "examples": [] }]
+  },
+  "hospitalité envers le prochain": {
+    "definitions": [{ "definition": "nɔzodɔndówŭ", "examples": [] }]
+  },
+  "hôte": { "definitions": [{ "definition": "jŏ", "examples": [] }] },
+  "hôte (qui est reçu)": {
+    "definitions": [{ "definition": "jŏnɔ̆", "examples": [] }]
+  },
+  "hôtel - hôtel du vaudoun du courage": {
+    "definitions": [{ "definition": "adànzún", "examples": [] }]
+  },
+  "houe - houe à long manche": {
+    "definitions": [{ "definition": "yovólín", "examples": [] }]
+  },
+  "houe large": { "definitions": [{ "definition": "alìnsɔ́", "examples": [] }] },
+  "houe pour sarcler": {
+    "definitions": [{ "definition": "alìnxlé", "examples": [] }]
+  },
+  "sorte de houe": {
+    "definitions": [{ "definition": "azìnbέ", "examples": [] }]
+  },
+  "sorte de houe dont le fer a la forme d’une langue de chien": {
+    "definitions": [{ "definition": "avùnɖέ", "examples": [] }]
+  },
+  "houspiller": {
+    "definitions": [
+      { "definition": "dŏ", "examples": [] },
+      { "definition": "yà", "examples": [] },
+      { "definition": "nú", "examples": [] },
+      { "definition": "mε", "examples": [] }
+    ]
+  },
+  "huer": { "definitions": [{ "definition": "wɔ̆", "examples": [] }] },
+  "huer quelqu'un": {
+    "definitions": [
+      { "definition": "fó", "examples": [] },
+      { "definition": "kpà", "examples": [] },
+      { "definition": "óóó", "examples": [] },
+      { "definition": "dŏ", "examples": [] },
+      { "definition": "ta", "examples": [] },
+      { "definition": "nú", "examples": [] },
+      { "definition": "mε", "examples": [] },
+      { "definition": "wɔ̆", "examples": [] },
+      { "definition": "mɛ", "examples": [] }
+    ]
+  },
+  "huile": { "definitions": [{ "definition": "amì", "examples": [] }] },
+  "huile blanche d'amande de noix de palme": {
+    "definitions": [{ "definition": "adĭnmiwĕ", "examples": [] }]
+  },
+  "huile d'arachide": {
+    "definitions": [{ "definition": "aziinmí", "examples": [] }]
+  },
+  "huile de coco": {
+    "definitions": [{ "definition": "agɔnkέmì", "examples": [] }]
+  },
+  "huile de moteur": {
+    "definitions": [{ "definition": "mɔ̆tomì", "examples": [] }]
+  },
+  "huile de palme": {
+    "definitions": [
+      { "definition": "amivɔ̀", "examples": [] },
+      { "definition": "dĕmì", "examples": [] },
+      { "definition": "sinvɔ̀", "examples": [] }
+    ]
+  },
+  "huile de palme (terme employé la nuit)": {
+    "definitions": [{ "definition": "sinvɔ̀", "examples": [] }]
+  },
+  "huile de ricin": {
+    "definitions": [{ "definition": "gbògbózokwínmí", "examples": [] }]
+  },
+  "huile de senteur": {
+    "definitions": [
+      { "definition": "ami", "examples": [] },
+      { "definition": "huhwέn", "examples": [] }
+    ]
+  },
+  "huile de voiture": {
+    "definitions": [{ "definition": "mɔ̆tomì", "examples": [] }]
+  },
+  "huile noire extraite de l'amande de palme": {
+    "definitions": [{ "definition": "cocò", "examples": [] }]
+  },
+  "huile parfumée": {
+    "definitions": [
+      { "definition": "ami", "examples": [] },
+      { "definition": "hunhwέn", "examples": [] }
+    ]
+  },
+  "huile purgative": {
+    "definitions": [{ "definition": "amislă", "examples": [] }]
+  },
+  "huile raffinée": {
+    "definitions": [{ "definition": "amihwínhwέn", "examples": [] }]
+  },
+  "huile rouge": { "definitions": [{ "definition": "amivɔ̀", "examples": [] }] },
+  "l'huile avec laquelle on peut frire une variété de beignets": {
+    "definitions": [{ "definition": "aklanɔmì", "examples": [] }]
+  },
+  "l'huile de coprah": {
+    "definitions": [{ "definition": "agɔnkέmì", "examples": [] }]
+  },
+  "l'huile noire d'amande de noix de palmes": {
+    "definitions": [{ "definition": "adĭnmiwiwì", "examples": [] }]
+  },
+  "l'huile qu'on en extrait et qui mousse énormément": {
+    "definitions": [{ "definition": "kisέdé", "examples": [] }]
+  },
+  "sert à désigner l'huile rouge pendant la nuit": {
+    "definitions": [{ "definition": "sinvɔ̀", "examples": [] }]
+  },
+  "toute huile servant à éclairer": {
+    "definitions": [{ "definition": "zogbɛnmí", "examples": [] }]
+  },
+  "huileux - être huileux": {
+    "definitions": [
+      { "definition": "ɖŏ", "examples": [] },
+      { "definition": "amì", "examples": [] }
+    ]
+  },
+  "huissier": {
+    "definitions": [
+      { "definition": "hɔnhuntɔ́", "examples": [] },
+      { "definition": "hɔnjigán", "examples": [] }
+    ]
+  },
+  "huit": { "definitions": [{ "definition": "tántɔ̀n", "examples": [] }] },
+  "huit cent mille": {
+    "definitions": [
+      { "definition": "dĕgbà", "examples": [] },
+      { "definition": "afɔɖé", "examples": [] }
+    ]
+  },
+  "huit cents": { "definitions": [{ "definition": "afεnὲ", "examples": [] }] },
+  "huit cents cauris ou vingt centimes": {
+    "definitions": [
+      { "definition": "akwέ", "examples": [] },
+      { "definition": "afεnὲ", "examples": [] }
+    ]
+  },
+  "huit heures dix": {
+    "definitions": [
+      { "definition": "gan", "examples": [] },
+      { "definition": "tántɔn", "examples": [] },
+      { "definition": "din", "examples": [] },
+      { "definition": "cέjú", "examples": [] },
+      { "definition": "wŏ", "examples": [] }
+    ]
+  },
+  "huit mille": {
+    "definitions": [
+      { "definition": "dĕgbà", "examples": [] },
+      { "definition": "wè", "examples": [] }
+    ]
+  },
+  "huitième": { "definitions": [{ "definition": "tántɔngɔ́", "examples": [] }] },
+  "huître": { "definitions": [{ "definition": "adakpέn", "examples": [] }] },
+  "humble": {
+    "definitions": [{ "definition": "mεɖésɔ́hwétɔ́", "examples": [] }]
+  },
+  "humecter": { "definitions": [{ "definition": "nyĭ", "examples": [] }] },
+  "humecter avec de la salive": {
+    "definitions": [
+      { "definition": "ɖŏ", "examples": [] },
+      { "definition": "atán", "examples": [] }
+    ]
+  },
+  "humer": { "definitions": [{ "definition": "gbɔ̆n", "examples": [] }] },
+  "humeur - être de mauvaise humeur": {
+    "definitions": [
+      { "definition": "ɖò", "examples": [] },
+      { "definition": "aɖì", "examples": [] },
+      { "definition": "jĭ", "examples": [] }
+    ]
+  },
+  "être d'humeur acariâtre": {
+    "definitions": [
+      { "definition": "sún", "examples": [] },
+      { "definition": "axăn", "examples": [] }
+    ]
+  },
+  "humeur acariâtre": {
+    "definitions": [
+      { "definition": "axăn", "examples": [] },
+      { "definition": "axánsúnsún", "examples": [] }
+    ]
+  },
+  "humide": { "definitions": [{ "definition": "fífá", "examples": [] }] },
+  "être humide": {
+    "definitions": [
+      { "definition": "fá", "examples": [] },
+      { "definition": "xò", "examples": [] },
+      { "definition": "sìn", "examples": [] }
+    ]
+  },
+  "humidité": { "definitions": [{ "definition": "fífá", "examples": [] }] },
+  "humiliation": {
+    "definitions": [{ "definition": "sísɔ́hwé", "examples": [] }]
+  },
+  "humilier": {
+    "definitions": [
+      { "definition": "sɔ́", "examples": [] },
+      { "definition": "mε", "examples": [] },
+      { "definition": "hwè", "examples": [] }
+    ]
+  },
+  "humilier quelqu'un": {
+    "definitions": [
+      { "definition": "dŏ", "examples": [] },
+      { "definition": "winnyá", "examples": [] },
+      { "definition": "mɛ", "examples": [] },
+      { "definition": "sɔ́", "examples": [] },
+      { "definition": "mε", "examples": [] },
+      { "definition": "hwè", "examples": [] }
+    ]
+  },
+  "humilier quelqu'un en paroles": {
+    "definitions": [{ "definition": "fó", "examples": [] }]
+  },
+  "s'humilier devant quelqu'un": {
+    "definitions": [
+      { "definition": "blĭ", "examples": [] },
+      { "definition": "ml’áyĭ", "examples": [] }
+    ]
+  },
+  "humilité": {
+    "definitions": [
+      { "definition": "meɖésúsɔ́hwé", "examples": [] },
+      { "definition": "mεɖesɔ́hwé", "examples": [] },
+      { "definition": "mεɖesísɔ́hwé", "examples": [] },
+      { "definition": "mεɖézízéhwé", "examples": [] }
+    ]
+  },
+  "huppe": { "definitions": [{ "definition": "ahlĭnhăn", "examples": [] }] },
+  "hurler": {
+    "definitions": [
+      { "definition": "dŏ", "examples": [] },
+      { "definition": "xó", "examples": [] }
+    ]
+  },
+  "hutte - hutte pour chasseurs": {
+    "definitions": [{ "definition": "gbèdɔ́xɔ̀", "examples": [] }]
+  },
+  "hutte ronde avec un toit pointu": {
+    "definitions": [{ "definition": "goxɔ̀", "examples": [] }]
+  },
+  "hydropique": {
+    "definitions": [
+      { "definition": "adɔgjí", "examples": [] },
+      { "definition": "adɔgojíjízɔ̀n", "examples": [] }
+    ]
+  },
+  "hydropisie": {
+    "definitions": [
+      { "definition": "flɔ́flɔ́zɔ̀n", "examples": [] },
+      { "definition": "jijízɔ̀n", "examples": [] }
+    ]
+  },
+  "hyène": {
+    "definitions": [
+      { "definition": "agbetè", "examples": [] },
+      { "definition": "ajănuagbetè", "examples": [] },
+      { "definition": "hla", "examples": [] }
+    ]
+  },
+  "l'hyène des adja": {
+    "definitions": [{ "definition": "ajănuhla", "examples": [] }]
+  },
+  "hypocrisie": {
+    "definitions": [
+      { "definition": "awlinmεnú", "examples": [] },
+      { "definition": "yɛmɛnú", "examples": [] },
+      { "definition": "yɛmɛnuwiwá", "examples": [] },
+      { "definition": "yɛnú", "examples": [] },
+      { "definition": "yɛnuwiwá", "examples": [] }
+    ]
+  },
+  "l'objet même qui constitue l'hypocrisie": {
+    "definitions": [{ "definition": "yɛmɛnú", "examples": [] }]
+  },
+  "hypocrite": {
+    "definitions": [
+      { "definition": "awlinmεdàn", "examples": [] },
+      { "definition": "yɛmɛnuwatɔ́", "examples": [] },
+      { "definition": "yɛnuwatɔ́", "examples": [] },
+      { "definition": "yɛwatɔ́", "examples": [] }
+    ]
+  },
+  "action hypocrite": {
+    "definitions": [
+      { "definition": "yɛmɛnuwiwá", "examples": [] },
+      { "definition": "yɛnuwiwá", "examples": [] }
+    ]
+  },
+  "être hypocrite": {
+    "definitions": [
+      { "definition": "wà", "examples": [] },
+      { "definition": "yɛ̀", "examples": [] },
+      { "definition": "mɛ̀", "examples": [] },
+      { "definition": "nŭ", "examples": [] },
+      { "definition": "wà", "examples": [] },
+      { "definition": "yɛnú", "examples": [] }
+    ]
+  },
+  "faire l'hypocrite": {
+    "definitions": [
+      { "definition": "wà", "examples": [] },
+      { "definition": "yɛ̀", "examples": [] },
+      { "definition": "mɛ̀", "examples": [] },
+      { "definition": "nŭ", "examples": [] }
+    ]
+  },
+  "hypothéquer": {
+    "definitions": [
+      { "definition": "sɔ́", "examples": [] },
+      { "definition": "ɖŏ", "examples": [] },
+      { "definition": "gbanu", "examples": [] }
+    ]
+  }
 }
